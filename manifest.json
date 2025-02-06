@@ -1,0 +1,18 @@
+{
+    "name": "WikiGap",
+    "version": "0.1",
+    "manifest_version": 3,
+    "description": "Shows additional facts from other-language Wikipedia pages.",
+    "content_scripts": [
+      {
+        "matches": ["*://*.wikipedia.org/wiki/*"],
+        "js": ["contentScript.js"],
+        "css": ["styles.css"]
+      }
+    ],
+    "icons": {
+      "16": "icons/puzzle_16.png",
+      "64": "icons/puzzle_64.png",
+      "128": "icons/puzzle_128.png"
+    }
+  }
