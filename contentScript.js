@@ -1,5 +1,7 @@
 // contentScript.js
 
+// icons link: https://www.flaticon.com/free-icon/puzzle_1476174?term=jigsaw&related_id=1476174
+
 // SAMPLE DATA (same as before)
 const wikiGapData = {
   chinese: [
