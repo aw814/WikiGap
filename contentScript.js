@@ -1,3 +1,7 @@
+/****************************
+ * WikiGap Content Script
+ ****************************/
+
 // Execute immediately rather than waiting for DOMContentLoaded
 function initWikiGap() {
   // Wait for Wikipedia page to fully load
@@ -47,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
 function initialize() {
   // Get current language and article information
   const currentLang = document.documentElement.lang || 'en';
-  const articleTitle = document.querySelector('#firstHeading').textContent;
+  const articleTitle = document.querySelector('#firstHeading')?.textContent || 'Unknown Article';
   
   // Create container for WikiGap buttons
   const wikiGapContainer = document.createElement('div');
@@ -341,102 +345,307 @@ function showFactsPanel() {
   setTimeout(() => factsPanel.classList.add('active'), 10);
 }
 
-function showFactDetails(language) {
-  // Example fact details based on language
-  const languageMap = {
-    'es': {
-      name: 'Spanish',
-      facts: [
-        { title: 'History', content: 'Historical information about this topic in Spanish culture.' },
-        { title: 'Making Process', content: 'How this is created or made in Spanish context.' },
-        { title: 'Cultural Significance', content: 'Why this is important in Spanish-speaking countries.' }
-      ],
-      articleLink: 'https://es.wikipedia.org/wiki/Example'
-    },
-    'fr': {
-      name: 'French',
-      facts: [
-        { title: 'History', content: 'Historical information about this topic in French culture.' },
-        { title: 'Making Process', content: 'How this is created or made in French context.' },
-        { title: 'Regional Variations', content: 'How this differs across French-speaking regions.' }
-      ],
-      articleLink: 'https://fr.wikipedia.org/wiki/Example'
-    },
-    'de': {
-      name: 'German',
-      facts: [
-        { title: 'History', content: 'Historical information about this topic in German culture.' },
-        { title: 'Technical Details', content: 'German engineering or technical aspects of this topic.' },
-        { title: 'Cultural Impact', content: 'The influence of this topic on German society.' }
-      ],
-      articleLink: 'https://de.wikipedia.org/wiki/Example'
-    },
-    'it': {
-      name: 'Italian',
-      facts: [
-        { title: 'Artistic Significance', content: 'The artistic value of this topic in Italian culture.' },
-        { title: 'Regional Traditions', content: 'How this topic varies across different Italian regions.' },
-        { title: 'Historical Context', content: 'The historical background of this topic in Italy.' }
-      ],
-      articleLink: 'https://it.wikipedia.org/wiki/Example'
-    },
-    'zh': {
-      name: 'Chinese',
-      facts: [
-        { title: 'Historical Significance', content: 'The historical importance of this topic in Chinese culture.' },
-        { title: 'Cultural Context', content: 'How this topic fits into broader Chinese cultural traditions.' }
-      ],
-      articleLink: 'https://zh.wikipedia.org/wiki/Example'
-    },
-    'ru': {
-      name: 'Russian',
-      facts: [
-        { title: 'Historical Development', content: 'How this topic evolved in Russian history.' },
-        { title: 'Cultural Importance', content: 'The significance of this topic in Russian society.' }
-      ],
-      articleLink: 'https://ru.wikipedia.org/wiki/Example'
-    }
-  };
+/**
+ * Return static facts about "mooncake" in ENGLISH by default,
+ * but also store the original language text for when users hit "Translate".
+ */
+async function fetchFactsForLanguage(language) {
+  // We'll store both English and Original in each fact object.
+  // The extension shows English by default, toggling to the original when "Translate" is clicked.
   
-  const factInfo = languageMap[language] || {
-    name: language,
+  // Basic structure:
+  // {
+  //   languageName: "Spanish",
+  //   facts: [
+  //     {
+  //       englishTitle: "History (English)",
+  //       englishContent: "Mooncakes are a Chinese pastry associated with the Mid-Autumn Festival.",
+  //       originalTitle: "Origen (Spanish)",
+  //       originalContent: "El pastel de luna (mooncake) es ..."
+  //     },
+  //     ...
+  //   ],
+  //   articleLink: "https://es.wikipedia.org/wiki/Pastel_de_luna"
+  // }
+  
+  // Default fallback in case a language is not in the switch-case
+  let data = {
+    languageName: "Unknown",
     facts: [
-      { title: 'General Information', content: 'Basic information about this topic.' }
+      {
+        englishTitle: "General Fact",
+        englishContent:
+          "Mooncakes are a traditional Chinese pastry typically eaten during the Mid-Autumn Festival.",
+        originalTitle: "General Fact (Unknown)",
+        originalContent:
+          "No information available in the original language for this demo."
+      }
     ],
-    articleLink: '#'
+    articleLink: "#"
   };
+
+  switch (language) {
+    case "es":
+      data = {
+        languageName: "Spanish",
+        facts: [
+          {
+            englishTitle: "Origin (English)",
+            englishContent:
+              "Mooncakes are a traditional Chinese pastry, often eaten during the Mid-Autumn Festival. In Spanish-speaking regions, they're also appreciated as a cultural treat.",
+            originalTitle: "Origen (Spanish)",
+            originalContent:
+              "El pastel de luna (mooncake) es un postre tradicional chino consumido durante el Festival de Medio Otoño."
+          },
+          {
+            englishTitle: "Fillings (English)",
+            englishContent:
+              "Common fillings include lotus seed paste, red bean paste, and salted egg yolk.",
+            originalTitle: "Rellenos (Spanish)",
+            originalContent:
+              "Los rellenos comunes incluyen pasta de semillas de loto, pasta de frijoles rojos y yema de huevo salada."
+          },
+          {
+            englishTitle: "Historical Anecdote (English)",
+            englishContent:
+              "Sometimes, mooncakes were used to pass secret messages during historical periods in China.",
+            originalTitle: "Curiosidad (Spanish)",
+            originalContent:
+              "A veces se utilizaban para enviar mensajes ocultos durante la historia de China."
+          }
+        ],
+        articleLink: "https://es.wikipedia.org/wiki/Pastel_de_luna"
+      };
+      break;
+
+    case "fr":
+      data = {
+        languageName: "French",
+        facts: [
+          {
+            englishTitle: "History (English)",
+            englishContent:
+              "The mooncake is closely linked with the Mid-Autumn Festival. French enthusiasts enjoy it as an exotic pastry.",
+            originalTitle: "Histoire (French)",
+            originalContent:
+              "Le mooncake est traditionnellement associé à la Fête de la mi-automne en Chine."
+          },
+          {
+            englishTitle: "Varieties (English)",
+            englishContent:
+              "Popular flavors include lotus seed paste, red bean paste, and taro paste.",
+            originalTitle: "Variétés (French)",
+            originalContent:
+              "Les saveurs courantes comprennent la pâte de graines de lotus, la purée de haricots rouges et la pâte de taro."
+          },
+          {
+            englishTitle: "Cultural Importance (English)",
+            englishContent:
+              "Giving and sharing mooncakes symbolizes family reunion and longevity.",
+            originalTitle: "Importance culturelle (French)",
+            originalContent:
+              "Offrir et partager des mooncakes symbolise la réunion familiale et la longévité."
+          }
+        ],
+        articleLink: "https://fr.wikipedia.org/wiki/Mooncake"
+      };
+      break;
+
+    case "de":
+      data = {
+        languageName: "German",
+        facts: [
+          {
+            englishTitle: "Background (English)",
+            englishContent:
+              "Mooncake is a traditional pastry from China, enjoyed especially during the Moon Festival. Some Germans also appreciate them for cultural exchange.",
+            originalTitle: "Hintergrund (German)",
+            originalContent:
+              "Der Mondkuchen (Mooncake) ist ein traditionelles Gebäck aus China und wird zum Mondfest verzehrt."
+          },
+          {
+            englishTitle: "Fillings (English)",
+            englishContent:
+              "Typical fillings include lotus seed paste, red bean paste, and salted egg yolk.",
+            originalTitle: "Füllungen (German)",
+            originalContent:
+              "Häufige Füllungen sind Lotuspaste, rote Bohnenpaste und gesalzene Eigelbe."
+          },
+          {
+            englishTitle: "Tradition (English)",
+            englishContent:
+              "The tradition of gifting mooncakes symbolizes togetherness and prosperity.",
+            originalTitle: "Tradition (German)",
+            originalContent:
+              "Das Verschenken von Mondkuchen symbolisiert Zusammengehörigkeit und Wohlstand."
+          }
+        ],
+        articleLink: "https://de.wikipedia.org/wiki/Mondkuchen"
+      };
+      break;
+
+    case "it":
+      data = {
+        languageName: "Italian",
+        facts: [
+          {
+            englishTitle: "Origin (English)",
+            englishContent:
+              "Mooncake is a classic Chinese dessert, consumed especially during the Mid-Autumn Festival. Italians might find it similar to certain festive pastries.",
+            originalTitle: "Origine (Italian)",
+            originalContent:
+              "Il mooncake è un dolce tradizionale cinese, consumato principalmente durante la Festa di Metà Autunno."
+          },
+          {
+            englishTitle: "Common Fillings (English)",
+            englishContent:
+              "Lotus seed paste, red bean paste, and salted egg yolks are the most common fillings.",
+            originalTitle: "Ripieni Comuni (Italian)",
+            originalContent:
+              "Le farciture più diffuse includono pasta di semi di loto, pasta di fagioli rossi e tuorli d’uovo salati."
+          },
+          {
+            englishTitle: "Significance (English)",
+            englishContent:
+              "They represent family unity and good fortune, often exchanged among friends and relatives.",
+            originalTitle: "Significato (Italian)",
+            originalContent:
+              "Simbolizza l’unione familiare e la fortuna, spesso scambiato come dono tra amici e parenti."
+          }
+        ],
+        articleLink: "https://it.wikipedia.org/wiki/Mooncake"
+      };
+      break;
+
+    case "zh":
+      data = {
+        languageName: "Chinese",
+        facts: [
+          {
+            englishTitle: "Origin (English)",
+            englishContent:
+              "Mooncakes are Chinese pastries mainly eaten during the Mid-Autumn Festival to celebrate the harvest moon.",
+            originalTitle: "起源 (Chinese)",
+            originalContent:
+              "月饼是中国传统糕点，主要用于中秋节祭月、赏月等活动。"
+          },
+          {
+            englishTitle: "Common Fillings (English)",
+            englishContent:
+              "Lotus seed paste, red bean paste, salted egg yolk, and assorted nuts are common.",
+            originalTitle: "常见馅料 (Chinese)",
+            originalContent:
+              "莲蓉、豆沙、蛋黄、五仁等口味都十分常见。"
+          },
+          {
+            englishTitle: "Cultural Meaning (English)",
+            englishContent:
+              "They symbolize family reunion and are exchanged as gifts among relatives and friends.",
+            originalTitle: "文化意义 (Chinese)",
+            originalContent:
+              "月饼象征团圆与和谐，亲友之间互相赠送以表思念。"
+          }
+        ],
+        articleLink: "https://zh.wikipedia.org/wiki/月饼"
+      };
+      break;
+
+    case "ru":
+      data = {
+        languageName: "Russian",
+        facts: [
+          {
+            englishTitle: "History (English)",
+            englishContent:
+              "Mooncake is a traditional Chinese pastry tied to the Mid-Autumn Festival. Some Russian bakeries have begun to sell them as a cultural curiosity.",
+            originalTitle: "История (Russian)",
+            originalContent:
+              "Мункейк — традиционная китайская выпечка, связанная с Праздником середины осени."
+          },
+          {
+            englishTitle: "Fillings (English)",
+            englishContent:
+              "Popular fillings include lotus seed paste, red bean paste, and salted egg yolks.",
+            originalTitle: "Начинки (Russian)",
+            originalContent:
+              "Популярные начинки включают пасту из лотосовых семян, пасту из красной фасоли и солёные яичные желтки."
+          },
+          {
+            englishTitle: "Tradition (English)",
+            englishContent:
+              "Gifting mooncakes to relatives and friends is a symbol of unity and happiness.",
+            originalTitle: "Традиция (Russian)",
+            originalContent:
+              "Принято дарить лунные пряники родственникам и друзьям как символ единения и счастья."
+          }
+        ],
+        articleLink: "https://ru.wikipedia.org/wiki/Мункейк"
+      };
+      break;
+      
+    default:
+      // The 'data' variable is already set to the fallback above
+      break;
+  }
+
+  // Simulate an async delay (just for demonstration)
+  return new Promise((resolve) => {
+    setTimeout(() => resolve(data), 500);
+  });
+}
+
+async function showFactDetails(language) {
+  // Remove any existing panels first
+  removeExistingPanels();
   
-  // Create fact detail panel
+  // Create a panel (initially showing a loading message)
   const detailPanel = document.createElement('div');
   detailPanel.className = 'wikigap-detail-panel';
   
-  // Generate the fact list HTML
-  let factsListHTML = '';
-  factInfo.facts.forEach((fact, index) => {
-    factsListHTML += `
-      <div class="wikigap-fact-list-item" data-fact-index="${index}">
-        <div class="wikigap-fact-title">${fact.title}</div>
-        <div class="wikigap-fact-arrow">→</div>
-      </div>
-    `;
-  });
-  
-  // Add panel content - no flag in the title, just "Facts in [Language]"
   detailPanel.innerHTML = `
     <div class="wikigap-panel-header">
-      <h2>Facts in ${factInfo.name}</h2>
+      <h2>Loading facts...</h2>
+      <button class="wikigap-close-btn">×</button>
+    </div>
+    <div class="wikigap-panel-content">
+      <p>Fetching facts about mooncakes in <strong>${language}</strong>. Please wait...</p>
+    </div>
+  `;
+  document.body.appendChild(detailPanel);
+  
+  // Animate in
+  setTimeout(() => detailPanel.classList.add('active'), 10);
+
+  // Fetch the data (which includes both English and Original)
+  const factInfo = await fetchFactsForLanguage(language);
+
+  // Once data is fetched, update the panel with the real content
+  detailPanel.innerHTML = `
+    <div class="wikigap-panel-header">
+      <h2>Facts in ${factInfo.languageName} (English by default)</h2>
       <button class="wikigap-close-btn">×</button>
     </div>
     <div class="wikigap-panel-content">
       <div class="wikigap-facts-list">
-        ${factsListHTML}
+        ${factInfo.facts
+          .map(
+            (fact, index) => `
+          <div class="wikigap-fact-list-item" data-fact-index="${index}">
+            <div class="wikigap-fact-title">
+              ${fact.englishTitle}
+            </div>
+            <div class="wikigap-fact-arrow">→</div>
+          </div>
+        `
+          )
+          .join('')}
       </div>
       <div class="wikigap-fact-view" style="display:none;">
         <button class="wikigap-back-btn">← Back to list</button>
         <div class="wikigap-fact-content"></div>
         <div class="wikigap-fact-meta">
           <a href="${factInfo.articleLink}" target="_blank" class="wikigap-source-link">
-            View in ${factInfo.name} Wikipedia
+            View in ${factInfo.languageName} Wikipedia
             <span class="wikigap-external-icon">↗</span>
           </a>
           <div class="wikigap-detail-actions">
@@ -457,18 +666,15 @@ function showFactDetails(language) {
       </div>
     </div>
   `;
-  
-  // Remove underline from header
+
+  // Remove underline from header (optional style tweak)
   const headerElement = detailPanel.querySelector('.wikigap-panel-header h2');
   if (headerElement) {
     headerElement.style.borderBottom = 'none';
     headerElement.style.textDecoration = 'none';
   }
   
-  // Add to page
-  document.body.appendChild(detailPanel);
-  
-  // Add event listeners
+  // Add close button event listener
   const closeBtn = detailPanel.querySelector('.wikigap-close-btn');
   closeBtn.addEventListener('click', () => {
     detailPanel.classList.add('closing');
@@ -481,14 +687,16 @@ function showFactDetails(language) {
   const factContent = detailPanel.querySelector('.wikigap-fact-content');
   const factsList = detailPanel.querySelector('.wikigap-facts-list');
   const backBtn = detailPanel.querySelector('.wikigap-back-btn');
-  
+
+  // We'll keep track of the current fact and whether it's translated or not
+  let currentFactIndex = -1;
+  let isTranslated = false;
+
   factListItems.forEach(item => {
     item.addEventListener('click', () => {
-      const factIndex = parseInt(item.getAttribute('data-fact-index'), 10);
-      const fact = factInfo.facts[factIndex];
-      
-      // Update the content
-      factContent.textContent = fact.content;
+      currentFactIndex = parseInt(item.getAttribute('data-fact-index'), 10);
+      isTranslated = false; // reset translation state each time a new fact is clicked
+      showFactInEnglish(currentFactIndex);
       
       // Show the fact view, hide the list
       factsList.style.display = 'none';
@@ -496,6 +704,24 @@ function showFactDetails(language) {
     });
   });
   
+  // Display the fact in English
+  function showFactInEnglish(factIndex) {
+    const fact = factInfo.facts[factIndex];
+    factContent.innerHTML = `
+      <h3>${fact.englishTitle}</h3>
+      <p>${fact.englishContent}</p>
+    `;
+  }
+
+  // Display the fact in the original language
+  function showFactInOriginal(factIndex) {
+    const fact = factInfo.facts[factIndex];
+    factContent.innerHTML = `
+      <h3>${fact.originalTitle}</h3>
+      <p>${fact.originalContent}</p>
+    `;
+  }
+
   // Handle back button
   backBtn.addEventListener('click', () => {
     factView.style.display = 'none';
@@ -505,17 +731,27 @@ function showFactDetails(language) {
   // Action buttons
   const translateBtn = detailPanel.querySelector('.wikigap-translate-btn');
   translateBtn.addEventListener('click', () => {
-    translateBtn.classList.add('active');
-    showNotification('Fact translated!');
-    setTimeout(() => {
+    if (currentFactIndex < 0) return;
+
+    if (!isTranslated) {
+      // Switch to original language
+      showFactInOriginal(currentFactIndex);
+      showNotification('Showing original language');
+      translateBtn.classList.add('active');
+      isTranslated = true;
+    } else {
+      // Switch back to English
+      showFactInEnglish(currentFactIndex);
+      showNotification('Showing English version');
       translateBtn.classList.remove('active');
-    }, 1000);
+      isTranslated = false;
+    }
   });
   
   const audioBtn = detailPanel.querySelector('.wikigap-audio-btn');
   audioBtn.addEventListener('click', () => {
     audioBtn.classList.add('active');
-    showNotification('Audio playback started!');
+    showNotification('Audio playback started! (Fake audio for demo)');
     setTimeout(() => {
       audioBtn.classList.remove('active');
     }, 3000);
@@ -524,14 +760,11 @@ function showFactDetails(language) {
   const shareBtn = detailPanel.querySelector('.wikigap-share-btn');
   shareBtn.addEventListener('click', () => {
     shareBtn.classList.add('active');
-    showNotification('Fact link copied to clipboard!');
+    showNotification('Fact link copied to clipboard! (Demo action)');
     setTimeout(() => {
       shareBtn.classList.remove('active');
     }, 1000);
   });
-  
-  // Animate in
-  setTimeout(() => detailPanel.classList.add('active'), 10);
 }
 
 function removeExistingPanels() {
