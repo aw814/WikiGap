@@ -1,157 +1,562 @@
-// contentScript.js
-
-// icons link: https://www.flaticon.com/free-icon/puzzle_1476174?term=jigsaw&related_id=1476174
-
-// SAMPLE DATA (same as before)
-const wikiGapData = {
-  chinese: [
-    "In ancient times, mooncakes were used as offerings during the Mid-Autumn Festival, but they have since become a festive treat and popular gift.",
-    "About two hours before eating, you can move snow skin mooncakes to a 4°C refrigerator.",
-    "In recent years, the rise of luxury mooncake packaging has led to their use for gifting and even bribery.",
-    "In mainland China, some companies custom-make mooncakes for distributing them to clients, often featuring specially designed packaging and embossed patterns.",
-    "In Chinese communities, mooncakes are only popular during the Mid-Autumn Festival, leading to post-holiday discounts and disposal by manufacturers."
-  ],
-  french: [
-    "Some additional fact in French #1",
-    "Some additional fact in French #2"
-  ],
-  russian: [
-    "Some additional fact in Russian #1",
-    "Some additional fact in Russian #2",
-    "Some additional fact in Russian #3"
-  ]
-};
-
-// A function to create a clickable number that, when clicked,
-// shows the facts in a pop-up.
-function createNumberLink(language, count) {
-  const span = document.createElement("span");
-  span.textContent = count;
-  span.classList.add("wikigap-number-link");
-
-  // On click, show the facts for the given language.
-  span.addEventListener("click", () => {
-    showFacts(language);
-  });
-  return span;
-}
-
-// This function creates a small, draggable pop-up (overlay) displaying the facts.
-function showFacts(language) {
-  // Remove any existing pop-up first:
-  const existingPopup = document.getElementById("wikigap-facts-popup");
-  if (existingPopup) {
-    existingPopup.remove();
+// Execute immediately rather than waiting for DOMContentLoaded
+function initWikiGap() {
+  // Wait for Wikipedia page to fully load
+  if (document.querySelector('#firstHeading')) {
+    initialize();
+  } else {
+    // For cases where Wikipedia might load content dynamically
+    // or if the script loads before the page content
+    const observer = new MutationObserver((mutations, obs) => {
+      if (document.querySelector('#firstHeading')) {
+        initialize();
+        obs.disconnect();
+      }
+    });
+    
+    observer.observe(document.body || document.documentElement, {
+      childList: true,
+      subtree: true
+    });
   }
-
-  // Create a container for the facts
-  const popup = document.createElement("div");
-  popup.id = "wikigap-facts-popup";
-
-  // Add a close button:
-  const closeBtn = document.createElement("button");
-  closeBtn.textContent = "Close";
-  closeBtn.classList.add("wikigap-close-btn");
-  closeBtn.addEventListener("click", () => {
-    popup.remove();
-  });
-
-  const title = document.createElement("h3");
-  title.textContent = `Facts from ${language.charAt(0).toUpperCase() + language.slice(1)} Wikipedia`;
-  title.classList.add("wikigap-popup-title");
-
-  // Create a **numbered** list of the facts using <ol>:
-  const factList = document.createElement("ol");
-  factList.classList.add("wikigap-ordered-list");
-  wikiGapData[language].forEach((fact) => {
-    const li = document.createElement("li");
-    li.textContent = fact;
-    factList.appendChild(li);
-  });
-
-  // Append elements:
-  popup.appendChild(closeBtn);
-  popup.appendChild(title);
-  popup.appendChild(factList);
-  document.body.appendChild(popup);
-
-  // Position the popup (initially near 20% from top, 30% from left).
-  popup.style.top = "20%";
-  popup.style.left = "30%";
-
-  // Make the popup draggable.
-  makeDraggable(popup);
 }
 
-// A simple utility to make any element draggable.
-function makeDraggable(element) {
-  let isDragging = false;
-  let offsetX, offsetY;
+// Start the extension
+initWikiGap();
 
-  // On mousedown, begin dragging
-  element.addEventListener("mousedown", (e) => {
-    // Only start drag if you're not clicking the close button
-    if (e.target.classList.contains("wikigap-close-btn")) {
-      return; // Don’t drag if user clicks on the button
+// content.js - Main script that runs on Wikipedia pages
+document.addEventListener('DOMContentLoaded', () => {
+  // Wait for Wikipedia page to fully load
+  if (document.querySelector('#firstHeading')) {
+    initialize();
+  } else {
+    // For cases where Wikipedia might load content dynamically
+    const observer = new MutationObserver((mutations, obs) => {
+      if (document.querySelector('#firstHeading')) {
+        initialize();
+        obs.disconnect();
+      }
+    });
+    
+    observer.observe(document.body, {
+      childList: true,
+      subtree: true
+    });
+  }
+});
+
+function initialize() {
+  // Get current language and article information
+  const currentLang = document.documentElement.lang || 'en';
+  const articleTitle = document.querySelector('#firstHeading').textContent;
+  
+  // Create container for WikiGap buttons
+  const wikiGapContainer = document.createElement('div');
+  wikiGapContainer.className = 'wikigap-container';
+  wikiGapContainer.style.display = 'flex';
+  wikiGapContainer.style.flexDirection = 'row';
+  wikiGapContainer.style.gap = '10px';
+  
+  // Insert container after the heading
+  const firstHeading = document.querySelector('#firstHeading');
+  if (firstHeading && firstHeading.parentNode) {
+    firstHeading.parentNode.insertBefore(wikiGapContainer, firstHeading.nextSibling);
+  }
+  
+  // Add Settings button
+  const settingsButton = createButton('Settings', 'wikigap-btn wikigap-settings-btn');
+  wikiGapContainer.appendChild(settingsButton);
+  
+  // Add Facts button (with dynamic count)
+  const factCount = getFactCount(); // Function to get available facts count
+  const factsButton = createButton(`${factCount} Facts`, 'wikigap-btn wikigap-facts-btn');
+  wikiGapContainer.appendChild(factsButton);
+  
+  // Event listeners for buttons
+  settingsButton.addEventListener('click', showSettingsPanel);
+  factsButton.addEventListener('click', showFactsPanel);
+}
+
+function createButton(text, className) {
+  const button = document.createElement('button');
+  button.className = className;
+  button.textContent = text;
+  
+  // Create an icon element
+  const icon = document.createElement('span');
+  icon.className = 'wikigap-btn-icon';
+  
+  // Icon content will be set via CSS for better control
+  button.prepend(icon);
+  
+  return button;
+}
+
+function getFactCount() {
+  // This would be dynamic in the real implementation
+  // For now returning a sample count
+  return 12;
+}
+
+function showSettingsPanel() {
+  // Remove any existing panels first
+  removeExistingPanels();
+  
+  // Create settings panel
+  const settingsPanel = document.createElement('div');
+  settingsPanel.className = 'wikigap-settings-panel';
+  
+  // Add panel content
+  settingsPanel.innerHTML = `
+    <div class="wikigap-panel-header">
+      <h2>WikiGap Settings</h2>
+      <button class="wikigap-close-btn">×</button>
+    </div>
+    <div class="wikigap-panel-content">
+      <div class="wikigap-setting-group">
+        <h3>Language Preferences</h3>
+        <p>Select languages you're interested in learning more facts about:</p>
+        <div class="wikigap-language-options">
+          <label class="wikigap-checkbox">
+            <input type="checkbox" name="lang-es" checked> 
+            <span class="checkmark"></span>
+            Spanish
+          </label>
+          <label class="wikigap-checkbox">
+            <input type="checkbox" name="lang-fr" checked> 
+            <span class="checkmark"></span>
+            French
+          </label>
+          <label class="wikigap-checkbox">
+            <input type="checkbox" name="lang-de"> 
+            <span class="checkmark"></span>
+            German
+          </label>
+          <label class="wikigap-checkbox">
+            <input type="checkbox" name="lang-it"> 
+            <span class="checkmark"></span>
+            Italian
+          </label>
+          <label class="wikigap-checkbox">
+            <input type="checkbox" name="lang-zh"> 
+            <span class="checkmark"></span>
+            Chinese
+          </label>
+          <label class="wikigap-checkbox">
+            <input type="checkbox" name="lang-ru"> 
+            <span class="checkmark"></span>
+            Russian
+          </label>
+        </div>
+      </div>
+      
+      <div class="wikigap-setting-group">
+        <h3>Display Options</h3>
+        <div class="wikigap-option">
+          <label for="wikigap-auto-translate">Auto-translate facts:</label>
+          <label class="wikigap-switch">
+            <input type="checkbox" id="wikigap-auto-translate" checked>
+            <span class="slider"></span>
+          </label>
+        </div>
+        <div class="wikigap-option">
+          <label for="wikigap-show-source">Show information source:</label>
+          <label class="wikigap-switch">
+            <input type="checkbox" id="wikigap-show-source" checked>
+            <span class="slider"></span>
+          </label>
+        </div>
+        <div class="wikigap-option">
+          <label for="wikigap-highlight">Highlight matching content:</label>
+          <label class="wikigap-switch">
+            <input type="checkbox" id="wikigap-highlight">
+            <span class="slider"></span>
+          </label>
+        </div>
+      </div>
+      
+      <div class="wikigap-setting-group">
+        <h3>Theme</h3>
+        <div class="wikigap-theme-options">
+          <label class="wikigap-radio">
+            <input type="radio" name="theme" value="light" checked> 
+            <span class="radio-mark"></span>
+            Light
+          </label>
+          <label class="wikigap-radio">
+            <input type="radio" name="theme" value="dark"> 
+            <span class="radio-mark"></span>
+            Dark
+          </label>
+          <label class="wikigap-radio">
+            <input type="radio" name="theme" value="auto"> 
+            <span class="radio-mark"></span>
+            Match Wikipedia
+          </label>
+        </div>
+      </div>
+      
+      <div class="wikigap-buttons">
+        <button class="wikigap-btn wikigap-reset-btn">Reset to Default</button>
+        <button class="wikigap-btn wikigap-save-btn">Save Settings</button>
+      </div>
+    </div>
+  `;
+  
+  // Add to page
+  document.body.appendChild(settingsPanel);
+  
+  // Add event listeners
+  const closeBtn = settingsPanel.querySelector('.wikigap-close-btn');
+  closeBtn.addEventListener('click', () => {
+    settingsPanel.classList.add('closing');
+    setTimeout(() => settingsPanel.remove(), 300);
+  });
+  
+  const saveBtn = settingsPanel.querySelector('.wikigap-save-btn');
+  saveBtn.addEventListener('click', () => {
+    // Save settings logic would go here
+    settingsPanel.classList.add('closing');
+    setTimeout(() => {
+      settingsPanel.remove();
+      showNotification('Settings saved successfully!');
+    }, 300);
+  });
+  
+  const resetBtn = settingsPanel.querySelector('.wikigap-reset-btn');
+  resetBtn.addEventListener('click', () => {
+    // Reset settings logic would go here
+    showNotification('Settings reset to default!');
+  });
+  
+  // Animate in
+  setTimeout(() => settingsPanel.classList.add('active'), 10);
+}
+
+function showFactsPanel() {
+  // Remove any existing panels first
+  removeExistingPanels();
+  
+  // Create facts panel
+  const factsPanel = document.createElement('div');
+  factsPanel.className = 'wikigap-facts-panel';
+  
+  // Add panel content with emoji flags instead of images
+  factsPanel.innerHTML = `
+    <div class="wikigap-panel-header">
+      <h2>More Facts</h2>
+      <button class="wikigap-close-btn">×</button>
+    </div>
+    <div class="wikigap-panel-content">
+      <div class="wikigap-facts-list">
+        <div class="wikigap-fact-item" data-lang="es">
+          <div class="wikigap-fact-number">1</div>
+          <div class="wikigap-fact-language">
+            <span class="wikigap-flag-emoji">🇪🇸</span>
+            <span>Spanish</span>
+          </div>
+          <div class="wikigap-fact-arrow">→</div>
+        </div>
+        <div class="wikigap-fact-item" data-lang="fr">
+          <div class="wikigap-fact-number">3</div>
+          <div class="wikigap-fact-language">
+            <span class="wikigap-flag-emoji">🇫🇷</span>
+            <span>French</span>
+          </div>
+          <div class="wikigap-fact-arrow">→</div>
+        </div>
+        <div class="wikigap-fact-item" data-lang="de">
+          <div class="wikigap-fact-number">2</div>
+          <div class="wikigap-fact-language">
+            <span class="wikigap-flag-emoji">🇩🇪</span>
+            <span>German</span>
+          </div>
+          <div class="wikigap-fact-arrow">→</div>
+        </div>
+        <div class="wikigap-fact-item" data-lang="it">
+          <div class="wikigap-fact-number">4</div>
+          <div class="wikigap-fact-language">
+            <span class="wikigap-flag-emoji">🇮🇹</span>
+            <span>Italian</span>
+          </div>
+          <div class="wikigap-fact-arrow">→</div>
+        </div>
+        <div class="wikigap-fact-item" data-lang="zh">
+          <div class="wikigap-fact-number">1</div>
+          <div class="wikigap-fact-language">
+            <span class="wikigap-flag-emoji">🇨🇳</span>
+            <span>Chinese</span>
+          </div>
+          <div class="wikigap-fact-arrow">→</div>
+        </div>
+        <div class="wikigap-fact-item" data-lang="ru">
+          <div class="wikigap-fact-number">1</div>
+          <div class="wikigap-fact-language">
+            <span class="wikigap-flag-emoji">🇷🇺</span>
+            <span>Russian</span>
+          </div>
+          <div class="wikigap-fact-arrow">→</div>
+        </div>
+      </div>
+    </div>
+  `;
+  
+  // Remove underline from header
+  const headerElement = factsPanel.querySelector('.wikigap-panel-header h2');
+  if (headerElement) {
+    headerElement.style.borderBottom = 'none';
+    headerElement.style.textDecoration = 'none';
+  }
+  
+  // Add to page
+  document.body.appendChild(factsPanel);
+  
+  // Add event listeners
+  const closeBtn = factsPanel.querySelector('.wikigap-close-btn');
+  closeBtn.addEventListener('click', () => {
+    factsPanel.classList.add('closing');
+    setTimeout(() => factsPanel.remove(), 300);
+  });
+  
+  // Make fact items clickable
+  const factItems = factsPanel.querySelectorAll('.wikigap-fact-item');
+  factItems.forEach(item => {
+    item.addEventListener('click', () => {
+      const language = item.getAttribute('data-lang');
+      showFactDetails(language);
+      factsPanel.classList.add('closing');
+      setTimeout(() => factsPanel.remove(), 300);
+    });
+    
+    // Add hover effect
+    item.addEventListener('mouseenter', () => {
+      item.classList.add('hovering');
+    });
+    
+    item.addEventListener('mouseleave', () => {
+      item.classList.remove('hovering');
+    });
+  });
+  
+  // Animate in
+  setTimeout(() => factsPanel.classList.add('active'), 10);
+}
+
+function showFactDetails(language) {
+  // Example fact details based on language
+  const languageMap = {
+    'es': {
+      name: 'Spanish',
+      facts: [
+        { title: 'History', content: 'Historical information about this topic in Spanish culture.' },
+        { title: 'Making Process', content: 'How this is created or made in Spanish context.' },
+        { title: 'Cultural Significance', content: 'Why this is important in Spanish-speaking countries.' }
+      ],
+      articleLink: 'https://es.wikipedia.org/wiki/Example'
+    },
+    'fr': {
+      name: 'French',
+      facts: [
+        { title: 'History', content: 'Historical information about this topic in French culture.' },
+        { title: 'Making Process', content: 'How this is created or made in French context.' },
+        { title: 'Regional Variations', content: 'How this differs across French-speaking regions.' }
+      ],
+      articleLink: 'https://fr.wikipedia.org/wiki/Example'
+    },
+    'de': {
+      name: 'German',
+      facts: [
+        { title: 'History', content: 'Historical information about this topic in German culture.' },
+        { title: 'Technical Details', content: 'German engineering or technical aspects of this topic.' },
+        { title: 'Cultural Impact', content: 'The influence of this topic on German society.' }
+      ],
+      articleLink: 'https://de.wikipedia.org/wiki/Example'
+    },
+    'it': {
+      name: 'Italian',
+      facts: [
+        { title: 'Artistic Significance', content: 'The artistic value of this topic in Italian culture.' },
+        { title: 'Regional Traditions', content: 'How this topic varies across different Italian regions.' },
+        { title: 'Historical Context', content: 'The historical background of this topic in Italy.' }
+      ],
+      articleLink: 'https://it.wikipedia.org/wiki/Example'
+    },
+    'zh': {
+      name: 'Chinese',
+      facts: [
+        { title: 'Historical Significance', content: 'The historical importance of this topic in Chinese culture.' },
+        { title: 'Cultural Context', content: 'How this topic fits into broader Chinese cultural traditions.' }
+      ],
+      articleLink: 'https://zh.wikipedia.org/wiki/Example'
+    },
+    'ru': {
+      name: 'Russian',
+      facts: [
+        { title: 'Historical Development', content: 'How this topic evolved in Russian history.' },
+        { title: 'Cultural Importance', content: 'The significance of this topic in Russian society.' }
+      ],
+      articleLink: 'https://ru.wikipedia.org/wiki/Example'
     }
-    isDragging = true;
-    // `offsetX`/`offsetY` track the distance between the mouse and the top-left corner of the element
-    offsetX = e.clientX - element.offsetLeft;
-    offsetY = e.clientY - element.offsetTop;
-    element.style.cursor = "move";
+  };
+  
+  const factInfo = languageMap[language] || {
+    name: language,
+    facts: [
+      { title: 'General Information', content: 'Basic information about this topic.' }
+    ],
+    articleLink: '#'
+  };
+  
+  // Create fact detail panel
+  const detailPanel = document.createElement('div');
+  detailPanel.className = 'wikigap-detail-panel';
+  
+  // Generate the fact list HTML
+  let factsListHTML = '';
+  factInfo.facts.forEach((fact, index) => {
+    factsListHTML += `
+      <div class="wikigap-fact-list-item" data-fact-index="${index}">
+        <div class="wikigap-fact-title">${fact.title}</div>
+        <div class="wikigap-fact-arrow">→</div>
+      </div>
+    `;
   });
-
-  // On mousemove, if dragging, reposition the element
-  document.addEventListener("mousemove", (e) => {
-    if (!isDragging) return;
-    // Because it's position:fixed, offset the top/left by the mouse movement
-    element.style.left = (e.clientX - offsetX) + "px";
-    element.style.top = (e.clientY - offsetY) + "px";
+  
+  // Add panel content - no flag in the title, just "Facts in [Language]"
+  detailPanel.innerHTML = `
+    <div class="wikigap-panel-header">
+      <h2>Facts in ${factInfo.name}</h2>
+      <button class="wikigap-close-btn">×</button>
+    </div>
+    <div class="wikigap-panel-content">
+      <div class="wikigap-facts-list">
+        ${factsListHTML}
+      </div>
+      <div class="wikigap-fact-view" style="display:none;">
+        <button class="wikigap-back-btn">← Back to list</button>
+        <div class="wikigap-fact-content"></div>
+        <div class="wikigap-fact-meta">
+          <a href="${factInfo.articleLink}" target="_blank" class="wikigap-source-link">
+            View in ${factInfo.name} Wikipedia
+            <span class="wikigap-external-icon">↗</span>
+          </a>
+          <div class="wikigap-detail-actions">
+            <button class="wikigap-action-btn wikigap-translate-btn">
+              <span class="wikigap-btn-icon translate-icon"></span>
+              Translate
+            </button>
+            <button class="wikigap-action-btn wikigap-audio-btn">
+              <span class="wikigap-btn-icon audio-icon"></span>
+              Listen
+            </button>
+            <button class="wikigap-action-btn wikigap-share-btn">
+              <span class="wikigap-btn-icon share-icon"></span>
+              Share
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  `;
+  
+  // Remove underline from header
+  const headerElement = detailPanel.querySelector('.wikigap-panel-header h2');
+  if (headerElement) {
+    headerElement.style.borderBottom = 'none';
+    headerElement.style.textDecoration = 'none';
+  }
+  
+  // Add to page
+  document.body.appendChild(detailPanel);
+  
+  // Add event listeners
+  const closeBtn = detailPanel.querySelector('.wikigap-close-btn');
+  closeBtn.addEventListener('click', () => {
+    detailPanel.classList.add('closing');
+    setTimeout(() => detailPanel.remove(), 300);
   });
+  
+  // Handle fact list items
+  const factListItems = detailPanel.querySelectorAll('.wikigap-fact-list-item');
+  const factView = detailPanel.querySelector('.wikigap-fact-view');
+  const factContent = detailPanel.querySelector('.wikigap-fact-content');
+  const factsList = detailPanel.querySelector('.wikigap-facts-list');
+  const backBtn = detailPanel.querySelector('.wikigap-back-btn');
+  
+  factListItems.forEach(item => {
+    item.addEventListener('click', () => {
+      const factIndex = parseInt(item.getAttribute('data-fact-index'), 10);
+      const fact = factInfo.facts[factIndex];
+      
+      // Update the content
+      factContent.textContent = fact.content;
+      
+      // Show the fact view, hide the list
+      factsList.style.display = 'none';
+      factView.style.display = 'block';
+    });
+  });
+  
+  // Handle back button
+  backBtn.addEventListener('click', () => {
+    factView.style.display = 'none';
+    factsList.style.display = 'block';
+  });
+  
+  // Action buttons
+  const translateBtn = detailPanel.querySelector('.wikigap-translate-btn');
+  translateBtn.addEventListener('click', () => {
+    translateBtn.classList.add('active');
+    showNotification('Fact translated!');
+    setTimeout(() => {
+      translateBtn.classList.remove('active');
+    }, 1000);
+  });
+  
+  const audioBtn = detailPanel.querySelector('.wikigap-audio-btn');
+  audioBtn.addEventListener('click', () => {
+    audioBtn.classList.add('active');
+    showNotification('Audio playback started!');
+    setTimeout(() => {
+      audioBtn.classList.remove('active');
+    }, 3000);
+  });
+  
+  const shareBtn = detailPanel.querySelector('.wikigap-share-btn');
+  shareBtn.addEventListener('click', () => {
+    shareBtn.classList.add('active');
+    showNotification('Fact link copied to clipboard!');
+    setTimeout(() => {
+      shareBtn.classList.remove('active');
+    }, 1000);
+  });
+  
+  // Animate in
+  setTimeout(() => detailPanel.classList.add('active'), 10);
+}
 
-  // On mouseup, stop dragging
-  document.addEventListener("mouseup", () => {
-    isDragging = false;
-    element.style.cursor = "default";
+function removeExistingPanels() {
+  const existingPanels = document.querySelectorAll('.wikigap-settings-panel, .wikigap-facts-panel, .wikigap-detail-panel');
+  existingPanels.forEach(panel => {
+    panel.classList.add('closing');
+    setTimeout(() => panel.remove(), 300);
   });
 }
 
-// Insert the “WikiGap” box at the top of the article (example).
-(function injectWikiGapBox() {
-  const target = document.querySelector("#content") || document.body; // Fallback if #content isn't found
-
-  // Create a container div for our WikiGap notice
-  const container = document.createElement("div");
-  container.id = "wikigap-notice";
-
-  // If you want an icon (puzzle piece, etc.), you can insert it here:
-  // const icon = document.createElement("img");
-  // icon.src = chrome.runtime.getURL("puzzle-icon.png");
-  // icon.alt = "WikiGap Icon";
-  // icon.classList.add("wikigap-icon");
-  // container.appendChild(icon);
-
-  // Build the main message
-  const mainMessage = document.createElement("p");
-  mainMessage.textContent = "More information is found by WikiGap! There are ";
-
-  // Create numeric links for the facts
-  const chineseSpan = createNumberLink("chinese", wikiGapData.chinese.length);
-  const frenchSpan = createNumberLink("french", wikiGapData.french.length);
-  const russianSpan = createNumberLink("russian", wikiGapData.russian.length);
-
-  mainMessage.appendChild(document.createTextNode(" "));
-  mainMessage.appendChild(chineseSpan);
-  mainMessage.appendChild(document.createTextNode(" more facts found on the Chinese page; "));
-
-  mainMessage.appendChild(frenchSpan);
-  mainMessage.appendChild(document.createTextNode(" more facts found on the French page; "));
-
-  mainMessage.appendChild(russianSpan);
-  mainMessage.appendChild(document.createTextNode(" more facts found on the Russian page."));
-
-  container.appendChild(mainMessage);
-
-  // Insert the container at the top of the page (before the article)
-  target.prepend(container);
-})();
+function showNotification(message) {
+  // Create notification element
+  const notification = document.createElement('div');
+  notification.className = 'wikigap-notification';
+  notification.textContent = message;
+  
+  // Add to page
+  document.body.appendChild(notification);
+  
+  // Animate in
+  setTimeout(() => notification.classList.add('active'), 10);
+  
+  // Auto-remove after delay
+  setTimeout(() => {
+    notification.classList.remove('active');
+    setTimeout(() => notification.remove(), 300);
+  }, 3000);
+}

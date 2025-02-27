@@ -1,72 +1,638 @@
-/* styles.css */
+/* Base styles */
+.wikigap-container {
+  display: flex;
+  gap: 10px;
+  margin: 15px 0;
+  padding: 0 0 15px 0;
+  border-bottom: 1px solid #eaecf0;
+}
 
-/* WikiGap container at the top */
-#wikigap-notice {
-    padding: 10px;
-    margin: 10px;
-    background-color: #e8f4fc;
-    border: 1px solid #b4d9ee;
-    border-radius: 5px;
-    font-family: sans-serif;
-    font-size: 14px;
+.wikigap-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.wikigap-settings-btn {
+  background-color: #f8f9fa;
+  color: #202122;
+}
+
+.wikigap-settings-btn:hover {
+  background-color: #eaecf0;
+}
+
+.wikigap-facts-btn {
+  background-color: #3366cc;
+  color: white;
+}
+
+.wikigap-facts-btn:hover {
+  background-color: #2a4b8d;
+}
+
+.wikigap-btn-icon {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+/* Panel styles */
+.wikigap-settings-panel,
+.wikigap-facts-panel,
+.wikigap-detail-panel {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.95);
+  width: 450px;
+  max-width: 90vw;
+  max-height: 85vh;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  z-index: 10000;
+  overflow: hidden;
+  opacity: 0;
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.wikigap-settings-panel.active,
+.wikigap-facts-panel.active,
+.wikigap-detail-panel.active {
+  transform: translate(-50%, -50%) scale(1);
+  opacity: 1;
+}
+
+.wikigap-settings-panel.closing,
+.wikigap-facts-panel.closing,
+.wikigap-detail-panel.closing {
+  transform: translate(-50%, -50%) scale(0.95);
+  opacity: 0;
+}
+
+.wikigap-panel-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 20px;
+  border-bottom: 1px solid #eaecf0;
+}
+
+.wikigap-panel-header h2 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  color: #202122;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.wikigap-panel-header h2 img {
+  width: 24px;
+  height: 16px;
+  object-fit: cover;
+  border-radius: 2px;
+}
+
+.wikigap-close-btn {
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: #72777d;
+  cursor: pointer;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: all 0.2s ease;
+}
+
+.wikigap-close-btn:hover {
+  background-color: #f8f9fa;
+  color: #202122;
+}
+
+.wikigap-panel-content {
+  padding: 20px;
+  overflow-y: auto;
+  max-height: calc(85vh - 70px);
+}
+
+/* Settings Panel Specific Styles */
+.wikigap-setting-group {
+  margin-bottom: 24px;
+}
+
+.wikigap-setting-group h3 {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0 0 12px 0;
+  color: #202122;
+}
+
+.wikigap-setting-group p {
+  margin: 0 0 12px 0;
+  color: #54595d;
+  font-size: 14px;
+}
+
+.wikigap-language-options,
+.wikigap-theme-options {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+.wikigap-option {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.wikigap-option label {
+  font-size: 14px;
+  color: #202122;
+}
+
+/* Checkbox styling */
+.wikigap-checkbox {
+  display: flex;
+  align-items: center;
+  position: relative;
+  padding-left: 28px;
+  cursor: pointer;
+  font-size: 14px;
+  user-select: none;
+  color: #202122;
+}
+
+.wikigap-checkbox input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.checkmark {
+  position: absolute;
+  left: 0;
+  height: 18px;
+  width: 18px;
+  background-color: #f8f9fa;
+  border: 1px solid #a2a9b1;
+  border-radius: 3px;
+  transition: all 0.2s ease;
+}
+
+.wikigap-checkbox:hover .checkmark {
+  background-color: #eaecf0;
+}
+
+.wikigap-checkbox input:checked ~ .checkmark {
+  background-color: #3366cc;
+  border-color: #3366cc;
+}
+
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.wikigap-checkbox input:checked ~ .checkmark:after {
+  display: block;
+}
+
+.wikigap-checkbox .checkmark:after {
+  left: 6px;
+  top: 2px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+/* Radio button styling */
+.wikigap-radio {
+  display: flex;
+  align-items: center;
+  position: relative;
+  padding-left: 28px;
+  cursor: pointer;
+  font-size: 14px;
+  user-select: none;
+  color: #202122;
+}
+
+.wikigap-radio input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.radio-mark {
+  position: absolute;
+  left: 0;
+  height: 18px;
+  width: 18px;
+  background-color: #f8f9fa;
+  border: 1px solid #a2a9b1;
+  border-radius: 50%;
+  transition: all 0.2s ease;
+}
+
+.wikigap-radio:hover .radio-mark {
+  background-color: #eaecf0;
+}
+
+.wikigap-radio input:checked ~ .radio-mark {
+  border-color: #3366cc;
+}
+
+.radio-mark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.wikigap-radio input:checked ~ .radio-mark:after {
+  display: block;
+}
+
+.wikigap-radio .radio-mark:after {
+  top: 4px;
+  left: 4px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #3366cc;
+}
+
+/* Switch styling */
+.wikigap-switch {
+  position: relative;
+  display: inline-block;
+  width: 36px;
+  height: 20px;
+}
+
+.wikigap-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #eaecf0;
+  transition: .3s;
+  border-radius: 20px;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 16px;
+  width: 16px;
+  left: 2px;
+  bottom: 2px;
+  background-color: white;
+  transition: .3s;
+  border-radius: 50%;
+}
+
+.wikigap-switch input:checked + .slider {
+  background-color: #3366cc;
+}
+
+.wikigap-switch input:checked + .slider:before {
+  transform: translateX(16px);
+}
+
+/* Button group */
+.wikigap-buttons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.wikigap-reset-btn {
+  background-color: #f8f9fa;
+  color: #202122;
+}
+
+.wikigap-reset-btn:hover {
+  background-color: #eaecf0;
+}
+
+.wikigap-save-btn {
+  background-color: #3366cc;
+  color: white;
+}
+
+.wikigap-save-btn:hover {
+  background-color: #2a4b8d;
+}
+
+/* Facts Panel Specific Styles */
+.wikigap-facts-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.wikigap-fact-item {
+  display: flex;
+  align-items: center;
+  padding: 12px 16px;
+  border-radius: 8px;
+  background-color: #f8f9fa;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  position: relative;
+}
+
+.wikigap-fact-item:hover,
+.wikigap-fact-item.hovering {
+  background-color: #eaecf0;
+  transform: translateX(5px);
+}
+
+.wikigap-fact-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background-color: #3366cc;
+  color: white;
+  font-weight: 600;
+  font-size: 14px;
+  margin-right: 16px;
+}
+
+.wikigap-fact-language {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-grow: 1;
+}
+
+.wikigap-fact-language img {
+  width: 24px;
+  height: 16px;
+  object-fit: cover;
+  border-radius: 2px;
+}
+
+.wikigap-fact-language span {
+  font-size: 14px;
+  color: #202122;
+}
+
+.wikigap-fact-arrow {
+  font-size: 18px;
+  color: #a2a9b1;
+  margin-left: auto;
+  transition: transform 0.2s ease;
+}
+
+.wikigap-fact-item:hover .wikigap-fact-arrow,
+.wikigap-fact-item.hovering .wikigap-fact-arrow {
+  transform: translateX(4px);
+  color: #3366cc;
+}
+
+/* Fact Detail Panel Specific Styles */
+.wikigap-fact-detail {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.wikigap-fact-text {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #202122;
+  padding: 16px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  border-left: 4px solid #3366cc;
+}
+
+.wikigap-fact-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.wikigap-source-link {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: #3366cc;
+  text-decoration: none;
+  font-size: 14px;
+  transition: all 0.2s ease;
+}
+
+.wikigap-source-link:hover {
+  text-decoration: underline;
+}
+
+.wikigap-external-icon {
+  font-size: 12px;
+}
+
+.wikigap-detail-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.wikigap-action-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 16px;
+  background-color: #f8f9fa;
+  color: #202122;
+  font-size: 13px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.wikigap-action-btn:hover {
+  background-color: #eaecf0;
+}
+
+.wikigap-action-btn.active {
+  background-color: #eaf3ff;
+  color: #3366cc;
+}
+
+/* Notification */
+.wikigap-notification {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 12px 20px;
+  background-color: #3366cc;
+  color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  transform: translateY(20px);
+  opacity: 0;
+  transition: all 0.3s ease;
+  z-index: 10001;
+  font-size: 14px;
+}
+
+.wikigap-notification.active {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+/* Dark theme styles */
+body.wikigap-dark-theme .wikigap-settings-panel,
+body.wikigap-dark-theme .wikigap-facts-panel,
+body.wikigap-dark-theme .wikigap-detail-panel {
+  background-color: #27292d;
+  color: #fff;
+}
+
+body.wikigap-dark-theme .wikigap-panel-header {
+  border-bottom-color: #3d4144;
+}
+
+body.wikigap-dark-theme .wikigap-panel-header h2 {
+  color: #fff;
+}
+
+body.wikigap-dark-theme .wikigap-fact-item {
+  background-color: #3d4144;
+}
+
+body.wikigap-dark-theme .wikigap-fact-item:hover,
+body.wikigap-dark-theme .wikigap-fact-item.hovering {
+  background-color: #4d5156;
+}
+
+body.wikigap-dark-theme .wikigap-fact-language span {
+  color: #fff;
+}
+
+body.wikigap-dark-theme .wikigap-fact-text {
+  background-color: #3d4144;
+  color: #fff;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .wikigap-container {
+    flex-direction: row;
+    justify-content: space-around;
   }
   
-  /* The numeric links */
-  .wikigap-number-link {
-    color: #0066cc;
-    text-decoration: underline;
-    cursor: pointer;
+  .wikigap-btn {
+    padding: 6px 12px;
+    font-size: 13px;
   }
   
-  .wikigap-number-link:hover {
-    color: #004999;
+  .wikigap-settings-panel,
+  .wikigap-facts-panel,
+  .wikigap-detail-panel {
+    width: 95vw;
+    max-width: 450px;
   }
   
-  /* The popup overlay for showing facts */
-  #wikigap-facts-popup {
-    position: fixed; /* for easy dragging on screen */
-    width: 40%;
-    padding: 16px;
-    background-color: #ffffff;
-    border: 2px solid #777;
-    border-radius: 8px;
-    z-index: 999999;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
-    font-size: 16px;
-    font-family: sans-serif;
+  .wikigap-language-options,
+  .wikigap-theme-options {
+    grid-template-columns: 1fr;
   }
-  
-  /* The close button (top-right) */
-  .wikigap-close-btn {
-    background-color: #f44336;
-    color: #fff;
-    border: none;
-    padding: 6px 10px;
-    cursor: pointer;
-    border-radius: 4px;
-    float: right;
-    margin-left: 10px;
-  }
-  .wikigap-close-btn:hover {
-    background-color: #cc372c;
-  }
-  
-  /* Popup title styling */
-  .wikigap-popup-title {
-    margin-top: 0; /* remove default top margin on <h3> */
-    color: #333;
-  }
-  
-  /* Style for the ordered list of facts */
-  .wikigap-ordered-list {
-    margin: 8px 0 0 20px; 
-    padding: 0;
-    list-style-type: decimal; /* standard numeric list */
-  }
-  
-  /* If you add an icon: (optional) */
-  .wikigap-icon {
-    width: 24px;
-    height: 24px;
-    margin-right: 8px;
-  }
+}
+
+/* Animations */
+@keyframes pulsate {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+.wikigap-facts-btn {
+  animation: pulsate 2s ease-in-out infinite;
+}
+
+.wikigap-facts-btn:hover {
+  animation: none;
+}
+
+/* Button icons */
+.wikigap-settings-btn .wikigap-btn-icon {
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg>');
+}
+
+.wikigap-facts-btn .wikigap-btn-icon {
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line></svg>');
+}
+
+.translate-icon {
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 8l6 6"></path><path d="M4 14l6-6 2-3"></path><path d="M2 5h12"></path><path d="M7 2h1"></path><path d="M22 22l-5-10-5 10"></path><path d="M14 18h6"></path></svg>');
+}
+
+.audio-icon {
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path><path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path></svg>');
+}
+
+.share-icon {
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line></svg>');
+}
+
+/* Enhance fact item interactions */
+.wikigap-fact-item::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(circle, rgba(51, 102, 204, 0.1) 0%, rgba(51, 102, 204, 0) 70%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+.wikigap-fact-item:hover::before,
+.wikigap-fact-item.hovering::before {
+  opacity: 1;
+}
