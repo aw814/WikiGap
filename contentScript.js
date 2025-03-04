@@ -1,5 +1,7 @@
-// Execute immediately rather than waiting for DOMContentLoaded
 function initWikiGap() {
+  // Add CSS styles to the page
+  addStyles();
+  
   // Wait for Wikipedia page to fully load
   if (document.querySelector('#firstHeading')) {
     initialize();
@@ -19,10 +21,7 @@ function initWikiGap() {
     });
   }
 }
-
-// Start the extension
 initWikiGap();
-
 // content.js - Main script that runs on Wikipedia pages
 document.addEventListener('DOMContentLoaded', () => {
   // Wait for Wikipedia page to fully load
@@ -52,9 +51,6 @@ function initialize() {
   // Create container for WikiGap buttons
   const wikiGapContainer = document.createElement('div');
   wikiGapContainer.className = 'wikigap-container';
-  wikiGapContainer.style.display = 'flex';
-  wikiGapContainer.style.flexDirection = 'row';
-  wikiGapContainer.style.gap = '10px';
   
   // Insert container after the heading
   const firstHeading = document.querySelector('#firstHeading');
@@ -240,7 +236,7 @@ function showFactsPanel() {
   const factsPanel = document.createElement('div');
   factsPanel.className = 'wikigap-facts-panel';
   
-  // Add panel content with emoji flags instead of images
+  // Add panel content
   factsPanel.innerHTML = `
     <div class="wikigap-panel-header">
       <h2>More Facts</h2>
@@ -251,7 +247,7 @@ function showFactsPanel() {
         <div class="wikigap-fact-item" data-lang="es">
           <div class="wikigap-fact-number">1</div>
           <div class="wikigap-fact-language">
-            <span class="wikigap-flag-emoji">🇪🇸</span>
+            <img src="${chrome.runtime.getURL('images/flags/es.png')}" alt="Spanish flag">
             <span>Spanish</span>
           </div>
           <div class="wikigap-fact-arrow">→</div>
@@ -259,7 +255,7 @@ function showFactsPanel() {
         <div class="wikigap-fact-item" data-lang="fr">
           <div class="wikigap-fact-number">3</div>
           <div class="wikigap-fact-language">
-            <span class="wikigap-flag-emoji">🇫🇷</span>
+            <img src="${chrome.runtime.getURL('images/flags/fr.png')}" alt="French flag">
             <span>French</span>
           </div>
           <div class="wikigap-fact-arrow">→</div>
@@ -267,7 +263,7 @@ function showFactsPanel() {
         <div class="wikigap-fact-item" data-lang="de">
           <div class="wikigap-fact-number">2</div>
           <div class="wikigap-fact-language">
-            <span class="wikigap-flag-emoji">🇩🇪</span>
+            <img src="${chrome.runtime.getURL('images/flags/de.png')}" alt="German flag">
             <span>German</span>
           </div>
           <div class="wikigap-fact-arrow">→</div>
@@ -275,7 +271,7 @@ function showFactsPanel() {
         <div class="wikigap-fact-item" data-lang="it">
           <div class="wikigap-fact-number">4</div>
           <div class="wikigap-fact-language">
-            <span class="wikigap-flag-emoji">🇮🇹</span>
+            <img src="${chrome.runtime.getURL('images/flags/it.png')}" alt="Italian flag">
             <span>Italian</span>
           </div>
           <div class="wikigap-fact-arrow">→</div>
@@ -283,7 +279,7 @@ function showFactsPanel() {
         <div class="wikigap-fact-item" data-lang="zh">
           <div class="wikigap-fact-number">1</div>
           <div class="wikigap-fact-language">
-            <span class="wikigap-flag-emoji">🇨🇳</span>
+            <img src="${chrome.runtime.getURL('images/flags/cn.png')}" alt="Chinese flag">
             <span>Chinese</span>
           </div>
           <div class="wikigap-fact-arrow">→</div>
@@ -291,7 +287,7 @@ function showFactsPanel() {
         <div class="wikigap-fact-item" data-lang="ru">
           <div class="wikigap-fact-number">1</div>
           <div class="wikigap-fact-language">
-            <span class="wikigap-flag-emoji">🇷🇺</span>
+            <img src="${chrome.runtime.getURL('images/flags/ru.png')}" alt="Russian flag">
             <span>Russian</span>
           </div>
           <div class="wikigap-fact-arrow">→</div>
@@ -299,13 +295,6 @@ function showFactsPanel() {
       </div>
     </div>
   `;
-  
-  // Remove underline from header
-  const headerElement = factsPanel.querySelector('.wikigap-panel-header h2');
-  if (headerElement) {
-    headerElement.style.borderBottom = 'none';
-    headerElement.style.textDecoration = 'none';
-  }
   
   // Add to page
   document.body.appendChild(factsPanel);
@@ -346,63 +335,39 @@ function showFactDetails(language) {
   const languageMap = {
     'es': {
       name: 'Spanish',
-      facts: [
-        { title: 'History', content: 'Historical information about this topic in Spanish culture.' },
-        { title: 'Making Process', content: 'How this is created or made in Spanish context.' },
-        { title: 'Cultural Significance', content: 'Why this is important in Spanish-speaking countries.' }
-      ],
+      fact: 'En España, este artículo es conocido por...',
       articleLink: 'https://es.wikipedia.org/wiki/Example'
     },
     'fr': {
       name: 'French',
-      facts: [
-        { title: 'History', content: 'Historical information about this topic in French culture.' },
-        { title: 'Making Process', content: 'How this is created or made in French context.' },
-        { title: 'Regional Variations', content: 'How this differs across French-speaking regions.' }
-      ],
+      fact: 'En France, cet article est connu pour...',
       articleLink: 'https://fr.wikipedia.org/wiki/Example'
     },
     'de': {
       name: 'German',
-      facts: [
-        { title: 'History', content: 'Historical information about this topic in German culture.' },
-        { title: 'Technical Details', content: 'German engineering or technical aspects of this topic.' },
-        { title: 'Cultural Impact', content: 'The influence of this topic on German society.' }
-      ],
+      fact: 'In Deutschland ist dieser Artikel bekannt für...',
       articleLink: 'https://de.wikipedia.org/wiki/Example'
     },
     'it': {
       name: 'Italian',
-      facts: [
-        { title: 'Artistic Significance', content: 'The artistic value of this topic in Italian culture.' },
-        { title: 'Regional Traditions', content: 'How this topic varies across different Italian regions.' },
-        { title: 'Historical Context', content: 'The historical background of this topic in Italy.' }
-      ],
+      fact: 'In Italia, questo articolo è conosciuto per...',
       articleLink: 'https://it.wikipedia.org/wiki/Example'
     },
     'zh': {
       name: 'Chinese',
-      facts: [
-        { title: 'Historical Significance', content: 'The historical importance of this topic in Chinese culture.' },
-        { title: 'Cultural Context', content: 'How this topic fits into broader Chinese cultural traditions.' }
-      ],
+      fact: '在中国，这篇文章因...而闻名',
       articleLink: 'https://zh.wikipedia.org/wiki/Example'
     },
     'ru': {
       name: 'Russian',
-      facts: [
-        { title: 'Historical Development', content: 'How this topic evolved in Russian history.' },
-        { title: 'Cultural Importance', content: 'The significance of this topic in Russian society.' }
-      ],
+      fact: 'В России эта статья известна...',
       articleLink: 'https://ru.wikipedia.org/wiki/Example'
     }
   };
   
   const factInfo = languageMap[language] || {
     name: language,
-    facts: [
-      { title: 'General Information', content: 'Basic information about this topic.' }
-    ],
+    fact: 'Additional information in this language.',
     articleLink: '#'
   };
   
@@ -410,30 +375,20 @@ function showFactDetails(language) {
   const detailPanel = document.createElement('div');
   detailPanel.className = 'wikigap-detail-panel';
   
-  // Generate the fact list HTML
-  let factsListHTML = '';
-  factInfo.facts.forEach((fact, index) => {
-    factsListHTML += `
-      <div class="wikigap-fact-list-item" data-fact-index="${index}">
-        <div class="wikigap-fact-title">${fact.title}</div>
-        <div class="wikigap-fact-arrow">→</div>
-      </div>
-    `;
-  });
-  
-  // Add panel content - no flag in the title, just "Facts in [Language]"
+  // Add panel content
   detailPanel.innerHTML = `
     <div class="wikigap-panel-header">
-      <h2>Facts in ${factInfo.name}</h2>
+      <h2>
+        <img src="${chrome.runtime.getURL(`images/flags/${language}.png`)}" alt="${factInfo.name} flag">
+        Fact in ${factInfo.name}
+      </h2>
       <button class="wikigap-close-btn">×</button>
     </div>
     <div class="wikigap-panel-content">
-      <div class="wikigap-facts-list">
-        ${factsListHTML}
-      </div>
-      <div class="wikigap-fact-view" style="display:none;">
-        <button class="wikigap-back-btn">← Back to list</button>
-        <div class="wikigap-fact-content"></div>
+      <div class="wikigap-fact-detail">
+        <div class="wikigap-fact-text">
+          ${factInfo.fact}
+        </div>
         <div class="wikigap-fact-meta">
           <a href="${factInfo.articleLink}" target="_blank" class="wikigap-source-link">
             View in ${factInfo.name} Wikipedia
@@ -458,13 +413,6 @@ function showFactDetails(language) {
     </div>
   `;
   
-  // Remove underline from header
-  const headerElement = detailPanel.querySelector('.wikigap-panel-header h2');
-  if (headerElement) {
-    headerElement.style.borderBottom = 'none';
-    headerElement.style.textDecoration = 'none';
-  }
-  
   // Add to page
   document.body.appendChild(detailPanel);
   
@@ -475,47 +423,19 @@ function showFactDetails(language) {
     setTimeout(() => detailPanel.remove(), 300);
   });
   
-  // Handle fact list items
-  const factListItems = detailPanel.querySelectorAll('.wikigap-fact-list-item');
-  const factView = detailPanel.querySelector('.wikigap-fact-view');
-  const factContent = detailPanel.querySelector('.wikigap-fact-content');
-  const factsList = detailPanel.querySelector('.wikigap-facts-list');
-  const backBtn = detailPanel.querySelector('.wikigap-back-btn');
-  
-  factListItems.forEach(item => {
-    item.addEventListener('click', () => {
-      const factIndex = parseInt(item.getAttribute('data-fact-index'), 10);
-      const fact = factInfo.facts[factIndex];
-      
-      // Update the content
-      factContent.textContent = fact.content;
-      
-      // Show the fact view, hide the list
-      factsList.style.display = 'none';
-      factView.style.display = 'block';
-    });
-  });
-  
-  // Handle back button
-  backBtn.addEventListener('click', () => {
-    factView.style.display = 'none';
-    factsList.style.display = 'block';
-  });
-  
-  // Action buttons
   const translateBtn = detailPanel.querySelector('.wikigap-translate-btn');
   translateBtn.addEventListener('click', () => {
+    const factText = detailPanel.querySelector('.wikigap-fact-text');
+    factText.innerHTML = 'Translated text would appear here. This is a placeholder for the translation feature.';
     translateBtn.classList.add('active');
     showNotification('Fact translated!');
-    setTimeout(() => {
-      translateBtn.classList.remove('active');
-    }, 1000);
   });
   
   const audioBtn = detailPanel.querySelector('.wikigap-audio-btn');
   audioBtn.addEventListener('click', () => {
     audioBtn.classList.add('active');
     showNotification('Audio playback started!');
+    // Audio playback logic would go here
     setTimeout(() => {
       audioBtn.classList.remove('active');
     }, 3000);
