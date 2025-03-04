@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to WikiGap!</title>
+  <style>
+    :root {
+      --primary-color: #3366cc;
+      --secondary-color: #eaf3ff;
+      --text-color: #202122;
+      --bg-color: #ffffff;
+      --border-color: #eaecf0;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.6;
+      color: var(--text-color);
+      background-color: var(--bg-color);
+      margin: 0;
+      padding: 0;
+    }
+    
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    
+    header {
+      text-align: center;
+      padding: 40px 0;
+    }
+    
+    .logo {
+      width: 120px;
+      height: 120px;
+      margin-bottom: 20px;
+    }
+    
+    h1 {
+      font-size: 32px;
+      color: var(--primary-color);
+      margin-bottom: 10px;
+    }
+    
+    .subtitle {
+      font-size: 18px;
+      color: #54595d;
+      margin-bottom: 40px;
+    }
+    
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 30px;
+      margin-bottom: 50px;
+    }
+    
+    .feature {
+      background-color: #f8f9fa;
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .feature:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+    }
+    
+    .feature-icon {
+      font-size: 40px;
+      color: var(--primary-color);
+      margin-bottom: 16px;
+    }
+    
+    .feature h3 {
+      font-size: 20px;
+      margin-bottom: 10px;
+    }
+    
+    .feature p {
+      font-size: 15px;
+      color: #54595d;
+    }
+    
+    .how-to-use {
+      background-color: var(--secondary-color);
+      border-radius: 12px;
+      padding: 30px;
+      margin-bottom: 50px;
+    }
+    
+    .how-to-use h2 {
+      text-align: center;
+      margin-bottom: 24px;
+      color: var(--primary-color);
+    }
+    
+    .step {
+      display: flex;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    
+    .step-number {
+      flex-shrink: 0;
+      width: 40px;
+      height: 40px;
+      background-color: var(--primary-color);
+      border-radius: 50%;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      margin-right: 20px;
+    }
+    
+    .step-content {
+      flex-grow: 1;
+    }
+    
+    .step h3 {
+      margin-top: 0;
+      margin-bottom: 8px;
+    }
+    
+    .step p {
+      margin: 0;
+      color: #54595d;
+    }
+    
+    .cta {
+      text-align: center;
+      margin-bottom: 60px;
+    }
+    
+    .cta-button {
+      display: inline-block;
+      background-color: var(--primary-color);
+      color: white;
+      padding: 14px 30px;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 16px;
+      transition: background-color 0.3s ease;
+    }
+    
+    .cta-button:hover {
+      background-color: #2a4b8d;
+    }
+    
+    footer {
+      text-align: center;
+      padding: 20px;
+      border-top: 1px solid var(--border-color);
+      font-size: 14px;
+      color: #54595d;
+    }
+    
+    @media (max-width: 768px) {
+      .container {
+        padding: 16px;
+      }
+      
+      header {
+        padding: 30px 0;
+      }
+      
+      .features {
+        grid-template-columns: 1fr;
+      }
+      
+      .step {
+        flex-direction: column;
+        text-align: center;
+      }
+      
+      .step-number {
+        margin-right: 0;
+        margin-bottom: 10px;
+      }
+    }
+    
+    .screenshots {
+      display: flex;
+      justify-content: center;
+      margin: 40px 0;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    
+    .screenshot {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease;
+    }
+    
+    .screenshot:hover {
+      transform: scale(1.02);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <svg class="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+        <circle cx="50" cy="50" r="48" fill="#eaf3ff" />
+        <path d="M50 10C27.91 10 10 27.91 10 50s17.91 40 40 40 40-17.91 40-40S72.09 10 50 10zm0 75c-19.33 0-35-15.67-35-35s15.67-35 35-35 35 15.67 35 35-15.67 35-35 35z" fill="#3366cc" />
+        <text x="50" y="62" font-size="40" text-anchor="middle" font-weight="bold" fill="#3366cc">W</text>
+      </svg>
+      <h1>Welcome to WikiGap!</h1>
+      <p class="subtitle">Discover a world of knowledge beyond language barriers</p>
+    </header>
+    
+    <div class="features">
+      <div class="feature">
+        <div class="feature-icon">🔍</div>
+        <h3>Multilingual Facts</h3>
+        <p>Access unique information available only in other language versions of Wikipedia articles.</p>
+      </div>
+      
+      <div class="feature">
+        <div class="feature-icon">🌍</div>
+        <h3>Global Perspectives</h3>
+        <p>Broaden your understanding with cultural perspectives from around the world.</p>
+      </div>
+      
+      <div class="feature">
+        <div class="feature-icon">⚡</div>
+        <h3>Easy Integration</h3>
+        <p>Seamlessly integrates with Wikipedia pages with just a click of a button.</p>
+      </div>
+    </div>
+    
+    <div class="how-to-use">
+      <h2>How to Use WikiGap</h2>
+      
+      <div class="step">
+        <div class="step-number">1</div>
+        <div class="step-content">
+          <h3>Visit Any Wikipedia Article</h3>
+          <p>Go to any Wikipedia article you're interested in learning more about.</p>
+        </div>
+      </div>
+      
+      <div class="step">
+        <div class="step-number">2</div>
+        <div class="step-content">
+          <h3>Click on the "X Facts" Button</h3>
+          <p>Look for the button at the top of the article that shows the number of available facts.</p>
+        </div>
+      </div>
+      
+      <div class="step">
+        <div class="step-number">3</div>
+        <div class="step-content">
+          <h3>Explore Additional Facts</h3>
+          <p>Browse through facts from different language versions and click on any that interest you.</p>
+        </div>
+      </div>
+      
+      <div class="step">
+        <div class="step-number">4</div>
+        <div class="step-content">
+          <h3>Customize Your Experience</h3>
+          <p>Click the "Settings" button to adjust your language preferences and display options.</p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="screenshots">
+      <img src="images/screenshot1.png" alt="WikiGap Buttons" class="screenshot" style="width: 45%;">
+      <img src="images/screenshot2.png" alt="WikiGap Facts Panel" class="screenshot" style="width: 45%;">
+    </div>
+    
+    <div class="cta">
+      <a href="javascript:window.close()" class="cta-button">Start Exploring Now!</a>
+    </div>
+    
+    <footer>
+      <p>WikiGap &copy; 2025. Expand your knowledge across language barriers.</p>
+    </footer>
+  </div>
+  
+  <script>
+    // Simple animation for buttons
+    document.querySelector('.cta-button').addEventListener('mouseover', function() {
+      this.style.transform = 'scale(1.05)';
+      this.style.transition = 'transform 0.3s ease';
+    });
+    
+    document.querySelector('.cta-button').addEventListener('mouseout', function() {
+      this.style.transform = 'scale(1)';
+    });
+  </script>
+</body>
+</html>
