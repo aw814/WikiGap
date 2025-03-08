@@ -438,11 +438,11 @@ const LANGUAGES = {
       languageFacts.zh = [
         {
           id: 'zh1',
-          relatedText: "The Chinese term wulong (oolong) was first used to describe a tea in the 1857",
-          fact: "The term \"wulong\" (oolong) first appeared in China during the Qing dynasty, approximately in 1725.",
+          relatedText: "in the 1857",
+          fact: "The term (oolong) first appeared in China during the Qing dynasty, approximately in 1725.",
           type: FACT_TYPES.CONTRADICTION,
           link: 'https://zh.wikipedia.org/wiki/乌龙茶'
-        },
+        }
         // {
         //   id: 'zh2',
         //   relatedText: "Traditional Chinese oolong processing",
