@@ -30,9 +30,9 @@ chrome.runtime.onInstalled.addListener(() => {
           chrome.action.setIcon({
             tabId: tabId,
             path: {
-              16: 'icons/icon16.png',
-              48: 'icons/icon48.png',
-              128: 'icons/icon128.png'
+              16: 'icons/puzzle_16.png',
+              64: 'icons/puzzle_64.png',
+              128: 'icons/puzzle_128.png'
             }
           });
         } else {
@@ -40,9 +40,9 @@ chrome.runtime.onInstalled.addListener(() => {
           chrome.action.setIcon({
             tabId: tabId,
             path: {
-              16: 'icons/icon16-disabled.png',
-              48: 'icons/icon48-disabled.png',
-              128: 'icons/icon128-disabled.png'
+              16: 'icons/puzzle_16.png',
+              64: 'icons/puzzle_64.png',
+              128: 'icons/puzzle_128.png'
             }
           });
         }

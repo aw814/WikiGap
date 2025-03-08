@@ -439,17 +439,17 @@ const LANGUAGES = {
         {
           id: 'zh1',
           relatedText: "The Chinese term wulong (oolong) was first used to describe a tea in the 1857",
-          fact: "The term \"wulong\" (oolong) first appeared in Chinese texts during the Qing dynasty, approximately in 1725, much earlier than western documentation suggests.",
+          fact: "The term \"wulong\" (oolong) first appeared in China during the Qing dynasty, approximately in 1725.",
           type: FACT_TYPES.CONTRADICTION,
           link: 'https://zh.wikipedia.org/wiki/乌龙茶'
         },
-        {
-          id: 'zh2',
-          relatedText: "Traditional Chinese oolong processing",
-          fact: "Traditional Chinese oolong processing includes a unique step called \"shaking\" (yao qing) that bruises the leaf edges to promote oxidation while leaving the center intact.",
-          type: FACT_TYPES.ADDITIONAL,
-          link: 'https://zh.wikipedia.org/wiki/乌龙茶'
-        }
+        // {
+        //   id: 'zh2',
+        //   relatedText: "Traditional Chinese oolong processing",
+        //   fact: "Traditional Chinese oolong processing includes a unique step called \"shaking\" (yao qing) that bruises the leaf edges to promote oxidation while leaving the center intact.",
+        //   type: FACT_TYPES.ADDITIONAL,
+        //   link: 'https://zh.wikipedia.org/wiki/乌龙茶'
+        // }
       ];
       
       // French facts
@@ -457,7 +457,7 @@ const LANGUAGES = {
         {
           id: 'fr1',
           relatedText: "There are three widely espoused explanations of the origin of the name of Oolong tea",
-          fact: "Oolong tea was first exposed to Europe when French merchants brought samples back in the mid-18th century.",
+          fact: "Oolong tea was introduced to Europe by British merchants in the 18th century.",
           type: FACT_TYPES.NOT_MENTIONED,
           link: 'https://fr.wikipedia.org/wiki/Thé_oolong'
         }
@@ -468,7 +468,7 @@ const LANGUAGES = {
         {
           id: 'ru1',
           relatedText: "The manufacturing of oolong tea",
-          fact: "Real oolong is whole-leaf, it has no broken leaves, crumbs, or dust.",
+          fact: "Heavily fermented oolongs are traditionally considered older.",
           type: FACT_TYPES.ADDITIONAL,
           link: 'https://ru.wikipedia.org/wiki/Улун'
         }

@@ -8,12 +8,7 @@
     "*://*.wikipedia.org/*"
   ],
   "action": {
-    "default_popup": "popup.html",
-    "default_icon": {
-      "16": "icons/puzzle_16.png",
-      "64": "icons/puzzle_64.png",
-      "128": "icons/puzzle_128.png"
-    }
+    "default_popup": "popup.html"
   },
   "background": {
     "service_worker": "background.js"
