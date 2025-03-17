@@ -425,62 +425,155 @@ const LANGUAGES = {
     }
   }
   
-  // Fetch facts based on the current Wikipedia article
-  async function fetchFacts() {
-    console.log("WikiGap: Fetching facts from other language wikis");
+  // // Fetch facts based on the current Wikipedia article
+  // async function fetchFacts() {
+  //   console.log("WikiGap: Fetching facts from other language wikis");
     
-    // Get the current article title
-    const pageTitle = document.title.replace(' - Wikipedia', '').trim();
+  //   // Get the current article title
+  //   const pageTitle = document.title.replace(' - Wikipedia', '').trim();
     
-    // If we're on the Oolong tea page (as per requirements and example)
-    if (pageTitle.toLowerCase().includes('oolong')) {
-      // Chinese facts
-      languageFacts.zh = [
-        {
-          id: 'zh1',
-          relatedText: "in the 1857",
-          fact: "The term (oolong) first appeared in China during the Qing dynasty, approximately in 1725.",
-          type: FACT_TYPES.CONTRADICTION,
-          link: 'https://zh.wikipedia.org/wiki/乌龙茶'
-        }
-        // {
-        //   id: 'zh2',
-        //   relatedText: "Traditional Chinese oolong processing",
-        //   fact: "Traditional Chinese oolong processing includes a unique step called \"shaking\" (yao qing) that bruises the leaf edges to promote oxidation while leaving the center intact.",
-        //   type: FACT_TYPES.ADDITIONAL,
-        //   link: 'https://zh.wikipedia.org/wiki/乌龙茶'
-        // }
-      ];
+  //   // If we're on the Oolong tea page (as per requirements and example)
+  //   if (pageTitle.toLowerCase().includes('oolong')) {
+  //     // Chinese facts
+  //     languageFacts.zh = [
+  //       {
+  //         id: 'zh1',
+  //         relatedText: "in the 1857",
+  //         fact: "The term (oolong) first appeared in China during the Qing dynasty, approximately in 1725.",
+  //         type: FACT_TYPES.CONTRADICTION,
+  //         link: 'https://zh.wikipedia.org/wiki/乌龙茶'
+  //       }
+  //       // {
+  //       //   id: 'zh2',
+  //       //   relatedText: "Traditional Chinese oolong processing",
+  //       //   fact: "Traditional Chinese oolong processing includes a unique step called \"shaking\" (yao qing) that bruises the leaf edges to promote oxidation while leaving the center intact.",
+  //       //   type: FACT_TYPES.ADDITIONAL,
+  //       //   link: 'https://zh.wikipedia.org/wiki/乌龙茶'
+  //       // }
+  //     ];
       
-      // French facts
-      languageFacts.fr = [
-        {
-          id: 'fr1',
-          relatedText: "There are three widely espoused explanations of the origin of the name of Oolong tea",
-          fact: "Oolong tea was introduced to Europe by British merchants in the 18th century.",
-          type: FACT_TYPES.NOT_MENTIONED,
-          link: 'https://fr.wikipedia.org/wiki/Thé_oolong'
-        }
-      ];
+  //     // French facts
+  //     languageFacts.fr = [
+  //       {
+  //         id: 'fr1',
+  //         relatedText: "There are three widely espoused explanations of the origin of the name of Oolong tea",
+  //         fact: "Oolong tea was introduced to Europe by British merchants in the 18th century.",
+  //         type: FACT_TYPES.NOT_MENTIONED,
+  //         link: 'https://fr.wikipedia.org/wiki/Thé_oolong'
+  //       }
+  //     ];
       
-      // Russian facts
-      languageFacts.ru = [
-        {
-          id: 'ru1',
-          relatedText: "The manufacturing of oolong tea",
-          fact: "Heavily fermented oolongs are traditionally considered older.",
-          type: FACT_TYPES.ADDITIONAL,
-          link: 'https://ru.wikipedia.org/wiki/Улун'
-        }
-      ];
+  //     // Russian facts
+  //     languageFacts.ru = [
+  //       {
+  //         id: 'ru1',
+  //         relatedText: "The manufacturing of oolong tea",
+  //         fact: "Heavily fermented oolongs are traditionally considered older.",
+  //         type: FACT_TYPES.ADDITIONAL,
+  //         link: 'https://ru.wikipedia.org/wiki/Улун'
+  //       }
+  //     ];
       
-      // Update total facts count
-      totalFacts = languageFacts.zh.length + languageFacts.fr.length + languageFacts.ru.length;
-    }
+  //     // Update total facts count
+  //     totalFacts = languageFacts.zh.length + languageFacts.fr.length + languageFacts.ru.length;
+  //   }
     
-    return true;
-  }
+  //   return true;
+  // }
   
+  async function fetchFacts() {
+    console.log("WikiGap: Fetching facts from external JSON data...");
+    // Grab the current Wikipedia article title
+    const pageTitle = document.title.replace(' - Wikipedia', '').trim();
+    console.log(pageTitle)
+  
+    // Construct the path for the JSON file (adjust path or logic as needed)
+    const jsonFilePath = chrome.runtime.getURL(`json/${pageTitle}.json`);
+    console.log(jsonFilePath)
+  
+    try {
+      const response = await fetch(jsonFilePath);
+      if (!response.ok) {
+        throw new Error('Failed to fetch data for ' + pageTitle);
+      }
+       console.log("pageTitle:", pageTitle);
+  
+      // Parse JSON
+      const data = await response.json();
+  
+      // Bail out if no matching structure
+      if (!data[pageTitle] || !data[pageTitle].languages) {
+        console.warn("No language data found for page:", pageTitle);
+        // fallback
+        languageFacts.zh = [];
+        languageFacts.fr = [];
+        languageFacts.ru = [];
+        totalFacts = 0;
+        return false;
+      }
+  
+      // Reset existing facts
+      languageFacts.zh = [];
+      languageFacts.fr = [];
+      languageFacts.ru = [];
+  
+      // Helper function to parse each language
+      function parseLanguage(langCode) {
+        let counter = 1;
+        const langData = data[pageTitle].languages[langCode];
+        if (!langData || !langData.headers) return;
+      
+        // Each header has an 'entries' array
+        Object.keys(langData.headers).forEach(headerKey => {
+          const headerObj = langData.headers[headerKey];
+          if (!headerObj.entries || !Array.isArray(headerObj.entries)) {
+            return;
+          }
+      
+          headerObj.entries.forEach(entry => {
+            // Now that our JSON definitely uses real arrays, we no longer need any string parsing
+            // 'tgt_fact_aligned_sentences' should be either an array or null.
+            const rawSentences = entry.tgt_fact_aligned_sentences;
+            // If it's an array, use it. Otherwise, default to empty.
+            const sentencesArray = Array.isArray(rawSentences) ? rawSentences : [];
+      
+            // Safely iterate over each sentence
+            sentencesArray.forEach(sentence => {
+              languageFacts[langCode].push({
+                id: `${langCode}${counter++}`,       // e.g. 'ru1', 'ru2'
+                relatedText: sentence,               // the text we want to highlight
+                fact: entry.fact?.translated || "",  // the fact’s translated text
+                type: FACT_TYPES.ADDITIONAL,
+                link: `https://${langCode}.wikipedia.org/wiki/${encodeURIComponent(pageTitle)}`
+              });
+            });
+          });
+        });
+      }
+      
+      // Parse for each language
+      parseLanguage('zh');
+      parseLanguage('fr');
+      parseLanguage('ru');
+  
+      // Update total facts
+      totalFacts = languageFacts.zh.length 
+                 + languageFacts.fr.length 
+                 + languageFacts.ru.length;
+      console.log(`Fetched ${totalFacts} facts from ${pageTitle}.json`);
+      return true;
+    } catch (err) {
+      console.error("WikiGap data fetch error:", err);
+      // fallback to empty if there's an error
+      languageFacts.zh = [];
+      languageFacts.fr = [];
+      languageFacts.ru = [];
+      totalFacts = 0;
+      return false;
+    }
+  }
+
+
   // Process article content to highlight relevant sentences
   function processArticleContent() {
     const contentElement = document.querySelector('.mw-parser-output');

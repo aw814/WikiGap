@@ -22,7 +22,7 @@
   ],
   "web_accessible_resources": [
     {
-      "resources": ["images/*", "fonts/*"],
+      "resources": ["images/*", "fonts/*", "json/*.json" ],
       "matches": ["*://*.wikipedia.org/*"]
     }
   ],
