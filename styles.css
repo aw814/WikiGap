@@ -423,6 +423,8 @@
   background: linear-gradient(135deg, transparent 50%, var(--wikigap-primary) 50%);
   border-bottom-right-radius: 8px;
   z-index: 20; /* Ensure it's above other elements */
+  padding: 5px;
+  margin: -5px;
 }
 
 /* FIXED: Added class for resize state */
