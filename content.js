@@ -566,6 +566,7 @@ const LANGUAGES = {
       console.log(`Fetched ${totalFacts} facts from ${pageTitle}.json`);
       return true;
     } catch (err) {
+      // TODO: There will be an error when clicking the URL
       console.error("WikiGap data fetch error:", err);
       // fallback to empty if there's an error
       languageFacts.zh = [];
