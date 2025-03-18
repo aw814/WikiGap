@@ -520,6 +520,7 @@ const LANGUAGES = {
       // Helper function to parse each language
       function parseLanguage(langCode) {
         let counter = 1;
+        const MAX_FACTS = 5; // Limit to 5 facts total for this language
         const langData = data[pageTitle].languages[langCode];
         if (!langData || !langData.headers) return;
       
@@ -531,6 +532,7 @@ const LANGUAGES = {
           }
       
           headerObj.entries.forEach(entry => {
+            if (counter > MAX_FACTS) return;
             // Now that our JSON definitely uses real arrays, we no longer need any string parsing
             // 'tgt_fact_aligned_sentences' should be either an array or null.
             const rawSentences = entry.tgt_fact_aligned_sentences;
@@ -539,6 +541,7 @@ const LANGUAGES = {
       
             // Safely iterate over each sentence
             sentencesArray.forEach(sentence => {
+              if (counter > MAX_FACTS) return;
               languageFacts[langCode].push({
                 id: `${langCode}${counter++}`,       // e.g. 'ru1', 'ru2'
                 relatedText: sentence,               // the text we want to highlight
