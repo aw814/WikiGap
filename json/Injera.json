@@ -1,0 +1,307 @@
+{
+    "Injera": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Диаметр традиционной ынджеры — около 1 метра.",
+                                    "translated": "The diameter of a traditional yurt is about 1 meter.",
+                                    "fact_aligned_sentence": "Название «ынджера» может употребляться и в более широком смысле: так же называют иногда лепёшки вместе с каким-нибудь овощным или мясным острым соусом (уот, другая передача — вот).",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%AB%D0%BD%D0%B4%D0%B6%D0%B5%D1%80%D0%B0"
+                                },
+                                "src_context": [
+                                    "В наше время, помимо традиционных средств, используются также современные сковороды, электрические или газовые плиты.",
+                                    "Имеются белая (амх. ነጭ, нэч), красная (амх. ቀይ, кай) и чёрная (амх. ጥቁር, тикур) разновидности ынджеры.",
+                                    "Диаметр традиционной ынджеры — около 1 метра."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The griddle is known as a mitad (ምጣድ) (in Amharic) or mogogo (ሞጎጎ) (in Tigrinya).",
+                                    "Mitads have been found at archaeological sites dating back as far as 600 AD.",
+                                    "Teff, however, is the preferred grain for making injera, primarily because of its sensory attributes (color, smell, taste).",
+                                    "Teff, however, is the preferred grain for making injera, primarily because of its sensory attributes (color, smell, taste)."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Основная пища большинства населения Эфиопии.",
+                                    "translated": "'The staple food of the majority of the population of Ethiopia.'",
+                                    "fact_aligned_sentence": "לַחוּח [läˈχuχ]).",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%AB%D0%BD%D0%B4%D0%B6%D0%B5%D1%80%D0%B0"
+                                },
+                                "src_context": [
+                                    "Ынджера (амх. እንጀራ, [ɨndʒǝra] — хлеб; на русский транслитерируется также как инджера, инджира, ынджэра, ынджира; оромо biddeena; тигринья ጣይታ, ṭayta; сомал. canjeero) — традиционное блюдо эфиопской кухни и кухни других стран Африканского Рога (Эритрея, Джибути, Сомали).",
+                                    "Основная пища большинства населения Эфиопии."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Ethiopia and Eritrea, a variety of stews, salads (during Ethiopian Orthodox fasting, for which believers abstain from most animal products), and more injera (called injera firfir) are placed on the injera for serving.",
+                                    "In Ethiopia and Eritrea, a variety of stews, salads (during Ethiopian Orthodox fasting, for which believers abstain from most animal products), and more injera (called injera firfir) are placed on the injera for serving.",
+                                    "Teff production is limited to certain middle elevations with adequate rainfall and is a low-yield crop, so it is relatively expensive for the average farming household.",
+                                    "Many farmers in the Ethiopian highlands grow their own subsistence grains, so wheat, barley, corn, or rice flour are sometimes used to replace the teff content."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Затем выливают его на большой раскалённый на огне и смазанный жиром глиняный противень круглой формы (амх. ምጣድ, митад; тигринья ሞጎጎ, могого).",
+                                    "translated": "Then it is poured onto a large heated clay baking dish of a round shape (Amharic: ምጣድ, mitad; Tigrinya: ሞጎጎ, mogogo).",
+                                    "fact_aligned_sentence": "ምጣድ, митад; тигринья ሞጎጎ, могого) на традиционном требующем много топлива и пожароопасном открытом очаге.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%AB%D0%BD%D0%B4%D0%B6%D0%B5%D1%80%D0%B0"
+                                },
+                                "src_context": [
+                                    "В тех регионах Эфиопии, где теф дорог, небогатые крестьяне заменяют его пшеницей, кукурузой, ячменем или сорго.",
+                                    "Из тефовой муки делают жидкое кислое тесто без дрожжей, закисающее несколько дней.",
+                                    "Затем выливают его на большой раскалённый на огне и смазанный жиром глиняный противень круглой формы (амх. ምጣድ, митад; тигринья ሞጎጎ, могого)."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is baked by pouring the mixture onto a large circular griddle, known as a mitad.",
+                                    "The injera is baked into large, flat and round pieces.",
+                                    "Traditionally, the flour is mixed with water and fermented.",
+                                    "It is baked by pouring the mixture onto a large circular griddle, known as a mitad."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Ынджера — популярный постный продукт у эфиопов-христиан, у которых до 200 постных дней в году.",
+                                    "translated": "'Injera is a popular fasting food among Ethiopian Christians, who have up to 200 fasting days a year.'",
+                                    "fact_aligned_sentence": "Ынджера — популярный постный продукт у эфиопов-христиан, у которых до 200 постных дней в году.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%AB%D0%BD%D0%B4%D0%B6%D0%B5%D1%80%D0%B0"
+                                },
+                                "src_context": [
+                                    "Отщипанными кусочками ыджеры захватывают другую еду, аналогично лавашу.",
+                                    "Среди начинок для ыджеры — жареный картофель, жареная морковь, маринованная свекла, овощи с пряностями, зелень, рис, мясная подливка, мясной фарш сырой, мясо (как правило, говядина или баранина) жареное, мясо тушёное, отварное, томатный соус, тушеная капуста.",
+                                    "Ынджера — популярный постный продукт у эфиопов-христиан, у которых до 200 постных дней в году."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The griddle is known as a mitad (ምጣድ) (in Amharic) or mogogo (ሞጎጎ) (in Tigrinya).",
+                                    "Mitads have been found at archaeological sites dating back as far as 600 AD.",
+                                    "In Ethiopia and Eritrea, a variety of stews, salads (during Ethiopian Orthodox fasting, for which believers abstain from most animal products), and more injera (called injera firfir) are placed on the injera for serving.",
+                                    "In Ethiopia and Eritrea, a variety of stews, salads (during Ethiopian Orthodox fasting, for which believers abstain from most animal products), and more injera (called injera firfir) are placed on the injera for serving."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "préparation": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "préparation",
+                                    "translated": "preparation"
+                                },
+                                "fact": {
+                                    "original": "Ce mélange est ensuite battu à la main jusqu'à ce que sa texture devienne douce et crémeuse.",
+                                    "translated": "This mixture is then beaten by hand until its texture becomes soft and creamy.",
+                                    "fact_aligned_sentence": "Ce mélange est ensuite battu à la main jusqu'à ce que sa texture devienne douce et crémeuse.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Injera"
+                                },
+                                "src_context": [
+                                    "Il existe une variante de l’injera connue sous le nom de canjeelo.",
+                                    "Le canjeelo est préparé à partir d’une pâte à base de farine ordinaire, de levure, d’eau tiède et d’une pincée de sel.",
+                                    "Ce mélange est ensuite battu à la main jusqu'à ce que sa texture devienne douce et crémeuse."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Teff, however, is the preferred grain for making injera, primarily because of its sensory attributes (color, smell, taste).",
+                                    "Teff, however, is the preferred grain for making injera, primarily because of its sensory attributes (color, smell, taste).",
+                                    "The baking method for injera has changed little since its origin.",
+                                    "Traditionally, the flour is mixed with water and fermented."
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Il s'agit de la variante corne-africaine de la crêpe mille trous.",
+                                    "translated": "It is the Horn of Africa variant of the thousand-hole pancake.",
+                                    "fact_aligned_sentence": "Il s'agit de la variante corne-africaine et couchitique de la crêpe mille trous ou crêpe nid d'abeille.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Injera"
+                                },
+                                "src_context": [
+                                    "L’injera représente le plat principal en Somalie.",
+                                    "L’injera représente le plat principal à Djibouti.",
+                                    "Il s'agit de la variante corne-africaine de la crêpe mille trous."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Teff flour is ground from the grains of Eragrostis tef, also known as teff, a cereal crop from the Ethiopian Highlands.",
+                                    "Teff flour is ground from the grains of Eragrostis tef, also known as teff, a cereal crop from the Ethiopian Highlands.",
+                                    "Traditionally, injera is made with just two ingredients: teff flour and water.",
+                                    "Teff flour is ground from the grains of Eragrostis tef, also known as teff, a cereal crop from the Ethiopian Highlands."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "配料与烹饪方法": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "配料与烹饪方法",
+                                    "translated": "Ingredients and cooking methods"
+                                },
+                                "fact": {
+                                    "original": "制作英杰拉的最重要的谷物是微小的富含铁的苔麸。",
+                                    "translated": "The most important grain for making Injera is the tiny, iron-rich teff.",
+                                    "fact_aligned_sentence": "制作英杰拉的最重要的谷物是微小的富含铁的苔麸。然后,他的产量受限于一定的中海拔高度并雨量充足的地区,所以对一般家庭来说相对昂贵。因为埃塞俄比亚高原的绝大多数人是贫困农户,他们的种植的粮食自给,小麦、大麦、玉米或大米有时用来代替部分或全部苔麸。在埃塞俄比亚也有不同的品种英杰拉,如nech(白色)、kay(红色)和tikur(黑色)。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%8B%B1%E6%9D%B0%E6%8B%89"
+                                },
+                                "src_context": [
+                                    "在也门有类似的食品变种，叫作啦喉赫(英語:lahoh)。",
+                                    "在苏丹有类似的食品变种，叫作kisra。",
+                                    "制作英杰拉的最重要的谷物是微小的富含铁的苔麸。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "When teff is not available, injera is made by fermenting a variety of different grains, including barley, millet, and sorghum.",
+                                    "Teff, however, is the preferred grain for making injera, primarily because of its sensory attributes (color, smell, taste).",
+                                    "The aerobic microbial flora of ersho contains spores of Bacillus species (unable to grow at the low pH of 3.5) and several yeasts (in order of abundance): Candida milleri, Rhodotorula mucilaginosa, Kluyveromyces marxianus, Pichia naganishii and Debaromyces hansenii.",
+                                    "The aerobic microbial flora of ersho contains spores of Bacillus species (unable to grow at the low pH of 3.5) and several yeasts (in order of abundance): Candida milleri, Rhodotorula mucilaginosa, Kluyveromyces marxianus, Pichia naganishii and Debaromyces hansenii."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "配料与烹饪方法",
+                                    "translated": "Ingredients and cooking methods"
+                                },
+                                "fact": {
+                                    "original": "要制作英杰拉，首先用苔麸粉和麵并用酸味酵头使其发酵数日。",
+                                    "translated": "To make injera, first mix teff flour and water with sourdough starter and let it ferment for several days.",
+                                    "fact_aligned_sentence": "要制作英杰拉,首先用苔麸粉和麵并用酸味酵头使其发酵数日,经过这个处理后英杰拉略带酸味。然后将英杰拉放到专业电炉里或(更常见的)放到陶土板(阿姆哈拉語:mittad ,提格雷尼亚语:mogogo)上靠火烘烤完成。英杰拉接触加热的底面具有相对光滑的手感,而顶面则多孔。这种多孔结构使英杰拉很容易的沾料和卷菜。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%8B%B1%E6%9D%B0%E6%8B%89"
+                                },
+                                "src_context": [
+                                    "在埃塞俄比亚有不同的品种英杰拉。",
+                                    "不同品种的英杰拉包括nech(白色)、kay(红色)和tikur(黑色)。",
+                                    "要制作英杰拉，首先用苔麸粉和麵并用酸味酵头使其发酵数日。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Teff flour is gluten-free.",
+                                    "To make injera, teff flour is mixed with water.",
+                                    "Teff seeds are graded according to color, used to make different kinds of injera: nech (white), key or quey (red), and sergegna (mixed).",
+                                    "When teff is not available, injera is made by fermenting a variety of different grains, including barley, millet, and sorghum."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "配料与烹饪方法",
+                                    "translated": "Ingredients and cooking methods"
+                                },
+                                "fact": {
+                                    "original": "然后将英杰拉放到专业电炉里或(更常见的)放到陶土板(阿姆哈拉語:mittad, 提格雷尼亚语:mogogo)上靠火烘烤完成。",
+                                    "translated": "Then place the injera in a professional electric oven or (more commonly) bake it over a clay plate (Amharic: mittad, Tigrinya: mogogo) over the fire to complete.",
+                                    "fact_aligned_sentence": "要制作英杰拉,首先用苔麸粉和麵并用酸味酵头使其发酵数日,经过这个处理后英杰拉略带酸味。然后将英杰拉放到专业电炉里或(更常见的)放到陶土板(阿姆哈拉語:mittad ,提格雷尼亚语:mogogo)上靠火烘烤完成。英杰拉接触加热的底面具有相对光滑的手感,而顶面则多孔。这种多孔结构使英杰拉很容易的沾料和卷菜。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%8B%B1%E6%9D%B0%E6%8B%89"
+                                },
+                                "src_context": [
+                                    "要制作英杰拉，首先用苔麸粉和麵并用酸味酵头使其发酵数日。",
+                                    "经过这个处理后，英杰拉略带酸味。",
+                                    "然后将英杰拉放到专业电炉里或(更常见的)放到陶土板(阿姆哈拉語:mittad, 提格雷尼亚语:mogogo)上靠火烘烤完成。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Ethiopia and Eritrea, a variety of stews, salads (during Ethiopian Orthodox fasting, for which believers abstain from most animal products), and more injera (called injera firfir) are placed on the injera for serving.",
+                                    "In Ethiopia and Eritrea, a variety of stews, salads (during Ethiopian Orthodox fasting, for which believers abstain from most animal products), and more injera (called injera firfir) are placed on the injera for serving.",
+                                    "Teff flour is now being produced in the United States by several companies, making teff more accessible to expatriate Ethiopians.",
+                                    "In America, it is often cooked on an aluminum lefse grill."
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "在吉布提有类似的食品变种，叫作canjeero或lahooh。",
+                                    "translated": "In Djibouti, there are similar food variations called canjeero or lahooh.",
+                                    "fact_aligned_sentence": "英杰拉(阿姆哈拉語:እንጀራ,羅馬化:ənǧära,[ɨndʒəra];奧羅莫語:Biddeena;提格雷尼亚语:ጣይታ,羅馬化:ṭayta;英語:injera 或 enjera)是一种有独特的海棉质感的发酵后麵饼。传统上采用苔麸(Teff)制作,是埃塞俄比亚和厄立特里亚的国菜。在周边一些国家也有类似的食品变种,如在索马里和吉布提(叫作canjeero或lahooh)、也门(叫作啦喉赫,英語:lahoh)及苏丹(叫作kisra)。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%8B%B1%E6%9D%B0%E6%8B%89"
+                                },
+                                "src_context": [
+                                    "英杰拉是厄立特里亚的国菜。",
+                                    "在索马里有类似的食品变种，叫作canjeero或lahooh。",
+                                    "在吉布提有类似的食品变种，叫作canjeero或lahooh。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Teff seeds are graded according to color, used to make different kinds of injera: nech (white), key or quey (red), and sergegna (mixed).",
+                                    "Teff seeds are graded according to color, used to make different kinds of injera: nech (white), key or quey (red), and sergegna (mixed).",
+                                    "White-grained teff is more expensive to buy and thus symbolizes a higher status than its cheaper counterpart, red-grained teff.",
+                                    "There are similar variants to injera in other African countries, namely Sudan, Chad and Kenya."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,366 @@
+{
+    "Shawarma": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "названия в различных регионах": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "названия в различных регионах",
+                                    "translated": "Names in various regions"
+                                },
+                                "fact": {
+                                    "original": "Германия - крупнейшая экономика в Европе.",
+                                    "translated": "Germany is the largest economy in Europe.",
+                                    "fact_aligned_sentence": "По странам в алфавитном порядке:",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%83%D1%80%D0%BC%D0%B0"
+                                },
+                                "src_context": [
+                                    "Египет - страна в Северной Африке.",
+                                    "Франция - страна в Западной Европе.",
+                                    "Германия - крупнейшая экономика в Европе."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Shawarma (; Arabic: شاورما) is a Middle Eastern dish that originated in the Levant during the Ottoman Empire, consisting of meat that is cut into thin slices, stacked in an inverted cone, and roasted on a slow-turning vertical spit.",
+                                    "The surface of the rotisserie meat is routinely shaved off once it cooks and is ready to be served.",
+                                    "Shawarma is a popular street food throughout the Arab world, Levant, and the Greater Middle East."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "названия в различных регионах",
+                                    "translated": "Names in various regions"
+                                },
+                                "fact": {
+                                    "original": "Также кладётся или подаётся отдельно картофель фри.",
+                                    "translated": "French fries are also served or provided separately.",
+                                    "fact_aligned_sentence": "Также кладётся или подаётся отдельно картофель фри.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%83%D1%80%D0%BC%D0%B0"
+                                },
+                                "src_context": [
+                                    "Коренные иерусалимцы называют лафу «эштану́р».",
+                                    "Любимые приправы — хумус, тхина, «амба» (соус из маринованного манго), острый схуг.",
+                                    "Также кладётся или подаётся отдельно картофель фри."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Spices may include cumin, cardamom, cinnamon, turmeric or paprika, and in some areas baharat.",
+                                    "Shawarma is commonly served as a sandwich or wrap, in a flatbread such as pita, laffa or lavash.",
+                                    "It is often garnished with diced tomatoes, cucumbers, onions, pickled vegetables, hummus, garlic mayo, tahini sauce, sumac, or amba mango sauce.",
+                                    "Some restaurants offer additional toppings, including grilled peppers, eggplant, or French fries."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "названия в различных регионах",
+                                    "translated": "Names in various regions"
+                                },
+                                "fact": {
+                                    "original": "В Казахстане называют шаурма, если начинка кладётся в половинку питы.",
+                                    "translated": "In Kazakhstan, it is called shawarma if the filling is placed in half of a pita.",
+                                    "fact_aligned_sentence": "В Казахстане называют шаурма, если начинка кладётся в половинку питы, и донер, если начинка заворачивается в лаваш.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%83%D1%80%D0%BC%D0%B0"
+                                },
+                                "src_context": [
+                                    "На персидском языке это пишется как کباب ترکی.",
+                                    "На персидском языке это произносится как kabāb-e torki.",
+                                    "В Казахстане называют шаурма, если начинка кладётся в половинку питы."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Spices may include cumin, cardamom, cinnamon, turmeric or paprika, and in some areas baharat.",
+                                    "Shawarma is commonly served as a sandwich or wrap, in a flatbread such as pita, laffa or lavash.",
+                                    "Shavings are cut off the rotating stack for serving, customarily with a long, flat knife.",
+                                    "Spices may include cumin, cardamom, cinnamon, turmeric or paprika, and in some areas baharat."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "названия в различных регионах",
+                                    "translated": "Names in various regions"
+                                },
+                                "fact": {
+                                    "original": "Название шаорма на румынском языке пишется как Șaorma.",
+                                    "translated": "The name of shawarma in Romanian is written as Șaorma.",
+                                    "fact_aligned_sentence": "Șaorma).",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%83%D1%80%D0%BC%D0%B0"
+                                },
+                                "src_context": [
+                                    "В Польше название кебаб произносится с ударением на предпоследний слог.",
+                                    "В Румынии употребляется название шаорма.",
+                                    "Название шаорма на румынском языке пишется как Șaorma."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Shawarma is a popular street food throughout the Arab world, Levant, and the Greater Middle East.",
+                                    "The name shāwarmā in Arabic is a rendering of the term çevirme in Ottoman Turkish (چيويرمى [tʃeviɾˈme], lit.",
+                                    "The name shāwarmā in Arabic is a rendering of the term çevirme in Ottoman Turkish (چيويرمى [tʃeviɾˈme], lit.",
+                                    "The name shāwarmā in Arabic is a rendering of the term çevirme in Ottoman Turkish (چيويرمى [tʃeviɾˈme], lit."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "названия в различных регионах",
+                                    "translated": "Names in various regions"
+                                },
+                                "fact": {
+                                    "original": "Австралия - страна в Океании.",
+                                    "translated": "Australia is a country in Oceania.",
+                                    "fact_aligned_sentence": "По странам в алфавитном порядке:",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%83%D1%80%D0%BC%D0%B0"
+                                },
+                                "src_context": [
+                                    "Этими регионами являются Санкт-Петербург, Ленинградская область и Новгородская область.",
+                                    "По странам в алфавитном порядке:",
+                                    "Австралия - страна в Океании."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Shawarma (; Arabic: شاورما) is a Middle Eastern dish that originated in the Levant during the Ottoman Empire, consisting of meat that is cut into thin slices, stacked in an inverted cone, and roasted on a slow-turning vertical spit.",
+                                    "The surface of the rotisserie meat is routinely shaved off once it cooks and is ready to be served.",
+                                    "Shawarma is a popular street food throughout the Arab world, Levant, and the Greater Middle East."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "названия в различных регионах",
+                                    "translated": "Names in various regions"
+                                },
+                                "fact": {
+                                    "original": "В Туркменистане реже употребляется название шаурма.",
+                                    "translated": "'In Turkmenistan, the term shawarma is used less frequently.'",
+                                    "fact_aligned_sentence": "döner), реже шаурма.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%83%D1%80%D0%BC%D0%B0"
+                                },
+                                "src_context": [
+                                    "Название шаорма на румынском языке пишется как Șaorma.",
+                                    "В Туркменистане употребляются названия донер (туркм. döner).",
+                                    "В Туркменистане реже употребляется название шаурма."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Shawarma is a popular street food throughout the Arab world, Levant, and the Greater Middle East.",
+                                    "The name shāwarmā in Arabic is a rendering of the term çevirme in Ottoman Turkish (چيويرمى [tʃeviɾˈme], lit.",
+                                    "The name shāwarmā in Arabic is a rendering of the term çevirme in Ottoman Turkish (چيويرمى [tʃeviɾˈme], lit.",
+                                    "The name shāwarmā in Arabic is a rendering of the term çevirme in Ottoman Turkish (چيويرمى [tʃeviɾˈme], lit."
+                                ]
+                            }
+                        ]
+                    },
+                    "история происхождения": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "история происхождения",
+                                    "translated": "The history of origin"
+                                },
+                                "fact": {
+                                    "original": "В Германии сейчас насчитывается 40 тысяч заведений, где продают шаурму.",
+                                    "translated": "There are currently 40,000 establishments in Germany where shawarma is sold.",
+                                    "fact_aligned_sentence": "По данным Ассоциации, в Германии сейчас насчитывается 40 тысяч заведений, где продают шаурму.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%83%D1%80%D0%BC%D0%B0"
+                                },
+                                "src_context": [
+                                    "Айгун утверждает, что изобрёл это блюдо за год до Нурмана — в 1971 году — и продавал его в своём магазине под названием «Хасир».",
+                                    "Официально Ассоциация турецких производителей шаурмы в Европе признала первопроходцем Нурмана.",
+                                    "В Германии сейчас насчитывается 40 тысяч заведений, где продают шаурму."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Shawarma led to the development during the early 20th century of the contemporary Mexican dish tacos al pastor when it was brought there by Lebanese immigrants.",
+                                    "The dish is also especially popular in Ottawa, Ontario, where a large community of the Lebanese diaspora exists.",
+                                    "The dish is also especially popular in Ottawa, Ontario, where a large community of the Lebanese diaspora exists.",
+                                    "The dish is also especially popular in Ottawa, Ontario, where a large community of the Lebanese diaspora exists."
+                                ]
+                            }
+                        ]
+                    },
+                    "приготовление": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "приготовление",
+                                    "translated": "Cooking"
+                                },
+                                "fact": {
+                                    "original": "Тонкие кусочки мяса падают в поддон.",
+                                    "translated": "Thin pieces of meat fall into the tray.",
+                                    "fact_aligned_sentence": "Эти кусочки затем дополнительно измельчаются.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%83%D1%80%D0%BC%D0%B0"
+                                },
+                                "src_context": [
+                                    "Вертел вращается вокруг своей оси и относительно нагревательных элементов, расположенных вдоль вертела.",
+                                    "По мере поджаривания мяса его срезают при помощи длинного ножа или специальным электрическим дисковым ножом тонкими кусочками.",
+                                    "Тонкие кусочки мяса падают в поддон."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Shawarma is prepared from thin cuts of seasoned and marinated lamb, mutton, veal, beef, chicken, or turkey.",
+                                    "The slices are stacked on a skewer about 60 cm (20 in) high.",
+                                    "The slices are stacked on a skewer about 60 cm (20 in) high.",
+                                    "Pieces of fat may be added to the stack to provide extra juiciness and flavour."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "description",
+                                    "translated": "description"
+                                },
+                                "fact": {
+                                    "original": "Les viandes sont salées et marinées dans un vinaigre de vin rouge épicé.",
+                                    "translated": "The meats are salted and marinated in a spicy red wine vinegar.",
+                                    "fact_aligned_sentence": "Les viandes utilisées sont le poulet, l'agneau ou le bœuf, salées et marinées dans un vinaigre de vin rouge épicé.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Chawarma"
+                                },
+                                "src_context": [
+                                    "Elle est accompagnée de crème d’ail.",
+                                    "Les viandes utilisées sont le poulet, l'agneau ou le bœuf.",
+                                    "Les viandes sont salées et marinées dans un vinaigre de vin rouge épicé."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Armenia and Georgia, shawarma is traditionally made with thin cuts of marinated meat which is left marinating overnight in spices such as coriander, cumin, cardamom, paprika, garlic, lemon juice, and olive oil.",
+                                    "In Armenia and Georgia, shawarma is traditionally made with thin cuts of marinated meat which is left marinating overnight in spices such as coriander, cumin, cardamom, paprika, garlic, lemon juice, and olive oil.",
+                                    "In the Middle East, chicken shawarma is typically served with garlic sauce, fries, and pickles.",
+                                    "The garlic sauce served with the sandwich depends on the meat."
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Le chawarma ou shawarma (en arabe : شَاوَرْمَا) est le kebab traditionnel des cuisines arménienne.",
+                                    "translated": "Shawarma (in Arabic: شَاوَرْمَا) is the traditional kebab of Armenian cuisine.",
+                                    "fact_aligned_sentence": "Le chawarma ou shawarma (en arabe : شَاوَرْمَا) est le kebab traditionnel des cuisines levantine, arménienne et turque.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Chawarma"
+                                },
+                                "src_context": [
+                                    "Le chawarma ou shawarma (en arabe : شَاوَرْمَا) est le kebab traditionnel des cuisines levantine.",
+                                    "Le chawarma ou shawarma (en arabe : شَاوَرْمَا) est le kebab traditionnel des cuisines arménienne."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Shawarma (; Arabic: شاورما) is a Middle Eastern dish that originated in the Levant during the Ottoman Empire, consisting of meat that is cut into thin slices, stacked in an inverted cone, and roasted on a slow-turning vertical spit.",
+                                    "Shawarma (; Arabic: شاورما) is a Middle Eastern dish that originated in the Levant during the Ottoman Empire, consisting of meat that is cut into thin slices, stacked in an inverted cone, and roasted on a slow-turning vertical spit.",
+                                    "Traditionally made with lamb or mutton, it may also be made with chicken, turkey meat, beef, falafel or veal."
+                                ]
+                            }
+                        ]
+                    },
+                    "dans la culture": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "dans la culture",
+                                    "translated": "in culture"
+                                },
+                                "fact": {
+                                    "original": "Lors de la scène post-générique du film Avengers, l'équipe de super-héros mange des Chawarmas dans un restaurant dévasté.",
+                                    "translated": "In the post-credits scene of the Avengers movie, the team of superheroes eats Chawarmas in a devastated restaurant.",
+                                    "fact_aligned_sentence": "Lors de la scène post-générique du film Avengers, l'équipe de super-héros mange des Chawarmas dans un restaurant dévasté.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Chawarma"
+                                },
+                                "src_context": [
+                                    "Le plat shawarma est apparu en Anatolie dans les années 1830.",
+                                    "Le shawarma est connu en Turquie sous le nom de döner kebab.",
+                                    "Lors de la scène post-générique du film Avengers, l'équipe de super-héros mange des Chawarmas dans un restaurant dévasté."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The shawarma technique—grilling a vertical stack of meat slices and cutting it off as it cooks—first appeared in the Ottoman Empire in the 19th century in the form of döner kebab, which both the Greek gyros and the Levantine shawarma are derived from.",
+                                    "The shawarma technique—grilling a vertical stack of meat slices and cutting it off as it cooks—first appeared in the Ottoman Empire in the 19th century in the form of döner kebab, which both the Greek gyros and the Levantine shawarma are derived from.",
+                                    "The dish is also especially popular in Ottawa, Ontario, where a large community of the Lebanese diaspora exists.",
+                                    "The dish is also especially popular in Ottawa, Ontario, where a large community of the Lebanese diaspora exists."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "制作": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "制作",
+                                    "translated": "Production"
+                                },
+                                "fact": {
+                                    "original": "酸奶醬和肉一起食用會違反猶太教對於牛奶和肉的限制。",
+                                    "translated": "Consuming yogurt sauce with meat would violate the Jewish dietary restrictions regarding milk and meat.",
+                                    "fact_aligned_sentence": "在以色列,大多數沙威瑪是用深色火雞肉製成的,通常配上芝麻醬,因為酸奶醬和肉一起食用會違反猶太教對於牛奶和肉的限制。常見的沙威瑪通常用西紅柿丁、黃瓜丁、洋蔥、醃菜、鷹嘴豆泥、芝麻醬或安巴芒果醬來裝飾。一些餐廳可能會提供額外的配料,如烤辣椒、茄子或炸薯條。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E6%B2%99%E5%A8%81%E7%8E%9B"
+                                },
+                                "src_context": [
+                                    "在以色列,大多數沙威瑪是用深色火雞肉製成的。",
+                                    "沙威瑪通常配上芝麻醬。",
+                                    "酸奶醬和肉一起食用會違反猶太教對於牛奶和肉的限制。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In the Middle East, chicken shawarma is typically served with garlic sauce, fries, and pickles.",
+                                    "The garlic sauce served with the sandwich depends on the meat.",
+                                    "It is often garnished with diced tomatoes, cucumbers, onions, pickled vegetables, hummus, garlic mayo, tahini sauce, sumac, or amba mango sauce.",
+                                    "Some restaurants offer additional toppings, including grilled peppers, eggplant, or French fries."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

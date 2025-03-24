@@ -1,0 +1,198 @@
+{
+    "Jollof rice": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "происхождение и распространение": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "происхождение и распространение",
+                                    "translated": "origin and distribution"
+                                },
+                                "fact": {
+                                    "original": "Историк еды и сельского хозяйства Джеймс Маккен соглашается с этим утверждением.",
+                                    "translated": "Food and agricultural historian James Macken agrees with this statement.",
+                                    "fact_aligned_sentence": "Историк еды и сельского хозяйства Джеймс Маккен соглашается с этим утверждением, указывая при этом на возможность распространения джолофа торговцами империи Мали, перемещавшихся в крупных центрах и привозивших с собой знания о кузнечном деле и сельском хозяйстве.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BB%D0%BE%D1%84"
+                                },
+                                "src_context": [
+                                    "Первые истоки блюда обнаруживаются в Сенегале.",
+                                    "Территория Сенегала в древности входила в состав государства Волоф.",
+                                    "Историк еды и сельского хозяйства Джеймс Маккен соглашается с этим утверждением."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The fishing communities of Saint-Louis are considered the birthplace of thieboudienne.",
+                                    "Food and agriculture historian James C. McCann argued that it was unlikely that the dish could have naturally spread from Senegal to its current range since a similar cultural diffusion is not seen in \"linguistic, historical or political patterns\".",
+                                    "Food and agriculture historian James C. McCann argued that it was unlikely that the dish could have naturally spread from Senegal to its current range since a similar cultural diffusion is not seen in \"linguistic, historical or political patterns\".",
+                                    "Food and agriculture historian James C. McCann argued that it was unlikely that the dish could have naturally spread from Senegal to its current range since a similar cultural diffusion is not seen in \"linguistic, historical or political patterns\"."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "происхождение и распространение",
+                                    "translated": "origin and distribution"
+                                },
+                                "fact": {
+                                    "original": "Этот вопрос является довольно важным и деликатным для обоих народов.",
+                                    "translated": "This question is quite important and delicate for both nations.",
+                                    "fact_aligned_sentence": "Этот вопрос является довольно важным и деликатным для обоих народов.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BB%D0%BE%D1%84"
+                                },
+                                "src_context": [
+                                    "Нигерийцы и ганцы спорят о происхождении джолофа.",
+                                    "И те, и другие утверждают, что именно их народу принадлежит авторство блюда.",
+                                    "Этот вопрос является довольно важным и деликатным для обоих народов."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Food and agriculture historian James C. McCann argued that it was unlikely that the dish could have naturally spread from Senegal to its current range since a similar cultural diffusion is not seen in \"linguistic, historical or political patterns\".",
+                                    "Food and agriculture historian James C. McCann argued that it was unlikely that the dish could have naturally spread from Senegal to its current range since a similar cultural diffusion is not seen in \"linguistic, historical or political patterns\".",
+                                    "The fishing communities of Saint-Louis are considered the birthplace of thieboudienne.",
+                                    "Food and agriculture historian James C. McCann argued that it was unlikely that the dish could have naturally spread from Senegal to its current range since a similar cultural diffusion is not seen in \"linguistic, historical or political patterns\"."
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В Сенегале существует свой собственный вариант джолофа.",
+                                    "translated": "'Senegal has its own version of jollof.'",
+                                    "fact_aligned_sentence": "В Мали, Гане, Сенегале, Сьерра-Леоне и Либерии существуют свои собственные варианты джолофа.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BB%D0%BE%D1%84"
+                                },
+                                "src_context": [
+                                    "В Мали существует свой собственный вариант джолофа.",
+                                    "В Гане существует свой собственный вариант джолофа.",
+                                    "В Сенегале существует свой собственный вариант джолофа."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "and very often with fried plantains, moi-moi (bean pudding), steamed vegetables, coleslaw, salad, etc.",
+                                    "Several variations of prototypal Nigerian jollof rice exist, including coconut-jollof rice.",
+                                    "In French-speaking West Africa, a variation of the dish is known as riz au gras.",
+                                    "The Senegalese version, thieboudienne, has been recognized by UNESCO as an intangible cultural heritage dish."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "descriptions": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "descriptions",
+                                    "translated": "descriptions"
+                                },
+                                "fact": {
+                                    "original": "Les différents ingrédients sont ajoutés successivement.",
+                                    "translated": "The different ingredients are added successively.",
+                                    "fact_aligned_sentence": "Il s'agit d'un plat à base de riz, où les différents ingrédients sont ajoutés successivement, s'apparentant à un risotto.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Riz_wolof"
+                                },
+                                "src_context": [
+                                    "Niari cin désigne les plats sénégalais dont la cuisson nécessite l'usage de deux marmites.",
+                                    "Il s'agit d'un plat à base de riz.",
+                                    "Les différents ingrédients sont ajoutés successivement."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Sella basmati rice, however, is considered more aesthetically pleasing to some.",
+                                    "Most of the ingredients are cooked in one pot, of which a rich meat stock or broth and a fried tomato and pepper puree characteristically forms the base.",
+                                    "Of particular sensitivity in jollof-making communities is the inclusion of non-traditional ingredients, which are defined country to country and are seen as making the jollof inauthentic.",
+                                    "Of particular sensitivity in jollof-making communities is the inclusion of non-traditional ingredients, which are defined country to country and are seen as making the jollof inauthentic."
+                                ]
+                            }
+                        ]
+                    },
+                    "historique": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "historique",
+                                    "translated": "historical"
+                                },
+                                "fact": {
+                                    "original": "Les origines du riz Jollof remontent aux années 1300",
+                                    "translated": "The origins of Jollof rice date back to the 1300s.",
+                                    "fact_aligned_sentence": "Créé par Mame Penda Mbaye, originaire de Saint-louis, les origines du riz Jollof remontent aux années 1300 dans l'ancien empire Wolof, qui s'étendait sur des parties du Sénégal, de la Gambie et de la Mauritanie actuels.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Riz_wolof"
+                                },
+                                "src_context": [
+                                    "Créé par Mame Penda Mbaye",
+                                    "Mame Penda Mbaye est originaire de Saint-Louis",
+                                    "Les origines du riz Jollof remontent aux années 1300"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The dish is typically made with long-grain rice, tomatoes, chilis, onions, spices, and sometimes other vegetables and/or meat in a single pot, although its ingredients and preparation methods vary across different regions.",
+                                    "The dish's origins are traced to Senegal.",
+                                    "The Jolof or Wolof Empire was a confederacy state that ruled parts of West Africa situated in modern-day Senegal, Mali, The Gambia and Mauritania from around the 12th century and was later known as the Jolof Kingdom.",
+                                    "The Jolof or Wolof Empire was a confederacy state that ruled parts of West Africa situated in modern-day Senegal, Mali, The Gambia and Mauritania from around the 12th century and was later known as the Jolof Kingdom."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "加羅夫飯是沃洛夫人的一种主食。",
+                                    "translated": "Galouf rice is a staple food of the Wolof people.",
+                                    "fact_aligned_sentence": "加羅夫飯是沃洛夫人的一种主食,流行于西非地区,用稻米和番茄或番茄酱制成,通常还需要加入辣椒。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8A%A0%E7%BE%85%E5%A4%AB%E9%A3%AF"
+                                },
+                                "src_context": [
+                                    "加羅夫飯是沃洛夫人的一种主食。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In French-speaking West Africa, including Beninese, Burkinabé, Guinean, Guinea-Bissauan, Ivorian, Nigerien, and Togolese cuisines, there is a variant called riz gras or riz au gras, which translates to \"fat rice\", a reference to the short-grain rice usually used in the dish.",
+                                    "In French-speaking West Africa, including Beninese, Burkinabé, Guinean, Guinea-Bissauan, Ivorian, Nigerien, and Togolese cuisines, there is a variant called riz gras or riz au gras, which translates to \"fat rice\", a reference to the short-grain rice usually used in the dish.",
+                                    "In Senegal, oral histories credit Penda Mbaye, a cook at the residence of one of the colonial rulers in Saint-Louis, Senegal, as having created the dish when she ran out of barley and substituted rice.",
+                                    "Jollof rice is one of the most common dishes in West Africa."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

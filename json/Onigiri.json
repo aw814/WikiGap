@@ -1,0 +1,468 @@
+{
+    "Onigiri": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "начинка для онигири": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "начинка для онигири",
+                                    "translated": "filling for Onigiri"
+                                },
+                                "fact": {
+                                    "original": "Морские угри имеют длинное змеевидное тело.",
+                                    "translated": "Eels have a long, snake-like body.",
+                                    "fact_aligned_sentence": "Морской угорь",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B8%D0%B3%D0%B8%D1%80%D0%B8"
+                                },
+                                "src_context": [
+                                    "Морской угорь - это рыба.",
+                                    "Морские угри обитают в соленой воде.",
+                                    "Морские угри имеют длинное змеевидное тело."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Shiokara: squid, shuto, etc.",
+                                    "Shiokara: squid, shuto, etc.",
+                                    "Fish roe: mentaiko (明太子), tarako (たらこ), tobiko (とびこ), etc.",
+                                    "Fish roe: mentaiko (明太子), tarako (たらこ), tobiko (とびこ), etc."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "начинка для онигири",
+                                    "translated": "filling for Onigiri"
+                                },
+                                "fact": {
+                                    "original": "Маринованные огурцы могут храниться долгое время благодаря консервирующим свойствам уксуса и соли.",
+                                    "translated": "Pickled cucumbers can be stored for a long time due to the preserving properties of vinegar and salt.",
+                                    "fact_aligned_sentence": "Маринованные огурцы",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B8%D0%B3%D0%B8%D1%80%D0%B8"
+                                },
+                                "src_context": [
+                                    "Маринованные огурцы часто используются в качестве закуски или добавки к различным блюдам.",
+                                    "Маринованные огурцы популярны во многих кухнях мира, включая русскую, немецкую и американскую.",
+                                    "Маринованные огурцы могут храниться долгое время благодаря консервирующим свойствам уксуса и соли."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Onigiri is made with plain rice (sometimes lightly salted), while sushi is made of rice with vinegar, sugar and salt.",
+                                    "Onigiri is made with plain rice (sometimes lightly salted), while sushi is made of rice with vinegar, sugar and salt.",
+                                    "Originally, it was used as a way to use and store left-over rice, but it later became a regular meal.",
+                                    "Many Japanese convenience stores and supermarkets stock onigiri with various fillings and flavors."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "начинка для онигири",
+                                    "translated": "filling for Onigiri"
+                                },
+                                "fact": {
+                                    "original": "Креветки являются важным источником пищи для многих морских животных.",
+                                    "translated": "Shrimp are an important food source for many marine animals.",
+                                    "fact_aligned_sentence": "Креветки",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B8%D0%B3%D0%B8%D1%80%D0%B8"
+                                },
+                                "src_context": [
+                                    "Креветки имеют удлиненное тело и длинные усики.",
+                                    "Они обитают в различных водоемах по всему миру.",
+                                    "Креветки являются важным источником пищи для многих морских животных."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Shiokara: squid, shuto, etc.",
+                                    "Shiokara: squid, shuto, etc.",
+                                    "Fish roe: mentaiko (明太子), tarako (たらこ), tobiko (とびこ), etc.",
+                                    "Fish roe: mentaiko (明太子), tarako (たらこ), tobiko (とびこ), etc."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "начинка для онигири",
+                                    "translated": "filling for Onigiri"
+                                },
+                                "fact": {
+                                    "original": "Сосиски - это мясные изделия.",
+                                    "translated": "Sausages are meat products.",
+                                    "fact_aligned_sentence": "Сосиски",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B8%D0%B3%D0%B8%D1%80%D0%B8"
+                                },
+                                "src_context": [
+                                    "Маринованные огурцы популярны во многих кухнях мира, включая русскую, немецкую и американскую.",
+                                    "Маринованные огурцы могут храниться долгое время благодаря консервирующим свойствам уксуса и соли.",
+                                    "Сосиски - это мясные изделия."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Shiokara: squid, shuto, etc.",
+                                    "Meats: kakuni, dongpo pork, char siu",
+                                    "Meats: kakuni, dongpo pork, char siu",
+                                    "Meats: kakuni, dongpo pork, char siu"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "начинка для онигири",
+                                    "translated": "filling for Onigiri"
+                                },
+                                "fact": {
+                                    "original": "Мисо-паста изготавливается из ферментированных соевых бобов.",
+                                    "translated": "Miso paste is made from fermented soybeans.",
+                                    "fact_aligned_sentence": "Мисо-паста",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B8%D0%B3%D0%B8%D1%80%D0%B8"
+                                },
+                                "src_context": [
+                                    "Комбу помогает улучшить пищеварение.",
+                                    "Мисо-паста - это традиционная японская приправа.",
+                                    "Мисо-паста изготавливается из ферментированных соевых бобов."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Onigiri is made with plain rice (sometimes lightly salted), while sushi is made of rice with vinegar, sugar and salt.",
+                                    "Onigiri is made with plain rice (sometimes lightly salted), while sushi is made of rice with vinegar, sugar and salt.",
+                                    "Shiokara: squid, shuto, etc.",
+                                    "Shiokara: squid, shuto, etc."
+                                ]
+                            }
+                        ]
+                    },
+                    "история": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "история",
+                                    "translated": "story"
+                                },
+                                "fact": {
+                                    "original": "Исторически онигири — это еда, которую крестьяне брали с собой в поле.",
+                                    "translated": "Historically, onigiri is food that peasants took with them to the fields.",
+                                    "fact_aligned_sentence": "Исторически онигири — это еда, которую крестьяне брали с собой в поле.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B8%D0%B3%D0%B8%D1%80%D0%B8"
+                                },
+                                "src_context": [
+                                    "Нередко встречаются также онигири с овальным сечением.",
+                                    "Нередко встречаются также онигири шарообразной формы.",
+                                    "Исторически онигири — это еда, которую крестьяне брали с собой в поле."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Other writings, dating back as far as the seventeenth century, state that many samurai stored rice balls wrapped in bamboo sheath as a quick lunchtime meal during war.",
+                                    "Other writings, dating back as far as the seventeenth century, state that many samurai stored rice balls wrapped in bamboo sheath as a quick lunchtime meal during war.",
+                                    "Onigiri makes rice portable and easy to eat as well as preserving it, while sushi originated as a way of preserving fish.",
+                                    "On November 12, 1987, lumps of carbonized grains of rice, thought to be riceballs, were excavated from a building belonging to the Yayoi period (2000 years ago) in the Sugitani Chanobatake Ruins in Ishikawa Prefecture."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "garniture": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "garniture",
+                                    "translated": "trim"
+                                },
+                                "fact": {
+                                    "original": "Les oursins ont un corps globulaire couvert de piquants.",
+                                    "translated": "Sea urchins have a globular body covered in spines.",
+                                    "fact_aligned_sentence": "Uni (oursin)",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Onigiri"
+                                },
+                                "src_context": [
+                                    "L'oursin est un animal marin.",
+                                    "Il appartient à la classe des échinodermes.",
+                                    "Les oursins ont un corps globulaire couvert de piquants."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "There is also a Western style variation where melted cheese is used as the filling, the rice is deep-fried with western ingredients such as ketchup and curry, and the onigiri is topped with a western-style soup.",
+                                    "Bakudan-onigiri (爆弾おにぎり \"bomb-shaped onigiri\") are large, spherical rice balls wrapped entirely in nori, so that no rice is exposed.",
+                                    "It is usually formed into triangular or cylindrical shapes, and wrapped in nori (seaweed).",
+                                    "It is usually formed into triangular or cylindrical shapes, and wrapped in nori (seaweed)."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "garniture",
+                                    "translated": "trim"
+                                },
+                                "fact": {
+                                    "original": "Ils se déplacent grâce à des pieds ambulacraires.",
+                                    "translated": "They move using ambulacral feet.",
+                                    "fact_aligned_sentence": "Uni (oursin)",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Onigiri"
+                                },
+                                "src_context": [
+                                    "Il appartient à la classe des échinodermes.",
+                                    "Les oursins ont un corps globulaire couvert de piquants.",
+                                    "Ils se déplacent grâce à des pieds ambulacraires."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Brown rice",
+                                    "Brown rice",
+                                    "Brown rice",
+                                    "Brown rice"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "garniture",
+                                    "translated": "trim"
+                                },
+                                "fact": {
+                                    "original": "anguille",
+                                    "translated": "eel",
+                                    "fact_aligned_sentence": "anguille",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Onigiri"
+                                },
+                                "src_context": [
+                                    "Poisson",
+                                    "saumon",
+                                    "anguille"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is usually formed into triangular or cylindrical shapes, and wrapped in nori (seaweed).",
+                                    "It is usually formed into triangular or cylindrical shapes, and wrapped in nori (seaweed).",
+                                    "Onigiri are typically triangular, but can come in many shapes, including round, cylindrical, rectangular, etc.",
+                                    "Onigiri are typically triangular, but can come in many shapes, including round, cylindrical, rectangular, etc."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "garniture",
+                                    "translated": "trim"
+                                },
+                                "fact": {
+                                    "original": "Fromage",
+                                    "translated": "Cheese",
+                                    "fact_aligned_sentence": "Fromage",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Onigiri"
+                                },
+                                "src_context": [
+                                    "Les oursins peuvent être trouvés dans les océans du monde entier.",
+                                    "Ils ont une capacité de régénération remarquable.",
+                                    "Fromage"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Typical fillings are listed below:",
+                                    "Dressed dishes: tuna with mayonnaise (シーチキン), shrimp with mayonnaise, negitoro (ネギトロ), etc.",
+                                    "Since the onigiri made by this machine came with nori already applied to the rice ball, over time the nori became moist and sticky, clinging to the rice.",
+                                    "A packaging improvement allowed the nori to be stored separately from the rice."
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "en tambour",
+                                    "translated": "in drum",
+                                    "fact_aligned_sentence": "en tambour, taikokei (太鼓形), c'est-à-dire la forme d'une galette ;",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Onigiri"
+                                },
+                                "src_context": [
+                                    "bōrukei",
+                                    "ボール形",
+                                    "en tambour"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Nori did not become widely available until the Genroku era (1688–1704) of the mid-Edo period, when the farming of nori and fashioning it into sheets became widespread.",
+                                    "In the 1980s, a machine to make triangular onigiri was invented.",
+                                    "Fish roe: mentaiko (明太子), tarako (たらこ), tobiko (とびこ), etc.",
+                                    "Fish roe: mentaiko (明太子), tarako (たらこ), tobiko (とびこ), etc."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Les onigiri peuvent contenir d'autres ingrédients salés ou aigres.",
+                                    "translated": "Onigiri can contain other salty or sour ingredients.",
+                                    "fact_aligned_sentence": "Ils sont le plus souvent fourrés d'une umeboshi, une petite prune séchée très salée, mais ils peuvent également renfermer du poisson grillé, comme du saumon, du thon ou autre ingrédient salé ou aigre.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Onigiri"
+                                },
+                                "src_context": [
+                                    "Les onigiri peuvent contenir du saumon.",
+                                    "Les onigiri peuvent contenir du thon.",
+                                    "Les onigiri peuvent contenir d'autres ingrédients salés ou aigres."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Originally, it was used as a way to use and store left-over rice, but it later became a regular meal.",
+                                    "Many Japanese convenience stores and supermarkets stock onigiri with various fillings and flavors.",
+                                    "Fried rice",
+                                    "Fried rice"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "L'umeboshi est une petite prune séchée très salée.",
+                                    "translated": "Umeboshi is a small, very salty dried plum.",
+                                    "fact_aligned_sentence": "Ils sont le plus souvent fourrés d'une umeboshi, une petite prune séchée très salée, mais ils peuvent également renfermer du poisson grillé, comme du saumon, du thon ou autre ingrédient salé ou aigre.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Onigiri"
+                                },
+                                "src_context": [
+                                    "Les onigiri sont bien ancrés dans la tradition culinaire japonaise.",
+                                    "Les onigiri sont le plus souvent fourrés d'une umeboshi.",
+                                    "L'umeboshi est une petite prune séchée très salée."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Tsukudani: nori, Hypoptychus dybowskii (小女子), Venerupis philippinarum (浅蜊), etc.",
+                                    "Pickled fruits and vegetables: umeboshi, takana, nozawana, etc.",
+                                    "It is usually formed into triangular or cylindrical shapes, and wrapped in nori (seaweed).",
+                                    "Onigiri traditionally have sour or salty fillings such as umeboshi (pickled Chinese plum), salted salmon, katsuobushi (smoked and fermented bonito), kombu, tarako or mentaiko (pollock roe), or takanazuke (pickled Japanese giant red mustard greens)."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "御握是将白饭捏成三角形或圆柱状的米饭团。",
+                                    "translated": "Onigiri is a rice ball formed by shaping white rice into a triangular or cylindrical shape.",
+                                    "fact_aligned_sentence": "御握(日语:御握り/おにぎり Onigiri),别称御結、握飯、御飯糰、日式飯糰、三角飯糰等,是日餐中将白饭捏成三角形或圆柱状的米饭团,外侧通常会用海苔包住,和以醋飯製成的壽司不同。御握中经常会加入梅子、腌制三文鱼、鲣鱼干、海带、明太子等酸咸味道的食物以利于保存。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%BE%A1%E6%8F%A1"
+                                },
+                                "src_context": [
+                                    "御握(日语:御握り/おにぎり Onigiri)是日餐中的一种米饭团。",
+                                    "御握的别称有御結、握飯、御飯糰、日式飯糰、三角飯糰等。",
+                                    "御握是将白饭捏成三角形或圆柱状的米饭团。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Usually, onigiri is made with boiled white rice, though it is sometimes made with different varieties of cooked rice, such as:",
+                                    "Okowa or kowa-meshi: glutinous rice cooked or steamed with vegetables",
+                                    "Maze-gohan: rice cooked with various preferred ingredients",
+                                    "Fried rice"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "御握的别称有御結、握飯、御飯糰、日式飯糰、三角飯糰等。",
+                                    "translated": "The alternative names for \"onigiri\" include \"yukari,\" \"gripped rice,\" \"rice balls,\" \"Japanese rice balls,\" and \"triangular rice balls,\" etc.",
+                                    "fact_aligned_sentence": "御握(日语:御握り/おにぎり Onigiri),别称御結、握飯、御飯糰、日式飯糰、三角飯糰等,是日餐中将白饭捏成三角形或圆柱状的米饭团,外侧通常会用海苔包住,和以醋飯製成的壽司不同。御握中经常会加入梅子、腌制三文鱼、鲣鱼干、海带、明太子等酸咸味道的食物以利于保存。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%BE%A1%E6%8F%A1"
+                                },
+                                "src_context": [
+                                    "御握(日语:御握り/おにぎり Onigiri)是日餐中的一种米饭团。",
+                                    "御握的别称有御結、握飯、御飯糰、日式飯糰、三角飯糰等。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Onigiri (お握り or 御握り), also known as omusubi (お結び) or nigirimeshi (握り飯), is a Japanese rice ball made from white rice.",
+                                    "There are several variations of the age-onigiri.",
+                                    "For example, there is a version where the rice being fried has Japanese flavoring, such as takikomi gohan."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "御握的外侧通常会用海苔包住。",
+                                    "translated": "The outer side of the sushi roll is usually wrapped in nori.",
+                                    "fact_aligned_sentence": "御握(日语:御握り/おにぎり Onigiri),别称御結、握飯、御飯糰、日式飯糰、三角飯糰等,是日餐中将白饭捏成三角形或圆柱状的米饭团,外侧通常会用海苔包住,和以醋飯製成的壽司不同。御握中经常会加入梅子、腌制三文鱼、鲣鱼干、海带、明太子等酸咸味道的食物以利于保存。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%BE%A1%E6%8F%A1"
+                                },
+                                "src_context": [
+                                    "御握的别称有御結、握飯、御飯糰、日式飯糰、三角飯糰等。",
+                                    "御握是将白饭捏成三角形或圆柱状的米饭团。",
+                                    "御握的外侧通常会用海苔包住。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Fried rice",
+                                    "Fried rice",
+                                    "The rice may be seasoned with salt, sesame, furikake, dried shiso flakes, and so on.",
+                                    "Onigiri are typically triangular, but can come in many shapes, including round, cylindrical, rectangular, etc."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

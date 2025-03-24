@@ -1,0 +1,416 @@
+{
+    "Satay": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "разновидности": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "индонезия",
+                                    "translated": "Indonesia"
+                                },
+                                "header_1": {
+                                    "original": "разновидности",
+                                    "translated": "varieties"
+                                },
+                                "fact": {
+                                    "original": "В качестве соуса к десертным шашлычкам предлагается подавать йогурт, смешанный с мёдом.",
+                                    "translated": "As a sauce for dessert kebabs, it is suggested to serve yogurt mixed with honey.",
+                                    "fact_aligned_sentence": "Появились даже рецепты десертных шашлычков из фруктового ассорти, в качестве соуса к которым предлагается подавать йогурт, смешанный с мёдом.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%82%D0%B5"
+                                },
+                                "src_context": [
+                                    "Фрукты, используемые для шашлычков, включают ананас, банан, яблоко, персик и клубнику.",
+                                    "Появились рецепты десертных шашлычков из фруктового ассорти.",
+                                    "В качестве соуса к десертным шашлычкам предлагается подавать йогурт, смешанный с мёдом."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Peanut sauce is used in Singaporean satays, Malay satay is quite similar to Indonesian satay by using kecap manis (sweet soy sauce), while Chinese Hainan satay uses pineapple purée sauce and marinated in five-spice powder.",
+                                    "Peanut sauce is used in Singaporean satays, Malay satay is quite similar to Indonesian satay by using kecap manis (sweet soy sauce), while Chinese Hainan satay uses pineapple purée sauce and marinated in five-spice powder.",
+                                    "Most often made from mutton or chicken, the recipe's main characteristic is the black sauce made from Indonesian sweet soy sauce/kecap manis mixed with palm sugar (called gula jawa or \"Javanese sugar\" in Indonesia), garlic, deep fried shallots, peanut paste, petis (a kind of shrimp paste), kemiri (candlenut), and salt.",
+                                    "Most often made from mutton or chicken, the recipe's main characteristic is the black sauce made from Indonesian sweet soy sauce/kecap manis mixed with palm sugar (called gula jawa or \"Javanese sugar\" in Indonesia), garlic, deep fried shallots, peanut paste, petis (a kind of shrimp paste), kemiri (candlenut), and salt."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "индонезия",
+                                    "translated": "Indonesia"
+                                },
+                                "header_1": {
+                                    "original": "разновидности",
+                                    "translated": "varieties"
+                                },
+                                "fact": {
+                                    "original": "37 % рецептов индонезийского сате готовится из курятины.",
+                                    "translated": "37% of Indonesian satay recipes are made from chicken.",
+                                    "fact_aligned_sentence": "При этом, по вышеуказанным расчётам, абсолютное большинство индонезийских сате готовится из животных продуктов, а 96 % из них приходится на три наиболее популярных вида мяса и соответствующих субпродуктов: говядину (38 % рецептов), курятину (37 %) и козлятину (21 %).",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%82%D0%B5"
+                                },
+                                "src_context": [
+                                    "96 % индонезийских сате приходится на три наиболее популярных вида мяса и соответствующих субпродуктов: говядину, курятину и козлятину.",
+                                    "38 % рецептов индонезийского сате готовится из говядины.",
+                                    "37 % рецептов индонезийского сате готовится из курятины."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Indonesian version maintain the light Chinese-style seasoning, replaces pork with chicken, and adds spiciness with the addition of hot sambal.",
+                                    "The Indonesian version maintain the light Chinese-style seasoning, replaces pork with chicken, and adds spiciness with the addition of hot sambal.",
+                                    "Most often made from mutton or chicken, the recipe's main characteristic is the black sauce made from Indonesian sweet soy sauce/kecap manis mixed with palm sugar (called gula jawa or \"Javanese sugar\" in Indonesia), garlic, deep fried shallots, peanut paste, petis (a kind of shrimp paste), kemiri (candlenut), and salt.",
+                                    "Most often made from mutton or chicken, the recipe's main characteristic is the black sauce made from Indonesian sweet soy sauce/kecap manis mixed with palm sugar (called gula jawa or \"Javanese sugar\" in Indonesia), garlic, deep fried shallots, peanut paste, petis (a kind of shrimp paste), kemiri (candlenut), and salt."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "нидерланды",
+                                    "translated": "Netherlands"
+                                },
+                                "header_1": {
+                                    "original": "разновидности",
+                                    "translated": "varieties"
+                                },
+                                "fact": {
+                                    "original": "Голландцы колонизировали Индонезию с конца XVI по середину XX века.",
+                                    "translated": "The Dutch colonized Indonesia from the late 16th to the mid-20th century.",
+                                    "fact_aligned_sentence": "В Нидерландах сате является одним из наиболее популярных среди немалого числа блюд, заимствованных в Индонезии, которую голландцы колонизировали с конца XVI по середину XX века.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%82%D0%B5"
+                                },
+                                "src_context": [
+                                    "Существенные особенности филиппинских сатти заключаются в сопровождающих их традиционных гарнирах.",
+                                    "В Нидерландах сате является одним из наиболее популярных среди немалого числа блюд, заимствованных в Индонезии.",
+                                    "Голландцы колонизировали Индонезию с конца XVI по середину XX века."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In the 19th century, the term migrated, presumably with Malay immigrants from the Dutch East Indies, to South Africa, where it is known as sosatie.",
+                                    "The Indo Dutch people took this dish, as well as many other Indonesian specialties, to the Netherlands, thereby influencing Dutch cuisine.",
+                                    "The Indo Dutch people took this dish, as well as many other Indonesian specialties, to the Netherlands, thereby influencing Dutch cuisine.",
+                                    "The Indo Dutch people took this dish, as well as many other Indonesian specialties, to the Netherlands, thereby influencing Dutch cuisine."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "малайзия и малаеязычные территории",
+                                    "translated": "Malaysia and Malaya -speaking territories"
+                                },
+                                "header_1": {
+                                    "original": "разновидности",
+                                    "translated": "varieties"
+                                },
+                                "fact": {
+                                    "original": "Сате-лок-лок родом из Тренгану.",
+                                    "translated": "Sate lok lok originates from Terengganu.",
+                                    "fact_aligned_sentence": "Разница между ними состоит прежде всего в том, что сате-челуп, считающийся специалитетом штата Малакка, варят в разогретом арахисовом соусе, а сате-лок-лок, родиной которого является Тренгану, в кипятке.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%82%D0%B5"
+                                },
+                                "src_context": [
+                                    "Сате-челуп считается специалитетом штата Малакка.",
+                                    "Сате-челуп варят в разогретом арахисовом соусе.",
+                                    "Сате-лок-лок родом из Тренгану."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Stingray Satay, a satay dish from Tana Tidung Regency, North Kalimantan.",
+                                    "Stingray Satay, a satay dish from Tana Tidung Regency, North Kalimantan.",
+                                    "Tuna Satay, a specialty satay from Gorontalo.",
+                                    "Tuna Satay, a specialty satay from Gorontalo."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "индонезия",
+                                    "translated": "Indonesia"
+                                },
+                                "header_1": {
+                                    "original": "разновидности",
+                                    "translated": "varieties"
+                                },
+                                "fact": {
+                                    "original": "Сате по-манггарайски готовится из предварительно проваренных и выдержанных в листьях папайи кусочков говядины и говяжьего сала, которые нанизываются на шампур попеременно.",
+                                    "translated": "Sate in Manggarai style is prepared from previously boiled and marinated pieces of beef and beef fat, which are alternately skewered on a skewer.",
+                                    "fact_aligned_sentence": "Так, в Индонезии широко известны сате по-мадурски (из курятины или козлятины в особом остро-сладком маринаде с добавлением толчёного арахиса); по-манггарайски (из предварительно проваренных и выдержанных в листьях папайи кусочков говядины и говяжьего сала, которые нанизываются на шампур попеременно); по-тегальски (из молодой немаринованной ягнятины, кусочки которой чередуются на шпажке с кусочками бараньего жира, печени или почек); по-понорогски (на шампуры нанизывается только по одному продолговатому кусочку курятины, которые жарятся на керамическом мангале особой конструкции); по-блорски (из крошечных кусочков курятины или куриных субпродуктов — желудков, сердечек или кожи, считающийся едва ли не самым миниатюрным видом сате).",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%82%D0%B5"
+                                },
+                                "src_context": [
+                                    "Сате по-мадурски готовится из курятины или козлятины в особом остро-сладком маринаде с добавлением толчёного арахиса.",
+                                    "В Индонезии широко известны сате по-манггарайски.",
+                                    "Сате по-манггарайски готовится из предварительно проваренных и выдержанных в листьях папайи кусочков говядины и говяжьего сала, которые нанизываются на шампур попеременно."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Thus usually the seller offers both sate kuah and soto tangkar.",
+                                    "The serving method are either grilled beef satay are dipped into soto soup, or the satay meat are stripped from the skewers and put into the soto soup.",
+                                    "Its main characteristic is a yellow sauce made from rice flour mixed with spicy offal broth, turmeric, ginger, garlic, coriander, galangal root, cumin, curry powder and salt.",
+                                    "Its main characteristic is a yellow sauce made from rice flour mixed with spicy offal broth, turmeric, ginger, garlic, coriander, galangal root, cumin, curry powder and salt."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "филиппины",
+                                    "translated": "Philippines"
+                                },
+                                "header_1": {
+                                    "original": "разновидности",
+                                    "translated": "varieties"
+                                },
+                                "fact": {
+                                    "original": "Для сатти не используются какие-либо «экзотические» животные продукты.",
+                                    "translated": "For satty, no 'exotic' animal products are used.",
+                                    "fact_aligned_sentence": "Не используются для сатти ни растительные, ни какие-либо «экзотические» животные продукты.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%82%D0%B5"
+                                },
+                                "src_context": [
+                                    "Свиные сатти нередко готовятся филиппинцами-христианами на Минданао и некоторых близлежащих островах.",
+                                    "Для сатти не используются растительные продукты.",
+                                    "Для сатти не используются какие-либо «экзотические» животные продукты."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "According to the Oxford English Dictionary, the English word satay is derived from the Malay word satai, also saté or sate in Indonesian, ultimately originating from Tamil catai (சதை, a regional variant of tacai meaning 'flesh'.",
+                                    "According to the Oxford English Dictionary, the English word satay is derived from the Malay word satai, also saté or sate in Indonesian, ultimately originating from Tamil catai (சதை, a regional variant of tacai meaning 'flesh'.",
+                                    "A satay dish from Cirebon.",
+                                    "The word kalong (bat) does not mean the satay used bat meat but because the food is sold in the evening."
+                                ]
+                            }
+                        ]
+                    },
+                    "приготовление": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "шампуры",
+                                    "translated": "Sharpuras"
+                                },
+                                "header_1": {
+                                    "original": "приготовление",
+                                    "translated": "Cooking"
+                                },
+                                "fact": {
+                                    "original": "Ровные гладкие шпажки обычно имеют от 25 до 40 сантиметров в длину.",
+                                    "translated": "Straight smooth skewers usually measure between 25 to 40 centimeters in length.",
+                                    "fact_aligned_sentence": "Их серийное производство требует использования деревообрабатывающих станков, позволяющих не только раскалывать бамбуковые стволы по вертикали, но и обтачивать щепу, превращая её в ровные гладкие шпажки, имеющие обычно от 25 до 40 сантиметров в длину.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%82%D0%B5"
+                                },
+                                "src_context": [
+                                    "Серийное производство круглых в сечении шампуров требует использования деревообрабатывающих станков.",
+                                    "Деревообрабатывающие станки позволяют не только раскалывать бамбуковые стволы по вертикали, но и обтачивать щепу, превращая её в ровные гладкие шпажки.",
+                                    "Ровные гладкие шпажки обычно имеют от 25 до 40 сантиметров в длину."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The skewers are usually soaked in water before using to avoid burning during grilling.",
+                                    "Each skewer usually holds three or four pieces of meat.",
+                                    "Sate Hati",
+                                    "Liver Satay."
+                                ]
+                            }
+                        ]
+                    },
+                    "происхождение и этимология названия": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "происхождение и этимология названия",
+                                    "translated": "The origin and etymology of the name"
+                                },
+                                "fact": {
+                                    "original": "Версия о китайском происхождении названия сате считается достаточно спорной.",
+                                    "translated": "The version about the Chinese origin of the name \"sate\" is considered quite controversial.",
+                                    "fact_aligned_sentence": "саньдежоу), означающему «мясо в три слоя», которое теоретически может подразумевать три кусочка мяса, плотно нанизанных на шампур.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%82%D0%B5"
+                                },
+                                "src_context": [
+                                    "Словосочетание «са тэ бак» означает «мясо в три слоя».",
+                                    "Словосочетание «са тэ бак» теоретически может подразумевать три кусочка мяса, плотно нанизанных на шампур.",
+                                    "Версия о китайском происхождении названия сате считается достаточно спорной."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "According to the Oxford English Dictionary, the English word satay is derived from the Malay word satai, also saté or sate in Indonesian, ultimately originating from Tamil catai (சதை, a regional variant of tacai meaning 'flesh'.",
+                                    "According to the Oxford English Dictionary, the English word satay is derived from the Malay word satai, also saté or sate in Indonesian, ultimately originating from Tamil catai (சதை, a regional variant of tacai meaning 'flesh'.",
+                                    "The term is mentioned as saté in Dutch with one of earliest photographs of satay seller appeared circa 1870 in Java, Dutch East Indies.",
+                                    "The usage in English was first attested in 1917 with reference to a \"satai\" seller in Singapore, later a mention of saté in Denpasar, Bali appeared in 1937, with a description of Malays cooking satay appearing in 1955."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Le terme « sauce sate » est régulièrement utilisé pour désigner un accompagnement de frites.",
+                                    "translated": "The term \"satay sauce\" is regularly used to refer to a condiment for fries.",
+                                    "fact_aligned_sentence": "Le terme « sauce sate » régulièrement utilisé pour désigner, notamment, un accompagnement de frites est un abus de langage[réf.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Sate"
+                                },
+                                "src_context": [
+                                    "Le sud-est asiatique inclut Singapour, la Malaisie et la Thaïlande.",
+                                    "Ce plat s'est répandu dans les établissements de restauration rapide néerlandaise à la suite de la colonisation.",
+                                    "Le terme « sauce sate » est régulièrement utilisé pour désigner un accompagnement de frites."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "However, since the most popular variant of satay is chicken satay in peanut sauce (Sate Madura in Indonesia), in modern fusion cuisine the term \"satay\" has shifted to satay style peanut sauce instead.",
+                                    "However, since the most popular variant of satay is chicken satay in peanut sauce (Sate Madura in Indonesia), in modern fusion cuisine the term \"satay\" has shifted to satay style peanut sauce instead.",
+                                    "In addition, 'saté' sauce or peanut sauce has become one of the standard options as a condiment to accompany a portion of fries bought in a snackbar (besides mayonnaise, ketchup, curry-ketchup, 'joppiesaus' or a combination).",
+                                    "Fries with satay sauce is commonly known as patatje pinda ('fries peanut') and fries with satay sauce, mayonaise and chopped unions is called patatje oorlog ('fries war')."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "La sauce cacahuète dont le vrai nom est bumbu kacang.",
+                                    "translated": "'The peanut sauce, whose real name is bumbu kacang.'",
+                                    "fact_aligned_sentence": "La sauce cacahuète dont le vrai nom est bumbu kacang n'est qu'une des nombreuses variétés de sauces pouvant accompagner les brochettes.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Sate"
+                                },
+                                "src_context": [
+                                    "Cet abus de langage est passé dans la langue usuelle.",
+                                    "Le sate est en réalité la brochette en elle-même.",
+                                    "La sauce cacahuète dont le vrai nom est bumbu kacang."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Most often made from mutton or chicken, the recipe's main characteristic is the black sauce made from Indonesian sweet soy sauce/kecap manis mixed with palm sugar (called gula jawa or \"Javanese sugar\" in Indonesia), garlic, deep fried shallots, peanut paste, petis (a kind of shrimp paste), kemiri (candlenut), and salt.",
+                                    "Most often made from mutton or chicken, the recipe's main characteristic is the black sauce made from Indonesian sweet soy sauce/kecap manis mixed with palm sugar (called gula jawa or \"Javanese sugar\" in Indonesia), garlic, deep fried shallots, peanut paste, petis (a kind of shrimp paste), kemiri (candlenut), and salt.",
+                                    "The sauce for sate ampet is hot and spicy, which is no surprise since the island's name, lombok merah, means red chili.",
+                                    "The sauce for sate ampet is hot and spicy, which is no surprise since the island's name, lombok merah, means red chili."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "各國的特色": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "菲律賓",
+                                    "translated": "the Philippines"
+                                },
+                                "header_1": {
+                                    "original": "各國的特色",
+                                    "translated": "Characteristics of various countries"
+                                },
+                                "fact": {
+                                    "original": "薩蒂除了在大馬尼拉市區的穆斯林的“熟食店”可以找到以外，並沒有擴大到該地區以外的信仰天主教為主的地區。",
+                                    "translated": "Sati can only be found in the Muslim 'delis' in the Greater Manila area, and has not expanded to predominantly Catholic areas outside of that region.",
+                                    "fact_aligned_sentence": "蘇祿的薩蒂使用牛肉、雞(manuk)、山羊肉(kambing)和羊肉(anak biri),沒有不符合伊斯蘭教教規的豬肉。薩蒂在菲律賓南部的蘇祿族、巴瑶族當地人以及在主要城市三寶顏和達沃是著名的食品,但是除了在大馬尼拉市區的穆斯林的“熟食店”可以找到以外,薩蒂並沒有擴大到該地區以外的信仰天主教為主的地區。正宗薩蒂是由專門烹調這種食物的餐館和食堂供應,食譜是諱莫如深的密秘。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E6%B2%99%E5%97%B2"
+                                },
+                                "src_context": [
+                                    "蘇祿的薩蒂沒有不符合伊斯蘭教教規的豬肉。",
+                                    "薩蒂在菲律賓南部的蘇祿族、巴瑶族當地人以及在主要城市三寶顏和達沃是著名的食品。",
+                                    "薩蒂除了在大馬尼拉市區的穆斯林的“熟食店”可以找到以外，並沒有擴大到該地區以外的信仰天主教為主的地區。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Satay originated in Java, but has spread throughout Indonesia, into Southeast Asia, Europe, America, and beyond.",
+                                    "Satay originated in Java, but has spread throughout Indonesia, into Southeast Asia, Europe, America, and beyond.",
+                                    "The sunggi satay vendors—usually women—carry raw satays, lontongs, peanut sauce upon the wooden or wicker bamboo tray on their head, while carrying basket containing grill, charcoal, bamboo fan, sweet soy sauce bottle, and wooden small short chair called dingklik.",
+                                    "The satay seller ladies may walk through residential areas or position their wares in busy areas (e.g."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "菲律賓",
+                                    "translated": "the Philippines"
+                                },
+                                "header_1": {
+                                    "original": "各國的特色",
+                                    "translated": "Characteristics of various countries"
+                                },
+                                "fact": {
+                                    "original": "薩蒂準備肉類的屠宰方法是符合伊斯蘭教教規的食物。",
+                                    "translated": "The method of slaughtering meat prepared by Sati is in accordance with Islamic dietary laws.",
+                                    "fact_aligned_sentence": "菲律賓南部摩洛人(棉蘭老島,蘇祿群島,巴拉望島南部和塔威塔威省)的薩蒂(Satti)非常類似傳統的馬來和印尼沙嗲。相似之處包括肉的準備和烹調方法,不同之處是,薩蒂搭配厚厚的花生口味湯汁,而不是乾吃。薩蒂基本醃料包括使用的花生,大蒜,生薑,蔥,小茴香,菲律賓魚露(Bagoong),辣椒和椰奶。由於這些地區以穆斯林為主的,薩蒂準備肉類的屠宰方法是符合伊斯蘭教教規的食物。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E6%B2%99%E5%97%B2"
+                                },
+                                "src_context": [
+                                    "薩蒂的基本醃料包括花生、大蒜、生薑、蔥、小茴香、菲律賓魚露(Bagoong)、辣椒和椰奶。",
+                                    "這些地區以穆斯林為主。",
+                                    "薩蒂準備肉類的屠宰方法是符合伊斯蘭教教規的食物。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Sate Paru",
+                                    "Beef lung satay.",
+                                    "Sate plecing",
+                                    "Satay made with variety of grilled meat most often pork, served with sambal plecing, sauce made from chili, garlic, onion, tomatoes, and shrimp paste, popular in Balinese cuisine."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "印度尼西亞",
+                                    "translated": "Indonesia"
+                                },
+                                "header_1": {
+                                    "original": "各國的特色",
+                                    "translated": "Characteristics of various countries"
+                                },
+                                "fact": {
+                                    "original": "淡水烏龜肉沙嗲配上辣椒。",
+                                    "translated": "Freshwater turtle meat satay served with chili.",
+                                    "fact_aligned_sentence": "淡水烏龜肉沙嗲是另一來自日惹的難得的美味。以竹籤串好,在炭火上烤成。配上切片的新鮮紅蔥頭、辣椒、甜醬油。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E6%B2%99%E5%97%B2"
+                                },
+                                "src_context": [
+                                    "淡水烏龜肉沙嗲在炭火上烤成。",
+                                    "淡水烏龜肉沙嗲配上切片的新鮮紅蔥頭。",
+                                    "淡水烏龜肉沙嗲配上辣椒。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Sate Ayam Rebus",
+                                    "Boiled chicken satay.",
+                                    "Sate Usus",
+                                    "Chicken intestine satay."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "印度尼西亞",
+                                    "translated": "Indonesia"
+                                },
+                                "header_1": {
+                                    "original": "各國的特色",
+                                    "translated": "Characteristics of various countries"
+                                },
+                                "fact": {
+                                    "original": "肉在燒烤前不先醃過。",
+                                    "translated": "The meat is not marinated before grilling.",
+                                    "fact_aligned_sentence": "羔羊沙嗲是由一歲或五個月大的羔羊作成的羊肉沙嗲。每碟包含20串,每串四塊肉 - 兩片肉,一塊肥肉,然後另一塊肉。肥肉有時可以一塊羊肝、羊心或羊腎取代。肉在燒烤前不先醃過。吃的時候配上甜醬油(中等甜度,略加些開水沖淡),新鮮辣椒切片,紅蔥頭切片,青西紅柿切成四瓣,和米飯。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E6%B2%99%E5%97%B2"
+                                },
+                                "src_context": [
+                                    "肥肉有時可以一塊羊心取代。",
+                                    "肥肉有時可以一塊羊腎取代。",
+                                    "肉在燒烤前不先醃過。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Sate Kuda",
+                                    "Sate Kuda",
+                                    "Sate Telur Muda",
+                                    "Sate Telur Muda"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

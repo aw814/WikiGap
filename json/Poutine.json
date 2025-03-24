@@ -1,0 +1,361 @@
+{
+    "Poutine": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "ссылки": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "ссылки",
+                                    "translated": "Links"
+                                },
+                                "fact": {
+                                    "original": "(фр.)",
+                                    "translated": "(french)",
+                                    "fact_aligned_sentence": "(фр.)",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE)"
+                                },
+                                "src_context": [
+                                    "www.mapoutine.ca",
+                                    "A website for poutine lovers!",
+                                    "(фр.)"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In a 2013 study of Canadian restaurants, poutine was found to have the second-highest sodium (1547 mg average and as high as 2227 mg) among single meal items, after stir-fry entrées.",
+                                    "In a 2013 study of Canadian restaurants, poutine was found to have the second-highest sodium (1547 mg average and as high as 2227 mg) among single meal items, after stir-fry entrées.",
+                                    "As poutine gained popularity beyond the provincial borders of Quebec in the mid-2000s, the dish gradually stopped being mocked and was eventually introduced into the popular discourse as a symbol of Canadian identity.",
+                                    "Today, the dish is often presented as being a part of Canadian cuisine, even as Canada's national dish."
+                                ]
+                            }
+                        ]
+                    },
+                    "история": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "история",
+                                    "translated": "story"
+                                },
+                                "fact": {
+                                    "original": "Жан-Ги (или Эдди) Лэнесс потом вдруг решил посыпать картофель фри молодым сыром.",
+                                    "translated": "Jean-Gi (or Eddie) Laness then suddenly decided to sprinkle the French fries with young cheese.",
+                                    "fact_aligned_sentence": "Один из посетителей ресторана по имени Жан-Ги (или Эдди) Лэнесс заказал у хозяина по имени Фернан Лашанс тарелку картофеля фри, а потом вдруг решил посыпать его молодым сыром.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE)"
+                                },
+                                "src_context": [
+                                    "Ресторан Le lutin qui rit располагался на улице Сен-Луи городка Уорик, в Центральном Квебеке.",
+                                    "Один из посетителей ресторана по имени Жан-Ги (или Эдди) Лэнесс заказал у хозяина по имени Фернан Лашанс тарелку картофеля фри.",
+                                    "Жан-Ги (или Эдди) Лэнесс потом вдруг решил посыпать картофель фри молодым сыром."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Chef Mark McEwan served lobster poutine at his Bymark eatery, and chef Jamie Kennedy served braised beef poutine at his eponymous restaurant.",
+                                    "Chef Mark McEwan served lobster poutine at his Bymark eatery, and chef Jamie Kennedy served braised beef poutine at his eponymous restaurant.",
+                                    "The dish \"poutine\" appears on the establishment's 1957 menu.",
+                                    "Lachance served this on a plate, and beginning in 1962 added hot gravy to keep it warm."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "история",
+                                    "translated": "story"
+                                },
+                                "fact": {
+                                    "original": "Владелец ресторана по имени Жан-Поль Руа (ум. 2007) уверял, что именно он придумал путин.",
+                                    "translated": "The restaurant owner named Jean-Paul Roux (died 2007) insisted that he was the one who invented putin.",
+                                    "fact_aligned_sentence": "2007) уверял, что именно он придумал путин.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE)"
+                                },
+                                "src_context": [
+                                    "По другой версии, путин впервые подали в открывшемся в 1964 на улице Сен-Жозеф в Драммонвилле, в Центральном Квебеке, в ресторане Le roy Jucep.",
+                                    "Le roy Jucep — в названии обыгрывается фамилия владельца, произносящаяся так же, как французское слово roi — король, и народное произношение имени Жозеф — Иосиф по названию улицы.",
+                                    "Владелец ресторана по имени Жан-Поль Руа (ум. 2007) уверял, что именно он придумал путин."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "According to Canadian food researcher Sylvain Charlebois, while Warwick is the birthplace of poutine, Drummondville's Jean-Paul Roy is the true inventor since le Roy Jucep was the first to sell poutine with three combined ingredients, in 1964.",
+                                    "According to Canadian food researcher Sylvain Charlebois, while Warwick is the birthplace of poutine, Drummondville's Jean-Paul Roy is the true inventor since le Roy Jucep was the first to sell poutine with three combined ingredients, in 1964.",
+                                    "The restaurant displays a copyright registration certificate, issued by the Canadian Intellectual Property Office, which alludes to Roy having invented poutine.",
+                                    "The restaurant displays a copyright registration certificate, issued by the Canadian Intellectual Property Office, which alludes to Roy having invented poutine."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "история",
+                                    "translated": "story"
+                                },
+                                "fact": {
+                                    "original": "Николе (Nicolet) или Сент-Иасент (Saint-Hyacinthe).",
+                                    "translated": "Nicolet or Saint-Hyacinthe.",
+                                    "fact_aligned_sentence": "Николе (Nicolet) или Сент-Иасент (Saint-Hyacinthe).",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE)"
+                                },
+                                "src_context": [
+                                    "Название блюда якобы происходит от прозвища работавшего в ресторане повара — Ти-Пу.",
+                                    "Об этом же говорится на официальном сайте существующего по сей день ресторана.",
+                                    "Николе (Nicolet) или Сент-Иасент (Saint-Hyacinthe)."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The restaurant displays a copyright registration certificate, issued by the Canadian Intellectual Property Office, which alludes to Roy having invented poutine.",
+                                    "La Petite Vache, Princeville  – Customers would mix cheese curds with their fries, a combination which was added to the menu.",
+                                    "The calls targeted voters who had previously indicated they would not vote for the Conservative Party.",
+                                    "The calls, made on election day or the day before, falsely advised voters that their polling station had been changed, in an attempt to prevent them from voting."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "история",
+                                    "translated": "story"
+                                },
+                                "fact": {
+                                    "original": "Возможно, путин — родом из Принсвилля, в Центральном Квебеке, где находилась сыроварня Принцесса.",
+                                    "translated": "Perhaps Putin is from Princeville, in Central Quebec, where the Princess cheese factory was located.",
+                                    "fact_aligned_sentence": "Возможно, путин — родом из Принсвилля, в Центральном Квебеке, где находилась сыроварня Принцесса.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE)"
+                                },
+                                "src_context": [
+                                    "Это могло бы также служить объяснением появления путина.",
+                                    "Принсвилль (Princeville).",
+                                    "Возможно, путин — родом из Принсвилля, в Центральном Квебеке, где находилась сыроварня Принцесса."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The restaurant displays a copyright registration certificate, issued by the Canadian Intellectual Property Office, which alludes to Roy having invented poutine.",
+                                    "La Petite Vache, Princeville  – Customers would mix cheese curds with their fries, a combination which was added to the menu.",
+                                    "Poutine (Quebec French: [puˈt͡sɪn] ) is a  dish of french fries and cheese curds topped with a brown gravy.",
+                                    "It emerged in Quebec in the late 1950s in the Centre-du-Québec region, though its exact origins are uncertain, and there are several competing claims regarding its invention."
+                                ]
+                            }
+                        ]
+                    },
+                    "этимология": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "этимология",
+                                    "translated": "etymology"
+                                },
+                                "fact": {
+                                    "original": "Путин — разг. канад.",
+                                    "translated": "Putin - colloquial Canadian.",
+                                    "fact_aligned_sentence": "Искажённое английское пудинг.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%BD_(%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE)"
+                                },
+                                "src_context": [
+                                    "Книга была озаглавлена «Франко-канадский глоссарий и словарь искажённых выражений, употребляемых в Канаде».",
+                                    "В книге содержится слово путин в значении.",
+                                    "Путин — разг. канад."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Poutine spread to the United Kingdom, Korea and Russia, where it has been referred to as \"Raspoutine\".",
+                                    "Poutine spread to the United Kingdom, Korea and Russia, where it has been referred to as \"Raspoutine\".",
+                                    "A similar dish known as chips, cheese and gravy, consisting of thick-cut chips covered in shredded Manx Cheddar cheese and topped with a thick beef gravy, is popular in the Isle of Man.",
+                                    "A cultural marker, poutine had long been Quebec's adored junk food before spreading across the rest of Canada and the United States."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "variantes": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "variantes",
+                                    "translated": "variants"
+                                },
+                                "fact": {
+                                    "original": "La poutine 3 poivres est une variante de la poutine ordinaire.",
+                                    "translated": "The three-pepper poutine is a variant of the ordinary poutine.",
+                                    "fact_aligned_sentence": "la poutine 3 poivres : poutine ordinaire où la sauce brune est remplacée par une sauce 3 poivres.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Poutine_(plat)"
+                                },
+                                "src_context": [
+                                    "La poutine de patates douces est une poutine ordinaire.",
+                                    "Dans la poutine de patates douces, les patates ordinaires sont remplacées par des patates douces.",
+                                    "La poutine 3 poivres est une variante de la poutine ordinaire."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Shredded mozzarella is commonly used in Saskatchewan.",
+                                    "Sweet potato may be used as a healthier alternative to french fries, adding more dietary fibre and vitamins.",
+                                    "Some recipes eliminate the cheese, but most Québécois would call such a dish a frite sauce (English: french fries with gravy), not poutine.",
+                                    "When curds are unavailable, mozzarella cheese may be an acceptable alternative."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "有些餐廳會以此來開玩笑。",
+                                    "translated": "Some restaurants will joke about this.",
+                                    "fact_aligned_sentence": ",有些餐廳會以此來開玩笑。但自從2022年的俄烏戰爭爆發後,有不少餐廳為表示抗議,紛紛將這道菜式改名。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%9B%96%E6%B5%87%E8%96%AF%E6%9D%A1"
+                                },
+                                "src_context": [
+                                    "魁北克省内的黎塞留河畔圣让(Saint-Jean-sur-Richelieu)有一间食肆自称为魁北克美食盖浇薯条的发源地。",
+                                    "俄罗斯总统普京的姓氏在法语中也写作Poutine",
+                                    "有些餐廳會以此來開玩笑。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The dish was created in the Centre-du-Québec area in the late 1950s.",
+                                    ": 12–31  Several restaurants in the area claim to be the originators of the dish, but no consensus exists.",
+                                    "In the week following the 2022 Russian invasion of Ukraine, frequent insults and threats were received by the three Maison de la Poutine restaurants in Paris, some stating a belief that they worked for the Russian state.",
+                                    "In the week following the 2022 Russian invasion of Ukraine, frequent insults and threats were received by the three Maison de la Poutine restaurants in Paris, some stating a belief that they worked for the Russian state."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "盖浇薯条的法语名称是poutine。",
+                                    "translated": "The French name for gravy-covered fries is poutine.",
+                                    "fact_aligned_sentence": "盖浇薯条(即肉汁奶酪薯条,法語:poutine,魁北克法语发音:[put͡sɪn] ())是加拿大魁北克的特色快餐料理,做法是在炸薯条上加乾酪块,然后浇上肉汁或肉卤。 有时候还会加入火腿、香肠或者鮭鱼,通常用作配餐。现在在加拿大全境和美国北部都卖。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%9B%96%E6%B5%87%E8%96%AF%E6%9D%A1"
+                                },
+                                "src_context": [
+                                    "盖浇薯条是加拿大魁北克的特色快餐料理。",
+                                    "盖浇薯条的法语名称是poutine。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The meaning \"fries with cheese and gravy\" of poutine is among those held as probably unrelated to pudding, provided the latter view is correct.",
+                                    "The traditional recipe for poutine consists of:",
+                                    "The Dictionnaire historique du français québécois lists 15 meanings of poutine in Québécois and Acadian French, most of which are for kinds of food; the word poutine in the meaning \"fries with cheese and gravy\" is dated to 1982 in English.",
+                                    "The Dictionnaire historique du français québécois lists 15 meanings of poutine in Québécois and Acadian French, most of which are for kinds of food; the word poutine in the meaning \"fries with cheese and gravy\" is dated to 1982 in English."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "有时候盖浇薯条中还会加入火腿、香肠或者鮭鱼。",
+                                    "translated": "Sometimes ham, sausage, or salmon is added to the gravy-covered fries.",
+                                    "fact_aligned_sentence": "盖浇薯条(即肉汁奶酪薯条,法語:poutine,魁北克法语发音:[put͡sɪn] ())是加拿大魁北克的特色快餐料理,做法是在炸薯条上加乾酪块,然后浇上肉汁或肉卤。 有时候还会加入火腿、香肠或者鮭鱼,通常用作配餐。现在在加拿大全境和美国北部都卖。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%9B%96%E6%B5%87%E8%96%AF%E6%9D%A1"
+                                },
+                                "src_context": [
+                                    "盖浇薯条的做法是在炸薯条上加乾酪块。",
+                                    "盖浇薯条上还会浇上肉汁或肉卤。",
+                                    "有时候盖浇薯条中还会加入火腿、香肠或者鮭鱼。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "French fries: These are usually of medium thickness and fried (sometimes twice) such that the inside stays soft, while the outside is crispy.",
+                                    "French fries: These are usually of medium thickness and fried (sometimes twice) such that the inside stays soft, while the outside is crispy.",
+                                    "Le Roy Jucep, Drummondville  – This drive-in restaurant served french fries with gravy, to which some customers would add a side order of cheese curds.",
+                                    "Le Roy Jucep, Drummondville  – This drive-in restaurant served french fries with gravy, to which some customers would add a side order of cheese curds."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "魁北克省内的黎塞留河畔圣让(Saint-Jean-sur-Richelieu)有一间食肆自称为魁北克美食盖浇薯条的发源地。",
+                                    "translated": "In Saint-Jean-sur-Richelieu, Quebec, there is an eatery that claims to be the birthplace of Quebec's gourmet poutine.",
+                                    "fact_aligned_sentence": "現時盖浇薯條的發源地仍然有爭議。魁北克省內的德拉蒙德维尔(Drummondville)、維多利亞维尔(Victoriaville)及黎塞留河畔圣让(Saint-Jean-sur-Richelieu)各有一間食肆自稱為魁北克美食盖浇薯條的發源地。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%9B%96%E6%B5%87%E8%96%AF%E6%9D%A1"
+                                },
+                                "src_context": [
+                                    "魁北克省内的德拉蒙德维尔(Drummondville)有一间食肆自称为魁北克美食盖浇薯条的发源地。",
+                                    "魁北克省内的维多利亚维尔(Victoriaville)有一间食肆自称为魁北克美食盖浇薯条的发源地。",
+                                    "魁北克省内的黎塞留河畔圣让(Saint-Jean-sur-Richelieu)有一间食肆自称为魁北克美食盖浇薯条的发源地。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The restaurant displays a copyright registration certificate, issued by the Canadian Intellectual Property Office, which alludes to Roy having invented poutine.",
+                                    "La Petite Vache, Princeville  – Customers would mix cheese curds with their fries, a combination which was added to the menu.",
+                                    "It spread across Canada and internationally, and by 2021 had become the largest poutine festival in the world, with over 700 restaurants serving more than 350,000 poutines.",
+                                    "Le Grand Poutinefest is a poutine festival founded in 2015 which tours cities and towns in Quebec, operating most weekends from April to September."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "魁北克省内的德拉蒙德维尔(Drummondville)有一间食肆自称为魁北克美食盖浇薯条的发源地。",
+                                    "translated": "In Drummondville, Quebec, there is a restaurant that claims to be the birthplace of Quebec's gourmet poutine.",
+                                    "fact_aligned_sentence": "現時盖浇薯條的發源地仍然有爭議。魁北克省內的德拉蒙德维尔(Drummondville)、維多利亞维尔(Victoriaville)及黎塞留河畔圣让(Saint-Jean-sur-Richelieu)各有一間食肆自稱為魁北克美食盖浇薯條的發源地。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%9B%96%E6%B5%87%E8%96%AF%E6%9D%A1"
+                                },
+                                "src_context": [
+                                    "盖浇薯条现在在加拿大全境和美国北部都卖。",
+                                    "现时盖浇薯条的发源地仍然有争议。",
+                                    "魁北克省内的德拉蒙德维尔(Drummondville)有一间食肆自称为魁北克美食盖浇薯条的发源地。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Lachance served this on a plate, and beginning in 1962 added hot gravy to keep it warm.",
+                                    "Le Roy Jucep, Drummondville  – This drive-in restaurant served french fries with gravy, to which some customers would add a side order of cheese curds.",
+                                    "This is a trend that began in the 1990s and is credited to David McMillan of Montreal's Joe Beef and Globe restaurants.",
+                                    "This is a trend that began in the 1990s and is credited to David McMillan of Montreal's Joe Beef and Globe restaurants."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,561 @@
+{
+    "Borscht": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "технология приготовления": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "состав",
+                                    "translated": "compound"
+                                },
+                                "header_1": {
+                                    "original": "технология приготовления",
+                                    "translated": "Preparation technology"
+                                },
+                                "fact": {
+                                    "original": "В борщ нередко добавляют лавровый лист.",
+                                    "translated": "Laurel leaves are often added to borscht.",
+                                    "fact_aligned_sentence": "Наряду с обычно используемыми пряностями в виде чёрного, красного и душистого перца, укропа, петрушки и сельдерея (корня и зелени), нередко чеснока (растёртого с солёным салом и добавленного в суп), лаврового листа, могут использоваться любисток, чабрец, эстрагон, дудник, базилик, майоран.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%89"
+                                },
+                                "src_context": [
+                                    "Обычно используемые пряности включают чёрный, красный и душистый перец, укроп, петрушку и сельдерей (корень и зелень).",
+                                    "В борщ нередко добавляют чеснок, растёртый с солёным салом.",
+                                    "В борщ нередко добавляют лавровый лист."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Chopped herbs are often sprinkled on the surface of the soup; dill is most common, but parsley, chives or scallion are often added as well.",
+                                    "Chopped herbs are often sprinkled on the surface of the soup; dill is most common, but parsley, chives or scallion are often added as well.",
+                                    "A beet infusion for borscht is also mentioned in the said article.",
+                                    "A beet infusion for borscht is also mentioned in the said article."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "приготовление",
+                                    "translated": "Cooking"
+                                },
+                                "header_1": {
+                                    "original": "технология приготовления",
+                                    "translated": "Preparation technology"
+                                },
+                                "fact": {
+                                    "original": "В таком случае исключается добавление другого мяса.",
+                                    "translated": "In this case, the addition of other meat is excluded.",
+                                    "fact_aligned_sentence": "В таком случае исключается добавление другого мяса.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%89"
+                                },
+                                "src_context": [
+                                    "Борщ готовится на мясном, костном или мясокостном бульоне.",
+                                    "Региональные варианты борща, например одесский и полтавский, могут быть приготовлены на курином и гусином бульоне.",
+                                    "В таком случае исключается добавление другого мяса."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Meat, removed from the stock on which the borscht was based, may be cut into smaller chunks and either added back into the soup or served on the side with horseradish or mustard.",
+                                    "Meat, removed from the stock on which the borscht was based, may be cut into smaller chunks and either added back into the soup or served on the side with horseradish or mustard.",
+                                    "As combining meat with milk is proscribed by kosher dietary laws, Jews have developed two variants of the soup: meat (fleischik) and dairy (milchik).",
+                                    "As combining meat with milk is proscribed by kosher dietary laws, Jews have developed two variants of the soup: meat (fleischik) and dairy (milchik)."
+                                ]
+                            }
+                        ]
+                    },
+                    "разновидности": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "красный борщ",
+                                    "translated": "Red borsch"
+                                },
+                                "header_1": {
+                                    "original": "разновидности",
+                                    "translated": "varieties"
+                                },
+                                "fact": {
+                                    "original": "«Ушки» — это пельменные изделия с начинкой из грибов.",
+                                    "translated": "'Ears' are dumpling products filled with mushrooms.",
+                                    "fact_aligned_sentence": "В Польше, Литве и на западе Украины в Сочельник традиционно готовят борщ с «ушками» — одноимёнными пельменными изделиями с начинкой из грибов.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%89"
+                                },
+                                "src_context": [
+                                    "Пример борща с рыбой — борщ с бычками, свежими или консервированными.",
+                                    "В Польше, Литве и на западе Украины в Сочельник традиционно готовят борщ с «ушками».",
+                                    "«Ушки» — это пельменные изделия с начинкой из грибов."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Vatrushki are baked round cheese-filled tarts; syrniki are small pancakes wherein the cheese is mixed into the batter; and a krupenik is a casserole of buckwheat groats baked with cheese.",
+                                    "Vatrushki are baked round cheese-filled tarts; syrniki are small pancakes wherein the cheese is mixed into the batter; and a krupenik is a casserole of buckwheat groats baked with cheese.",
+                                    "Vatrushki are baked round cheese-filled tarts; syrniki are small pancakes wherein the cheese is mixed into the batter; and a krupenik is a casserole of buckwheat groats baked with cheese.",
+                                    "Vatrushki are baked round cheese-filled tarts; syrniki are small pancakes wherein the cheese is mixed into the batter; and a krupenik is a casserole of buckwheat groats baked with cheese."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "борщок",
+                                    "translated": "Borshchok"
+                                },
+                                "header_1": {
+                                    "original": "разновидности",
+                                    "translated": "varieties"
+                                },
+                                "fact": {
+                                    "original": "Под борщком в русской ресторанной кухне понимают подкрашенный свёклой консоме.",
+                                    "translated": "'In Russian restaurant cuisine, borscht refers to consomme colored with beetroot.'",
+                                    "fact_aligned_sentence": "Под борщком в русской ресторанной кухне понимают подкрашенный свёклой консоме, который подают обычно с острыми гренками.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%89"
+                                },
+                                "src_context": [
+                                    "Польский суп с куриной кровью может также носить название «борщ серый».",
+                                    "Украинский вариант щавелевого супа.",
+                                    "Под борщком в русской ресторанной кухне понимают подкрашенный свёклой консоме."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In ethnic Mennonite cuisine, borscht refers to a whole range of seasonal vegetable soups based on beef or chicken stock—from spring borscht made with spinach, sorrel and chard to summer borscht with cabbage, tomatoes, maize and squash to fall and winter borscht with cabbage, beets and potatoes.",
+                                    "In Chinese cuisine, a soup known as Luosong tang, or \"Russian soup\", is based on red cabbage and tomatoes, and lacks beetroots altogether; also known as \"Chinese borscht\", it originated in Harbin, close to the Russian border in northeast China, and has spread as far as Hong Kong.",
+                                    "Urbain Dubois and Émile Bernard, both of whom had been employed at Polish aristocratic courts, presented borscht to the French public as a Polish soup; their cookbook, La cuisine classique, published in 1856, contains a borscht recipe under the descriptive name, potage au jus de betteraves à la polonaise (lit.",
+                                    "'Polish-style beet-juice soup'), which had been changed to potage barsch à la polonaise by the third edition in 1868."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "разновидности",
+                                    "translated": "varieties"
+                                },
+                                "fact": {
+                                    "original": "Существуют такие разновидности борща, как борщ львовский.",
+                                    "translated": "There are varieties of borscht, such as Lviv borscht.",
+                                    "fact_aligned_sentence": "Существует много региональных разновидностей борща, обычно именующиеся по названию местности, в которой появились: борщ полтавский, галицкий, киевский, львовский, волынский, черниговский и другие.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%89"
+                                },
+                                "src_context": [
+                                    "Существуют такие разновидности борща, как борщ галицкий.",
+                                    "Существуют такие разновидности борща, как борщ киевский.",
+                                    "Существуют такие разновидности борща, как борщ львовский."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Variants include ciorbă de perișoare (with meatballs), ciorbă de burtă (with tripe), borș de pește (with fish) and borș de sfeclă roșie (with beetroots).",
+                                    "Variants include ciorbă de perișoare (with meatballs), ciorbă de burtă (with tripe), borș de pește (with fish) and borș de sfeclă roșie (with beetroots).",
+                                    "Variants include ciorbă de perișoare (with meatballs), ciorbă de burtă (with tripe), borș de pește (with fish) and borș de sfeclă roșie (with beetroots).",
+                                    "Variants include ciorbă de perișoare (with meatballs), ciorbă de burtă (with tripe), borș de pește (with fish) and borș de sfeclă roșie (with beetroots)."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "разновидности",
+                                    "translated": "varieties"
+                                },
+                                "fact": {
+                                    "original": "Горячий (красный) борщ является распространённым в кухне разных народов.",
+                                    "translated": "Hot (red) borscht is common in the cuisine of various peoples.",
+                                    "fact_aligned_sentence": "Горячий (красный) — этот вид борща является распространённым в кухне разных народов, особо популярен в России и на Украине;",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%89"
+                                },
+                                "src_context": [
+                                    "Существуют такие разновидности борща, как борщ черниговский.",
+                                    "В целом же, борщи можно разделить на два вида.",
+                                    "Горячий (красный) борщ является распространённым в кухне разных народов."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Green borscht (zeleny borshch), a light soup made from leaf vegetables, is an example common in Ukrainian and Russian cuisines.",
+                                    "Green borscht (zeleny borshch), a light soup made from leaf vegetables, is an example common in Ukrainian and Russian cuisines.",
+                                    "Vinegar, tomato products, lemon juice or citric acid may be used, as well as dry red wine, dill pickle juice, murături juice, sauerkraut juice, tart apples, Mirabelle plums, apricots, or a fermented rye flour and water mixture.",
+                                    "There are multiple examples of the soup in Ukrainian cuisine."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "холодный борщ",
+                                    "translated": "Cold borsch"
+                                },
+                                "header_1": {
+                                    "original": "разновидности",
+                                    "translated": "varieties"
+                                },
+                                "fact": {
+                                    "original": "Холодный зелёный борщ готовят как зелёные щи.",
+                                    "translated": "Cold green borscht is prepared like green cabbage soup.",
+                                    "fact_aligned_sentence": "Холодный зелёный борщ готовят со щавелем и шпинатом, как зелёные щи.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%89"
+                                },
+                                "src_context": [
+                                    "Холодный борщ подают, в зависимости от рецепта, с мясом или рыбой.",
+                                    "Холодный зелёный борщ готовят со щавелем и шпинатом.",
+                                    "Холодный зелёный борщ готовят как зелёные щи."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The mixture has a distinctive pink or magenta color.",
+                                    "It is served refrigerated, typically over finely chopped beetroot, cucumbers, radishes and green onion, together with halves of a hard-boiled egg and sprinkled with fresh dill.",
+                                    "Although the deep red color of beetroot borscht may remind those unfamiliar with Polish cuisine of blood, the type of borscht that does contain animal (usually poultry) blood mixed with vinegar is dark brownish-gray in color and aptly called \"gray borscht\" (barszcz szary), which is a regional name of the Polish blood soup better known as czernina.",
+                                    "Green borscht (zeleny borshch), a light soup made from leaf vegetables, is an example common in Ukrainian and Russian cuisines."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "étymologie du nom et histoire": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "étymologie du nom et histoire",
+                                    "translated": "Etymology of the name and History"
+                                },
+                                "fact": {
+                                    "original": "Ce plat était très apprécié de Catherine II.",
+                                    "translated": "This dish was very much appreciated by Catherine II.",
+                                    "fact_aligned_sentence": "Ce plat était très apprécié de Catherine II, d'Alexandre II et de la ballerine Anna Pavlova.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Bortsch"
+                                },
+                                "src_context": [
+                                    "On rajoute ensuite des tranches de betteraves, de chou, de carottes et d'autres légumes.",
+                                    "En Russie, on trouve une des premières mentions du bortsch au XVIe siècle dans le traité du Domostroï.",
+                                    "Ce plat était très apprécié de Catherine II."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The fact that certain 19th century Russian and Polish cookbooks, such as Handbook of the Experienced Russian Housewife (1842) by Yekaterina Avdeyeva and The Lithuanian Cook (1854) by Wincenta Zawadzka, refer to beetroot-based borscht as \"Little Russian borscht\" (where \"Little Russian\" is a term used at the time for ethnic Ukrainians under imperial Russian rule) suggests that this innovation took place in what is now Ukraine, whose soils and climate are particularly well suited to beet cultivation.",
+                                    "The fact that certain 19th century Russian and Polish cookbooks, such as Handbook of the Experienced Russian Housewife (1842) by Yekaterina Avdeyeva and The Lithuanian Cook (1854) by Wincenta Zawadzka, refer to beetroot-based borscht as \"Little Russian borscht\" (where \"Little Russian\" is a term used at the time for ethnic Ukrainians under imperial Russian rule) suggests that this innovation took place in what is now Ukraine, whose soils and climate are particularly well suited to beet cultivation.",
+                                    "Chopped veal, ham, or crawfish tails may be added as well.",
+                                    "This soup was known in the Grand Duchy of Lithuania, which comprised the territories of modern-day Belarus and Lithuania, and it is still part of the culinary traditions of these and neighboring nations."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "étymologie du nom et histoire",
+                                    "translated": "Etymology of the name and History"
+                                },
+                                "fact": {
+                                    "original": "Dans l'Oural, le bortsch est préparé principalement comme potage.",
+                                    "translated": "'In the Urals, borscht is primarily prepared as a soup.'",
+                                    "fact_aligned_sentence": "En Pologne, en Roumanie, en Ukraine, en Biélorussie, en Lituanie, dans le sud de la Russie et en Sibérie, le bortsch est un plat à part entière, tandis que dans le Nord de la Russie et de l'Oural, il est préparé principalement comme potage.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Bortsch"
+                                },
+                                "src_context": [
+                                    "En Sibérie, le bortsch est un plat à part entière.",
+                                    "Dans le Nord de la Russie, le bortsch est préparé principalement comme potage.",
+                                    "Dans l'Oural, le bortsch est préparé principalement comme potage."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Meat, removed from the stock on which the borscht was based, may be cut into smaller chunks and either added back into the soup or served on the side with horseradish or mustard.",
+                                    "Bacon and sausages are also commonly used as borscht garnishes.",
+                                    "Bacon and sausages are also commonly used as borscht garnishes.",
+                                    "Bacon and sausages are also commonly used as borscht garnishes."
+                                ]
+                            }
+                        ]
+                    },
+                    "recettes locales": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "en ukraine",
+                                    "translated": "in Ukraine"
+                                },
+                                "header_1": {
+                                    "original": "recettes locales",
+                                    "translated": "local revenues"
+                                },
+                                "fact": {
+                                    "original": "Le gouvernement russe a répliqué en qualifiant le bortsch d'un des plats russes les plus célèbres et les plus appréciés.",
+                                    "translated": "The Russian government responded by describing borscht as one of the most famous and beloved Russian dishes.",
+                                    "fact_aligned_sentence": "Le gouvernement russe a répliqué en qualifiant le bortsch d'un des plats russes les plus célèbres et les plus appréciés, ouvrant ainsi une « guerre du bortsch » entre les deux pays.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Bortsch"
+                                },
+                                "src_context": [
+                                    "Le bortsch peut être accompagné de crème fouettée.",
+                                    "En 2020, le chef Ievguen Klopotenko a demandé au gouvernement ukrainien de proposer l'inscription du bortsch sur la liste représentative du patrimoine culturel immatériel de l'humanité de l'UNESCO.",
+                                    "Le gouvernement russe a répliqué en qualifiant le bortsch d'un des plats russes les plus célèbres et les plus appréciés."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In 2022, UNESCO added \"Culture of Ukrainian borscht cooking\" to the List of Intangible Cultural Heritage in Need of Urgent Safeguarding, citing the Russian invasion of Ukraine.",
+                                    "In 2022, UNESCO added \"Culture of Ukrainian borscht cooking\" to the List of Intangible Cultural Heritage in Need of Urgent Safeguarding, citing the Russian invasion of Ukraine.",
+                                    "The book \"Description of the Kharkiv Governorate\" of 1785, which describes the food culture of the Ukrainians, says that borscht was the most consumed food, cooked from beets and cabbage with various other herbal spices and millet, on sour kvass; it was always made with pork lard or beef lard, on holidays with lamb or poultry, and sometimes with game.",
+                                    "The book \"Description of the Kharkiv Governorate\" of 1785, which describes the food culture of the Ukrainians, says that borscht was the most consumed food, cooked from beets and cabbage with various other herbal spices and millet, on sour kvass; it was always made with pork lard or beef lard, on holidays with lamb or poultry, and sometimes with game."
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "La plus ancienne mention connue du bortsch l'attribue à la cuisine ukrainienne.",
+                                    "translated": "The oldest known mention of borscht attributes it to Ukrainian cuisine.",
+                                    "fact_aligned_sentence": "Le bortsch, borsch ou borscht (en russe : борщ, borchtch /borɕ(ː)/  ; en ukrainien : борщ /bɔrʃt͡ʃ/, borchtch  ; en polonais : barszcz), parfois également bortch, est un potage préparé dans plusieurs pays slaves, dont la plus ancienne mention connue l'attribue à la cuisine ukrainienne,,.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Bortsch"
+                                },
+                                "src_context": [
+                                    "Parfois, il est également appelé bortch.",
+                                    "Le bortsch est préparé dans plusieurs pays slaves.",
+                                    "La plus ancienne mention connue du bortsch l'attribue à la cuisine ukrainienne."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Ukrainian legends, probably of 19th century origin, attribute the invention of beetroot borscht either to Zaporozhian Cossacks, serving in the Polish army, on their way to break the siege of Vienna in 1683, or to Don Cossacks, serving in the Russian army, while laying siege to Azov in 1695.",
+                                    "Ukrainian legends, probably of 19th century origin, attribute the invention of beetroot borscht either to Zaporozhian Cossacks, serving in the Polish army, on their way to break the siege of Vienna in 1683, or to Don Cossacks, serving in the Russian army, while laying siege to Azov in 1695.",
+                                    "The book \"Description of the Kharkiv Governorate\" of 1785, which describes the food culture of the Ukrainians, says that borscht was the most consumed food, cooked from beets and cabbage with various other herbal spices and millet, on sour kvass; it was always made with pork lard or beef lard, on holidays with lamb or poultry, and sometimes with game.",
+                                    "The book \"Description of the Kharkiv Governorate\" of 1785, which describes the food culture of the Ukrainians, says that borscht was the most consumed food, cooked from beets and cabbage with various other herbal spices and millet, on sour kvass; it was always made with pork lard or beef lard, on holidays with lamb or poultry, and sometimes with game."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "在上海及香港的演化": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "在上海及香港的演化",
+                                    "translated": "Evolution in Shanghai and Hong Kong"
+                                },
+                                "fact": {
+                                    "original": "在上海,罗宋汤尤以德大西菜社与天鹅阁等的著名。",
+                                    "translated": "In Shanghai, borscht is particularly well-known at places like De Da Western Restaurant and Swan Pavilion.",
+                                    "fact_aligned_sentence": "罗宋汤在20世纪初随着白俄难民流入上海租界开始传入了上海。因为甜菜并不适合在上海的气候条件下种植,且上海人并不习惯于罗宋汤酸酸的味道,故而上海人用捲心菜替代甜菜,用番茄酱调制汤色并且增加甜味。上海罗宋汤的一般做法是先将番茄酱用油炒製,以去掉酸味,再加入白砂糖,从而达到酸中带甜的效果。有些做法还会以牛肉汤为汤底,并加入红肠、洋山芋等材料。在上海,罗宋汤尤以德大西菜社与天鹅阁等的著名。当然随着罗宋汤之后日益家常化,罗宋汤的做法在上海民间也就随着家庭的口味千变万化了起来。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%BD%97%E5%AE%8B%E6%B1%A4"
+                                },
+                                "src_context": [
+                                    "有些做法还会以牛肉汤为汤底。",
+                                    "有些做法还会加入红肠、洋山芋等材料。",
+                                    "在上海,罗宋汤尤以德大西菜社与天鹅阁等的著名。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In ethnic Mennonite cuisine, borscht refers to a whole range of seasonal vegetable soups based on beef or chicken stock—from spring borscht made with spinach, sorrel and chard to summer borscht with cabbage, tomatoes, maize and squash to fall and winter borscht with cabbage, beets and potatoes.",
+                                    "In Chinese cuisine, a soup known as Luosong tang, or \"Russian soup\", is based on red cabbage and tomatoes, and lacks beetroots altogether; also known as \"Chinese borscht\", it originated in Harbin, close to the Russian border in northeast China, and has spread as far as Hong Kong.",
+                                    "In Chinese cuisine, a soup known as Luosong tang, or \"Russian soup\", is based on red cabbage and tomatoes, and lacks beetroots altogether; also known as \"Chinese borscht\", it originated in Harbin, close to the Russian border in northeast China, and has spread as far as Hong Kong.",
+                                    "In Chinese cuisine, a soup known as Luosong tang, or \"Russian soup\", is based on red cabbage and tomatoes, and lacks beetroots altogether; also known as \"Chinese borscht\", it originated in Harbin, close to the Russian border in northeast China, and has spread as far as Hong Kong."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "在上海及香港的演化",
+                                    "translated": "Evolution in Shanghai and Hong Kong"
+                                },
+                                "fact": {
+                                    "original": "有些做法还会加入红肠、洋山芋等材料。",
+                                    "translated": "Some practices will also include ingredients like red sausage and sweet potatoes.",
+                                    "fact_aligned_sentence": "罗宋汤在20世纪初随着白俄难民流入上海租界开始传入了上海。因为甜菜并不适合在上海的气候条件下种植,且上海人并不习惯于罗宋汤酸酸的味道,故而上海人用捲心菜替代甜菜,用番茄酱调制汤色并且增加甜味。上海罗宋汤的一般做法是先将番茄酱用油炒製,以去掉酸味,再加入白砂糖,从而达到酸中带甜的效果。有些做法还会以牛肉汤为汤底,并加入红肠、洋山芋等材料。在上海,罗宋汤尤以德大西菜社与天鹅阁等的著名。当然随着罗宋汤之后日益家常化,罗宋汤的做法在上海民间也就随着家庭的口味千变万化了起来。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%BD%97%E5%AE%8B%E6%B1%A4"
+                                },
+                                "src_context": [
+                                    "上海罗宋汤的一般做法是再加入白砂糖,从而达到酸中带甜的效果。",
+                                    "有些做法还会以牛肉汤为汤底。",
+                                    "有些做法还会加入红肠、洋山芋等材料。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Chopped herbs are often sprinkled on the surface of the soup; dill is most common, but parsley, chives or scallion are often added as well.",
+                                    "Chopped herbs are often sprinkled on the surface of the soup; dill is most common, but parsley, chives or scallion are often added as well.",
+                                    "Some recipes call for smoked meats, resulting in a distinctively smoky borscht, while others use poultry or mutton stock.",
+                                    "Some recipes call for smoked meats, resulting in a distinctively smoky borscht, while others use poultry or mutton stock."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "在上海及香港的演化",
+                                    "translated": "Evolution in Shanghai and Hong Kong"
+                                },
+                                "fact": {
+                                    "original": "上海人用捲心菜替代甜菜。",
+                                    "translated": "Shanghai people use cabbage to replace beets.",
+                                    "fact_aligned_sentence": "罗宋汤在20世纪初随着白俄难民流入上海租界开始传入了上海。因为甜菜并不适合在上海的气候条件下种植,且上海人并不习惯于罗宋汤酸酸的味道,故而上海人用捲心菜替代甜菜,用番茄酱调制汤色并且增加甜味。上海罗宋汤的一般做法是先将番茄酱用油炒製,以去掉酸味,再加入白砂糖,从而达到酸中带甜的效果。有些做法还会以牛肉汤为汤底,并加入红肠、洋山芋等材料。在上海,罗宋汤尤以德大西菜社与天鹅阁等的著名。当然随着罗宋汤之后日益家常化,罗宋汤的做法在上海民间也就随着家庭的口味千变万化了起来。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%BD%97%E5%AE%8B%E6%B1%A4"
+                                },
+                                "src_context": [
+                                    "甜菜并不适合在上海的气候条件下种植。",
+                                    "上海人并不习惯于罗宋汤酸酸的味道。",
+                                    "上海人用捲心菜替代甜菜。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Shanghai's Haipai cuisine, tomatoes are the main ingredient; beef and its broth, onions and cabbages are also added; while flour, rather than sour cream, is used for thickening.",
+                                    "In Shanghai's Haipai cuisine, tomatoes are the main ingredient; beef and its broth, onions and cabbages are also added; while flour, rather than sour cream, is used for thickening.",
+                                    "A beet infusion for borscht is also mentioned in the said article.",
+                                    "A beet infusion for borscht is also mentioned in the said article."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "在上海及香港的演化",
+                                    "translated": "Evolution in Shanghai and Hong Kong"
+                                },
+                                "fact": {
+                                    "original": "红汤属于西式汤水（西汤）的一种。",
+                                    "translated": "Red soup is a type of Western-style soup.",
+                                    "fact_aligned_sentence": "流落到世界各地的白俄難民有部分輾轉來到香港,當中有難民於二次戰前已在香港開設俄國菜餐廳,把家鄉菜帶到香港,其中一道菜式便是羅宋湯。1940年代开始,随着上海人往香港的移民潮,上海做法的罗宋汤也被传入香港。不論採取哪種做法,湯水顏色是紅色的罗宋汤在香港都常被称为「红汤」,屬於西式湯水(西湯)的其中一種,又与「白汤」(忌廉汤/忌廉蘑菇湯)一起成为港式豉油西餐中重要的前菜之一,並產生流行於茶餐廳的港式羅宋湯。以前售賣羅宋湯其中較知名的代表包括皇后飯店,其創始人于永富年輕時於上海跟俄國廚師學藝,1940年代來港,並在1952年於北角開辦第一間分店。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%BD%97%E5%AE%8B%E6%B1%A4"
+                                },
+                                "src_context": [
+                                    "1940年代开始，随着上海人往香港的移民潮，上海做法的罗宋汤也被传入香港。",
+                                    "不论采取哪种做法，汤水颜色是红色的罗宋汤在香港都常被称为“红汤”。",
+                                    "红汤属于西式汤水（西汤）的一种。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Mushroom-filled uszka are particularly associated with Polish Christmas Eve borscht.",
+                                    "Borscht, like any other soup in East Slavic cuisines, is seldom eaten by itself, but rather accompanied by a side dish.",
+                                    "Borscht (English:   ) is a sour soup, made with meat stock, vegetables and seasonings, common in Eastern Europe and Northern Asia."
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "東斯拉夫民族包括烏克蘭、俄羅斯和白俄羅斯。",
+                                    "translated": "The East Slavic nations include Ukraine, Russia, and Belarus.",
+                                    "fact_aligned_sentence": "羅宋湯(烏克蘭語:борщ,羅馬化:borshch,發音:[bɔrʃt͡ʃ] ();白俄羅斯語:боршч,羅馬化:borshch;俄语:борщ,羅馬化:borshch),是發源於東斯拉夫民族(包括烏克蘭、俄羅斯、白俄羅斯)的濃菜湯,也稱為紅菜湯或甜菜湯,盛行於東歐及中歐一帶。正宗羅宋湯以甜菜为主料,再加入馬鈴薯、紅蘿蔔、菠菜和牛肉塊、鮮奶油等配料熬煮,因此呈紫红色。東歐及中歐斯拉夫文化圈以外的地區(尤其遠東),由於甜菜产量稀少,進口替代成本高昂,導致本地人多以番茄或番茄醬代替甜菜,此種變體呈番茄的橙红色。2022年7月1日,聯合國教科文組織因俄烏戰爭對文化傳承構成嚴重威脅,將乌克兰罗宋汤烹饪文化列入瀕危非物質文化遺產。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%BD%97%E5%AE%8B%E6%B1%A4"
+                                },
+                                "src_context": [
+                                    "羅宋湯的俄语名稱是борщ，羅馬化為borshch。",
+                                    "羅宋湯是發源於東斯拉夫民族的濃菜湯。",
+                                    "東斯拉夫民族包括烏克蘭、俄羅斯和白俄羅斯。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Borscht is associated with and claimed by several ethnic groups, especially Ukrainians, Russians, Poles, Lithuanians and Ashkenazi Jews, as their own national or ethnic dish and cultural icon.",
+                                    "Borscht is associated with and claimed by several ethnic groups, especially Ukrainians, Russians, Poles, Lithuanians and Ashkenazi Jews, as their own national or ethnic dish and cultural icon.",
+                                    "The name ultimately derives from the word борщ (borshch, Ukrainian: [bɔrʃt͡ʃ] , Russian: [borɕː] ), which is common to East Slavic languages, such as Ukrainian and Russian.",
+                                    "The name ultimately derives from the word борщ (borshch, Ukrainian: [bɔrʃt͡ʃ] , Russian: [borɕː] ), which is common to East Slavic languages, such as Ukrainian and Russian."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "這種變體的羅宋湯呈番茄的橙红色。",
+                                    "translated": "This variant of borscht is a tomato orange-red color.",
+                                    "fact_aligned_sentence": "羅宋湯(烏克蘭語:борщ,羅馬化:borshch,發音:[bɔrʃt͡ʃ] ();白俄羅斯語:боршч,羅馬化:borshch;俄语:борщ,羅馬化:borshch),是發源於東斯拉夫民族(包括烏克蘭、俄羅斯、白俄羅斯)的濃菜湯,也稱為紅菜湯或甜菜湯,盛行於東歐及中歐一帶。正宗羅宋湯以甜菜为主料,再加入馬鈴薯、紅蘿蔔、菠菜和牛肉塊、鮮奶油等配料熬煮,因此呈紫红色。東歐及中歐斯拉夫文化圈以外的地區(尤其遠東),由於甜菜产量稀少,進口替代成本高昂,導致本地人多以番茄或番茄醬代替甜菜,此種變體呈番茄的橙红色。2022年7月1日,聯合國教科文組織因俄烏戰爭對文化傳承構成嚴重威脅,將乌克兰罗宋汤烹饪文化列入瀕危非物質文化遺產。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%BD%97%E5%AE%8B%E6%B1%A4"
+                                },
+                                "src_context": [
+                                    "由於甜菜产量稀少，進口替代成本高昂。",
+                                    "在這些地區，本地人多以番茄或番茄醬代替甜菜。",
+                                    "這種變體的羅宋湯呈番茄的橙红色。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Variants include ciorbă de perișoare (with meatballs), ciorbă de burtă (with tripe), borș de pește (with fish) and borș de sfeclă roșie (with beetroots).",
+                                    "Variants include ciorbă de perișoare (with meatballs), ciorbă de burtă (with tripe), borș de pește (with fish) and borș de sfeclă roșie (with beetroots).",
+                                    "As result, many modern recipes of beet soups labeled as \"borscht\" list neither a tartness source (lack tomatoes, pickles, etc.)",
+                                    "As result, many modern recipes of beet soups labeled as \"borscht\" list neither a tartness source (lack tomatoes, pickles, etc.)"
+                                ]
+                            }
+                        ]
+                    },
+                    "称谓": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "称谓",
+                                    "translated": "title"
+                                },
+                                "fact": {
+                                    "original": "《香港居》是劉以鬯在1960年代的連載小說。",
+                                    "translated": "\"Hong Kong Living\" is a serialized novel by Liu Yichang from the 1960s.",
+                                    "fact_aligned_sentence": "在劉以鬯1960年代的連載小說《香港居》中,以「鮑許」(Borsch)指香港50年代只能在俄國餐廳吃到的羅宋湯。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%BD%97%E5%AE%8B%E6%B1%A4"
+                                },
+                                "src_context": [
+                                    "苏伯是俄語суп音譯。",
+                                    "суп意为汤。",
+                                    "《香港居》是劉以鬯在1960年代的連載小說。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "A Gift to Young Housewives by Elena Molokhovets, the best-selling Russian cookbook of the 19th century, first published in 1861, contains nine recipes for borscht, some of which are based on kvass, a traditional Slavic fermented beverage made from rye bread.",
+                                    "A Gift to Young Housewives by Elena Molokhovets, the best-selling Russian cookbook of the 19th century, first published in 1861, contains nine recipes for borscht, some of which are based on kvass, a traditional Slavic fermented beverage made from rye bread.",
+                                    "In Chinese cuisine, a soup known as Luosong tang, or \"Russian soup\", is based on red cabbage and tomatoes, and lacks beetroots altogether; also known as \"Chinese borscht\", it originated in Harbin, close to the Russian border in northeast China, and has spread as far as Hong Kong.",
+                                    "In Chinese cuisine, a soup known as Luosong tang, or \"Russian soup\", is based on red cabbage and tomatoes, and lacks beetroots altogether; also known as \"Chinese borscht\", it originated in Harbin, close to the Russian border in northeast China, and has spread as far as Hong Kong."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "称谓",
+                                    "translated": "title"
+                                },
+                                "fact": {
+                                    "original": "суп意为汤。",
+                                    "translated": "'soup means broth.'",
+                                    "fact_aligned_sentence": "罗宋汤在中國東北部份地区也称「苏伯汤」,其中蘇伯是俄語суп音譯,意为汤。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%BD%97%E5%AE%8B%E6%B1%A4"
+                                },
+                                "src_context": [
+                                    "罗宋汤在中國東北部份地区也称「苏伯汤」。",
+                                    "苏伯是俄語суп音譯。",
+                                    "суп意为汤。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "'sour, acid'; compare kvass) and in Yiddish as rosl (from a Slavic word originally referring to any brine obtained by steeping salted meat or vegetables in water; compare Russian rassol, 'pickle juice', Polish rosół, 'broth').",
+                                    "'sour, acid'; compare kvass) and in Yiddish as rosl (from a Slavic word originally referring to any brine obtained by steeping salted meat or vegetables in water; compare Russian rassol, 'pickle juice', Polish rosół, 'broth').",
+                                    "Borscht (English:   ) is a sour soup, made with meat stock, vegetables and seasonings, common in Eastern Europe and Northern Asia."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

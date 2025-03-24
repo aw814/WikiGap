@@ -1,0 +1,416 @@
+{
+    "Pho": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "состав и приготовление": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "региональная кухня",
+                                    "translated": "Regional cuisine"
+                                },
+                                "header_1": {
+                                    "original": "состав и приготовление",
+                                    "translated": "Composition and cooking"
+                                },
+                                "fact": {
+                                    "original": "Подача лайма — изобретение юга страны.",
+                                    "translated": "'The serving of lime is an invention of the south of the country.'",
+                                    "fact_aligned_sentence": "Также, судя по всему, приготовление фо не из говядины, а также подача лайма, бобовых проростков, эрингиума, базилика и соевой пасты — изобретения юга страны.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE_(%D1%81%D1%83%D0%BF)"
+                                },
+                                "src_context": [
+                                    "В южный фо добавляют различные свежие травы.",
+                                    "Приготовление фо не из говядины — изобретение юга страны.",
+                                    "Подача лайма — изобретение юга страны."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "This etymology is supported by the 1931 dictionary definition of phở and the influence of Chinese culinary traditions, including the use of rice noodles and spices in the broth.",
+                                    "([ɲ] is an allophone of /l/ in some northern dialects of Vietnamese.)",
+                                    "The modern form emerged between 1900 and 1907 in northern Vietnam, southeast of Hanoi in Nam Định Province, then a substantial textile market.",
+                                    "The modern form emerged between 1900 and 1907 in northern Vietnam, southeast of Hanoi in Nam Định Province, then a substantial textile market."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "региональная кухня",
+                                    "translated": "Regional cuisine"
+                                },
+                                "header_1": {
+                                    "original": "состав и приготовление",
+                                    "translated": "Composition and cooking"
+                                },
+                                "fact": {
+                                    "original": "В южный фо добавляют различные свежие травы.",
+                                    "translated": "Various fresh herbs are added to the southern sauce.",
+                                    "fact_aligned_sentence": "В северной разновидности лапша шире, а в бульоне много зелёного лука, южный фо слаще, и в него добавляют различные свежие травы.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE_(%D1%81%D1%83%D0%BF)"
+                                },
+                                "src_context": [
+                                    "В северной разновидности фо в бульоне много зелёного лука.",
+                                    "Южный фо слаще.",
+                                    "В южный фо добавляют различные свежие травы."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The freshly made rice noodles which are usually used are called bánh phở tươi, sợi phở tươi or for short, phở tươi in Vietnamese, while the dried rice noodles are called bánh phở khô, sợi phở khô or for short, phở khô.",
+                                    "In North America, the semi dried pho noodles are labeled on the packaging as bánh phở tươi (fresh pho noodles).",
+                                    "Northern Vietnamese phở uses a savoury, clear broth, blanched whole green onion, and garnishes offered generally include only diced green onion and cilantro, pickled garlic, chili sauce and quẩy.",
+                                    "Northern Vietnamese phở uses a savoury, clear broth, blanched whole green onion, and garnishes offered generally include only diced green onion and cilantro, pickled garlic, chili sauce and quẩy."
+                                ]
+                            }
+                        ]
+                    },
+                    "история": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "история",
+                                    "translated": "story"
+                                },
+                                "fact": {
+                                    "original": "Иное объяснение этому можно найти в том, что в древности народы юэ населяли территории современных северного Вьетнама и южного Китая.",
+                                    "translated": "Another explanation for this can be found in the fact that in ancient times, the Yue people inhabited the territories of what is now northern Vietnam and southern China.",
+                                    "fact_aligned_sentence": "Иное объяснение этому можно найти в том, что в древности народы юэ (см.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE_(%D1%81%D1%83%D0%BF)"
+                                },
+                                "src_context": [
+                                    "Этот вид лапши распространён во Вьетнаме и Гуандуне.",
+                                    "Это может значить, что во Вьетнам данный вид лапши был привезён из южного Китая иммигрантами.",
+                                    "Иное объяснение этому можно найти в том, что в древности народы юэ населяли территории современных северного Вьетнама и южного Китая."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The several regional variants of pho in Vietnam, particularly divided between \"Northern phở\" (phở Bắc) or \"Hanoi phở\" (phở Hà Nội), and \"Southern phở\" (phở Nam) or \"Saigon pho\" (phở Sài Gòn).",
+                                    "The several regional variants of pho in Vietnam, particularly divided between \"Northern phở\" (phở Bắc) or \"Hanoi phở\" (phở Hà Nội), and \"Southern phở\" (phở Nam) or \"Saigon pho\" (phở Sài Gòn).",
+                                    "Chicken pho appeared in 1939, possibly because beef was not sold at the markets on Mondays and Fridays at the time.",
+                                    "With the partition of Vietnam in 1954, over a million people fled North Vietnam for South Vietnam."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "история",
+                                    "translated": "story"
+                                },
+                                "fact": {
+                                    "original": "Фо популярен в Вашингтоне.",
+                                    "translated": "Fo is popular in Washington.",
+                                    "fact_aligned_sentence": "Он особенно популярен в крупных городах со значительным вьетнамским населением, например, в Париже, на западном побережье Канады (Ванкувер, Виктория), в Техасе, Новом Орлеане, в Орландо, Флориде и в Вашингтоне; в иммигрантских западных районах Сиднея и Мельбурна.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE_(%D1%81%D1%83%D0%BF)"
+                                },
+                                "src_context": [
+                                    "Фо популярен в Новом Орлеане.",
+                                    "Фо популярен в Орландо, Флориде.",
+                                    "Фо популярен в Вашингтоне."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "One notable innovation is phở cuốn, where the ingredients of phở are wrapped in fresh rice noodles, creating a new dish that has gained popularity in Hanoi.",
+                                    "One notable innovation is phở cuốn, where the ingredients of phở are wrapped in fresh rice noodles, creating a new dish that has gained popularity in Hanoi.",
+                                    "A similar restaurant named Pho 75 serves in the Washington, D.C., and Philadelphia, Pennsylvania, areas in the United States.",
+                                    "A similar restaurant named Pho 75 serves in the Washington, D.C., and Philadelphia, Pennsylvania, areas in the United States."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "история",
+                                    "translated": "story"
+                                },
+                                "fact": {
+                                    "original": "Фо популярен в Техасе.",
+                                    "translated": "'Fо is popular in Texas.'",
+                                    "fact_aligned_sentence": "Он особенно популярен в крупных городах со значительным вьетнамским населением, например, в Париже, на западном побережье Канады (Ванкувер, Виктория), в Техасе, Новом Орлеане, в Орландо, Флориде и в Вашингтоне; в иммигрантских западных районах Сиднея и Мельбурна.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE_(%D1%81%D1%83%D0%BF)"
+                                },
+                                "src_context": [
+                                    "Фо популярен в Париже.",
+                                    "Фо популярен на западном побережье Канады, включая Ванкувер и Викторию.",
+                                    "Фо популярен в Техасе."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "One notable innovation is phở cuốn, where the ingredients of phở are wrapped in fresh rice noodles, creating a new dish that has gained popularity in Hanoi.",
+                                    "One notable innovation is phở cuốn, where the ingredients of phở are wrapped in fresh rice noodles, creating a new dish that has gained popularity in Hanoi.",
+                                    "In the United States, phở began to enter the mainstream during the 1990s, as relations between the U.S. and Vietnam improved.",
+                                    "At that time Vietnamese restaurants began opening quickly in Texas and California, spreading rapidly along the Gulf and West Coasts, as well as the East Coast and the rest of the country."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "annexes": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "articles connexes",
+                                    "translated": "Related items"
+                                },
+                                "header_1": {
+                                    "original": "annexes",
+                                    "translated": "annexes"
+                                },
+                                "fact": {
+                                    "original": "Les fêtes traditionnelles vietnamiennes incluent le Tết Nguyên Đán, qui est le Nouvel An lunaire.",
+                                    "translated": "Traditional Vietnamese festivals include Tết Nguyên Đán, which is the Lunar New Year.",
+                                    "fact_aligned_sentence": "Culture du Viêt Nam",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ph%E1%BB%9F"
+                                },
+                                "src_context": [
+                                    "Le áo dài est une tenue traditionnelle vietnamienne portée par les femmes.",
+                                    "La musique traditionnelle vietnamienne utilise des instruments comme le đàn bầu et le đàn tranh.",
+                                    "Les fêtes traditionnelles vietnamiennes incluent le Tết Nguyên Đán, qui est le Nouvel An lunaire."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Additionally, chefs such as Peter Cung have brought phở into the realm of fine dining, as exemplified by his Michelin-starred restaurant Anan Saigon, where phở is deconstructed into a multi-course meal.",
+                                    "Official recognition has followed suit, with the Vietnamese government designating December 12 as the 'Day of Phở' in 2018, and in 2024, Hanoi and Nam Định-style phở were recognized as national intangible cultural heritage.",
+                                    "Gân: Tendons",
+                                    "Gân: Tendons"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "articles connexes",
+                                    "translated": "Related items"
+                                },
+                                "header_1": {
+                                    "original": "annexes",
+                                    "translated": "annexes"
+                                },
+                                "fact": {
+                                    "original": "Certaines soupes de nouilles sont connues pour leurs bienfaits pour la santé, notamment en raison de leurs ingrédients nutritifs.",
+                                    "translated": "Certain noodle soups are known for their health benefits, particularly because of their nutritious ingredients.",
+                                    "fact_aligned_sentence": "Soupe de nouilles",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ph%E1%BB%9F"
+                                },
+                                "src_context": [
+                                    "Des exemples célèbres de soupes de nouilles incluent le ramen japonais, le pho vietnamien et le laksa malaisien.",
+                                    "La préparation de la soupe de nouilles peut varier de très simple à très complexe, selon les ingrédients et les techniques de cuisson utilisées.",
+                                    "Certaines soupes de nouilles sont connues pour leurs bienfaits pour la santé, notamment en raison de leurs ingrédients nutritifs."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Famous phở shops in Saigon included Phở Bắc Hải, Phở Công Lý, Phở Tàu Bay, Phở Tàu Thủy, and Phở Bà Dậu.",
+                                    "Pasteur Street (phố phở Pasteur) was a street famous for its beef phở, while Hien Vuong Street (phố phở Hiền Vương) was known for its chicken phở.",
+                                    "Tiết: Boiled beef blood",
+                                    "Tiết: Boiled beef blood"
+                                ]
+                            }
+                        ]
+                    },
+                    "ingrédients et préparation": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "ingrédients et préparation",
+                                    "translated": "Ingredients and preparation"
+                                },
+                                "fact": {
+                                    "original": "Le phở est assaisonné à la dernière minute de jus de citron ou de lime.",
+                                    "translated": "'The pho is seasoned at the last minute with lemon or lime juice.'",
+                                    "fact_aligned_sentence": "Le phở est assaisonné à la dernière minute de jus de citron ou de lime, de feuilles de basilic thaï, de coriandre, de ciboulette asiatique, de coriandre longue et de rondelles de piment oiseau.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ph%E1%BB%9F"
+                                },
+                                "src_context": [
+                                    "On peut parfois ajouter des tripes.",
+                                    "On peut remplacer la viande de bœuf par du poulet coupé en fines tranches.",
+                                    "Le phở est assaisonné à la dernière minute de jus de citron ou de lime."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "They also skim off all the impurities that float to the top while cooking; this is the key to a clear broth.",
+                                    "Nước mắm (fish sauce) is added toward the end.",
+                                    "Careful cooks often roast ginger and onion over an open fire for about a minute before adding them to the stock, to bring out their full flavor.",
+                                    "Careful cooks often roast ginger and onion over an open fire for about a minute before adding them to the stock, to bring out their full flavor."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "語源及文化起源": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "語源及文化起源",
+                                    "translated": "Etymology and cultural origins"
+                                },
+                                "fact": {
+                                    "original": "phở一字的聲調並非帶平調。",
+                                    "translated": "The tone of the word 'phở' is not a flat tone.",
+                                    "fact_aligned_sentence": "除了廣東起源一說外,越南近年亦有人提出phở一詞源自法國火上锅(法語:pot-au-feu)一詞,但phở一字的聲調並非帶平調,而在越南話中的法語借用詞中,除非該字以t、p、c、ch作結尾,否均該字均屬平聲,phở一詞並不符合這種規律;法國菜中亦沒有河粉。比較可信的說法是法國飲食文化影響在於牛肉上–作為農業社會的越南,以生牛肉入饌以及以牛骨熬湯或許是受到法國菜的影響。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%B6%8A%E5%8D%97%E7%B2%89"
+                                },
+                                "src_context": [
+                                    "生牛肉即席燜熟成為越南粉的一大特式。",
+                                    "除了廣東起源一說外，越南近年亦有人提出phở一詞源自法國火上锅(法語:pot-au-feu)一詞。",
+                                    "phở一字的聲調並非帶平調。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Phở has many variants including many dishes bearing the name \"phở\", many are not soup-based:",
+                                    "Phở has many variants including many dishes bearing the name \"phở\", many are not soup-based:",
+                                    "In the late 1920s, various vendors experimented with húng lìu, sesame oil, tofu, and even Lethocerus indicus extract (cà cuống).",
+                                    "This \"phở cải lương\" failed to enter the mainstream."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "語源及文化起源",
+                                    "translated": "Etymology and cultural origins"
+                                },
+                                "fact": {
+                                    "original": "在食物形式上,越南粉的製造方法與口感均與河粉類似。",
+                                    "translated": "In terms of food form, the manufacturing method and texture of Vietnamese pho are similar to that of river noodles.",
+                                    "fact_aligned_sentence": "有一派意見認為Phở字源自廣東話「河粉」,在粵語中,有時會簡化叫成「粉」(粵語:fan2;越南語:phấn)或「河」(粵語:ho4;越南語:hà),兩者互相共用,再演變成今天的Phở,說明越南粉或許由廣東移民在20世紀初期帶入越南。在食物形式上,越南粉的製造方法與口感,均與河粉類似。兩者同樣以魚露作調味,並採用牛丸、牛腩、牛肉片及芽菜等材料。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%B6%8A%E5%8D%97%E7%B2%89"
+                                },
+                                "src_context": [
+                                    "「粉」和「河」兩者互相共用,再演變成今天的Phở。",
+                                    "這說明越南粉或許由廣東移民在20世紀初期帶入越南。",
+                                    "在食物形式上,越南粉的製造方法與口感均與河粉類似。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "'cow meat noodles') to describe Phở.",
+                                    "The Chinese character 粉 (pinyin: fěn) is pronounced similarly to the Vietnamese 'phở'.",
+                                    "It is accompanied by a Filipino citrus called calamansi and served with a bread similar to Vietnamese bánh mì, which the locals refer to as \"French bread\".",
+                                    "It is accompanied by a Filipino citrus called calamansi and served with a bread similar to Vietnamese bánh mì, which the locals refer to as \"French bread\"."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "語源及文化起源",
+                                    "translated": "Etymology and cultural origins"
+                                },
+                                "fact": {
+                                    "original": "越南粉和河粉均採用牛丸、牛腩、牛肉片及芽菜等材料。",
+                                    "translated": "Vietnamese pho and river noodles both use ingredients such as beef balls, beef brisket, beef slices, and bean sprouts.",
+                                    "fact_aligned_sentence": "有一派意見認為Phở字源自廣東話「河粉」,在粵語中,有時會簡化叫成「粉」(粵語:fan2;越南語:phấn)或「河」(粵語:ho4;越南語:hà),兩者互相共用,再演變成今天的Phở,說明越南粉或許由廣東移民在20世紀初期帶入越南。在食物形式上,越南粉的製造方法與口感,均與河粉類似。兩者同樣以魚露作調味,並採用牛丸、牛腩、牛肉片及芽菜等材料。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%B6%8A%E5%8D%97%E7%B2%89"
+                                },
+                                "src_context": [
+                                    "在食物形式上,越南粉的製造方法與口感均與河粉類似。",
+                                    "越南粉和河粉同樣以魚露作調味。",
+                                    "越南粉和河粉均採用牛丸、牛腩、牛肉片及芽菜等材料。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "For chicken phở, options might include:",
+                                    "For chicken phở, options might include:",
+                                    "A notable culinary legacy is a pho-like Filipino dish popular in Palawan island that locals call chao long (not to be confused with the Vietnamese porridge called chao long).",
+                                    "The Filipino chao long is a noodle dish, which is a combination of broth, protein (beef, pork, and/or chicken), rice noodles, mung bean sprouts, and basil leaves."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "語源及文化起源",
+                                    "translated": "Etymology and cultural origins"
+                                },
+                                "fact": {
+                                    "original": "這說明越南粉或許由廣東移民在20世紀初期帶入越南。",
+                                    "translated": "This suggests that Vietnamese noodles were perhaps brought to Vietnam by Cantonese immigrants in the early 20th century.",
+                                    "fact_aligned_sentence": "有一派意見認為Phở字源自廣東話「河粉」,在粵語中,有時會簡化叫成「粉」(粵語:fan2;越南語:phấn)或「河」(粵語:ho4;越南語:hà),兩者互相共用,再演變成今天的Phở,說明越南粉或許由廣東移民在20世紀初期帶入越南。在食物形式上,越南粉的製造方法與口感,均與河粉類似。兩者同樣以魚露作調味,並採用牛丸、牛腩、牛肉片及芽菜等材料。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%B6%8A%E5%8D%97%E7%B2%89"
+                                },
+                                "src_context": [
+                                    "在粵語中,「河粉」有時會簡化叫成「粉」(粵語:fan2;越南語:phấn)或「河」(粵語:ho4;越南語:hà)。",
+                                    "「粉」和「河」兩者互相共用,再演變成今天的Phở。",
+                                    "這說明越南粉或許由廣東移民在20世紀初期帶入越南。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Food historian Erica J. Peters argues that the French has embraced phở in a way that overlooks its origins as a local improvisation, reinforcing \"an idea that the French brought modern ingenuity to a traditionalist Vietnam\".",
+                                    "Food historian Erica J. Peters argues that the French has embraced phở in a way that overlooks its origins as a local improvisation, reinforcing \"an idea that the French brought modern ingenuity to a traditionalist Vietnam\".",
+                                    "After the Fall of Saigon in 1975, the Philippines welcomed refugees into its territories, resulting in thousands of Vietnamese from southern Vietnam taking shelter on the Filipino island of Palawan.",
+                                    "After the Fall of Saigon in 1975, the Philippines welcomed refugees into its territories, resulting in thousands of Vietnamese from southern Vietnam taking shelter on the Filipino island of Palawan."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "語源及文化起源",
+                                    "translated": "Etymology and cultural origins"
+                                },
+                                "fact": {
+                                    "original": "生牛肉即席在客人面前以熱湯燜熟。",
+                                    "translated": "Raw beef is cooked in hot soup right in front of the guest.",
+                                    "fact_aligned_sentence": "越南粉的湯底主要用洋蔥和牛骨餚製,部分越南地區亦會加入冰糖調味,令湯底有淡淡甜味。而今天在海外廣泛流傳的越南河粉屬於西貢式,其特點是大量採用新鮮香料,在湯料上加入新鮮薄荷、胡荽葉、羅勒(或是九層塔),佐以魚露、青檸汁及新鮮紅椒。除了牛腩、雞絲、肉丸外,越南粉最典型的配料其實是生牛肉,即席在客人面前以熱湯燜熟,成為該菜一大特式。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%B6%8A%E5%8D%97%E7%B2%89"
+                                },
+                                "src_context": [
+                                    "越南粉的配料包括牛腩、雞絲、肉丸。",
+                                    "越南粉最典型的配料是生牛肉。",
+                                    "生牛肉即席在客人面前以熱湯燜熟。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Tái băm: Rare beef patty, beef is minced by a chopping knife right before serving",
+                                    "Tái băm: Rare beef patty, beef is minced by a chopping knife right before serving",
+                                    "Phở tái lăn: pho with rare beef quickly stir-fried before serving.",
+                                    "Phở tái lăn: pho with rare beef quickly stir-fried before serving."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "語源及文化起源",
+                                    "translated": "Etymology and cultural origins"
+                                },
+                                "fact": {
+                                    "original": "作為農業社會的越南，以生牛肉入饌以及以牛骨熬湯或許是受到法國菜的影響。",
+                                    "translated": "As an agricultural society, Vietnam's use of beef in dishes and beef bones for broth may be influenced by French cuisine.",
+                                    "fact_aligned_sentence": "除了廣東起源一說外,越南近年亦有人提出phở一詞源自法國火上锅(法語:pot-au-feu)一詞,但phở一字的聲調並非帶平調,而在越南話中的法語借用詞中,除非該字以t、p、c、ch作結尾,否均該字均屬平聲,phở一詞並不符合這種規律;法國菜中亦沒有河粉。比較可信的說法是法國飲食文化影響在於牛肉上–作為農業社會的越南,以生牛肉入饌以及以牛骨熬湯或許是受到法國菜的影響。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%B6%8A%E5%8D%97%E7%B2%89"
+                                },
+                                "src_context": [
+                                    "法國菜中亦沒有河粉。",
+                                    "比較可信的說法是法國飲食文化影響在於牛肉上。",
+                                    "作為農業社會的越南，以生牛肉入饌以及以牛骨熬湯或許是受到法國菜的影響。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Due to limited historical documentation, the origins of phở remain debated.",
+                                    "Influences from both French and Chinese culinary traditions are believed to have contributed to its development in Vietnam, as well as to the etymology of its name.",
+                                    "Some historians suggest a connection to the French due to the introduction of beef as a staple ingredient during French colonial rule.",
+                                    "French settlers commonly ate beef, whereas Vietnamese traditionally ate pork and chicken and used cattle primarily as beasts of burden."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

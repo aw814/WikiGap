@@ -1,0 +1,258 @@
+{
+    "Tiramisu": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "чемпионаты мира по приготовлению тирамису": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "чемпионаты мира по приготовлению тирамису",
+                                    "translated": "Tiramisu Cooking Championships"
+                                },
+                                "fact": {
+                                    "original": "Андреа Чикколлелла из Фельтре, регион Венето.",
+                                    "translated": "'Andrea Ciccollella from Feltre, Veneto region.'",
+                                    "fact_aligned_sentence": "участников победителем стал 28-летний итальянец Андреа Чикколлелла из Фельтре, регион Венето",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D1%81%D1%83"
+                                },
+                                "src_context": [
+                                    "Первые состязания кондитеров состоялись в ноябре 2017 года в Тревизо.",
+                                    "Среди примерно 5 тыс. участников победителем стал 28-летний итальянец Андреа Чикколлелла.",
+                                    "Андреа Чикколлелла из Фельтре, регион Венето."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Obituaries for the restaurateur Ado Campeol (1928–2021) reported that it was invented at his restaurant Le Beccherie in Treviso on 24 December 1969 by his wife Alba di Pillo (1929–2021) and the pastry chef Roberto Linguanotto (1943–2024).",
+                                    "Obituaries for the restaurateur Ado Campeol (1928–2021) reported that it was invented at his restaurant Le Beccherie in Treviso on 24 December 1969 by his wife Alba di Pillo (1929–2021) and the pastry chef Roberto Linguanotto (1943–2024).",
+                                    "Obituaries for the restaurateur Ado Campeol (1928–2021) reported that it was invented at his restaurant Le Beccherie in Treviso on 24 December 1969 by his wife Alba di Pillo (1929–2021) and the pastry chef Roberto Linguanotto (1943–2024).",
+                                    "Obituaries for the restaurateur Ado Campeol (1928–2021) reported that it was invented at his restaurant Le Beccherie in Treviso on 24 December 1969 by his wife Alba di Pillo (1929–2021) and the pastry chef Roberto Linguanotto (1943–2024)."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "articles connexes": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "articles connexes",
+                                    "translated": "Related items"
+                                },
+                                "fact": {
+                                    "original": "L'huile d'olive est largement utilisée dans la cuisine italienne.",
+                                    "translated": "Olive oil is widely used in Italian cuisine.",
+                                    "fact_aligned_sentence": "Cuisine italienne",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Tiramisu"
+                                },
+                                "src_context": [
+                                    "Les pâtes sont un aliment de base en Italie.",
+                                    "La pizza est originaire de Naples.",
+                                    "L'huile d'olive est largement utilisée dans la cuisine italienne."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The original shape of the cake is round, although the shape of the biscuits also allows the use of a rectangular or square pan.",
+                                    "However, it is often assembled in round glasses, which show the various layers, or pyramids.",
+                                    "There is evidence of a tiremesù semi-frozen dessert served by the Vetturino restaurant in Pieris, in the Friuli-Venezia Giulia region, since 1938.",
+                                    "This may be the name's origin, while the recipe for tiramisu may have originated as a variation of another layered dessert, zuppa inglese."
+                                ]
+                            }
+                        ]
+                    },
+                    "variantes culinaires et présentation": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "variantes culinaires et présentation",
+                                    "translated": "Culinary variants and presentation"
+                                },
+                                "fact": {
+                                    "original": "La recette comporte de nombreux ingrédients.",
+                                    "translated": "The recipe has many ingredients.",
+                                    "fact_aligned_sentence": "La nature même de la recette, notamment grâce aux nombreux ingrédients et à la superposition de couches distinctes, permet de nombreuses variantes de ce dessert, les plus simples consistant à varier le liquide dans lequel on immerge les biscuits (café ou alcool) ou bien la texture (plus ou moins sèche, plus ou moins crémeuse, etc.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Tiramisu"
+                                },
+                                "src_context": [
+                                    "Il faut battre également en incorporant le mascarpone.",
+                                    "La recette d'origine ne contient pas de blanc d'œuf.",
+                                    "La recette comporte de nombreux ingrédients."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Some cooks use other cakes or sweet, yeasted bread, such as panettone, in place of ladyfingers (savoiardi).",
+                                    "Bakers living in different Italian regions often debate the use and structural qualities of utilising other types of cookies, such as pavesini for instance, in the recipe.",
+                                    "Other cheese mixtures are used as well, some containing raw eggs, and others containing no eggs at all.",
+                                    "Other cheese mixtures are used as well, some containing raw eggs, and others containing no eggs at all."
+                                ]
+                            }
+                        ]
+                    },
+                    "origines": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "origines",
+                                    "translated": "origins"
+                                },
+                                "fact": {
+                                    "original": "Le tiramisu se serait répandu hors d'Italie au XVIIIe siècle.",
+                                    "translated": "'Tiramisu is believed to have spread outside of Italy in the 18th century.'",
+                                    "fact_aligned_sentence": "Il se serait répandu hors d'Italie au XVIIIe siècle, par l’intermédiaire de nombreux auteurs de livres de cuisine italienne, qui popularisent l'ajout à la recette des boudoirs.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Tiramisu"
+                                },
+                                "src_context": [
+                                    "La recette se serait répandue en Vénétie, à Trévise et à Venise.",
+                                    "À Trévise, le mascarpone aurait été ajouté à la recette.",
+                                    "Le tiramisu se serait répandu hors d'Italie au XVIIIe siècle."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It has been claimed that tiramisu has aphrodisiac effects and was concocted by a 19th-century Treviso brothel madam, as the Accademia Del Tiramisù explains, to \"solve the problems they may have had with their conjugal duties on their return to their wives\".",
+                                    "It has been claimed that tiramisu has aphrodisiac effects and was concocted by a 19th-century Treviso brothel madam, as the Accademia Del Tiramisù explains, to \"solve the problems they may have had with their conjugal duties on their return to their wives\".",
+                                    "'pick me up'  or 'cheer me up').",
+                                    "Tiramisu appears to have been invented in the late 1960s or early 1970s, but where and when exactly is unclear."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "origines",
+                                    "translated": "origins"
+                                },
+                                "fact": {
+                                    "original": "Son invention remonterait à la fin du XVIe siècle, en Toscane.",
+                                    "translated": "'His invention dates back to the late 16th century in Tuscany.'",
+                                    "fact_aligned_sentence": "Aussi, son invention remonterait à la fin du XVIe siècle, en Toscane.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Tiramisu"
+                                },
+                                "src_context": [
+                                    "Durant la Renaissance du XVe siècle, les Vénitiennes en auraient consommé avec leurs amants pour ses vertus présumées aphrodisiaques.",
+                                    "Il aurait été également consommé par les prostituées vénitiennes et dans les lupanars, pour les mêmes raisons.",
+                                    "Son invention remonterait à la fin du XVIe siècle, en Toscane."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "This may be the name's origin, while the recipe for tiramisu may have originated as a variation of another layered dessert, zuppa inglese.",
+                                    "Others claim it was created towards the end of the 17th century in Siena in honour of Grand Duke Cosimo III.",
+                                    "'pick me up'  or 'cheer me up').",
+                                    "Tiramisu appears to have been invented in the late 1960s or early 1970s, but where and when exactly is unclear."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "origines",
+                                    "translated": "origins"
+                                },
+                                "fact": {
+                                    "original": "Cosme III de Médicis aurait rapporté la recette à la cour de Florence.",
+                                    "translated": "Cosimo III de' Medici is said to have brought the recipe to the court of Florence.",
+                                    "fact_aligned_sentence": "Lors d'un voyage à Sienne du duc souverain de Toscane Cosme III de Médicis, ce dernier aurait fait du tiramisu son dessert préféré, rapportant la recette à la cour de Florence, d'où il se serait répandu en Vénétie, à Trévise et à Venise.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Tiramisu"
+                                },
+                                "src_context": [
+                                    "Son invention remonterait à la fin du XVIe siècle, en Toscane.",
+                                    "Lors d'un voyage à Sienne du duc souverain de Toscane Cosme III de Médicis, ce dernier aurait fait du tiramisu son dessert préféré.",
+                                    "Cosme III de Médicis aurait rapporté la recette à la cour de Florence."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "This may be the name's origin, while the recipe for tiramisu may have originated as a variation of another layered dessert, zuppa inglese.",
+                                    "Others claim it was created towards the end of the 17th century in Siena in honour of Grand Duke Cosimo III.",
+                                    "It has been claimed that tiramisu has aphrodisiac effects and was concocted by a 19th-century Treviso brothel madam, as the Accademia Del Tiramisù explains, to \"solve the problems they may have had with their conjugal duties on their return to their wives\".",
+                                    "It has been claimed that tiramisu has aphrodisiac effects and was concocted by a 19th-century Treviso brothel madam, as the Accademia Del Tiramisù explains, to \"solve the problems they may have had with their conjugal duties on their return to their wives\"."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "傳統配方": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "傳統配方",
+                                    "translated": "Traditional recipe"
+                                },
+                                "fact": {
+                                    "original": "起司需要準備于較大的攪拌容器中。",
+                                    "translated": "The cheese needs to be prepared in a larger mixing container.",
+                                    "fact_aligned_sentence": "其中的蛋黃和蛋白兩件都需要分別充分打鬆。起司則需準備于較大的攪拌容器中,与兩件先行打發物充分混合,制成起司奶蛋液。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E6%8F%90%E6%8B%89%E7%B1%B3%E8%98%87"
+                                },
+                                "src_context": [
+                                    "蛋黃需要充分打鬆。",
+                                    "蛋白需要充分打鬆。",
+                                    "起司需要準備于較大的攪拌容器中。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The original shape of the cake is round, although the shape of the biscuits also allows the use of a rectangular or square pan.",
+                                    "However, it is often assembled in round glasses, which show the various layers, or pyramids.",
+                                    "However, it is often assembled in round glasses, which show the various layers, or pyramids.",
+                                    "Modern versions can have the addition of whipped cream or whipped egg whites, or both, combined with mascarpone."
+                                ]
+                            }
+                        ]
+                    },
+                    "歷史": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "歷史",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "'Le Beccherie'餐厅的老板将当地甜点改良而成。",
+                                    "translated": "The owner of the 'Le Beccherie' restaurant has improved the local dessert.",
+                                    "fact_aligned_sentence": "最明確的起源是在1960年代意大利威尼托政區特雷維索市的\"Le Beccherie\"餐廳老闆將當地甜點(餅乾+濃縮咖啡+奶油)因故改良而成。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E6%8F%90%E6%8B%89%E7%B1%B3%E8%98%87"
+                                },
+                                "src_context": [
+                                    "起源地是意大利威尼托政区特雷维索市。",
+                                    "起源地的餐厅名为'Le Beccherie'。",
+                                    "'Le Beccherie'餐厅的老板将当地甜点改良而成。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Obituaries for the restaurateur Ado Campeol (1928–2021) reported that it was invented at his restaurant Le Beccherie in Treviso on 24 December 1969 by his wife Alba di Pillo (1929–2021) and the pastry chef Roberto Linguanotto (1943–2024).",
+                                    "The dish was added to its menu in 1972.",
+                                    "Obituaries for the restaurateur Ado Campeol (1928–2021) reported that it was invented at his restaurant Le Beccherie in Treviso on 24 December 1969 by his wife Alba di Pillo (1929–2021) and the pastry chef Roberto Linguanotto (1943–2024).",
+                                    "Obituaries for the restaurateur Ado Campeol (1928–2021) reported that it was invented at his restaurant Le Beccherie in Treviso on 24 December 1969 by his wife Alba di Pillo (1929–2021) and the pastry chef Roberto Linguanotto (1943–2024)."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
