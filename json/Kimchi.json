@@ -3,6 +3,95 @@
         "languages": {
             "ru": {
                 "headers": {
+                    "разновидности кимчхи": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "разновидности кимчхи",
+                                    "translated": "varieties of kimchi"
+                                },
+                                "fact": {
+                                    "original": "Часто подобные сорта подают к столу в рассоле.",
+                                    "translated": "Such varieties are often served at the table in brine.",
+                                    "fact_aligned_sentence": "Часто подобные сорта подают к столу в рассоле.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC%D1%87%D1%85%D0%B8"
+                                },
+                                "src_context": [
+                                    "Белое кимчхи (пэк кимчхи) делают из пекинской капусты без добавления красного перца.",
+                                    "Белое кимчхи из редьки (тончхими) — другой популярный сорт без острого вкуса.",
+                                    "Часто подобные сорта подают к столу в рассоле."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "After a long period of consuming gimjang kimchi (김장김치) during the winter, fresh potherbs and vegetables were used to make kimchi.",
+                                    "These kinds of kimchi were not fermented or even stored for long periods of time but were consumed fresh.",
+                                    "Finally, pack the brined vegetables into an airtight jar and let them ferment at room temperature for 24 to 48 hours.",
+                                    "The ideal salt concentration during fermentation is about 3%."
+                                ]
+                            }
+                        ]
+                    },
+                    "история": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "история",
+                                    "translated": "story"
+                                },
+                                "fact": {
+                                    "original": "Точное время появления блюда, напоминающего современное кимчхи, неизвестно.",
+                                    "translated": "The exact time of the appearance of the dish resembling modern kimchi is unknown.",
+                                    "fact_aligned_sentence": "Точное время появления блюда, напоминающего современное кимчхи, неизвестно.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC%D1%87%D1%85%D0%B8"
+                                },
+                                "src_context": [
+                                    "Другие квашения считаются эффективным средством против похмелья.",
+                                    "Получаемые при квашении рассолы считаются эффективным средством против похмелья.",
+                                    "Точное время появления блюда, напоминающего современное кимчхи, неизвестно."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "However, it was not until the 19th century that the use of chili peppers in kimchi became widespread.",
+                                    "Recipes from the early 19th century closely resemble today's kimchi.",
+                                    "Kimchi has been a staple in Korean culture, but historical versions were not a spicy dish.",
+                                    "Kimchi has been a staple in Korean culture, but historical versions were not a spicy dish."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "история",
+                                    "translated": "story"
+                                },
+                                "fact": {
+                                    "original": "Первые упоминания о них относятся к XIII веку, в частности у Ли Гюбо упоминается заготовление на зиму солёной репы.",
+                                    "translated": "The first mentions of them date back to the 13th century, in particular, Li Gubo mentions the preparation of salted turnips for winter.",
+                                    "fact_aligned_sentence": "Первые упоминания о них относятся к XIII веку, в частности у Ли Гюбо упоминается заготовление на зиму солёной репы.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC%D1%87%D1%85%D0%B8"
+                                },
+                                "src_context": [
+                                    "В этой книге под кимчхи подразумевают блюдо «цзо» (菹).",
+                                    "Более близкими к современному кимчхи являются соленья, пришедшие в Корею из соседнего Китая.",
+                                    "Первые упоминания о них относятся к XIII веку, в частности у Ли Гюбо упоминается заготовление на зиму солёной репы."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Chili peppers, originally native to the Americas, were introduced to East Asia by Portuguese traders.",
+                                    "The first mention of chili pepper is found in Jibong yuseol, an encyclopedia published in 1614.",
+                                    "This labor further allowed a bonding among women within the family.",
+                                    "A poem on Korean radish written by Yi Gyubo, a 13th-century literatus, shows that radish kimchi was common in Goryeo (918–1392)."
+                                ]
+                            }
+                        ]
+                    },
                     "пищевая ценность и влияние на здоровье": {
                         "entries": [
                             {
@@ -15,48 +104,21 @@
                                     "translated": "Food value and effect on health"
                                 },
                                 "fact": {
-                                    "original": "Чрезмерное употребление соли негативно сказывается на здоровье жителей Южной Кореи.",
-                                    "translated": "Excessive salt consumption negatively affects the health of residents of South Korea.",
-                                    "fact_aligned_sentence": "В 2006 году специалисты Всемирной организации здравоохранения заявили, что жители Южной Кореи потребляют соли в 2,7 раза больше рекомендованных объёмов, в основном из-за чрезмерного употребления в пищу кимчхи, что негативно сказывается на их здоровье.",
+                                    "original": "Повышение вероятности возникновения рака ввиду чрезмерного употребления кимчхи объясняется большим содержанием в ферментированных овощах химических радикалов, таких как нитрозогруппы.",
+                                    "translated": "The increased likelihood of cancer due to excessive consumption of kimchi is explained by the high content of chemical radicals, such as nitroso groups, in fermented vegetables.",
+                                    "fact_aligned_sentence": "Также повышение вероятности возникновения рака ввиду чрезмерного употребления кимчхи объясняется большим содержанием в ферментированных овощах химических радикалов, таких как нитрозогруппы.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC%D1%87%D1%85%D0%B8"
                                 },
                                 "src_context": [
-                                    "В 2006 году специалисты Всемирной организации здравоохранения заявили, что жители Южной Кореи потребляют соли в 2,7 раза больше рекомендованных объёмов.",
-                                    "Жители Южной Кореи потребляют много соли в основном из-за чрезмерного употребления в пищу кимчхи.",
-                                    "Чрезмерное употребление соли негативно сказывается на здоровье жителей Южной Кореи."
+                                    "В Южной Корее аномально высок уровень заболеваемости раком желудка.",
+                                    "Высокий уровень заболеваемости раком желудка в Южной Корее часто объясняется большим количеством острой и солёной пищи, в частности кимчхи.",
+                                    "Повышение вероятности возникновения рака ввиду чрезмерного употребления кимчхи объясняется большим содержанием в ферментированных овощах химических радикалов, таких как нитрозогруппы."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "South Korea consumes 1.85 million metric tons of kimchi annually, or 36.1 kg per person.",
-                                    "South Korea consumes 1.85 million metric tons of kimchi annually, or 36.1 kg per person.",
-                                    "Gyeonggi Province",
-                                    "Gyeonggi Province"
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "пищевая ценность и влияние на здоровье",
-                                    "translated": "Food value and effect on health"
-                                },
-                                "fact": {
-                                    "original": "В состав кимчхи входит чеснок.",
-                                    "translated": "'Garlic is included in the composition of kimchi.'",
-                                    "fact_aligned_sentence": "В состав кимчхи входит лук, чеснок и красный перец, оказывающие благотворное влияние на здоровье.",
-                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC%D1%87%D1%85%D0%B8"
-                                },
-                                "src_context": [
-                                    "Кимчхи содержит большое количество клетчатки.",
-                                    "В состав кимчхи входит лук.",
-                                    "В состав кимчхи входит чеснок."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Kkakdugi (깍두기) spicy cubed Korean radish strongly-scented kimchi containing fermented shrimp",
-                                    "Kkakdugi (깍두기) spicy cubed Korean radish strongly-scented kimchi containing fermented shrimp",
-                                    "W. koreensis, and W. soli.",
-                                    "Archaea and yeasts, such as Saccharomyces, Candida, Pichia, and Kluyveromyces are also present in kimchi, with the latter being responsible for undesirable white colonies that sometimes form in the product as well as food spoilages and off-flavors."
+                                    "This also modifies the flavor of sub-ingredients and can increase the nutritive value of the raw materials, as the microbial community in the fermentation process can synthesize B vitamins and hydrolyze cellulose in plant tissues to free nutrients that are normally indigestible by the human gastrointestinal tract.",
+                                    "Hydrogen peroxide is formed by the oxidation of reduced nicotinamide adenine dinucleotide (NADH) and provides an antibiotic to inhibit some undesirable microorganisms.",
+                                    "Lactobacillus also grows better in conditions with a higher salt concentration.",
+                                    "These microorganisms are present due to the natural microflora provided by utilizing unsterilized food materials in the production of kimchi."
                                 ]
                             },
                             {
@@ -70,7 +132,7 @@
                                 },
                                 "fact": {
                                     "original": "Высокий уровень заболеваемости раком желудка в Южной Корее часто объясняется большим количеством острой и солёной пищи, в частности кимчхи.",
-                                    "translated": "The high incidence of stomach cancer in South Korea is often attributed to the large consumption of spicy and salty foods, particularly kimchi.",
+                                    "translated": "The high rate of stomach cancer in South Korea is often attributed to the large amount of spicy and salty food, particularly kimchi.",
                                     "fact_aligned_sentence": "В Южной Корее аномально высок уровень заболеваемости раком желудка, что часто объясняется большим количеством острой и солёной пищи, в частности кимчхи.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC%D1%87%D1%85%D0%B8"
                                 },
@@ -85,41 +147,64 @@
                                     "Kimchi (; Korean: 김치; RR: gimchi, IPA: [kim.tɕhi]) is a traditional Korean side dish (banchan) consisting of salted and fermented vegetables, most often napa cabbage or Korean radish.",
                                     "Kimchi (; Korean: 김치; RR: gimchi, IPA: [kim.tɕhi]) is a traditional Korean side dish (banchan) consisting of salted and fermented vegetables, most often napa cabbage or Korean radish."
                                 ]
-                            }
-                        ]
-                    },
-                    "разновидности кимчхи": {
-                        "entries": [
+                            },
                             {
                                 "header_2": {
                                     "original": null,
                                     "translated": null
                                 },
                                 "header_1": {
-                                    "original": "разновидности кимчхи",
-                                    "translated": "varieties of kimchi"
+                                    "original": "пищевая ценность и влияние на здоровье",
+                                    "translated": "Food value and effect on health"
                                 },
                                 "fact": {
-                                    "original": "Существуют также сорта кимчхи, более распространённые весной и осенью.",
-                                    "translated": "There are also varieties of kimchi that are more commonly made in spring and autumn.",
-                                    "fact_aligned_sentence": "Существуют также сорта, более распространённые весной и осенью.",
+                                    "original": "Употребление кимчхи ассоциировано со снижением смертности от ковида.",
+                                    "translated": "Consumption of kimchi is associated with a reduction in mortality from COVID.",
+                                    "fact_aligned_sentence": "Употребление кимчхи ассоциировано со снижением смертности от ковида.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC%D1%87%D1%85%D0%B8"
                                 },
                                 "src_context": [
-                                    "Летом более популярны сорта кимчхи, не требующие длительного ферментирования, в частности, белое кимчхи.",
-                                    "Зимой выбор сортов кимчхи более широкий, поскольку низкие температуры позволяют долго сохраняться заготовленным осенью кимчхи.",
-                                    "Существуют также сорта кимчхи, более распространённые весной и осенью."
+                                    "В мае 2009 года корейский институт пищевых исследований объявил результаты экспериментов над 200 курами, заражёнными вирусом атипичной пневмонии.",
+                                    "Эти результаты подтвердили увеличения иммунитета к вирусу у кур в результате употребления ими молочнокислых ферментов кимчхи.",
+                                    "Употребление кимчхи ассоциировано со снижением смертности от ковида."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "The most common kimchi variations are:",
-                                    "The most common kimchi variations are:",
-                                    "Pa-kimchi (파김치) spicy green onion kimchi",
-                                    "Yeolmu-kimchi (열무김치) is also a popular choice during the spring and summer, and is made with yeolmu radishes, and does not necessarily have to be fermented."
+                                    "In 2021, Koreans collectively consumed 1,965,000 tons of Kimchi, with average Korean consuming 88.3 grams of Kimchi daily.",
+                                    "This average has been steadily declining from 109.9 grams per day in 2010, marking a 19.6% decrease.",
+                                    "This average has been steadily declining from 109.9 grams per day in 2010, marking a 19.6% decrease.",
+                                    "This average has been steadily declining from 109.9 grams per day in 2010, marking a 19.6% decrease."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "пищевая ценность и влияние на здоровье",
+                                    "translated": "Food value and effect on health"
+                                },
+                                "fact": {
+                                    "original": "Чрезмерное употребление соли негативно сказывается на здоровье жителей Южной Кореи.",
+                                    "translated": "Excessive salt consumption negatively affects the health of residents in South Korea.",
+                                    "fact_aligned_sentence": "В 2006 году специалисты Всемирной организации здравоохранения заявили, что жители Южной Кореи потребляют соли в 2,7 раза больше рекомендованных объёмов, в основном из-за чрезмерного употребления в пищу кимчхи, что негативно сказывается на их здоровье.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC%D1%87%D1%85%D0%B8"
+                                },
+                                "src_context": [
+                                    "В 2006 году специалисты Всемирной организации здравоохранения заявили, что жители Южной Кореи потребляют соли в 2,7 раза больше рекомендованных объёмов.",
+                                    "Жители Южной Кореи потребляют много соли в основном из-за чрезмерного употребления в пищу кимчхи.",
+                                    "Чрезмерное употребление соли негативно сказывается на здоровье жителей Южной Кореи."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "South Korea consumes 1.85 million metric tons of kimchi annually, or 36.1 kg per person.",
+                                    "South Korea consumes 1.85 million metric tons of kimchi annually, or 36.1 kg per person.",
+                                    "Gyeonggi Province",
+                                    "Gyeonggi Province"
                                 ]
                             }
                         ]
                     },
-                    "ингредиенты": {
+                    "кимчхи как символ": {
                         "entries": [
                             {
                                 "header_2": {
@@ -127,25 +212,82 @@
                                     "translated": null
                                 },
                                 "header_1": {
-                                    "original": "ингредиенты",
-                                    "translated": "Ingredients"
+                                    "original": "кимчхи как символ",
+                                    "translated": "Kimchi as a symbol"
                                 },
                                 "fact": {
-                                    "original": "В кухне корейцев, живших в СССР (корё-сарам), технология производства кимчхи в значительной мере отошла от традиционной.",
-                                    "translated": "In the cuisine of Koreans living in the USSR (koryo-saram), the technology for producing kimchi has largely deviated from the traditional method.",
-                                    "fact_aligned_sentence": "В кухне корейцев, живших в СССР (корё-сарам), технология производства кимчхи в значительной мере отошла от традиционной.",
+                                    "original": "Корейцы относят кимчхи к одному из главных символов страны.",
+                                    "translated": " Koreans consider kimchi to be one of the main symbols of the country.",
+                                    "fact_aligned_sentence": "Корейцы относят кимчхи к одному из главных символов страны.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC%D1%87%D1%85%D0%B8"
                                 },
                                 "src_context": [
-                                    "Более редкие приправы — чоткаль (рассол, приготовленный на основе морепродуктов), имбирь, цитроны.",
-                                    "В прибрежных районах в блюдо нередко добавляют креветки, нарезанных соломкой осьминогов и другие морепродукты.",
-                                    "В кухне корейцев, живших в СССР (корё-сарам), технология производства кимчхи в значительной мере отошла от традиционной."
+                                    "Повышение вероятности возникновения рака ввиду чрезмерного употребления кимчхи объясняется большим содержанием в ферментированных овощах химических радикалов, таких как нитрозогруппы.",
+                                    "Коллективная культура Кореи по приготовлению кимчхи входит в список нематериального культурного наследия человечества ЮНЕСКО.",
+                                    "Корейцы относят кимчхи к одному из главных символов страны."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Pickled radish slices make a good summer side-dish,Radish preserved in salt is a winter side-dish from start to end.The roots in the earth grow plumper every day,Harvesting after the frost, a slice cut by a knife tastes like a pear.",
-                                    "Kimchi has been a staple in Korean culture, but historical versions were not a spicy dish.",
-                                    "The following regional classification dates to the 1960s.",
-                                    "Since then, kimchi-making practices and trends in Korea have diverged from it."
+                                    "These efforts are not universally appreciated by lovers of kimchi, as the flavor is affected in the process, and some see that \"South Korea's narrative about its own culinary staple\" is being manipulated to suit the foreigners' tastes.",
+                                    "Kimchi is one of the most important staples of Korean cuisine.",
+                                    "The move was criticized by other Chinese nationalists, who noted that China officially considered Koreans an integral ethnic group in the multinational state, and that kimchi is also indigenous to the Yanbian Korean Autonomous Prefecture.",
+                                    "The move was criticized by other Chinese nationalists, who noted that China officially considered Koreans an integral ethnic group in the multinational state, and that kimchi is also indigenous to the Yanbian Korean Autonomous Prefecture."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "кимчхи как символ",
+                                    "translated": "Kimchi as a symbol"
+                                },
+                                "fact": {
+                                    "original": "В результате опроса, проведённого институтом «Гэллап Корея», 22,1 % респондентов в Южной Корее выбрали кимчхи в качестве символа, лучше всего олицетворяющего собой корейскую культуру.",
+                                    "translated": "As a result of a survey conducted by the \"Gallup Korea\" institute, 22.1% of respondents in South Korea chose kimchi as the symbol that best embodies Korean culture.",
+                                    "fact_aligned_sentence": "Так, в результате опроса, проведённого институтом «Гэллап Корея», 22,1 % респондентов в Южной Корее выбрали кимчхи в качестве символа, лучше всего олицетворяющего собой корейскую культуру.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC%D1%87%D1%85%D0%B8"
+                                },
+                                "src_context": [
+                                    "Коллективная культура Кореи по приготовлению кимчхи входит в список нематериального культурного наследия человечества ЮНЕСКО.",
+                                    "Корейцы относят кимчхи к одному из главных символов страны.",
+                                    "В результате опроса, проведённого институтом «Гэллап Корея», 22,1 % респондентов в Южной Корее выбрали кимчхи в качестве символа, лучше всего олицетворяющего собой корейскую культуру."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "South Korea consumes 1.85 million metric tons of kimchi annually, or 36.1 kg per person.",
+                                    "South Korea consumes 1.85 million metric tons of kimchi annually, or 36.1 kg per person.",
+                                    "It imports a significant fraction of that, mostly from China, and runs a $47.3 million kimchi trade deficit.",
+                                    "In 2021, Koreans collectively consumed 1,965,000 tons of Kimchi, with average Korean consuming 88.3 grams of Kimchi daily."
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В диалектах кимчхи́ называют чимчхи́, чимчха́, чим-ча́.",
+                                    "translated": "In the dialects, kimchi is called chimchi, chimcha, chim-cha.",
+                                    "fact_aligned_sentence": "김치?, 沈菜?",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC%D1%87%D1%85%D0%B8"
+                                },
+                                "src_context": [
+                                    "Кимчхи́ (кор. 김치?, 沈菜?) — блюдо корейской кухни.",
+                                    "В диалектах кимчхи́ называют чимчхи́, чимчха́, чим-ча́."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Modern Korean, the word remains as the suffix -ji in the standard language (as in jjanji, seokbak-ji), and as the suffix -ji as well as the noun ji in Gyeongsang and Jeolla dialects.",
+                                    "In Modern Korean, the word remains as the suffix -ji in the standard language (as in jjanji, seokbak-ji), and as the suffix -ji as well as the noun ji in Gyeongsang and Jeolla dialects.",
+                                    "The word kimchi is not considered as a Sino-Korean word.",
+                                    "Older forms of the word are retained in many regional dialects: jimchae (Jeolla, Hamgyŏng dialects), jimchi (Chungcheong, Gangwon, Gyeonggi, Gyeongsang, Hamgyŏng, Jeolla dialects), and dimchi (P'yŏngan dialect)."
                                 ]
                             }
                         ]
@@ -166,21 +308,268 @@
                                     "translated": "varieties"
                                 },
                                 "fact": {
-                                    "original": "Gat-kimchi (갓김치) est un type de kimchi.",
-                                    "translated": "'Gat-kimchi is a type of kimchi.'",
-                                    "fact_aligned_sentence": "Gat-kimchi (갓김치), fait à partir de moutarde chinoise.",
+                                    "original": "Le baechu kimchi (kimchi de chou chinois) est la variété de kimchi la plus répandue aujourd'hui.",
+                                    "translated": "Baechu kimchi (kimchi made from Napa cabbage) is the most widespread variety of kimchi today.",
+                                    "fact_aligned_sentence": "Le baechu kimchi (kimchi de chou chinois), qui est la variété de kimchi la plus répandue aujourd'hui, est en fait relativement récent.",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Kimchi"
                                 },
                                 "src_context": [
-                                    "Yeolmu-kimchi est également populaire au printemps.",
-                                    "Yeolmu-kimchi est également populaire en été.",
-                                    "Gat-kimchi (갓김치) est un type de kimchi."
+                                    "L'oisobagi est un type de kimchi à base de concombre farci.",
+                                    "Le kaennip se compose de couches de feuilles de perilla marinées dans un mélange de sauce de soja, de piments, d'ail, d'oignons verts et d'autres épices.",
+                                    "Le baechu kimchi (kimchi de chou chinois) est la variété de kimchi la plus répandue aujourd'hui."
                                 ],
                                 "tgt_fact_aligned_sentences": [
                                     "The most common kimchi variations are:",
                                     "Baechu-kimchi (배추김치) spicy napa cabbage kimchi, made from whole cabbage leaves",
-                                    "Oi-sobagi (오이소박이) cucumber kimchi that can be stuffed with seafood and chili paste, and is a popular choice during the spring and summer seasons",
-                                    "Pa-kimchi (파김치) spicy green onion kimchi"
+                                    "Kimchi varieties are determined by the main vegetable ingredients and the mix of seasoning used to flavor the kimchi.",
+                                    "Cabbages (napa cabbages, bomdong, headed cabbages) and radishes (Korean radishes, ponytail radishes, gegeol radishes, yeolmu radishes) are the most commonly used kimchi vegetables."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "région",
+                                    "translated": "region"
+                                },
+                                "header_1": {
+                                    "original": "variétés",
+                                    "translated": "varieties"
+                                },
+                                "fact": {
+                                    "original": "Chungcheong-do est situé entre le Gyeonggi-do et le Jeolla-do.",
+                                    "translated": "Chungcheong-do is located between Gyeonggi-do and Jeolla-do.",
+                                    "fact_aligned_sentence": "- Chungcheong-do (entre le Gyeonggi-do et le Jeolla-do) : au lieu d'utiliser du poisson fermenté, les habitants de la région comptent sur le sel et la fermentation pour produire du kimchi savoureux.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Kimchi"
+                                },
+                                "src_context": [
+                                    "Gyeonggi-do est une province de la Corée du Sud.",
+                                    "Gyeonggi-do est située dans la région du Bas-Midwest de Hwanghae-do.",
+                                    "Chungcheong-do est situé entre le Gyeonggi-do et le Jeolla-do."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is made with pumpkin (bundi).",
+                                    "Gyeonggi Province",
+                                    "Gyeonggi Province",
+                                    "Chungcheong Province: Instead of using fermented fish, people in the region rely on salt and fermentation to make savory kimchi."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "variétés",
+                                    "translated": "varieties"
+                                },
+                                "fact": {
+                                    "original": "Le kimchi de Corée du Nord est généralement moins salé.",
+                                    "translated": "'North Korean kimchi is generally less salty.'",
+                                    "fact_aligned_sentence": "Le kimchi de Corée du Nord est généralement moins salé et pimenté et ne contient habituellement pas de fruits de mer en assaisonnement.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Kimchi"
+                                },
+                                "src_context": [
+                                    "Gat-kimchi (갓김치) est un type de kimchi.",
+                                    "Gat-kimchi est fait à partir de moutarde chinoise.",
+                                    "Le kimchi de Corée du Nord est généralement moins salé."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "North Korean kimchi-making was inscribed on the list in December 2015 as \"Tradition of kimchi-making in the Democratic People's Republic of Korea\".",
+                                    "North Korean kimchi tends to be less spicy and less red than South Korean kimchi.",
+                                    "North Korean kimchi tends to be less spicy and less red than South Korean kimchi.",
+                                    "North Korean kimchi tends to be less spicy and less red than South Korean kimchi."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "région",
+                                    "translated": "region"
+                                },
+                                "header_1": {
+                                    "original": "variétés",
+                                    "translated": "varieties"
+                                },
+                                "fact": {
+                                    "original": "Gangwon-do est une région en Corée du Sud.",
+                                    "translated": "Gangwon-do is a region in South Korea.",
+                                    "fact_aligned_sentence": "- Gangwon-do (Corée du Sud) / Kangwon-do (Corée du Nord) (Moyen-Orient) : dans le Gangwon-do, le kimchi est stocké pendant de plus longues périodes.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Kimchi"
+                                },
+                                "src_context": [
+                                    "Les habitants de Chungcheong-do utilisent le sel et la fermentation pour produire du kimchi savoureux au lieu d'utiliser du poisson fermenté.",
+                                    "Chungcheong-do détient la plupart des variétés de kimchi.",
+                                    "Gangwon-do est une région en Corée du Sud."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is made with pumpkin (bundi).",
+                                    "Gyeonggi Province",
+                                    "Gyeonggi Province",
+                                    "Chungcheong Province: Instead of using fermented fish, people in the region rely on salt and fermentation to make savory kimchi."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "région",
+                                    "translated": "region"
+                                },
+                                "header_1": {
+                                    "original": "variétés",
+                                    "translated": "varieties"
+                                },
+                                "fact": {
+                                    "original": "Jeolla-do est situé dans le Bas Sud-Ouest de la Corée du Sud.",
+                                    "translated": "'Jeolla-do is located in the southwestern part of South Korea.'",
+                                    "fact_aligned_sentence": "- Jeolla-do (Bas Sud-Ouest) : du maigre jaune salée et du poisson-papillon salé sont utilisés dans cette région pour créer différents assaisonnements pour le kimchi.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Kimchi"
+                                },
+                                "src_context": [
+                                    "Dans le Gangwon-do, le kimchi est stocké pendant de plus longues périodes.",
+                                    "Contrairement aux autres régions côtières coréennes, le kimchi de Gangwon-do ne contient pas beaucoup de poisson salé.",
+                                    "Jeolla-do est situé dans le Bas Sud-Ouest de la Corée du Sud."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The most common kimchi variations are:",
+                                    "The most common kimchi variations are:",
+                                    "Commonly used seasonings include gochugaru (chili powder), scallions, garlic, ginger, and jeotgal (salted seafood) Jeotgal can be replaced with raw seafood in colder Northern parts of the Korean peninsula.",
+                                    "Commonly used seasonings include gochugaru (chili powder), scallions, garlic, ginger, and jeotgal (salted seafood) Jeotgal can be replaced with raw seafood in colder Northern parts of the Korean peninsula."
+                                ]
+                            }
+                        ]
+                    },
+                    "histoire": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "histoire",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "Yi Gyubo est l'auteur de Dongguk isanggukjip.",
+                                    "translated": "Yi Gyubo is the author of Dongguk isanggukjip.",
+                                    "fact_aligned_sentence": "— Yi Gyubo, Dongguk isanggukjip (traduit par Michael J. Pettid, in Korean cuisine: An Illustrated History)",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Kimchi"
+                                },
+                                "src_context": [
+                                    "La moisson après le givre.",
+                                    "Une tranche coupée par un couteau a le goût de poire.",
+                                    "Yi Gyubo est l'auteur de Dongguk isanggukjip."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Yangbaechu-kimchi (양배추 김치) spicy cabbage kimchi, made from \"headed\" cabbage leaves (as opposed to napa cabbage)",
+                                    "Yangbaechu-kimchi (양배추 김치) spicy cabbage kimchi, made from \"headed\" cabbage leaves (as opposed to napa cabbage)",
+                                    "A 1766 book, Jeungbo sallim gyeongje, reports kimchi varieties made with myriad ingredients, including chonggak-kimchi (kimchi made with chonggak radish), oi-sobagi (with cucumber), seokbak-ji (with jogi-jeot), and dongchimi.",
+                                    "A 1766 book, Jeungbo sallim gyeongje, reports kimchi varieties made with myriad ingredients, including chonggak-kimchi (kimchi made with chonggak radish), oi-sobagi (with cucumber), seokbak-ji (with jogi-jeot), and dongchimi."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "histoire",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "Le 22 novembre 2017, un Google doodle a servi à célébrer le Kimchi.",
+                                    "translated": "On November 22, 2017, a Google doodle was used to celebrate Kimchi.",
+                                    "fact_aligned_sentence": "Le 22 novembre 2017 un Google doodle a servi à « Célébrer le Kimchi ».",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Kimchi"
+                                },
+                                "src_context": [
+                                    "Le kimchi fut envoyé dans l’espace à bord du Soyuz TMA-12 avec un astronaute sud-coréen Yi So-yeon.",
+                                    "Des travaux de recherche de plusieurs millions de dollars ont été réalisés pour tuer les bactéries et diminuer l’odeur du kimchi sans que cela affecte le goût.",
+                                    "Le 22 novembre 2017, un Google doodle a servi à célébrer le Kimchi."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In the United States, states California, Virginia, Maryland and New York, and capital city Washington D.C. have issued proclamations declaring 22 November as 'Kimchi Day' to recognize the importance of the dish as part of Korean culture.",
+                                    "In the United States, states California, Virginia, Maryland and New York, and capital city Washington D.C. have issued proclamations declaring 22 November as 'Kimchi Day' to recognize the importance of the dish as part of Korean culture.",
+                                    "Additional sugar is used to help with fermentation in the cold climate.",
+                                    "In the United States, states California, Virginia, Maryland and New York, and capital city Washington D.C. have issued proclamations declaring 22 November as 'Kimchi Day' to recognize the importance of the dish as part of Korean culture."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "histoire",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "Le texte historique chinois Chroniques des Trois Royaumes, publié en 289, mentionne que le peuple Goguryeo est doué pour faire de la nourriture fermentée telle que le vin, la pâte de soja, et le poisson salé et fermenté.",
+                                    "translated": "The Chinese historical text Chronicles of the Three Kingdoms, published in 289, mentions that the Goguryeo people are skilled at making fermented foods such as wine, soybean paste, and salted and fermented fish.",
+                                    "fact_aligned_sentence": "J.-C.).",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Kimchi"
+                                },
+                                "src_context": [
+                                    "L’origine du kimchi remonte au moins au début de la période des Trois Royaumes de Corée (37 av. J.-C. – 7 apr. J.-C.).",
+                                    "Les aliments fermentés étaient facilement accessibles pendant la période des Trois Royaumes de Corée.",
+                                    "Le texte historique chinois Chroniques des Trois Royaumes, publié en 289, mentionne que le peuple Goguryeo est doué pour faire de la nourriture fermentée telle que le vin, la pâte de soja, et le poisson salé et fermenté."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Recipes from the early 19th century closely resemble today's kimchi.",
+                                    "A 1766 book, Jeungbo sallim gyeongje, reports kimchi varieties made with myriad ingredients, including chonggak-kimchi (kimchi made with chonggak radish), oi-sobagi (with cucumber), seokbak-ji (with jogi-jeot), and dongchimi.",
+                                    "Attributed with the earliest kimchi, the Goguryeo people were skilled at fermenting and widely consumed fermented food.",
+                                    "Attributed with the earliest kimchi, the Goguryeo people were skilled at fermenting and widely consumed fermented food."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "histoire",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "La traduction de Dongguk isanggukjip par Michael J. Pettid est incluse dans le livre Korean cuisine: An Illustrated History.",
+                                    "translated": "The translation of Dongguk isanggukjip by Michael J. Pettid is included in the book Korean cuisine: An Illustrated History.",
+                                    "fact_aligned_sentence": "— Yi Gyubo, Dongguk isanggukjip (traduit par Michael J. Pettid, in Korean cuisine: An Illustrated History)",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Kimchi"
+                                },
+                                "src_context": [
+                                    "Yi Gyubo est l'auteur de Dongguk isanggukjip.",
+                                    "Dongguk isanggukjip a été traduit par Michael J. Pettid.",
+                                    "La traduction de Dongguk isanggukjip par Michael J. Pettid est incluse dans le livre Korean cuisine: An Illustrated History."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Kimjang, the tradition of making and sharing kimchi that usually takes place in late autumn, was added to the list as \"Gimjang, making and sharing kimchi in the Republic of Korea\".",
+                                    "Kimjang, the tradition of making and sharing kimchi that usually takes place in late autumn, was added to the list as \"Gimjang, making and sharing kimchi in the Republic of Korea\".",
+                                    "However clarifications from both countries, later revealed that the controversy was triggered over a misunderstanding of a translation of the Chinese word pao cai.",
+                                    "After the controversy emerged, Global Times explained it was simply a \"misunderstanding in translation\", where they had meant to refer to Chinese pao cai, and their Chinese language article had used the term pao cai, but their English language version had \"erroneously\" translated it as \"kimchi\", and that the dispute arose from being innocently \"lost in translation\"."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "histoire",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "Dongguk isanggukjip a été traduit par Michael J. Pettid.",
+                                    "translated": "'Dongguk isanggukjip has been translated by Michael J. Pettid.'",
+                                    "fact_aligned_sentence": "— Yi Gyubo, Dongguk isanggukjip (traduit par Michael J. Pettid, in Korean cuisine: An Illustrated History)",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Kimchi"
+                                },
+                                "src_context": [
+                                    "Une tranche coupée par un couteau a le goût de poire.",
+                                    "Yi Gyubo est l'auteur de Dongguk isanggukjip.",
+                                    "Dongguk isanggukjip a été traduit par Michael J. Pettid."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "However clarifications from both countries, later revealed that the controversy was triggered over a misunderstanding of a translation of the Chinese word pao cai.",
+                                    "After the controversy emerged, Global Times explained it was simply a \"misunderstanding in translation\", where they had meant to refer to Chinese pao cai, and their Chinese language article had used the term pao cai, but their English language version had \"erroneously\" translated it as \"kimchi\", and that the dispute arose from being innocently \"lost in translation\".",
+                                    "After the controversy emerged, Global Times explained it was simply a \"misunderstanding in translation\", where they had meant to refer to Chinese pao cai, and their Chinese language article had used the term pao cai, but their English language version had \"erroneously\" translated it as \"kimchi\", and that the dispute arose from being innocently \"lost in translation\".",
+                                    "After the controversy emerged, Global Times explained it was simply a \"misunderstanding in translation\", where they had meant to refer to Chinese pao cai, and their Chinese language article had used the term pao cai, but their English language version had \"erroneously\" translated it as \"kimchi\", and that the dispute arose from being innocently \"lost in translation\"."
                                 ]
                             }
                         ]
@@ -189,7 +578,7 @@
             },
             "zh": {
                 "headers": {
-                    "效能與營養": {
+                    "General description": {
                         "entries": [
                             {
                                 "header_2": {
@@ -197,25 +586,25 @@
                                     "translated": null
                                 },
                                 "header_1": {
-                                    "original": "效能與營養",
-                                    "translated": "Efficacy and nutrition"
+                                    "original": "General description",
+                                    "translated": null
                                 },
                                 "fact": {
-                                    "original": "韓式泡菜促進胃腸內的蛋白質分解。",
-                                    "translated": "Korean-style kimchi promotes the breakdown of proteins in the gastrointestinal tract.",
-                                    "fact_aligned_sentence": "韓式泡菜促進胃腸內的蛋白質分解,並使腸內微生物(乳酸菌)的分佈趨於正常化。",
+                                    "original": "朝鲜泡菜曾在2012年被美国时代华纳《健康杂志》评为世界五大最健康食品之一",
+                                    "translated": "North Korean kimchi was selected as one of the five healthiest foods in the world by Time Warner's 'Health Magazine' in 2012.",
+                                    "fact_aligned_sentence": "朝鲜泡菜热量低,富含纤维素、维生素A、B、C并含有对人体有益的乳杆益生菌,曾在2012年被美国时代华纳《健康杂志》评为世界五大最健康食品之一,也有观点认为韓式泡菜与其它泡菜一样含有亚硝酸盐,过度食用会引发胃癌。然而,酸醃漬法常用的乳酸菌、醋酸並不會增加亞硝酸鹽含量。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E9%9F%93%E5%BC%8F%E6%B3%A1%E8%8F%9C"
                                 },
                                 "src_context": [
-                                    "韓式泡菜的蔬菜液汁和食鹽有复合作用。",
-                                    "韓式泡菜有净化肠胃的作用。",
-                                    "韓式泡菜促進胃腸內的蛋白質分解。"
+                                    "朝鲜泡菜富含维生素C",
+                                    "朝鲜泡菜含有对人体有益的乳杆益生菌",
+                                    "朝鲜泡菜曾在2012年被美国时代华纳《健康杂志》评为世界五大最健康食品之一"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "However, due to significantly different preparation techniques from pao cai, kimchi has significantly more lactic acid bacteria through its fermentation process, which exceeds China's regulations.",
-                                    "However, due to significantly different preparation techniques from pao cai, kimchi has significantly more lactic acid bacteria through its fermentation process, which exceeds China's regulations.",
-                                    "The practice of Gimjang reaffirms Korean identity and strengthens family cooperation.",
-                                    "The practice of Gimjang reaffirms Korean identity and strengthens family cooperation."
+                                    "Korea lobbied for an international standard from the Codex Alimentarius, an organization associated with the World Health Organization that defines voluntary standards for food preparation for international trade purposes.",
+                                    "Korea lobbied for an international standard from the Codex Alimentarius, an organization associated with the World Health Organization that defines voluntary standards for food preparation for international trade purposes.",
+                                    "As of 2004, the preference of kimchi preparation in Korean households from the most prepared type of kimchi to less prepared types of kimchi was: baechu kimchi, being the most prepared type of kimchi, then kkakdugi, then dongchimi and then chonggak kimchi.",
+                                    "As of 2004, the preference of kimchi preparation in Korean households from the most prepared type of kimchi to less prepared types of kimchi was: baechu kimchi, being the most prepared type of kimchi, then kkakdugi, then dongchimi and then chonggak kimchi."
                                 ]
                             }
                         ]
@@ -232,21 +621,21 @@
                                     "translated": "history"
                                 },
                                 "fact": {
-                                    "original": "2015年",
-                                    "translated": "2015年 translates to \"2015\" in English.",
-                                    "fact_aligned_sentence": "2015年,在纳米比亚温得和克举行的联合国教科文组织第十届非物质文化遗产保护政府间委员会会议上,朝鲜的腌泡菜习俗被列入世界非物质文化遗产名录。",
+                                    "original": "中國古代称韓式泡菜为「菹」。",
+                                    "translated": "In ancient China, Korean-style kimchi was called \"zu.\"",
+                                    "fact_aligned_sentence": "韓式泡菜起源于朝鲜三国时代,最初稱為「沉菜」(中古朝鲜語:침채/沈菜 Chimchae)。 概因其原為一種利用當地蔬菜製作的酸菜或鹹菜,取菜沉於水中之貌而命名,而後語音訛變才成為今日之名。另外據《三國史記》記載,神文王於683年娶王妃時下令準備的聘禮中包括醬油、大醬、醬汁類等食品。即“泡菜類”,中國古代称其为「菹」,在朝鲜三国时代后經過統一新羅時代、高麗時代,其製作方法不斷改變。在當時,韓式泡菜可能是以萝卜為主原料的泡萝卜、腌菜、醬菜為主。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E9%9F%93%E5%BC%8F%E6%B3%A1%E8%8F%9C"
                                 },
                                 "src_context": [
-                                    "2014年11月，中華人民共和國將「泡菜制作技艺(朝鲜族泡菜制作技艺)」列入第四批国家级非物质文化遗产代表性项目名录。",
-                                    "申報地區為吉林省延吉市。",
-                                    "2015年"
+                                    "《三國史記》記載，神文王於683年娶王妃時下令準備的聘禮中包括醬油、大醬、醬汁類等食品。",
+                                    "這些食品即“泡菜類”。",
+                                    "中國古代称韓式泡菜为「菹」。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "However clarifications from both countries, later revealed that the controversy was triggered over a misunderstanding of a translation of the Chinese word pao cai.",
-                                    "After the controversy emerged, Global Times explained it was simply a \"misunderstanding in translation\", where they had meant to refer to Chinese pao cai, and their Chinese language article had used the term pao cai, but their English language version had \"erroneously\" translated it as \"kimchi\", and that the dispute arose from being innocently \"lost in translation\".",
-                                    "To make kimchi, start by slicing cabbage or daikon into small, uniform pieces to increase surface area.",
-                                    "The pieces are then coated with salt to draw out water, which helps preserve them by preventing the growth of harmful microorganisms."
+                                    "According to Sojin Lim, co-director of the Institute of Korean Studies of the University of Central Lancashire, Korean kimchi is often called pao cai in China, but China has its own Sichuanese fermented vegetable dish that it also calls pao cai.",
+                                    "According to Sojin Lim, co-director of the Institute of Korean Studies of the University of Central Lancashire, Korean kimchi is often called pao cai in China, but China has its own Sichuanese fermented vegetable dish that it also calls pao cai.",
+                                    "The word then became cimchuy with the loss of the vowel o (ᆞ) in Korean language, then kimchi, with the depalatalized word-initial consonant.",
+                                    "In Modern Korean, the hanja characters 沈菜 are pronounced chimchae (침채), and are not used to refer to kimchi, or anything else."
                                 ]
                             },
                             {
@@ -259,21 +648,21 @@
                                     "translated": "history"
                                 },
                                 "fact": {
-                                    "original": "這些食品即“泡菜類”。",
-                                    "translated": "These foods are 'pickled vegetables'.",
-                                    "fact_aligned_sentence": "韓式泡菜起源于朝鲜三国时代,最初稱為「沉菜」(中古朝鲜語:침채/沈菜 Chimchae)。 概因其原為一種利用當地蔬菜製作的酸菜或鹹菜,取菜沉於水中之貌而命名,而後語音訛變才成為今日之名。另外據《三國史記》記載,神文王於683年娶王妃時下令準備的聘禮中包括醬油、大醬、醬汁類等食品。即“泡菜類”,中國古代称其为「菹」,在朝鲜三国时代后經過統一新羅時代、高麗時代,其製作方法不斷改變。在當時,韓式泡菜可能是以萝卜為主原料的泡萝卜、腌菜、醬菜為主。",
+                                    "original": "2013年12月5日，聯合國教科文組織(UNESCO)保護非物質文化遺產政府間委員會會議在亞塞拜然巴庫舉行。",
+                                    "translated": "On December 5, 2013, the UNESCO Intergovernmental Committee for the Safeguarding of the Intangible Cultural Heritage met in Baku, Azerbaijan.",
+                                    "fact_aligned_sentence": "2013年12月5日聯合國教科文組織(UNESCO)保護非物質文化遺產政府間委員會會議在亞塞拜然巴庫通過決議,正式將韓國「醃製越冬泡菜文化」列入教科文組織人類非物質文化遺產代表名錄。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E9%9F%93%E5%BC%8F%E6%B3%A1%E8%8F%9C"
                                 },
                                 "src_context": [
-                                    "「沉菜」後來語音訛變才成為今日之名。",
-                                    "《三國史記》記載，神文王於683年娶王妃時下令準備的聘禮中包括醬油、大醬、醬汁類等食品。",
-                                    "這些食品即“泡菜類”。"
+                                    "辣椒使韓式泡菜在味道方面得到了改进。",
+                                    "辣椒使韓式泡菜在色泽方面得到了改进。",
+                                    "2013年12月5日，聯合國教科文組織(UNESCO)保護非物質文化遺產政府間委員會會議在亞塞拜然巴庫舉行。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Samguk Sagi, a historical record of the Three Kingdoms of Korea, mentions the pickle jar used to ferment vegetables, which indicates that fermented vegetables were commonly eaten during this time.",
-                                    "Samguk Sagi, a historical record of the Three Kingdoms of Korea, mentions the pickle jar used to ferment vegetables, which indicates that fermented vegetables were commonly eaten during this time.",
-                                    "After a long period of consuming gimjang kimchi (김장김치) during the winter, fresh potherbs and vegetables were used to make kimchi.",
-                                    "These kinds of kimchi were not fermented or even stored for long periods of time but were consumed fresh."
+                                    "In response to the kimchi price crisis, the South Korean government announced the temporary reduction of tariffs on imported cabbage to coincide with the kimjang season.",
+                                    "Kimchi-related items have been inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity by both South and North Korea.",
+                                    "This procedural design should include steps that maintain sterility of the equipment and products used, and the details of all sterilization processes.",
+                                    "This procedural design should include steps that maintain sterility of the equipment and products used, and the details of all sterilization processes."
                                 ]
                             }
                         ]
@@ -290,48 +679,21 @@
                                     "translated": "Various conditioning methods"
                                 },
                                 "fact": {
-                                    "original": "包裹泡菜中有鲍鱼",
-                                    "translated": "There are abalone in the pickled cabbage.",
-                                    "fact_aligned_sentence": "包裹泡菜(泡菜中最名貴者,有鮑魚、牡蠣、章魚等各種海鮮)",
+                                    "original": "萝卜可以用来制作泡菜。",
+                                    "translated": "Radishes can be used to make pickles.",
+                                    "fact_aligned_sentence": "白菜萝卜泡菜",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E9%9F%93%E5%BC%8F%E6%B3%A1%E8%8F%9C"
                                 },
                                 "src_context": [
-                                    "泡菜水是朝鲜冷面的主要材料",
-                                    "包裹泡菜是泡菜中最名贵的",
-                                    "包裹泡菜中有鲍鱼"
+                                    "泡菜是一种发酵食品。",
+                                    "白菜可以用来制作泡菜。",
+                                    "萝卜可以用来制作泡菜。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Oi-sobagi (오이소박이) cucumber kimchi that can be stuffed with seafood and chili paste, and is a popular choice during the spring and summer seasons",
-                                    "Oi-sobagi (오이소박이) cucumber kimchi that can be stuffed with seafood and chili paste, and is a popular choice during the spring and summer seasons",
-                                    "Kkakdugi (깍두기) spicy cubed Korean radish strongly-scented kimchi containing fermented shrimp",
-                                    "Kkakdugi (깍두기) spicy cubed Korean radish strongly-scented kimchi containing fermented shrimp"
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": "其他各種形式",
-                                    "translated": "Various other forms"
-                                },
-                                "header_1": {
-                                    "original": "各種調理方式",
-                                    "translated": "Various conditioning methods"
-                                },
-                                "fact": {
-                                    "original": "包裹泡菜是泡菜中最名贵的",
-                                    "translated": "The wrapped pickles are the most precious among pickles.",
-                                    "fact_aligned_sentence": "包裹泡菜(泡菜中最名貴者,有鮑魚、牡蠣、章魚等各種海鮮)",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%9F%93%E5%BC%8F%E6%B3%A1%E8%8F%9C"
-                                },
-                                "src_context": [
-                                    "水泡菜是早期的泡菜",
-                                    "泡菜水是朝鲜冷面的主要材料",
-                                    "包裹泡菜是泡菜中最名贵的"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "It is mainly served as a side dish with every meal, but also can be served as a main dish.",
-                                    "Kimchi is mainly recognized as a spicy fermented cabbage dish globally.",
-                                    "Bossam-kimchi (보쌈김치) wrapped kimchi",
-                                    "Bossam-kimchi (보쌈김치) wrapped kimchi"
+                                    "Baechu-kimchi (배추김치) spicy napa cabbage kimchi, made from whole cabbage leaves",
+                                    "Baechu-kimchi (배추김치) spicy napa cabbage kimchi, made from whole cabbage leaves",
+                                    "The typical kimchi for Hwanghae Province is called hobakji (호박지).",
+                                    "It is made with pumpkin (bundi)."
                                 ]
                             },
                             {
@@ -345,7 +707,7 @@
                                 },
                                 "fact": {
                                     "original": "水果泡菜是用梨泡制的。",
-                                    "translated": "Fruit pickles are made by soaking pears.",
+                                    "translated": "Fruit pickles are made with pears.",
                                     "fact_aligned_sentence": "水果泡菜,用苹果和梨泡制的泡菜。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E9%9F%93%E5%BC%8F%E6%B3%A1%E8%8F%9C"
                                 },
@@ -371,75 +733,133 @@
                                     "translated": "Various conditioning methods"
                                 },
                                 "fact": {
-                                    "original": "泡菜可以分為泡菜類。",
-                                    "translated": "Pickles can be divided into pickled types.",
-                                    "fact_aligned_sentence": "除了以上種類,也可根據醃漬泡菜時使用的主材料,對泡菜進行分類。如泡菜類、泡菜塊兒類、泡萝卜類、醃菜類、鹹菜類、食醯類等。",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%9F%93%E5%BC%8F%E6%B3%A1%E8%8F%9C"
-                                },
-                                "src_context": [
-                                    "发酸的泡菜可用砂锅加热制作泡菜锅",
-                                    "泡菜可以根據醃漬泡菜時使用的主材料進行分類。",
-                                    "泡菜可以分為泡菜類。"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Oi-sobagi (오이소박이) cucumber kimchi that can be stuffed with seafood and chili paste, and is a popular choice during the spring and summer seasons",
-                                    "Oi-sobagi (오이소박이) cucumber kimchi that can be stuffed with seafood and chili paste, and is a popular choice during the spring and summer seasons",
-                                    "It is mainly served as a side dish with every meal, but also can be served as a main dish.",
-                                    "It is mainly served as a side dish with every meal, but also can be served as a main dish."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": "其他各種形式",
-                                    "translated": "Various other forms"
-                                },
-                                "header_1": {
-                                    "original": "各種調理方式",
-                                    "translated": "Various conditioning methods"
-                                },
-                                "fact": {
-                                    "original": "发酸的泡菜可伴猪肉",
-                                    "translated": "Sour pickles can accompany pork.",
-                                    "fact_aligned_sentence": "泡菜可用来制作泡菜炒飯、泡菜壽司,發酸的泡菜可伴豬肉、豆腐,以砂鍋熱之(泡菜鍋)。",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%9F%93%E5%BC%8F%E6%B3%A1%E8%8F%9C"
-                                },
-                                "src_context": [
-                                    "泡菜可用来制作泡菜炒饭",
-                                    "泡菜可用来制作泡菜寿司",
-                                    "发酸的泡菜可伴猪肉"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Oi-sobagi (오이소박이) cucumber kimchi that can be stuffed with seafood and chili paste, and is a popular choice during the spring and summer seasons",
-                                    "Oi-sobagi (오이소박이) cucumber kimchi that can be stuffed with seafood and chili paste, and is a popular choice during the spring and summer seasons",
-                                    "Oi-sobagi (오이소박이) cucumber kimchi that can be stuffed with seafood and chili paste, and is a popular choice during the spring and summer seasons",
-                                    "Oi-sobagi (오이소박이) cucumber kimchi that can be stuffed with seafood and chili paste, and is a popular choice during the spring and summer seasons"
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": "其他各種形式",
-                                    "translated": "Various other forms"
-                                },
-                                "header_1": {
-                                    "original": "各種調理方式",
-                                    "translated": "Various conditioning methods"
-                                },
-                                "fact": {
-                                    "original": "水果泡菜是一种泡菜。",
-                                    "translated": "Fruit pickles are a type of pickle.",
+                                    "original": "水果泡菜是用苹果泡制的。",
+                                    "translated": "Fruit pickle is made by soaking apples.",
                                     "fact_aligned_sentence": "水果泡菜,用苹果和梨泡制的泡菜。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E9%9F%93%E5%BC%8F%E6%B3%A1%E8%8F%9C"
                                 },
                                 "src_context": [
-                                    "黃瓜泡菜是一种食品。",
                                     "餡黃瓜是一种食品。",
-                                    "水果泡菜是一种泡菜。"
+                                    "水果泡菜是一种泡菜。",
+                                    "水果泡菜是用苹果泡制的。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Baechu kimchi comprised more than seventy percent of marketed kimchi and radish kimchi comprised about twenty percent of marketed kimchi.",
-                                    "Kimchi is made of various vegetables and contains a high concentration of dietary fiber, while being low in food energy.",
-                                    "Chili peppers, now a standard ingredient in kimchi, had been unknown in Korea until the early seventeenth century due to it being a New World crop.",
-                                    "Chili peppers, now a standard ingredient in kimchi, had been unknown in Korea until the early seventeenth century due to it being a New World crop."
+                                    "Baechu-kimchi (배추김치) spicy napa cabbage kimchi, made from whole cabbage leaves",
+                                    "Baechu-kimchi (배추김치) spicy napa cabbage kimchi, made from whole cabbage leaves",
+                                    "Baechu-kimchi (배추김치) spicy napa cabbage kimchi, made from whole cabbage leaves",
+                                    "Baechu-kimchi (배추김치) spicy napa cabbage kimchi, made from whole cabbage leaves"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "辣白菜",
+                                    "translated": "Spicy cabbage"
+                                },
+                                "header_1": {
+                                    "original": "各種調理方式",
+                                    "translated": "Various conditioning methods"
+                                },
+                                "fact": {
+                                    "original": "泡菜储存得愈久，味道就愈好。",
+                                    "translated": "The longer the kimchi is stored, the better the taste.",
+                                    "fact_aligned_sentence": "在初冬將整棵大白菜豎著對剖為兩半,或者不剖,先用盐淹過,去除多餘水份,把自製的辣醬混合蒜、洋蔥、辣椒粉、辣椒乾、梨磨碎及萝卜、萝卜条絲,或紅蘿蔔絲、葱末等配料,再加上魚露、搗碎了的蝦或是蝦醬及其他海產,均勻地塗抹在每片大白菜上面,然後層層碼好放入甕缸裡貯存就可以了。泡菜貯存得愈久,味道就愈好,但一定要保持貯存地方周圍的環境清涼。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%9F%93%E5%BC%8F%E6%B3%A1%E8%8F%9C"
+                                },
+                                "src_context": [
+                                    "均匀地涂抹在每片大白菜上面。",
+                                    "然后层层码好放入甕缸里储存。",
+                                    "泡菜储存得愈久，味道就愈好。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Chungcheong Province has the most varieties of kimchi.",
+                                    "Gangwon Province, South Korea/Kangwon Province, North Korea: In Gangwon Province, kimchi is stored for longer periods.",
+                                    "Gangwon Province, South Korea/Kangwon Province, North Korea: In Gangwon Province, kimchi is stored for longer periods.",
+                                    "Gangwon Province, South Korea/Kangwon Province, North Korea: In Gangwon Province, kimchi is stored for longer periods."
+                                ]
+                            }
+                        ]
+                    },
+                    "效能與營養": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "效能與營養",
+                                    "translated": "Efficacy and nutrition"
+                                },
+                                "fact": {
+                                    "original": "韓式泡菜的蔬菜液汁和食鹽有复合作用。",
+                                    "translated": "The vegetable juice and salt in Korean kimchi have a synergistic effect.",
+                                    "fact_aligned_sentence": "韓式泡菜因蔬菜的液汁和食鹽等的復合作用而有淨化腸胃的作用。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%9F%93%E5%BC%8F%E6%B3%A1%E8%8F%9C"
+                                },
+                                "src_context": [
+                                    "韓式泡菜含有蔬菜的液汁。",
+                                    "韓式泡菜含有食鹽。",
+                                    "韓式泡菜的蔬菜液汁和食鹽有复合作用。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Korean term \"Kimchi\" refers to fermented vegetables, and encompasses salt and seasoned vegetables.",
+                                    "The Korean term \"Kimchi\" refers to fermented vegetables, and encompasses salt and seasoned vegetables.",
+                                    "Kimchi (; Korean: 김치; RR: gimchi, IPA: [kim.tɕhi]) is a traditional Korean side dish (banchan) consisting of salted and fermented vegetables, most often napa cabbage or Korean radish.",
+                                    "Kimchi (; Korean: 김치; RR: gimchi, IPA: [kim.tɕhi]) is a traditional Korean side dish (banchan) consisting of salted and fermented vegetables, most often napa cabbage or Korean radish."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "效能與營養",
+                                    "translated": "Efficacy and nutrition"
+                                },
+                                "fact": {
+                                    "original": "韓式泡菜類似冬菜",
+                                    "translated": "Korean-style kimchi is similar to winter vegetables.",
+                                    "fact_aligned_sentence": "韓式泡菜含各种维生素,有蒜的香味,類似冬菜。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%9F%93%E5%BC%8F%E6%B3%A1%E8%8F%9C"
+                                },
+                                "src_context": [
+                                    "韓式泡菜含各种维生素",
+                                    "韓式泡菜有蒜的香味",
+                                    "韓式泡菜類似冬菜"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Chonggak-kimchi (총각김치) cubed chonggak \"ponytail\" radish, a popular spicy kimchi",
+                                    "Kkakdugi (깍두기) spicy cubed Korean radish strongly-scented kimchi containing fermented shrimp",
+                                    "However, napa cabbage was introduced to Korea only at the end of 19th century, and whole-cabbage kimchi similar to its current form is described in Siuijeonseo, a cookbook published around that time.",
+                                    "However, napa cabbage was introduced to Korea only at the end of 19th century, and whole-cabbage kimchi similar to its current form is described in Siuijeonseo, a cookbook published around that time."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "效能與營養",
+                                    "translated": "Efficacy and nutrition"
+                                },
+                                "fact": {
+                                    "original": "韓式泡菜對糖尿病有抑制效果。",
+                                    "translated": "Kimchi has an inhibitory effect on diabetes.",
+                                    "fact_aligned_sentence": "韓式泡菜有助於成人病的預防,對肥胖、高血壓、糖尿病、癌症有抑制效果。但韓式泡菜中的亚硝酸盐和辣椒素有概率會令過量食用的人產生胃癌。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%9F%93%E5%BC%8F%E6%B3%A1%E8%8F%9C"
+                                },
+                                "src_context": [
+                                    "韓式泡菜對肥胖有抑制效果。",
+                                    "韓式泡菜對高血壓有抑制效果。",
+                                    "韓式泡菜對糖尿病有抑制效果。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Hydrogen peroxide is formed by the oxidation of reduced nicotinamide adenine dinucleotide (NADH) and provides an antibiotic to inhibit some undesirable microorganisms.",
+                                    "Carbon dioxide functions as a preservative, flushing out oxygen to create an anaerobic environment, as well as creating the desired carbonation in the final product.",
+                                    "However, due to significantly different preparation techniques from pao cai, kimchi has significantly more lactic acid bacteria through its fermentation process, which exceeds China's regulations.",
+                                    "However, due to significantly different preparation techniques from pao cai, kimchi has significantly more lactic acid bacteria through its fermentation process, which exceeds China's regulations."
                                 ]
                             }
                         ]

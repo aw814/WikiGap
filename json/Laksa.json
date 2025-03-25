@@ -43,7 +43,7 @@
                                 },
                                 "fact": {
                                     "original": "Лакса (малайск., индон. и англ. laksa; кит. трад. 喇沙, упр. 叻沙, пиньинь lǎshā, палл. лаша) — блюдо перанаканской кухни.",
-                                    "translated": "Laksa (Malay, Indonesian, and English laksa; traditional Chinese 喇沙, simplified 叻沙, pinyin lǎshā, pall. lashā) is a dish of Peranakan cuisine.",
+                                    "translated": "Laksa (Malay, Indonesian, and English: laksa; Traditional Chinese: 喇沙, Simplified Chinese: 叻沙, Pinyin: lǎshā, pall. lasha) is a dish of Peranakan cuisine.",
                                     "fact_aligned_sentence": "лаша) — блюдо перанаканской кухни, распространённое в Малайзии, Сингапуре и Индонезии, представляющее собой острый суп с лапшой.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BA%D1%81%D0%B0"
                                 },
@@ -93,60 +93,6 @@
                         "entries": [
                             {
                                 "header_2": {
-                                    "original": "autres recettes",
-                                    "translated": "Other recipes"
-                                },
-                                "header_1": {
-                                    "original": "types",
-                                    "translated": "guys"
-                                },
-                                "fact": {
-                                    "original": "Le Johor laksa utilise du lait de coco.",
-                                    "translated": "'Johor laksa uses coconut milk.'",
-                                    "fact_aligned_sentence": "Johor laksa (malais : laksa Johor), de l'état de Johor.",
-                                    "wiki_link": "https://fr.wikipedia.org/wiki/Laksa"
-                                },
-                                "src_context": [
-                                    "Il contient du sel.",
-                                    "Johor laksa (malais : laksa Johor) est un plat de l'état de Johor.",
-                                    "Le Johor laksa utilise du lait de coco."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Some laksa variants might use fresh rice noodles handmade from scratch, other types of noodles; Johor laksa for example uses wheat-based spaghetti, while Kelantanese laksam is served with wide strips of rice noodle rolls similar in texture to shahe fen.",
-                                    "Some laksa variants might use fresh rice noodles handmade from scratch, other types of noodles; Johor laksa for example uses wheat-based spaghetti, while Kelantanese laksam is served with wide strips of rice noodle rolls similar in texture to shahe fen.",
-                                    "Johor Laksa (Laksa Johor) from Johor state in southern Malaysia resembles Penang Laksa but differed greatly because it is eaten with spaghetti and the broth are made of grilled wolf herring (parang), concentrated coconut milk, onion and spices.",
-                                    "Johor Laksa (Laksa Johor) from Johor state in southern Malaysia resembles Penang Laksa but differed greatly because it is eaten with spaghetti and the broth are made of grilled wolf herring (parang), concentrated coconut milk, onion and spices."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": "autres recettes",
-                                    "translated": "Other recipes"
-                                },
-                                "header_1": {
-                                    "original": "types",
-                                    "translated": "guys"
-                                },
-                                "fact": {
-                                    "original": "L'ikan kembung ou le comète quiaquia émincé est ensuite frit avec de l'oignon, de l'ail, du gingembre, du belacan, de la menthe vietnamienne, du piment datil, de la citronnelle et des tranches de tamarin séché.",
-                                    "translated": "'The mackerel or the finely sliced comète quiaquia is then fried with onion, garlic, ginger, belacan, Vietnamese mint, datil chili, lemongrass, and slices of dried tamarind.'",
-                                    "fact_aligned_sentence": "Il est ensuite frit avec de l'oignon, de l'ail, du gingembre, du belacan, de la menthe vietnamienne, du piment datil, de la citronnelle et des tranches de tamarin séché.",
-                                    "wiki_link": "https://fr.wikipedia.org/wiki/Laksa"
-                                },
-                                "src_context": [
-                                    "L'ingrédient principal de la sauce de Terengganu laksa est l'ikan kembung ou le comète quiaquia.",
-                                    "L'ikan kembung ou le comète quiaquia est bouilli et émincé.",
-                                    "L'ikan kembung ou le comète quiaquia émincé est ensuite frit avec de l'oignon, de l'ail, du gingembre, du belacan, de la menthe vietnamienne, du piment datil, de la citronnelle et des tranches de tamarin séché."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "The main ingredients for tamarind-based laksa typically include shredded fish, normally mackerel (ikan kembung), and finely sliced vegetables including cucumber, onions, red chillies, pineapple, mint leaves, laksa leaves, and shredded torch ginger flower.",
-                                    "The main ingredients for tamarind-based laksa typically include shredded fish, normally mackerel (ikan kembung), and finely sliced vegetables including cucumber, onions, red chillies, pineapple, mint leaves, laksa leaves, and shredded torch ginger flower.",
-                                    "In Indonesia, most laksa variants are coconut milk-based soups.",
-                                    "Common spices include turmeric, coriander, candlenut, lemongrass, garlic, shallot, and pepper cooked in coconut milk."
-                                ]
-                            },
-                            {
-                                "header_2": {
                                     "original": "curry laksa",
                                     "translated": "Curry Laksa"
                                 },
@@ -155,41 +101,258 @@
                                     "translated": "guys"
                                 },
                                 "fact": {
-                                    "original": "Le curry laksa est connu pour sa saveur épicée et crémeuse.",
-                                    "translated": "Laksa curry is known for its spicy and creamy flavor.",
-                                    "fact_aligned_sentence": "Parmi les nombreux curry laksa existants, on retrouve :",
-                                    "wiki_link": "https://fr.wikipedia.org/wiki/Laksa"
-                                },
-                                "src_context": [
-                                    "Le curry laksa peut inclure du poulet, des crevettes ou du tofu.",
-                                    "Le curry laksa est souvent garni de pousses de soja et de coriandre.",
-                                    "Le curry laksa est connu pour sa saveur épicée et crémeuse."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "The name laksa is derived from the word spicy (辣) and grainy or sandy (沙) in the Min Chinese dialect, which denotes the spicy taste and the grainy texture (either from grinding onion, granules of fish or meat, or curdled coconut milk) of laksa, since the Peranakan Malay is a creole language that is heavily influenced by a dialect of Hokkien.",
-                                    "The name laksa is derived from the word spicy (辣) and grainy or sandy (沙) in the Min Chinese dialect, which denotes the spicy taste and the grainy texture (either from grinding onion, granules of fish or meat, or curdled coconut milk) of laksa, since the Peranakan Malay is a creole language that is heavily influenced by a dialect of Hokkien.",
-                                    "Laksa (Jawi: لقس) (Chinese: 叻沙) is a spicy noodle dish popular in Southeast Asia."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": "curry laksa",
-                                    "translated": "Curry Laksa"
-                                },
-                                "header_1": {
-                                    "original": "types",
-                                    "translated": "guys"
-                                },
-                                "fact": {
-                                    "original": "Le terme curry laksa est plus utilisé à Kuala Lumpur et Singapour.",
-                                    "translated": "The term curry laksa is more commonly used in Kuala Lumpur and Singapore.",
+                                    "original": "Le curry laksa est très populaire à Kuala Lumpur et Singapour.",
+                                    "translated": "Curry laksa is very popular in Kuala Lumpur and Singapore.",
                                     "fact_aligned_sentence": "Le terme curry laksa est plus utilisé à Kuala Lumpur et Singapour ; il y est très populaire, et est décliné en laksa yong tau foo, laksa de homard, ou tout simplement laksa nature, avec des nouilles et du bouillon.",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Laksa"
                                 },
                                 "src_context": [
-                                    "Le curry mee utilise des nouilles mee jaune ou bee hoon.",
                                     "Le curry mee de Penang utilise du sang de porc.",
-                                    "Le terme curry laksa est plus utilisé à Kuala Lumpur et Singapour."
+                                    "Le terme curry laksa est plus utilisé à Kuala Lumpur et Singapour.",
+                                    "Le curry laksa est très populaire à Kuala Lumpur et Singapour."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Curry Laksa in Selangor and Kuala Lumpur, or the Klang Valley region, includes deep-fried tofu, cockles, long beans and mint as signature ingredients.",
+                                    "It is typically served with yellow alkalised egg noodles (\"mee\") and/or rice vermicelli (\"bee hoon\").",
+                                    "The general differences between types of laksa in Malaysia; Sarawak Laksa, Nyonya Laksa, Curry Laksa, Laksa Kuah Merah, Laksa Kuah Putih and Asam Laksa are as follows:",
+                                    "Several laksa variants have gained popularity in Malaysia, Singapore, and Indonesia; and subsequently international recognition."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "autres recettes",
+                                    "translated": "Other recipes"
+                                },
+                                "header_1": {
+                                    "original": "types",
+                                    "translated": "guys"
+                                },
+                                "fact": {
+                                    "original": "La soupe contient de la citronnelle.",
+                                    "translated": "The soup contains lemongrass.",
+                                    "fact_aligned_sentence": "On met, dans cette soupe au de lait de coco, de l'échalote, de l'ail, du curcuma, du galanga, de la citronnelle, du gingembre, du poivre, des feuilles de combava, des rebon (petites crevettes séchées).",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Laksa"
+                                },
+                                "src_context": [
+                                    "La soupe contient du curcuma.",
+                                    "La soupe contient du galanga.",
+                                    "La soupe contient de la citronnelle."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Laksa Tambelan from the Indonesian islands of Tambelan uses flaked sauteed ikan tongkol asap instead of fresh fish.",
+                                    "The dish consists of sagoo noodles, that is served in spicy coconut-based stock made of kerisik (sauteed grated coconut, pounded or blended into paste).",
+                                    "Unlike Laksan, Lakso consists of noodle-like steamed sago paste but served in Burgo-like coconut milk soup with only an addition of turmeric and sprinkled with fried shallots.",
+                                    "Unlike Laksan, Lakso consists of noodle-like steamed sago paste but served in Burgo-like coconut milk soup with only an addition of turmeric and sprinkled with fried shallots."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "curry laksa",
+                                    "translated": "Curry Laksa"
+                                },
+                                "header_1": {
+                                    "original": "types",
+                                    "translated": "guys"
+                                },
+                                "fact": {
+                                    "original": "Le curry laksa est une soupe de curry à base de noix de coco.",
+                                    "translated": "Curry laksa is a coconut-based curry soup.",
+                                    "fact_aligned_sentence": "Le curry laksa (dans de nombreux endroits il est juste appelé laksa) est une soupe de curry à base de noix de coco.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Laksa"
+                                },
+                                "src_context": [
+                                    "On utilise des nouilles de riz épaisses (ou « nouilles laksa »).",
+                                    "On retrouve aussi des vermicelles de riz (bee hoon ou mee hoon).",
+                                    "Le curry laksa est une soupe de curry à base de noix de coco."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Kuala Kangsar Laksa (Laksa Kuala Kangsar), also known as Perak Laksa (Laksa Perak), consists of handmade wheat noodles and light broth.",
+                                    "Kuala Kangsar Laksa (Laksa Kuala Kangsar), also known as Perak Laksa (Laksa Perak), consists of handmade wheat noodles and light broth.",
+                                    "The general differences between types of laksa in Malaysia; Sarawak Laksa, Nyonya Laksa, Curry Laksa, Laksa Kuah Merah, Laksa Kuah Putih and Asam Laksa are as follows:",
+                                    "The general differences between types of laksa in Malaysia; Sarawak Laksa, Nyonya Laksa, Curry Laksa, Laksa Kuah Merah, Laksa Kuah Putih and Asam Laksa are as follows:"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "autres recettes",
+                                    "translated": "Other recipes"
+                                },
+                                "header_1": {
+                                    "original": "types",
+                                    "translated": "guys"
+                                },
+                                "fact": {
+                                    "original": "La soupe contient du poivre.",
+                                    "translated": "The soup contains pepper.",
+                                    "fact_aligned_sentence": "On met, dans cette soupe au de lait de coco, de l'échalote, de l'ail, du curcuma, du galanga, de la citronnelle, du gingembre, du poivre, des feuilles de combava, des rebon (petites crevettes séchées).",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Laksa"
+                                },
+                                "src_context": [
+                                    "La soupe contient de la citronnelle.",
+                                    "La soupe contient du gingembre.",
+                                    "La soupe contient du poivre."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Sambal and sautéed vegetables such as long beans and carrots are also added to the laksa.",
+                                    "Sambal and sautéed vegetables such as long beans and carrots are also added to the laksa.",
+                                    "Penang Laksa (Laksa Pulau Pinang), also known as Asam Laksa, a specialty of the Malaysian island of Penang.",
+                                    "The soup is made with mackerel and its main distinguishing feature is the asam or tamarind which gives the soup a sour and appetizing taste."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "curry laksa",
+                                    "translated": "Curry Laksa"
+                                },
+                                "header_1": {
+                                    "original": "types",
+                                    "translated": "guys"
+                                },
+                                "fact": {
+                                    "original": "Le curry laksa est décliné en laksa de homard à Kuala Lumpur et Singapour.",
+                                    "translated": "Curry laksa is available as lobster laksa in Kuala Lumpur and Singapore.",
+                                    "fact_aligned_sentence": "Le terme curry laksa est plus utilisé à Kuala Lumpur et Singapour ; il y est très populaire, et est décliné en laksa yong tau foo, laksa de homard, ou tout simplement laksa nature, avec des nouilles et du bouillon.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Laksa"
+                                },
+                                "src_context": [
+                                    "Le curry laksa est très populaire à Kuala Lumpur et Singapour.",
+                                    "Le curry laksa est décliné en laksa yong tau foo à Kuala Lumpur et Singapour.",
+                                    "Le curry laksa est décliné en laksa de homard à Kuala Lumpur et Singapour."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Curry Laksa in Selangor and Kuala Lumpur, or the Klang Valley region, includes deep-fried tofu, cockles, long beans and mint as signature ingredients.",
+                                    "It is typically served with yellow alkalised egg noodles (\"mee\") and/or rice vermicelli (\"bee hoon\").",
+                                    "Curry Laksa in Selangor and Kuala Lumpur, or the Klang Valley region, includes deep-fried tofu, cockles, long beans and mint as signature ingredients.",
+                                    "Curry Laksa in Selangor and Kuala Lumpur, or the Klang Valley region, includes deep-fried tofu, cockles, long beans and mint as signature ingredients."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "asam laksa",
+                                    "translated": "Asam Laksa"
+                                },
+                                "header_1": {
+                                    "original": "types",
+                                    "translated": "guys"
+                                },
+                                "fact": {
+                                    "original": "Le Ipoh laksa utilise du poisson-chat comme ingrédient principal.",
+                                    "translated": "'Ipoh laksa uses catfish as the main ingredient.'",
+                                    "fact_aligned_sentence": "Parmi les principaux asam laksa, on retrouve :",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Laksa"
+                                },
+                                "src_context": [
+                                    "Le Perlis laksa utilise des ingrédients locaux spécifiques à la région de Perlis.",
+                                    "Le Ipoh laksa est une version plus douce du Penang asam laksa.",
+                                    "Le Ipoh laksa utilise du poisson-chat comme ingrédient principal."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Ipoh Laksa (Laksa Ipoh), a specialty of the Malaysian city of Ipoh, is similar to Penang Laksa but has a sourer rather than sweet taste, and contains prawn paste.",
+                                    "Ipoh Laksa (Laksa Ipoh), a specialty of the Malaysian city of Ipoh, is similar to Penang Laksa but has a sourer rather than sweet taste, and contains prawn paste.",
+                                    "The soup resembles Laksa Terengganu Kuah Putih but with the use of smoked fish instead of fresh fish.",
+                                    "The soup resembles Laksa Terengganu Kuah Putih but with the use of smoked fish instead of fresh fish."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "asam laksa",
+                                    "translated": "Asam Laksa"
+                                },
+                                "header_1": {
+                                    "original": "types",
+                                    "translated": "guys"
+                                },
+                                "fact": {
+                                    "original": "Penang laksa est fait à base de maquereau (ikan kembung).",
+                                    "translated": "'Penang laksa is made from mackerel (ikan kembung).'",
+                                    "fact_aligned_sentence": "Fait à base de maquereau (ikan kembung), il se distingue des autres par l'emploi de tamarin.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Laksa"
+                                },
+                                "src_context": [
+                                    "Le Kuala Kangsar laksa utilise des herbes locales pour aromatiser la soupe.",
+                                    "Penang laksa (malais : laksa pulau Pinang) est originaire de l'île de Penang.",
+                                    "Penang laksa est fait à base de maquereau (ikan kembung)."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pangkor Mee Laksa (Laksa Mi Pangkor), a specialty of the Malaysian island of Pangkor and the surrounding mainland area of Perak.",
+                                    "It consists of specialty-made white noodle that is topped with clear seafood-based soup of either fish, crab, squid or shrimp that was boiled with dried tamarind apples and salt.",
+                                    "This type of Laksa is normally served with either thick rice noodles (\"laksa\") or thin rice noodles (\"mee hoon\") and topped off with otak udang or hae ko (Penang Hokkien: 蝦膏; hêe-ko), a thick sweet shrimp paste.",
+                                    "This type of Laksa is normally served with either thick rice noodles (\"laksa\") or thin rice noodles (\"mee hoon\") and topped off with otak udang or hae ko (Penang Hokkien: 蝦膏; hêe-ko), a thick sweet shrimp paste."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "autres recettes",
+                                    "translated": "Other recipes"
+                                },
+                                "header_1": {
+                                    "original": "types",
+                                    "translated": "guys"
+                                },
+                                "fact": {
+                                    "original": "Laksa est un plat traditionnel de Brunei.",
+                                    "translated": "Laksa is a traditional dish from Brunei.",
+                                    "fact_aligned_sentence": "Laksa Brunei.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Laksa"
+                                },
+                                "src_context": [
+                                    "Le plat est souvent garni de légumes frais et d'herbes aromatiques.",
+                                    "Sabah laksa est apprécié pour son goût riche et épicé.",
+                                    "Laksa est un plat traditionnel de Brunei."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In 2018, the Kuala Lumpur variant has been named the second-best food experience in the world on Lonely Planet's Ultimate Eat list.",
+                                    "In Indonesia, laksa is a traditional comfort food; the spicy warm noodle soup is much appreciated on cold, rainy days.",
+                                    "The laksa is accompanied by cucumber, bean sprouts, laksa leaves and a dollop of sambal.",
+                                    "Baduy Laksa (Laksa Baduy) possibly is one of the oldest and the most traditional laksa variant in Indonesia."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "asam laksa",
+                                    "translated": "Asam Laksa"
+                                },
+                                "header_1": {
+                                    "original": "types",
+                                    "translated": "guys"
+                                },
+                                "fact": {
+                                    "original": "Kuala Kangsar laksa est originaire de Kuala Kangsar.",
+                                    "translated": "Kuala Kangsar laksa originates from Kuala Kangsar.",
+                                    "fact_aligned_sentence": "Kuala Kangsar laksa (malais : laksa Kuala Kangsar), originaire de Kuala Kangsar, avec des nouilles à base de blé et non de riz.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Laksa"
+                                },
+                                "src_context": [
+                                    "Ipoh laksa a un goût plus aigre que le laksa de Penang.",
+                                    "Ipoh laksa contient de la pâte de crevette.",
+                                    "Kuala Kangsar laksa est originaire de Kuala Kangsar."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The garnishes used in Ipoh Laksa can differ slightly from those used in Penang Laksa.",
+                                    "Kuala Kangsar Laksa (Laksa Kuala Kangsar), also known as Perak Laksa (Laksa Perak), consists of handmade wheat noodles and light broth.",
+                                    "Kuala Kangsar Laksa (Laksa Kuala Kangsar), also known as Perak Laksa (Laksa Perak), consists of handmade wheat noodles and light broth.",
+                                    "Kuala Kangsar Laksa (Laksa Kuala Kangsar), also known as Perak Laksa (Laksa Perak), consists of handmade wheat noodles and light broth."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "curry laksa",
+                                    "translated": "Curry Laksa"
+                                },
+                                "header_1": {
+                                    "original": "types",
+                                    "translated": "guys"
+                                },
+                                "fact": {
+                                    "original": "Le curry laksa est décliné en laksa nature avec des nouilles et du bouillon à Kuala Lumpur et Singapour.",
+                                    "translated": "Curry laksa is available as plain laksa with noodles and broth in Kuala Lumpur and Singapore.",
+                                    "fact_aligned_sentence": "Le terme curry laksa est plus utilisé à Kuala Lumpur et Singapour ; il y est très populaire, et est décliné en laksa yong tau foo, laksa de homard, ou tout simplement laksa nature, avec des nouilles et du bouillon.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Laksa"
+                                },
+                                "src_context": [
+                                    "Le curry laksa est décliné en laksa yong tau foo à Kuala Lumpur et Singapour.",
+                                    "Le curry laksa est décliné en laksa de homard à Kuala Lumpur et Singapour.",
+                                    "Le curry laksa est décliné en laksa nature avec des nouilles et du bouillon à Kuala Lumpur et Singapour."
                                 ],
                                 "tgt_fact_aligned_sentences": [
                                     "Curry Laksa in Selangor and Kuala Lumpur, or the Klang Valley region, includes deep-fried tofu, cockles, long beans and mint as signature ingredients.",
@@ -204,159 +367,35 @@
             },
             "zh": {
                 "headers": {
-                    "咖哩叻沙（curry laksa）": {
-                        "entries": [
-                            {
-                                "header_2": {
-                                    "original": "娘惹叻沙（nyonya laksa）",
-                                    "translated": "Nyonya Laksa"
-                                },
-                                "header_1": {
-                                    "original": "咖哩叻沙（curry laksa）",
-                                    "translated": "Curry laksa"
-                                },
-                                "fact": {
-                                    "original": "這種做法也被峇峇娘惹族群所挪用。",
-                                    "translated": "This practice has also been appropriated by the Baba-Nyonya ethnic group.",
-                                    "fact_aligned_sentence": "為咖哩叻沙的主要形式,這種叻沙在馬來西亞和新加坡各地都很常見。湯頭內加入大量的椰奶,因此又被稱為“椰奶叻沙(Laksa Lemak)”。椰奶在傳統馬來飲食中,是常見的調味料,多用以增加食物的香味及濃稠度,這種做法也被峇峇娘惹族群所挪用。娘惹叻沙味道的特點是擁有濃郁的咖哩和椰子香味,同時帶有淡淡的甜味,辣度在馬來西亞料理中,是屬於中等。",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8F%BB%E6%B2%99"
-                                },
-                                "src_context": [
-                                    "椰奶在傳統馬來飲食中是常見的調味料。",
-                                    "椰奶多用以增加食物的香味及濃稠度。",
-                                    "這種做法也被峇峇娘惹族群所挪用。"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Baduy laksa is wrapped in congkok leaf (Molineria capitulata leaf) or in upih (betel nut stems).",
-                                    "Laksa baduy is treated as a traditional dish prerequisite for ngalaksa ceremony conducted by Baduy people, thus not widely available nor commonly sold.",
-                                    "These Chinese men intermarried into the local populations, and together they formed mixed-race communities called the Peranakan Chinese or Straits Chinese.",
-                                    "These Chinese men intermarried into the local populations, and together they formed mixed-race communities called the Peranakan Chinese or Straits Chinese."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": "白咖哩麵",
-                                    "translated": "White Curry Noodle"
-                                },
-                                "header_1": {
-                                    "original": "咖哩叻沙（curry laksa）",
-                                    "translated": "Curry laksa"
-                                },
-                                "fact": {
-                                    "original": "白咖哩麵被製成泡麵。",
-                                    "translated": "White curry noodles are made into instant noodles.",
-                                    "fact_aligned_sentence": "流行於檳城一帶的咖哩叻沙,此叻沙的重點在於椰奶之香味,與其他叻沙不同的是,餐點上桌時,湯頭的原色為白色,主因是湯頭內加入大量的椰奶,但未加入各式的咖哩香料所致。呈現赤紅的叻沙醬則是放在桌上或隨著餐點另外附上,顧客可隨著自己的口味或嗜辣程度,自行決定加入多少的叻沙醬。因可自行調配味道及辣度,加上濃郁椰奶風味,白咖哩麵也受馬來西亞與新加坡許多包裝食品業者的關注,將其製成泡麵,各品牌的白咖哩口味泡麵也隨著國際許多泡麵拼比的優秀成績而走向國際市場。",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8F%BB%E6%B2%99"
-                                },
-                                "src_context": [
-                                    "顧客可以根據自己的口味或嗜辣程度，自行決定加入多少叻沙醬。",
-                                    "因為可以自行調配味道及辣度，加上濃郁的椰奶風味，白咖哩麵受到馬來西亞與新加坡許多包裝食品業者的關注。",
-                                    "白咖哩麵被製成泡麵。"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Penang Laksa (Laksa Pulau Pinang), also known as Asam Laksa, a specialty of the Malaysian island of Penang.",
-                                    "The soup is made with mackerel and its main distinguishing feature is the asam or tamarind which gives the soup a sour and appetizing taste.",
-                                    "Pangkor Mee Laksa (Laksa Mi Pangkor), a specialty of the Malaysian island of Pangkor and the surrounding mainland area of Perak.",
-                                    "It consists of specialty-made white noodle that is topped with clear seafood-based soup of either fish, crab, squid or shrimp that was boiled with dried tamarind apples and salt."
-                                ]
-                            }
-                        ]
-                    },
-                    "東海岸叻沙（pantai timur laksa）": {
-                        "entries": [
-                            {
-                                "header_2": {
-                                    "original": "登嘉樓叻沙（terengganu laksa）",
-                                    "translated": "Terengganu laksa"
-                                },
-                                "header_1": {
-                                    "original": "東海岸叻沙（pantai timur laksa）",
-                                    "translated": "East Coast Laksa (pantai timur laksa)"
-                                },
-                                "fact": {
-                                    "original": "當地人習慣直接用手享用這道麵食。",
-                                    "translated": "Local people are accustomed to enjoying this noodle dish directly with their hands.",
-                                    "fact_aligned_sentence": "流行於登嘉樓一帶,外觀與吉蘭丹叻沙相似,不過麵條使用義大利麵條,湯汁也會熬煮地較濃稠,當地人習慣直接用手享用這道麵食。",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8F%BB%E6%B2%99"
-                                },
-                                "src_context": [
-                                    "麵條使用義大利麵條。",
-                                    "湯汁也會熬煮地較濃稠。",
-                                    "當地人習慣直接用手享用這道麵食。"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "However, it was after this that the number of Chinese migrants and traders significantly increased.",
-                                    "These Chinese men intermarried into the local populations, and together they formed mixed-race communities called the Peranakan Chinese or Straits Chinese.",
-                                    "When settling down in the new town, these Chinese traders and sailors set out to find local wives, and these women began incorporating local spices and coconut milk into Chinese noodle soup served to their husbands.",
-                                    "When settling down in the new town, these Chinese traders and sailors set out to find local wives, and these women began incorporating local spices and coconut milk into Chinese noodle soup served to their husbands."
-                                ]
-                            }
-                        ]
-                    },
-                    "爭議": {
-                        "entries": [
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "爭議",
-                                    "translated": "dispute"
-                                },
-                                "fact": {
-                                    "original": "新加坡因其國際大都會之地位及第一世界先進國家之形象，加上新加坡政府也較為積極宣傳當地美食。",
-                                    "translated": "Singapore, due to its status as an international metropolis and the image of a first-world developed country, along with the Singaporean government's active promotion of local cuisine.",
-                                    "fact_aligned_sentence": "馬來西亞與新加坡長期以來共享飲食文化,惟新加坡因其國際大都會之地位及第一世界先進國家之形象,加上新加坡政府也較為積極宣傳當地美食,故叻沙也如同其他肉骨茶、海南雞飯、沙嗲、咖椰吐司等,經常被國際媒體及遊客視為是新加坡美食而非源自馬來西亞。2009年,时任馬來西亞旅遊部長黃燕燕表示「為避免馬來西亞美食遭其他國家騎劫(hijacked)」,馬來西亞政府應積極為這些食物申請專利權(Patent),以正名相關美食為「馬來西亞美食」而非「他國美食」,所列出的食物清單包含叻沙。相關言論引起馬來西亞、新加坡及國際媒體報到,也引發周邊國家的不滿,黃燕燕在後續接受媒體專訪時澄清,她所指的是要為大馬美食國爭取擁有權(Claim Ownership),而不是要為食物申請專利權(Patent),並表示馬來西亞人必須多瞭解自己的美食,很多美食從大馬發展,叻沙在馬來西亞就有很多不同種類,不同州屬如吉蘭丹、砂拉越都有各自特色的叻沙,適時地提醒大眾相關美食的原產品有其必要性,也為國家觀光及文化發展有一定的助益,並指示馬來西亞國家文化與藝術局加速鑑定各美食列為馬來西亞國家文化遺產美食。隨後,馬來西亞、新加坡與印尼仍不時因相關美食之歸屬權而發生爭議,當地政客及名人亦會炒作相關話題引發民族主義。在2020年12月16日,聯合國教科文組織(UNESCO)非物質文化遺產政府間委員會(IGC)於12月16日正式將小販文化列入人類非物質文化遺產代表名錄時,相關美食之爭議又被再度引起鄰國之不滿,馬來西亞民間同時亦有呼籲政府應好好包裝,如何有效行銷在地飲食文化的聲音。",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8F%BB%E6%B2%99"
-                                },
-                                "src_context": [
-                                    "食用時會搭配特製的米餅——Emping。",
-                                    "馬來西亞與新加坡長期以來共享飲食文化。",
-                                    "新加坡因其國際大都會之地位及第一世界先進國家之形象，加上新加坡政府也較為積極宣傳當地美食。"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "A later online poll by 35,000 participants, published by CNN in September 2011, ranked it at number 26th.",
-                                    "Singaporean-style Laksa on the other hand ranked on CNN \"World's 50 best foods\" at number 44th.",
-                                    "This creates the hybrid Chinese-local (Malay or Javanese) culture called Peranakan culture.",
-                                    "As Peranakan Chinese communities have blended their ancestors' culture with local culture, Peranakan communities in different places now demonstrate diversity according to the local flavour."
-                                ]
-                            }
-                        ]
-                    },
-                    "砂拉越叻沙（sarawak laksa）": {
-                        "entries": [
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "砂拉越叻沙（sarawak laksa）",
-                                    "translated": "Sarawak laksa"
-                                },
-                                "fact": {
-                                    "original": "砂拉越叻沙在西馬一帶較為少見。",
-                                    "translated": "Sarawak laksa is relatively rare in West Malaysia.",
-                                    "fact_aligned_sentence": "源自於古晉(Kuching)流行於東馬一帶,與西馬的叻沙相比,砂拉越叻沙的顏色較深,在西馬一帶較為少見。砂拉越叻沙最早是在50年代由潮州人開始賣起,其用料不含咖哩香料,湯底是使用巴拉盞和蝦殼來熬製,煮好的湯頭淋上椰漿,再配上粗米粉,米粉上鋪滿了芽菜、蛋絲、雞絲、蝦子及香菜,使用前再擠一些酸柑汁在湯內。雖然湯底的顏色不討好,但充滿由巴拉盞和蝦所散發的濃郁鮮味,另外在熬製的過程中也有添加一些當地獨有的植物,在聞起來也有一股淡淡的草藥味。",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8F%BB%E6%B2%99"
-                                },
-                                "src_context": [
-                                    "砂拉越叻沙流行於東馬一帶。",
-                                    "砂拉越叻沙與西馬的叻沙相比顏色較深。",
-                                    "砂拉越叻沙在西馬一帶較為少見。"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Laksa baduy is treated as a traditional dish prerequisite for ngalaksa ceremony conducted by Baduy people, thus not widely available nor commonly sold.",
-                                    "Laksa baduy is treated as a traditional dish prerequisite for ngalaksa ceremony conducted by Baduy people, thus not widely available nor commonly sold.",
-                                    "In Indonesia, laksa is a traditional comfort food; the spicy warm noodle soup is much appreciated on cold, rainy days.",
-                                    "However, its popularity is somewhat overshadowed by soto, a similar hearty warm soup dish, which is often consumed with rice instead of noodles."
-                                ]
-                            }
-                        ]
-                    },
                     "亞參叻沙（asam laksa）": {
                         "entries": [
+                            {
+                                "header_2": {
+                                    "original": "吉打叻沙（kedah laksa）",
+                                    "translated": "Kedah laksa"
+                                },
+                                "header_1": {
+                                    "original": "亞參叻沙（asam laksa）",
+                                    "translated": "Asam laksa"
+                                },
+                                "fact": {
+                                    "original": "吉打叻沙不使用虾膏。",
+                                    "translated": "Kedah laksa does not use shrimp paste.",
+                                    "fact_aligned_sentence": "流行於吉打州的馬來社區,味道和做法與檳城叻沙相似,不同的是吉打叻沙的配料會加上一顆水煮蛋,享用前會擠上酸柑汁而非蝦膏。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8F%BB%E6%B2%99"
+                                },
+                                "src_context": [
+                                    "吉打叻沙的配料会加上一颗水煮蛋。",
+                                    "享用吉打叻沙前会挤上酸柑汁。",
+                                    "吉打叻沙不使用虾膏。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Cibinong Laksa (Laksa Cibinong) from Cibinong, a town between Bogor and Jakarta is similar to Bogor Laksa, however no oncom is added.",
+                                    "Cibinong Laksa (Laksa Cibinong) from Cibinong, a town between Bogor and Jakarta is similar to Bogor Laksa, however no oncom is added.",
+                                    "Some laksa variants might use fresh rice noodles handmade from scratch, other types of noodles; Johor laksa for example uses wheat-based spaghetti, while Kelantanese laksam is served with wide strips of rice noodle rolls similar in texture to shahe fen.",
+                                    "Some laksa variants might use fresh rice noodles handmade from scratch, other types of noodles; Johor laksa for example uses wheat-based spaghetti, while Kelantanese laksam is served with wide strips of rice noodle rolls similar in texture to shahe fen."
+                                ]
+                            },
                             {
                                 "header_2": {
                                     "original": null,
@@ -367,21 +406,75 @@
                                     "translated": "Asam laksa"
                                 },
                                 "fact": {
-                                    "original": "再倒入湯內繼續熬煮",
-                                    "translated": "Pour it back into the soup and continue to simmer.",
+                                    "original": "倒入越多的蝦膏,甜味就越明顯",
+                                    "translated": "The more shrimp paste you add, the more pronounced the sweetness becomes.",
                                     "fact_aligned_sentence": "“Asam”在馬來文中意味“酸”,因此相較於咖哩叻沙,亞參叻沙的味道較酸也較辣。湯底主要是由淡水魚所熬製,多以甘榜魚(Ikan Kampung)為主,在熬製的過程中加上薑花、南薑、香茅、紅蔥頭、辣椒、叻沙葉(Daun Kesum)、巴拉盞、羅望子和亞參果片(Asam Gelugor/Asam Keping)等,其中羅望子和亞參果片是酸味的主要來源。待湯底熬製出味道後,將鍋裡的甘榜魚撈起,去其骨與頭尾,將魚肉撕成碎細狀,再倒入湯內繼續熬煮。接下來將瀨粉燙熟,放置在碗內,再加上已切成絲或碎片的鳳梨、黃瓜、洋蔥、萵苣、薑花、辣椒等材料,再淋上熬好的湯底,享用時,倒入一湯匙的蝦膏進行攪拌。蝦膏帶有甜味,倒入越多的蝦膏,甜味就越明顯。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8F%BB%E6%B2%99"
                                 },
                                 "src_context": [
-                                    "去其骨與頭尾",
-                                    "將魚肉撕成碎細狀",
-                                    "再倒入湯內繼續熬煮"
+                                    "享用時,倒入一湯匙的蝦膏進行攪拌",
+                                    "蝦膏帶有甜味",
+                                    "倒入越多的蝦膏,甜味就越明顯"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "It consists of sliced fishcake that is served in coconut milk-shrimp broth based soup, sprinkled with fried shallots.",
-                                    "It consists of sliced fishcake that is served in coconut milk-shrimp broth based soup, sprinkled with fried shallots.",
+                                    "Ipoh Laksa (Laksa Ipoh), a specialty of the Malaysian city of Ipoh, is similar to Penang Laksa but has a sourer rather than sweet taste, and contains prawn paste.",
+                                    "Ipoh Laksa (Laksa Ipoh), a specialty of the Malaysian city of Ipoh, is similar to Penang Laksa but has a sourer rather than sweet taste, and contains prawn paste.",
+                                    "Siamese Laksa (Laksa Siam) is similar to Penang Laksa with basically the same ingredient but more creamy and less tangy soup due to the addition of coconut milk and different varieties of herbs.",
+                                    "Siamese Laksa like most other Curry Laksa, its spice paste need to be sauteed to bring out its fragrance, a step that does not exists while preparing Penang Laksa."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "玻璃市叻沙（perlis laksa）",
+                                    "translated": "Perlis laksa"
+                                },
+                                "header_1": {
+                                    "original": "亞參叻沙（asam laksa）",
+                                    "translated": "Asam laksa"
+                                },
+                                "fact": {
+                                    "original": "享用前會擠上酸柑汁而非蝦膏",
+                                    "translated": "Before enjoying, squeeze lime juice instead of shrimp paste.",
+                                    "fact_aligned_sentence": "源自玻璃市港(Kuala Perlis),做法和味道與檳城叻沙相似,不過當地人多使用鯰魚和鰻魚來熬製湯頭,配料不加入鳳梨而改用水煮蛋,享用前會擠上酸柑汁而非蝦膏。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8F%BB%E6%B2%99"
+                                },
+                                "src_context": [
+                                    "當地人多使用鯰魚和鰻魚來熬製湯頭",
+                                    "配料不加入鳳梨而改用水煮蛋",
+                                    "享用前會擠上酸柑汁而非蝦膏"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Ipoh Laksa (Laksa Ipoh), a specialty of the Malaysian city of Ipoh, is similar to Penang Laksa but has a sourer rather than sweet taste, and contains prawn paste.",
+                                    "Ipoh Laksa (Laksa Ipoh), a specialty of the Malaysian city of Ipoh, is similar to Penang Laksa but has a sourer rather than sweet taste, and contains prawn paste.",
                                     "The main ingredient of Laksa Kuah Putih is mackerel that are boiled and minced.",
                                     "The gravy is made by mixing coconut milk with hot water and usually without cooking it."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "玻璃市叻沙（perlis laksa）",
+                                    "translated": "Perlis laksa"
+                                },
+                                "header_1": {
+                                    "original": "亞參叻沙（asam laksa）",
+                                    "translated": "Asam laksa"
+                                },
+                                "fact": {
+                                    "original": "做法和味道與檳城叻沙相似",
+                                    "translated": "The method and taste are similar to Penang laksa.",
+                                    "fact_aligned_sentence": "源自玻璃市港(Kuala Perlis),做法和味道與檳城叻沙相似,不過當地人多使用鯰魚和鰻魚來熬製湯頭,配料不加入鳳梨而改用水煮蛋,享用前會擠上酸柑汁而非蝦膏。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8F%BB%E6%B2%99"
+                                },
+                                "src_context": [
+                                    "攪拌後的檳城亞參叻沙顏色較深。",
+                                    "源自玻璃市港(Kuala Perlis)",
+                                    "做法和味道與檳城叻沙相似"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Palembang Celimpungan (Celimpungan Palembang) is also a specialty of Palembang.",
+                                    "The dish consists of a gravy similar to Laksan with a ball or oval-shaped fishcakes.",
+                                    "Palembang Lakso (Lakso Palembang) is a laksa variant from Palembang.",
+                                    "Unlike Laksan, Lakso consists of noodle-like steamed sago paste but served in Burgo-like coconut milk soup with only an addition of turmeric and sprinkled with fried shallots."
                                 ]
                             },
                             {
@@ -410,32 +503,160 @@
                                     "Penang Laksa (Laksa Pulau Pinang), also known as Asam Laksa, a specialty of the Malaysian island of Penang.",
                                     "The soup is made with mackerel and its main distinguishing feature is the asam or tamarind which gives the soup a sour and appetizing taste."
                                 ]
-                            },
+                            }
+                        ]
+                    },
+                    "其他口味": {
+                        "entries": [
                             {
                                 "header_2": {
-                                    "original": "鳥巢叻沙（sarang burung laksa）",
-                                    "translated": "Bird's Nest Laksa (sarang burung laksa)"
+                                    "original": "柔佛叻沙（johor laksa）",
+                                    "translated": "Johor laksa"
                                 },
                                 "header_1": {
-                                    "original": "亞參叻沙（asam laksa）",
-                                    "translated": "Asam laksa"
+                                    "original": "其他口味",
+                                    "translated": "Other flavors"
                                 },
                                 "fact": {
-                                    "original": "鳥巢叻沙原先僅在江沙一帶的馬來村落販售。",
-                                    "translated": "Bird's Nest Laksa was originally sold only in the Malay villages around Johor.",
-                                    "fact_aligned_sentence": "鳥巢叻沙為霹靂州江沙(Kuala Kangsar)的特色麵食之一,約2000年初期才開始出現,與其他不同的是,配料採用油炸蛋液所製成的鳥巢餅而非北馬地區常用的蝦餅,原先僅在江沙一帶的馬來村落販售,鳥巢餅置放在叻沙湯頭,獨特外形引起馬來西亞的網民打卡拍照上傳,亦成為當地的打卡美食,因此亦開始流行於馬來半島的馬來社群內。",
+                                    "original": "湯底是使用馬鮫魚、西刀魚或馬友魚的魚骨和香茅、薑、南薑和黃薑熬製",
+                                    "translated": "The soup base is made by simmering the fish bones of mackerel, sardines, or horse mackerel with lemongrass, ginger, galangal, and turmeric.",
+                                    "fact_aligned_sentence": "源自於新山(Johor Bahru),其湯底是使用馬鮫魚、西刀魚或馬友魚的魚骨和香茅、薑、南薑和黃薑熬製,熬製成濃稠的湯底,然後加上撕成細碎的魚肉以及椰漿。麵條方面是使用義大利麵條,其配菜包括括蝦米、香茅、洋蔥、豆芽、薄荷、芫荽、青瓜、醃蘿卜等,還有一小碗叁巴供蘸點,吃之前會擠幾滴酸柑汁。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8F%BB%E6%B2%99"
                                 },
                                 "src_context": [
-                                    "鳥巢叻沙約2000年初期才開始出現。",
-                                    "鳥巢叻沙與其他不同的是，配料採用油炸蛋液所製成的鳥巢餅而非北馬地區常用的蝦餅。",
-                                    "鳥巢叻沙原先僅在江沙一帶的馬來村落販售。"
+                                    "當地人習慣直接用手享用這道麵食。",
+                                    "源自於新山(Johor Bahru)",
+                                    "湯底是使用馬鮫魚、西刀魚或馬友魚的魚骨和香茅、薑、南薑和黃薑熬製"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Laksa baduy is treated as a traditional dish prerequisite for ngalaksa ceremony conducted by Baduy people, thus not widely available nor commonly sold.",
-                                    "Laksa baduy is treated as a traditional dish prerequisite for ngalaksa ceremony conducted by Baduy people, thus not widely available nor commonly sold.",
-                                    "Kuala Kangsar Laksa (Laksa Kuala Kangsar), also known as Perak Laksa (Laksa Perak), consists of handmade wheat noodles and light broth.",
-                                    "Kuala Kangsar Laksa (Laksa Kuala Kangsar), also known as Perak Laksa (Laksa Perak), consists of handmade wheat noodles and light broth."
+                                    "Similar to Palembang Lakso, instead of rice noodle or vermicelli, Banjar Laksa uses steamed noodle-like balls, made from rice flour paste, served in a thick yellowish soup made from coconut milk, ground spices, and snakehead fish broth.",
+                                    "Sprinkles of fried shallots (bawang goreng) and hard-boiled duck egg might also be added.",
+                                    "Kerabu Laksa is a salad dish that uses the elements of laksa such as Torch ginger, cucumber, mint, pineapple, onions, and chillies.",
+                                    "Kerabu Laksa is a salad dish that uses the elements of laksa such as Torch ginger, cucumber, mint, pineapple, onions, and chillies."
+                                ]
+                            }
+                        ]
+                    },
+                    "砂拉越叻沙（sarawak laksa）": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "砂拉越叻沙（sarawak laksa）",
+                                    "translated": "Sarawak laksa"
+                                },
+                                "fact": {
+                                    "original": "砂拉越叻沙聞起來有一股淡淡的草藥味。",
+                                    "translated": "The Sarawak laksa has a faint herbal aroma.",
+                                    "fact_aligned_sentence": "源自於古晉(Kuching)流行於東馬一帶,與西馬的叻沙相比,砂拉越叻沙的顏色較深,在西馬一帶較為少見。砂拉越叻沙最早是在50年代由潮州人開始賣起,其用料不含咖哩香料,湯底是使用巴拉盞和蝦殼來熬製,煮好的湯頭淋上椰漿,再配上粗米粉,米粉上鋪滿了芽菜、蛋絲、雞絲、蝦子及香菜,使用前再擠一些酸柑汁在湯內。雖然湯底的顏色不討好,但充滿由巴拉盞和蝦所散發的濃郁鮮味,另外在熬製的過程中也有添加一些當地獨有的植物,在聞起來也有一股淡淡的草藥味。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8F%BB%E6%B2%99"
+                                },
+                                "src_context": [
+                                    "砂拉越叻沙的湯底充滿由巴拉盞和蝦所散發的濃郁鮮味。",
+                                    "砂拉越叻沙在熬製的過程中也有添加一些當地獨有的植物。",
+                                    "砂拉越叻沙聞起來有一股淡淡的草藥味。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The name laksa is derived from the word spicy (辣) and grainy or sandy (沙) in the Min Chinese dialect, which denotes the spicy taste and the grainy texture (either from grinding onion, granules of fish or meat, or curdled coconut milk) of laksa, since the Peranakan Malay is a creole language that is heavily influenced by a dialect of Hokkien.",
+                                    "The name laksa is derived from the word spicy (辣) and grainy or sandy (沙) in the Min Chinese dialect, which denotes the spicy taste and the grainy texture (either from grinding onion, granules of fish or meat, or curdled coconut milk) of laksa, since the Peranakan Malay is a creole language that is heavily influenced by a dialect of Hokkien.",
+                                    "Ipoh Laksa (Laksa Ipoh), a specialty of the Malaysian city of Ipoh, is similar to Penang Laksa but has a sourer rather than sweet taste, and contains prawn paste.",
+                                    "Ipoh Laksa (Laksa Ipoh), a specialty of the Malaysian city of Ipoh, is similar to Penang Laksa but has a sourer rather than sweet taste, and contains prawn paste."
+                                ]
+                            }
+                        ]
+                    },
+                    "分類": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "分類",
+                                    "translated": "Classification"
+                                },
+                                "fact": {
+                                    "original": "即使在菜单写明了是某种叻沙，味道仍会因不同地方所接受的口味而做调整。",
+                                    "translated": "Even if the menu states that it's a certain type of laksa, the flavor will still be adjusted according to the tastes accepted in different places.",
+                                    "fact_aligned_sentence": "不同地區的人口所稱的叻沙多指當地盛行的叻沙,在北馬一帶多指亞參叻沙;中馬及南馬則是咖哩叻沙;東馬人的叻沙是指砂拉越叻沙。另外,即使在菜單寫明了是某種叻沙,但味道仍會因不同地方所接受的口味而做調整,如北馬的亞參叻沙通常較酸較甜;中馬的亞參叻沙則通常是偏鹹。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8F%BB%E6%B2%99"
+                                },
+                                "src_context": [
+                                    "中马及南马则是咖哩叻沙。",
+                                    "东马人的叻沙是指砂拉越叻沙。",
+                                    "即使在菜单写明了是某种叻沙，味道仍会因不同地方所接受的口味而做调整。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "tamarind (Malay: Asam Jawa) or tamarind slice (Malay: Asam Gelugor), which comes from a different tree despite its name).",
+                                    "tamarind (Malay: Asam Jawa) or tamarind slice (Malay: Asam Gelugor), which comes from a different tree despite its name).",
+                                    "The most common toppings for the various versions of coconut soup laksa include eggs, deep-fried tofu, beansprouts, and herbs, with a spoonful of sambal chilli paste on the side as a relish.",
+                                    "The Malay word asam refers to any ingredient that makes a dish taste sour (e.g."
+                                ]
+                            }
+                        ]
+                    },
+                    "東海岸叻沙（pantai timur laksa）": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "東海岸叻沙（pantai timur laksa）",
+                                    "translated": "East Coast Laksa (pantai timur laksa)"
+                                },
+                                "fact": {
+                                    "original": "在馬來半島的西海岸較少見其踪跡。",
+                                    "translated": "It is rarely seen on the west coast of the Malay Peninsula.",
+                                    "fact_aligned_sentence": "僅流行於吉蘭丹、登嘉樓和吉打的馬來社區,在馬來半島的西海岸較少見其踪跡。其湯頭因為沒加上紅辣椒或辣椒糊的關係,因此呈現奶白色,且較為濃稠。使用時,會搭配由芽菜、黃瓜、長豆、指天椒、薑花和叻沙葉(Daun Kesum)等所製成的烏蘭(Ulam,也被稱為馬來式沙拉)",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8F%BB%E6%B2%99"
+                                },
+                                "src_context": [
+                                    "砂拉越叻沙聞起來有一股淡淡的草藥味。",
+                                    "僅流行於吉蘭丹、登嘉樓和吉打的馬來社區。",
+                                    "在馬來半島的西海岸較少見其踪跡。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Historians believe laksa is a dish that was born from actual intermarriage.",
+                                    "In early coastal pecinan (Chinese settlement) in maritime Southeast Asia, it was only Chinese men that ventured abroad out from China to trade.",
+                                    "One goes back to the 15th-century Ming Chinese naval expeditions led by Zheng He, whose armada navigated Maritime Southeast Asia.",
+                                    "One goes back to the 15th-century Ming Chinese naval expeditions led by Zheng He, whose armada navigated Maritime Southeast Asia."
+                                ]
+                            }
+                        ]
+                    },
+                    "咖哩叻沙（curry laksa）": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "泰國叻沙（thai laksa）",
+                                    "translated": "Thai laksa"
+                                },
+                                "header_1": {
+                                    "original": "咖哩叻沙（curry laksa）",
+                                    "translated": "Curry laksa"
+                                },
+                                "fact": {
+                                    "original": "麵條則使用瀨粉為主。",
+                                    "translated": "The noodles are primarily made from rice flour.",
+                                    "fact_aligned_sentence": "流行於馬來社區中,與暹羅叻沙(Siam Laksa)是屬於不同的派別,看起來類似娘惹叻沙但味道略有不同,湯頭除了也加椰奶外,也加入了魚露等源自於魚類的醃製品,麵條則使用瀨粉為主。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8F%BB%E6%B2%99"
+                                },
+                                "src_context": [
+                                    "看起來類似娘惹叻沙但味道略有不同。",
+                                    "湯頭除了也加椰奶外，也加入了魚露等源自於魚類的醃製品。",
+                                    "麵條則使用瀨粉為主。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Laksa Tambelan from the Indonesian islands of Tambelan uses flaked sauteed ikan tongkol asap instead of fresh fish.",
+                                    "The dish consists of sagoo noodles, that is served in spicy coconut-based stock made of kerisik (sauteed grated coconut, pounded or blended into paste).",
+                                    "Penang Laksa (Laksa Pulau Pinang), also known as Asam Laksa, a specialty of the Malaysian island of Penang.",
+                                    "The soup is made with mackerel and its main distinguishing feature is the asam or tamarind which gives the soup a sour and appetizing taste."
                                 ]
                             }
                         ]

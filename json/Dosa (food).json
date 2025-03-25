@@ -15,8 +15,35 @@
                                     "translated": null
                                 },
                                 "fact": {
+                                    "original": "Ней доса - это доса, приготовленная с использованием топленого масла (гхи).",
+                                    "translated": "Ney dosa is a dosa made using clarified butter (ghee).",
+                                    "fact_aligned_sentence": "Существует множество разновидностей доса:",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D0%B0"
+                                },
+                                "src_context": [
+                                    "Сет доса - это набор из нескольких маленьких доса.",
+                                    "Песарату - это доса, приготовленная из зеленой чечевицы.",
+                                    "Ней доса - это доса, приготовленная с использованием топленого масла (гхи)."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "As its key ingredients are rice and black gram, it is a good source of protein.",
+                                    "A typical homemade plain dosa without oil contains about 112 calories, of which 84% is carbohydrate and 16% is protein.",
+                                    "Masala dosa is a roasted dosa served with potato curry, chutney, and sambar, while saada (plain) dosa is prepared with a lighter texture; paper dosa is a thin and crisp version.",
+                                    "Masala dosa is a roasted dosa served with potato curry, chutney, and sambar, while saada (plain) dosa is prepared with a lighter texture; paper dosa is a thin and crisp version."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
                                     "original": "Для приготовления некоторых видов доса (рава доса) используется манная крупа.",
-                                    "translated": "Semolina is used to prepare some types of dosa (rava dosa).",
+                                    "translated": "For making some types of dosa (rava dosa), semolina is used.",
                                     "fact_aligned_sentence": "Для приготовления некоторых видов доса (рава доса) используется манная крупа.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D0%B0"
                                 },
@@ -42,8 +69,143 @@
                                     "translated": null
                                 },
                                 "fact": {
+                                    "original": "Опен доса готовится с картофелем.",
+                                    "translated": "Open dos is being prepared with potatoes.",
+                                    "fact_aligned_sentence": "Готовится с картофелем.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D0%B0"
+                                },
+                                "src_context": [
+                                    "чили доса — с посыпанным тёртым перцем чили",
+                                    "Опен доса посыпан в процессе приготовления порошком чатни.",
+                                    "Опен доса готовится с картофелем."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Appam: a pancake prepared from patted rice batter, served with sweet coconut milk and/or sugar",
+                                    "Appam: a pancake prepared from patted rice batter, served with sweet coconut milk and/or sugar",
+                                    "Apam balik: made from a mixture of flour, eggs, sugar, baking soda, coconut milk and water",
+                                    "Apam balik: made from a mixture of flour, eggs, sugar, baking soda, coconut milk and water"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Доса подаются обычно вместо хлеба или как гарнир к другим блюдам на завтрак или обед.",
+                                    "translated": "Dosa is usually served instead of bread or as a side dish to other meals for breakfast or lunch.",
+                                    "fact_aligned_sentence": "Подаются обычно вместо хлеба или как гарнир к другим блюдам на завтрак или обед, в первую очередь с самбар, чатни, индийским пайклом, милагай поди, жареными цыплятами, далом, фиш-карри (в Тамилнаде) и др.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D0%B0"
+                                },
+                                "src_context": [
+                                    "Доса является ежедневной пищей для населения индийских штатов Андхра-Прадеш, Тамилнад, Карнатака, Керала.",
+                                    "Доса является ежедневной пищей в Малайзии и Сингапуре, где проживают большие группы населения южноиндийского происхождения.",
+                                    "Доса подаются обычно вместо хлеба или как гарнир к другим блюдам на завтрак или обед."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Indian pickles",
+                                    "Indian pickles",
+                                    "The batter is then ladled onto a hot tava or griddle greased with oil or ghee.",
+                                    "It is spread out with the base of a ladle or a bowl to form a pancake."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "масала доса готовится с пряностями масала",
+                                    "translated": "Masala dosa is prepared with masala spices.",
+                                    "fact_aligned_sentence": "масала доса — готовится с картофелем и пряностями масала.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D0%B0"
+                                },
+                                "src_context": [
+                                    "Опен доса готовится с картофелем.",
+                                    "масала доса готовится с картофелем",
+                                    "масала доса готовится с пряностями масала"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In a November 2019 video promoting her campaign for presidency, United States Vice President Kamala Harris cooked masala dosa with actress and comedian Mindy Kaling.",
+                                    "In a November 2019 video promoting her campaign for presidency, United States Vice President Kamala Harris cooked masala dosa with actress and comedian Mindy Kaling.",
+                                    "Indian pickles",
+                                    "Masala dosa is a roasted dosa served with potato curry, chutney, and sambar, while saada (plain) dosa is prepared with a lighter texture; paper dosa is a thin and crisp version."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Доса является ежедневной пищей для населения индийских штатов Андхра-Прадеш, Тамилнад, Карнатака, Керала.",
+                                    "translated": "Dosa is a daily food for the population of the Indian states of Andhra Pradesh, Tamil Nadu, Karnataka, and Kerala.",
+                                    "fact_aligned_sentence": "Является ежедневной пищей для населения индийских штатов Андхра-Прадеш, Тамилнад, Карнатака, Керала, а также в Малайзии и Сингапуре, где проживают большие группы населения южноиндийского происхождения.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D0%B0"
+                                },
+                                "src_context": [
+                                    "Доса испечена на круглой, литой чугунной сковороде.",
+                                    "Для приготовления некоторых видов доса (рава доса) используется манная крупа.",
+                                    "Доса является ежедневной пищей для населения индийских штатов Андхра-Прадеш, Тамилнад, Карнатака, Керала."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The dosa arrived in Mumbai with the opening of Udupi restaurants in the 1930s.",
+                                    "After India's independence in 1947, South Indian cuisine became gradually popular in North India.",
+                                    "Indian pickles",
+                                    "Indian pickles"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "эгг доса — с омлетом",
+                                    "translated": "Egg dosa — with omelet.",
+                                    "fact_aligned_sentence": "эгг доса — с омлетом.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D0%B0"
+                                },
+                                "src_context": [
+                                    "Ней доса - это доса, приготовленная с использованием топленого масла (гхи).",
+                                    "Паниарам - это маленькие шарики из теста доса, обжаренные в специальной форме.",
+                                    "эгг доса — с омлетом"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Appam: a pancake prepared from patted rice batter, served with sweet coconut milk and/or sugar",
+                                    "Appam: a pancake prepared from patted rice batter, served with sweet coconut milk and/or sugar",
+                                    "In popular tradition outside of Southern India, the origin of the dosa is linked to Udupi, probably because of the dish's association with Udupi restaurants.",
+                                    "In popular tradition outside of Southern India, the origin of the dosa is linked to Udupi, probably because of the dish's association with Udupi restaurants."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
                                     "original": "Известны сырные доса.",
-                                    "translated": "Famous cheese dosas.",
+                                    "translated": "Famous cheese boards.",
                                     "fact_aligned_sentence": "Известны также луковые, сырные, масляные и многие другие доса.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D0%B0"
                                 },
@@ -70,7 +232,7 @@
                                 },
                                 "fact": {
                                     "original": "чили доса — с посыпанным тёртым перцем чили",
-                                    "translated": "Chili dosa — with grated chili pepper sprinkled on top.",
+                                    "translated": "chili dosa — with sprinkled grated chili pepper",
                                     "fact_aligned_sentence": "чили доса — с посыпанным тёртым перцем чили.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D0%B0"
                                 },
@@ -96,48 +258,21 @@
                                     "translated": null
                                 },
                                 "fact": {
-                                    "original": "эгг доса — с омлетом",
-                                    "translated": "Egg dosa – with omelette",
-                                    "fact_aligned_sentence": "эгг доса — с омлетом.",
+                                    "original": "Доса подаются в первую очередь с самбар, чатни, индийским пайклом, милагай поди, жареными цыплятами, далом, фиш-карри (в Тамилнаде) и другими блюдами.",
+                                    "translated": "Dosai is primarily served with sambar, chutney, Indian pickle, milagai podi, fried chicken, dal, fish curry (in Tamil Nadu), and other dishes.",
+                                    "fact_aligned_sentence": "Подаются обычно вместо хлеба или как гарнир к другим блюдам на завтрак или обед, в первую очередь с самбар, чатни, индийским пайклом, милагай поди, жареными цыплятами, далом, фиш-карри (в Тамилнаде) и др.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D0%B0"
                                 },
                                 "src_context": [
-                                    "Ней доса - это доса, приготовленная с использованием топленого масла (гхи).",
-                                    "Паниарам - это маленькие шарики из теста доса, обжаренные в специальной форме.",
-                                    "эгг доса — с омлетом"
+                                    "Доса является ежедневной пищей в Малайзии и Сингапуре, где проживают большие группы населения южноиндийского происхождения.",
+                                    "Доса подаются обычно вместо хлеба или как гарнир к другим блюдам на завтрак или обед.",
+                                    "Доса подаются в первую очередь с самбар, чатни, индийским пайклом, милагай поди, жареными цыплятами, далом, фиш-карри (в Тамилнаде) и другими блюдами."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Appam: a pancake prepared from patted rice batter, served with sweet coconut milk and/or sugar",
-                                    "Appam: a pancake prepared from patted rice batter, served with sweet coconut milk and/or sugar",
-                                    "In popular tradition outside of Southern India, the origin of the dosa is linked to Udupi, probably because of the dish's association with Udupi restaurants.",
-                                    "In popular tradition outside of Southern India, the origin of the dosa is linked to Udupi, probably because of the dish's association with Udupi restaurants."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "General description",
-                                    "translated": null
-                                },
-                                "fact": {
-                                    "original": "Доса является ежедневной пищей для населения индийских штатов Андхра-Прадеш, Тамилнад, Карнатака, Керала.",
-                                    "translated": "Dosa is a staple food for the population of the Indian states of Andhra Pradesh, Tamil Nadu, Karnataka, and Kerala.",
-                                    "fact_aligned_sentence": "Является ежедневной пищей для населения индийских штатов Андхра-Прадеш, Тамилнад, Карнатака, Керала, а также в Малайзии и Сингапуре, где проживают большие группы населения южноиндийского происхождения.",
-                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D0%B0"
-                                },
-                                "src_context": [
-                                    "Доса испечена на круглой, литой чугунной сковороде.",
-                                    "Для приготовления некоторых видов доса (рава доса) используется манная крупа.",
-                                    "Доса является ежедневной пищей для населения индийских штатов Андхра-Прадеш, Тамилнад, Карнатака, Керала."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "The dosa arrived in Mumbai with the opening of Udupi restaurants in the 1930s.",
-                                    "After India's independence in 1947, South Indian cuisine became gradually popular in North India.",
-                                    "Indian pickles",
-                                    "Indian pickles"
+                                    "In New Delhi, the Madras Hotel in Connaught Place became one of the first restaurants to serve South Indian cuisine.",
+                                    "Dosas, like many other dishes of South Indian cuisine, were introduced in Ceylon (Sri Lanka) by South Indian emigrants during British rule.",
+                                    "Dosa is the anglicised name of a variety of South Indian names for the dish, for example, dosai in Tamil, dōsaë in Tulu, and dosha in Malayalam.",
+                                    "The standard transliterations and pronunciations of the word in various South Indian languages are:"
                                 ]
                             }
                         ]
@@ -148,6 +283,87 @@
                 "headers": {
                     "annexes": {
                         "entries": [
+                            {
+                                "header_2": {
+                                    "original": "liens externes",
+                                    "translated": "external links"
+                                },
+                                "header_1": {
+                                    "original": "annexes",
+                                    "translated": "annexes"
+                                },
+                                "fact": {
+                                    "original": "L'Inde est connue pour sa cuisine diversifiée et riche en saveurs.",
+                                    "translated": "India is known for its diverse and rich-flavored cuisine.",
+                                    "fact_aligned_sentence": "Alimentation et gastronomie   Portail de l’Inde",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Dosa"
+                                },
+                                "src_context": [
+                                    "The information about Rava dosa can be found on the website foodopium.in.",
+                                    "The information was consulted on April 18, 2022.",
+                                    "L'Inde est connue pour sa cuisine diversifiée et riche en saveurs."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Indian pickles",
+                                    "Indian pickles",
+                                    "Indian pickles",
+                                    "Indian pickles"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "liens externes",
+                                    "translated": "external links"
+                                },
+                                "header_1": {
+                                    "original": "annexes",
+                                    "translated": "annexes"
+                                },
+                                "fact": {
+                                    "original": "Les desserts indiens sont souvent très sucrés et parfumés.",
+                                    "translated": "Indian desserts are often very sweet and flavorful.",
+                                    "fact_aligned_sentence": "Alimentation et gastronomie   Portail de l’Inde",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Dosa"
+                                },
+                                "src_context": [
+                                    "Les plats végétariens sont très courants en Inde.",
+                                    "La cuisine indienne inclut également de nombreux plats à base de viande.",
+                                    "Les desserts indiens sont souvent très sucrés et parfumés."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Indian pickles",
+                                    "Indian pickles",
+                                    "Indian pickles",
+                                    "Indian pickles"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "liens externes",
+                                    "translated": "external links"
+                                },
+                                "header_1": {
+                                    "original": "annexes",
+                                    "translated": "annexes"
+                                },
+                                "fact": {
+                                    "original": "The information about Rava dosa can be found on the website foodopium.in.",
+                                    "translated": "The information about Rava dosa can be found on the website foodopium.in.",
+                                    "fact_aligned_sentence": "(en) « Rava dosa - South Indian Breakfast », sur foodopium.in (consulté le 18 avril 2022).",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Dosa"
+                                },
+                                "src_context": [
+                                    "consulté le 18 avril 2022",
+                                    "Rava dosa is a South Indian breakfast dish.",
+                                    "The information about Rava dosa can be found on the website foodopium.in."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Tamil dosa is traditionally softer and thicker; the thinner and crispier version of dosa was first made in present-day Karnataka.",
+                                    "A recipe for dosa can be found in Manasollasa, a 12th-century Sanskrit encyclopedia compiled by Someshvara III, who ruled from present-day Karnataka.",
+                                    "On 16 November 2014, 29 chefs, at Hotel Daspalla in Hyderabad, India, created a dosa that was 16.68 m (54.7 ft) long and weighed 13.69 kg (30.2 lb), earning the Guinness World Record for the longest dosa.",
+                                    "On 16 November 2014, 29 chefs, at Hotel Daspalla in Hyderabad, India, created a dosa that was 16.68 m (54.7 ft) long and weighed 13.69 kg (30.2 lb), earning the Guinness World Record for the longest dosa."
+                                ]
+                            },
                             {
                                 "header_2": {
                                     "original": "liens externes",
@@ -174,32 +390,67 @@
                                     "Chutney",
                                     "Chutney"
                                 ]
-                            },
+                            }
+                        ]
+                    },
+                    "préparation": {
+                        "entries": [
                             {
                                 "header_2": {
-                                    "original": "liens externes",
-                                    "translated": "external links"
+                                    "original": null,
+                                    "translated": null
                                 },
                                 "header_1": {
-                                    "original": "annexes",
-                                    "translated": "annexes"
+                                    "original": "préparation",
+                                    "translated": "preparation"
                                 },
                                 "fact": {
-                                    "original": "Les desserts indiens sont souvent très sucrés et parfumés.",
-                                    "translated": "Indian desserts are often very sweet and fragrant.",
-                                    "fact_aligned_sentence": "Alimentation et gastronomie   Portail de l’Inde",
+                                    "original": "On ajoute de l'eau et du yaourt à la pâte du dosa.",
+                                    "translated": "We add water and yogurt to the dosa batter.",
+                                    "fact_aligned_sentence": "La pâte du dosa est préparée avec un mélange de farine de riz et de farine de lentilles (haricots urd) ou de pois chiches, à laquelle on ajoute de l'eau et du yaourt.",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Dosa"
                                 },
                                 "src_context": [
-                                    "Les plats végétariens sont très courants en Inde.",
-                                    "La cuisine indienne inclut également de nombreux plats à base de viande.",
-                                    "Les desserts indiens sont souvent très sucrés et parfumés."
+                                    "Il y a des variantes du plat à Mysore.",
+                                    "La pâte du dosa est préparée avec un mélange de farine de riz et de farine de lentilles (haricots urd) ou de pois chiches.",
+                                    "On ajoute de l'eau et du yaourt à la pâte du dosa."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Indian pickles",
-                                    "Indian pickles",
-                                    "Indian pickles",
-                                    "Indian pickles"
+                                    "After adding salt, the batter is allowed to ferment overnight, before being mixed with water to get the desired consistency.",
+                                    "After adding salt, the batter is allowed to ferment overnight, before being mixed with water to get the desired consistency.",
+                                    "Dosa is high in carbohydrates and contains no added sugars.",
+                                    "Dosa is high in carbohydrates and contains no added sugars."
+                                ]
+                            }
+                        ]
+                    },
+                    "origine": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "origine",
+                                    "translated": "origin"
+                                },
+                                "fact": {
+                                    "original": "Il existe diverses variantes du plat au Karnataka.",
+                                    "translated": "There are various versions of the dish in Karnataka.",
+                                    "fact_aligned_sentence": "L'origine exacte du plat est très controversée, cependant il est probable qu'il soit natif du Karnataka, où il existe diverses variantes, telles que celles d'Udupi, de Davangere, de Mysore...",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Dosa"
+                                },
+                                "src_context": [
+                                    "L'origine exacte du plat est très controversée.",
+                                    "Il est probable que le plat soit natif du Karnataka.",
+                                    "Il existe diverses variantes du plat au Karnataka."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Though dosa is typically made with rice and lentils, other versions exist.",
+                                    "Though dosa is typically made with rice and lentils, other versions exist.",
+                                    "Dosa has found its way into the culinary habits of the Sri Lankan people, where it has evolved into an island-specific version which is quite distinct from the Indian dosa.",
+                                    "Dosa has found its way into the culinary habits of the Sri Lankan people, where it has evolved into an island-specific version which is quite distinct from the Indian dosa."
                                 ]
                             }
                         ]

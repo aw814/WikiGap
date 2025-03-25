@@ -15,21 +15,74 @@
                                     "translated": "Romanian cuisine"
                                 },
                                 "fact": {
-                                    "original": "Затем кладут слой лука, помидоров, кабачков.",
-                                    "translated": "Then they put a layer of onions, tomatoes, and zucchini.",
-                                    "fact_aligned_sentence": "На дно широкой и неглубокой кастрюли, смазанной сливочным маслом, кладут слой баклажанов, затем слой лука, помидоров, кабачков, на них — слой мяса.",
+                                    "original": "Мясо для мусаки — баранина, но может быть и телятина.",
+                                    "translated": "'The meat for moussaka is lamb, but it can also be veal.'",
+                                    "fact_aligned_sentence": "Мясо для мусаки — баранина, но может быть и телятина.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D0%B0%D0%BA%D0%B0"
                                 },
                                 "src_context": [
-                                    "Овощи режут кружками, а капусту — соломкой.",
-                                    "На дно широкой и неглубокой кастрюли, смазанной сливочным маслом, кладут слой баклажанов.",
-                                    "Затем кладут слой лука, помидоров, кабачков."
+                                    "Все продукты в мусаку закладывают одновременно.",
+                                    "Затем мусаку тушат в течение одного часа.",
+                                    "Мясо для мусаки — баранина, но может быть и телятина."
                                 ],
                                 "tgt_fact_aligned_sentences": [
+                                    "Typically, the Romanian version is made with potatoes or eggplant or cabbage.",
+                                    "The layers start with the vegetable, then the layer of meat (usually pork), then vegetables, until the pot is full.",
+                                    "Moussaka (, UK also , US also ) is an eggplant (aubergine)- or potato-based dish, often including ground meat, which is common in the Balkans and the Middle East, with many local and regional variations."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "румынская кухня",
+                                    "translated": "Romanian cuisine"
+                                },
+                                "fact": {
+                                    "original": "Затем слои повторяют.",
+                                    "translated": "'Then the layers repeat.'",
+                                    "fact_aligned_sentence": "Затем слои повторяют.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D0%B0%D0%BA%D0%B0"
+                                },
+                                "src_context": [
+                                    "Затем кладут слой лука, помидоров, кабачков.",
+                                    "На овощи кладут слой мяса.",
+                                    "Затем слои повторяют."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Each layer is cooked on its own and layered in a pan and baked until the top is browned.",
+                                    "Each layer is cooked on its own and layered in a pan and baked until the top is browned.",
                                     "Sometimes bread crumbs are used as a topping, sometimes slices of tomatoes and crushed cheese.",
-                                    "The pot is then filled with tomato sauce.",
-                                    "'eggplant, little shoe style') which consists of whole small eggplants stuffed with ground meat and topped with béchamel and baked.",
-                                    "In Albania, Bulgaria, the former Yugoslavia, and Romania, potatoes are used instead of eggplant, pork or beef mince, and the top layer is usually milk or yogurt mixed with raw eggs, sometimes with a small amount of flour added."
+                                    "The pot is then filled with tomato sauce."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "румынская кухня",
+                                    "translated": "Romanian cuisine"
+                                },
+                                "fact": {
+                                    "original": "Затем мусаку тушат в течение одного часа.",
+                                    "translated": "Then the moussaka is simmered for one hour.",
+                                    "fact_aligned_sentence": "Особенность приготовления мусаки состоит в том, что все продукты закладывают в неё одновременно, а затем тушат в течение одного часа.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D0%B0%D0%BA%D0%B0"
+                                },
+                                "src_context": [
+                                    "Особенность приготовления мусаки состоит в том, что все продукты закладывают в неё одновременно.",
+                                    "Все продукты в мусаку закладывают одновременно.",
+                                    "Затем мусаку тушат в течение одного часа."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Each layer is cooked on its own and layered in a pan and baked until the top is browned.",
+                                    "Each layer is cooked on its own and layered in a pan and baked until the top is browned.",
+                                    "The dish can be served hot but is usually chilled for a day or so to improve the taste.",
+                                    "The dish can be served hot but is usually chilled for a day or so to improve the taste."
                                 ]
                             },
                             {
@@ -69,21 +122,21 @@
                                     "translated": "Romanian cuisine"
                                 },
                                 "fact": {
-                                    "original": "В румынской кухне мусака — это мясное блюдо.",
-                                    "translated": "In Romanian cuisine, moussaka is a meat dish.",
-                                    "fact_aligned_sentence": "В румынской кухне мусака — это мясное блюдо, половину которого, а иногда и более, составляют овощи.",
+                                    "original": "Сверху мусаку заливают подсолнечным маслом и сметаной.",
+                                    "translated": "On top, the moussaka is poured with sunflower oil and sour cream.",
+                                    "fact_aligned_sentence": "Сверху мусаку заливают подсолнечным маслом и сметаной.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D0%B0%D0%BA%D0%B0"
                                 },
                                 "src_context": [
-                                    "В боснийской кухне мусака может готовиться с помидорами вместо баклажанов.",
-                                    "В румынской кухне мусака может готовиться с помидорами вместо баклажанов.",
-                                    "В румынской кухне мусака — это мясное блюдо."
+                                    "Через каждые 2-3 слоя мусаку пересыпают пряностями.",
+                                    "Особенно сдабривают мясной слой в середине, а также верхний овощной слой.",
+                                    "Сверху мусаку заливают подсолнечным маслом и сметаной."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "In Egypt, mesaqa‘ah can be made vegan  or vegetarian as well as with meat; in all cases, the main ingredient is the fried eggplant.",
-                                    "In Turkey, mussaka consists of thinly sliced and fried eggplant served in a tomato-based meat sauce, warm or at room temperature.",
-                                    "In Turkey, mussaka consists of thinly sliced and fried eggplant served in a tomato-based meat sauce, warm or at room temperature.",
-                                    "In Turkey, mussaka consists of thinly sliced and fried eggplant served in a tomato-based meat sauce, warm or at room temperature."
+                                    "Sometimes bread crumbs are used as a topping, sometimes slices of tomatoes and crushed cheese.",
+                                    "The pot is then filled with tomato sauce.",
+                                    "His recipe has three layers that are separately cooked before being combined for the final baking: a bottom layer of sliced eggplant sautéed in olive oil; a middle layer of ground lamb lightly cooked with chopped or puréed tomatoes, onion, garlic, and spices (cinnamon, allspice and black pepper); and a top layer of béchamel sauce or savoury custard.",
+                                    "His recipe has three layers that are separately cooked before being combined for the final baking: a bottom layer of sliced eggplant sautéed in olive oil; a middle layer of ground lamb lightly cooked with chopped or puréed tomatoes, onion, garlic, and spices (cinnamon, allspice and black pepper); and a top layer of béchamel sauce or savoury custard."
                                 ]
                             },
                             {
@@ -97,7 +150,7 @@
                                 },
                                 "fact": {
                                     "original": "Овощи режут кружками, а капусту — соломкой.",
-                                    "translated": "Vegetables are sliced into rounds, and cabbage is cut into strips.",
+                                    "translated": "Vegetables are cut into circles, and cabbage is cut into strips.",
                                     "fact_aligned_sentence": "Овощи режут кружками, а капусту — соломкой.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D0%B0%D0%BA%D0%B0"
                                 },
@@ -112,41 +165,10 @@
                                     "Sometimes bread crumbs are used as a topping, sometimes slices of tomatoes and crushed cheese.",
                                     "Sometimes bread crumbs are used as a topping, sometimes slices of tomatoes and crushed cheese."
                                 ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "румынская кухня",
-                                    "translated": "Romanian cuisine"
-                                },
-                                "fact": {
-                                    "original": "Затем слои повторяют.",
-                                    "translated": "'Then the layers repeat.'",
-                                    "fact_aligned_sentence": "Затем слои повторяют.",
-                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D0%B0%D0%BA%D0%B0"
-                                },
-                                "src_context": [
-                                    "Затем кладут слой лука, помидоров, кабачков.",
-                                    "На овощи кладут слой мяса.",
-                                    "Затем слои повторяют."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Each layer is cooked on its own and layered in a pan and baked until the top is browned.",
-                                    "Each layer is cooked on its own and layered in a pan and baked until the top is browned.",
-                                    "Sometimes bread crumbs are used as a topping, sometimes slices of tomatoes and crushed cheese.",
-                                    "The pot is then filled with tomato sauce."
-                                ]
                             }
                         ]
-                    }
-                }
-            },
-            "fr": {
-                "headers": {
-                    "au cinéma": {
+                    },
+                    "этимология": {
                         "entries": [
                             {
                                 "header_2": {
@@ -154,52 +176,25 @@
                                     "translated": null
                                 },
                                 "header_1": {
-                                    "original": "au cinéma",
-                                    "translated": "in the cinema"
+                                    "original": "этимология",
+                                    "translated": "etymology"
                                 },
                                 "fact": {
-                                    "original": "Dans le film Le Casse, le personnage Zacharia est interprété par Omar Sharif.",
-                                    "translated": "In the film The Heist, the character Zacharia is played by Omar Sharif.",
-                                    "fact_aligned_sentence": "Dans le film Le Casse, d'Henri Verneuil (1971), tourné en Grèce, le policier Zacharia (Omar Sharif) fait découvrir ce plat au cambrioleur Azad (Jean-Paul Belmondo).",
-                                    "wiki_link": "https://fr.wikipedia.org/wiki/Moussaka"
+                                    "original": "Слово мусака происходит от арабского musaqqa`.",
+                                    "translated": "The word moussaka comes from the Arabic musaqqa`.",
+                                    "fact_aligned_sentence": "Слово мусака происходит от арабского musaqqa` («охлаждённый», от глагола saqqaʿa — охлаждать), пришедшего в другие языки через греческий.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D0%B0%D0%BA%D0%B0"
                                 },
                                 "src_context": [
-                                    "Le film Le Casse est sorti en 1971.",
-                                    "Le film Le Casse a été tourné en Grèce.",
-                                    "Dans le film Le Casse, le personnage Zacharia est interprété par Omar Sharif."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "In Egypt, mesaqa‘ah can be made vegan  or vegetarian as well as with meat; in all cases, the main ingredient is the fried eggplant.",
-                                    "In Turkey, mussaka consists of thinly sliced and fried eggplant served in a tomato-based meat sauce, warm or at room temperature.",
-                                    "In Saudi Arabia, muṣagga‘a is eaten hot, but in other Arab countries, it is often eaten cold, but occasionally hot as well.",
-                                    "In Saudi Arabia, muṣagga‘a is eaten hot, but in other Arab countries, it is often eaten cold, but occasionally hot as well."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "au cinéma",
-                                    "translated": "in the cinema"
-                                },
-                                "fact": {
-                                    "original": "Mariage à la grecque est un film de Nia Vardalos.",
-                                    "translated": "My Big Fat Greek Wedding is a film by Nia Vardalos.",
-                                    "fact_aligned_sentence": "Dans Mariage à la grecque (2000) de Nia Vardalos, le mot est mal compris et interprété moose caca (« caca d'orignal »).",
-                                    "wiki_link": "https://fr.wikipedia.org/wiki/Moussaka"
-                                },
-                                "src_context": [
-                                    "Le film est sorti en 1999.",
-                                    "Le réalisateur du film est le Grec Pános Koútras.",
-                                    "Mariage à la grecque est un film de Nia Vardalos."
+                                    "Есть варианты турецкой мусакки с морковью (хавуч мусакка).",
+                                    "Есть варианты турецкой мусакки с картофелем (пататес мусакка).",
+                                    "Слово мусака происходит от арабского musaqqa`."
                                 ],
                                 "tgt_fact_aligned_sentences": [
                                     "In Saudi Arabia, muṣagga‘a is eaten hot, but in other Arab countries, it is often eaten cold, but occasionally hot as well.",
                                     "The English name for moussaka was borrowed from Greek mousakás (μουσακάς) and from other Balkan languages, all borrowed from Ottoman Turkish, which in turn borrοwed it from Arabic  muṣaqqa‘a (مصقعة, lit.",
-                                    "'pounded'  or 'cold').",
-                                    "The word is first attested in English in 1862, written mùzàkkà."
+                                    "The English name for moussaka was borrowed from Greek mousakás (μουσακάς) and from other Balkan languages, all borrowed from Ottoman Turkish, which in turn borrοwed it from Arabic  muṣaqqa‘a (مصقعة, lit.",
+                                    "'pounded'  or 'cold')."
                                 ]
                             }
                         ]
@@ -216,27 +211,167 @@
                                     "translated": null
                                 },
                                 "fact": {
-                                    "original": "Le mot « moussaka » vient de l'arabe musaqqa'a.",
-                                    "translated": "The word \"moussaka\" comes from the Arabic musaqqa'a.",
-                                    "fact_aligned_sentence": "Le mot « moussaka » vient de l'arabe musaqqa'a, signifiant « frais, », parce qu'elle est ainsi servie dans le monde arabe.",
-                                    "wiki_link": "https://fr.wikipedia.org/wiki/Moussaka"
+                                    "original": "Мусака на румынском языке называется musaca.",
+                                    "translated": "Moussaka is called musaca in Romanian.",
+                                    "fact_aligned_sentence": "musaca; арм.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D0%B0%D0%BA%D0%B0"
                                 },
                                 "src_context": [
-                                    "En arabe, la moussaka s'écrit : مسقعة.",
-                                    "En arabe maghrébin, la moussaka s'écrit : tajin msaq'a.",
-                                    "Le mot « moussaka » vient de l'arabe musaqqa'a."
+                                    "Мусака (греч. μουσακάς; рум. musaca; арм. մուսակա («мусака»); тур. musakka; макед., болг. и сербохорв. мусака/musaka; араб. مسقعة muṣaqqa‘a) — традиционное блюдо из баклажанов на Балканах и Ближнем Востоке.",
+                                    "Мусака на греческом языке называется μουσακάς.",
+                                    "Мусака на румынском языке называется musaca."
                                 ],
                                 "tgt_fact_aligned_sentences": [
                                     "In Saudi Arabia, muṣagga‘a is eaten hot, but in other Arab countries, it is often eaten cold, but occasionally hot as well.",
                                     "The English name for moussaka was borrowed from Greek mousakás (μουσακάς) and from other Balkan languages, all borrowed from Ottoman Turkish, which in turn borrοwed it from Arabic  muṣaqqa‘a (مصقعة, lit.",
                                     "The English name for moussaka was borrowed from Greek mousakás (μουσακάς) and from other Balkan languages, all borrowed from Ottoman Turkish, which in turn borrοwed it from Arabic  muṣaqqa‘a (مصقعة, lit.",
-                                    "'pounded'  or 'cold')."
+                                    "The English name for moussaka was borrowed from Greek mousakás (μουσακάς) and from other Balkan languages, all borrowed from Ottoman Turkish, which in turn borrοwed it from Arabic  muṣaqqa‘a (مصقعة, lit."
                                 ]
                             }
                         ]
                     },
+                    "болгарская кухня": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "болгарская кухня",
+                                    "translated": "Bulgarian cuisine"
+                                },
+                                "fact": {
+                                    "original": "В Болгарии мусака — это запечённая смесь фарша и картофеля с заливкой.",
+                                    "translated": "In Bulgaria, moussaka is a baked mixture of minced meat and potatoes with a topping.",
+                                    "fact_aligned_sentence": "В Болгарии мусака — это запечённая смесь фарша и картофеля с заливкой.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D0%B0%D0%BA%D0%B0"
+                                },
+                                "src_context": [
+                                    "Посыпают зеленью.",
+                                    "Подают горячей, с соусом, в котором варилась.",
+                                    "В Болгарии мусака — это запечённая смесь фарша и картофеля с заливкой."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Egypt, mesaqa‘ah can be made vegan  or vegetarian as well as with meat; in all cases, the main ingredient is the fried eggplant.",
+                                    "In Turkey, mussaka consists of thinly sliced and fried eggplant served in a tomato-based meat sauce, warm or at room temperature.",
+                                    "Moussaka (, UK also , US also ) is an eggplant (aubergine)- or potato-based dish, often including ground meat, which is common in the Balkans and the Middle East, with many local and regional variations."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "болгарская кухня",
+                                    "translated": "Bulgarian cuisine"
+                                },
+                                "fact": {
+                                    "original": "Блюдо наподобие греческой мусаки, состоящее из различных овощей, картофеля и мяса, называют гювеч.",
+                                    "translated": "A dish similar to Greek moussaka, consisting of various vegetables, potatoes, and meat, is called gyuvech.",
+                                    "fact_aligned_sentence": "А блюдо наподобие греческой мусаки, состоящее из различных овощей, картофеля и мяса, называют гювеч.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D0%B0%D0%BA%D0%B0"
+                                },
+                                "src_context": [
+                                    "Подают горячей, с соусом, в котором варилась.",
+                                    "В Болгарии мусака — это запечённая смесь фарша и картофеля с заливкой.",
+                                    "Блюдо наподобие греческой мусаки, состоящее из различных овощей, картофеля и мяса, называют гювеч."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Moussaka (, UK also , US also ) is an eggplant (aubergine)- or potato-based dish, often including ground meat, which is common in the Balkans and the Middle East, with many local and regional variations.",
+                                    "In Egypt, mesaqa‘ah can be made vegan  or vegetarian as well as with meat; in all cases, the main ingredient is the fried eggplant.",
+                                    "In Turkey, mussaka consists of thinly sliced and fried eggplant served in a tomato-based meat sauce, warm or at room temperature."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
                     "variantes": {
                         "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "variantes",
+                                    "translated": "variants"
+                                },
+                                "fact": {
+                                    "original": "La version égyptienne est composée de couches alternant de la viande de bœuf haché.",
+                                    "translated": "The Egyptian version is made up of layers alternating with ground beef.",
+                                    "fact_aligned_sentence": "La version égyptienne est composée de couches alternant des aubergines grillées, des tomates et de la viande de bœuf haché, sans sauce béchamel.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Moussaka"
+                                },
+                                "src_context": [
+                                    "La version égyptienne est composée de couches alternant des aubergines grillées.",
+                                    "La version égyptienne est composée de couches alternant des tomates.",
+                                    "La version égyptienne est composée de couches alternant de la viande de bœuf haché."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Most versions are based primarily on sautéed aubergine (eggplant) and tomato, usually with minced meat, mostly lamb.",
+                                    "The Greek version includes layers of meat and eggplant topped with a béchamel (\"white\") sauce and baked.",
+                                    "Another variant is (melitzanes) papoutsakia (μελιτζάνες) παπουτσάκια  (lit.",
+                                    "Another variant is (melitzanes) papoutsakia (μελιτζάνες) παπουτσάκια  (lit."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "variantes",
+                                    "translated": "variants"
+                                },
+                                "fact": {
+                                    "original": "La moussaka libanaise est cuite avec des tomates et des pois chiches.",
+                                    "translated": "Lebanese moussaka is cooked with tomatoes and chickpeas.",
+                                    "fact_aligned_sentence": "La moussaka libanaise, également appelée maghmour, est une ratatouille d'aubergines grillées cuite avec des tomates et des pois chiches qui se sert froide en mezze.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Moussaka"
+                                },
+                                "src_context": [
+                                    "La moussaka libanaise est également appelée maghmour.",
+                                    "La moussaka libanaise est une ratatouille d'aubergines grillées.",
+                                    "La moussaka libanaise est cuite avec des tomates et des pois chiches."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Grated cheese or bread crumbs are often sprinkled on top.",
+                                    "In the Levant, moussaka is a cooked dish made up primarily of tomatoes and eggplant, similar to Sicilian caponata, and may also include chickpeas.",
+                                    "In Egypt, mesaqa‘ah can be made vegan  or vegetarian as well as with meat; in all cases, the main ingredient is the fried eggplant.",
+                                    "In Turkey, mussaka consists of thinly sliced and fried eggplant served in a tomato-based meat sauce, warm or at room temperature."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "variantes",
+                                    "translated": "variants"
+                                },
+                                "fact": {
+                                    "original": "La moussaka libanaise est une ratatouille d'aubergines grillées.",
+                                    "translated": "Lebanese moussaka is a ratatouille of grilled eggplants.",
+                                    "fact_aligned_sentence": "La moussaka libanaise, également appelée maghmour, est une ratatouille d'aubergines grillées cuite avec des tomates et des pois chiches qui se sert froide en mezze.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Moussaka"
+                                },
+                                "src_context": [
+                                    "Il existe des variantes avec des pommes de terre.",
+                                    "La moussaka libanaise est également appelée maghmour.",
+                                    "La moussaka libanaise est une ratatouille d'aubergines grillées."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Moussaka (, UK also , US also ) is an eggplant (aubergine)- or potato-based dish, often including ground meat, which is common in the Balkans and the Middle East, with many local and regional variations.",
+                                    "In Egypt, mesaqa‘ah can be made vegan  or vegetarian as well as with meat; in all cases, the main ingredient is the fried eggplant.",
+                                    "In Turkey, mussaka consists of thinly sliced and fried eggplant served in a tomato-based meat sauce, warm or at room temperature."
+                                ]
+                            },
                             {
                                 "header_2": {
                                     "original": null,
@@ -262,6 +397,175 @@
                                     "There are variations on this basic recipe, sometimes with no top sauce, sometimes with other vegetables.",
                                     "His recipe has three layers that are separately cooked before being combined for the final baking: a bottom layer of sliced eggplant sautéed in olive oil; a middle layer of ground lamb lightly cooked with chopped or puréed tomatoes, onion, garlic, and spices (cinnamon, allspice and black pepper); and a top layer of béchamel sauce or savoury custard.",
                                     "There are variations on this basic recipe, sometimes with no top sauce, sometimes with other vegetables."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "variantes",
+                                    "translated": "variants"
+                                },
+                                "fact": {
+                                    "original": "La moussaka arabe est faite de tomates et aubergines.",
+                                    "translated": "Arab moussaka is made of tomatoes and eggplants.",
+                                    "fact_aligned_sentence": "De manière générale, dans le monde arabe, la moussaka est une salade cuite faite de tomates et aubergines, similaire à la caponata italienne et habituellement servie froide comme mezze.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Moussaka"
+                                },
+                                "src_context": [
+                                    "La version égyptienne est sans sauce béchamel.",
+                                    "Dans le monde arabe, la moussaka est une salade cuite.",
+                                    "La moussaka arabe est faite de tomates et aubergines."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Moussaka (, UK also , US also ) is an eggplant (aubergine)- or potato-based dish, often including ground meat, which is common in the Balkans and the Middle East, with many local and regional variations.",
+                                    "Instead, thinly sliced eggplant is fried and served in tomato-based meat sauce seasoned with green peppers, garlic and onions.",
+                                    "It is generally eaten with pilav and cacık."
+                                ]
+                            }
+                        ]
+                    },
+                    "au cinéma": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "au cinéma",
+                                    "translated": "in the cinema"
+                                },
+                                "fact": {
+                                    "original": "Dans le film Hercule, Hadès s'étouffe en disant « C'est comme mettre du ketchup dans la moussaka ! ».",
+                                    "translated": "In the movie Hercules, Hades chokes while saying, \"It's like putting ketchup on moussaka!\"",
+                                    "fact_aligned_sentence": "»",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Moussaka"
+                                },
+                                "src_context": [
+                                    "Le film Hercule est sorti en 1997.",
+                                    "Hadès est un personnage dans le film Hercule.",
+                                    "Dans le film Hercule, Hadès s'étouffe en disant « C'est comme mettre du ketchup dans la moussaka ! »."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Egypt, mesaqa‘ah can be made vegan  or vegetarian as well as with meat; in all cases, the main ingredient is the fried eggplant.",
+                                    "In Turkey, mussaka consists of thinly sliced and fried eggplant served in a tomato-based meat sauce, warm or at room temperature.",
+                                    "There are also variants with zucchini (courgettes, kabak musakka), carrots (havuç musakka) and potatoes (patates musakka).",
+                                    "There are also variants with zucchini (courgettes, kabak musakka), carrots (havuç musakka) and potatoes (patates musakka)."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "au cinéma",
+                                    "translated": "in the cinema"
+                                },
+                                "fact": {
+                                    "original": "Dans le film Le Casse, le policier Zacharia fait découvrir un plat au cambrioleur Azad.",
+                                    "translated": "In the film The Heist, Officer Zacharia introduces a dish to the burglar Azad.",
+                                    "fact_aligned_sentence": "Dans le film Le Casse, d'Henri Verneuil (1971), tourné en Grèce, le policier Zacharia (Omar Sharif) fait découvrir ce plat au cambrioleur Azad (Jean-Paul Belmondo).",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Moussaka"
+                                },
+                                "src_context": [
+                                    "Dans le film Le Casse, le personnage Zacharia est interprété par Omar Sharif.",
+                                    "Dans le film Le Casse, le personnage Azad est interprété par Jean-Paul Belmondo.",
+                                    "Dans le film Le Casse, le policier Zacharia fait découvrir un plat au cambrioleur Azad."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The versions in Egypt, Turkey and the rest of the Middle East are quite different.",
+                                    "In Egypt, mesaqa‘ah can be made vegan  or vegetarian as well as with meat; in all cases, the main ingredient is the fried eggplant.",
+                                    "Another variant is (melitzanes) papoutsakia (μελιτζάνες) παπουτσάκια  (lit.",
+                                    "Another variant is (melitzanes) papoutsakia (μελιτζάνες) παπουτσάκια  (lit."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "au cinéma",
+                                    "translated": "in the cinema"
+                                },
+                                "fact": {
+                                    "original": "Dans le film Le Casse, le personnage Azad est interprété par Jean-Paul Belmondo.",
+                                    "translated": "In the film Le Casse, the character Azad is portrayed by Jean-Paul Belmondo.",
+                                    "fact_aligned_sentence": "Dans le film Le Casse, d'Henri Verneuil (1971), tourné en Grèce, le policier Zacharia (Omar Sharif) fait découvrir ce plat au cambrioleur Azad (Jean-Paul Belmondo).",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Moussaka"
+                                },
+                                "src_context": [
+                                    "Le film Le Casse a été tourné en Grèce.",
+                                    "Dans le film Le Casse, le personnage Zacharia est interprété par Omar Sharif.",
+                                    "Dans le film Le Casse, le personnage Azad est interprété par Jean-Paul Belmondo."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The modern Greek version was created by the French-trained Greek chef Nikolaos Tselementes in the 1920s.",
+                                    "His recipe has three layers that are separately cooked before being combined for the final baking: a bottom layer of sliced eggplant sautéed in olive oil; a middle layer of ground lamb lightly cooked with chopped or puréed tomatoes, onion, garlic, and spices (cinnamon, allspice and black pepper); and a top layer of béchamel sauce or savoury custard.",
+                                    "Another variant is (melitzanes) papoutsakia (μελιτζάνες) παπουτσάκια  (lit.",
+                                    "Another variant is (melitzanes) papoutsakia (μελιτζάνες) παπουτσάκια  (lit."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "au cinéma",
+                                    "translated": "in the cinema"
+                                },
+                                "fact": {
+                                    "original": "Le film Le Casse a été réalisé par Henri Verneuil.",
+                                    "translated": "The film Le Casse was directed by Henri Verneuil.",
+                                    "fact_aligned_sentence": "Dans le film Le Casse, d'Henri Verneuil (1971), tourné en Grèce, le policier Zacharia (Omar Sharif) fait découvrir ce plat au cambrioleur Azad (Jean-Paul Belmondo).",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Moussaka"
+                                },
+                                "src_context": [
+                                    "Le plat est recouvert de fromage à gratiner.",
+                                    "Le plat est recouvert d'une sauce béchamel.",
+                                    "Le film Le Casse a été réalisé par Henri Verneuil."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In the rest of the Balkans, the top layer is often a custard: this is the version introduced to the UK by Elizabeth David's Mediterranean Cookery and where it remains the usual presentation.",
+                                    "In the rest of the Balkans, the top layer is often a custard: this is the version introduced to the UK by Elizabeth David's Mediterranean Cookery and where it remains the usual presentation.",
+                                    "The Greek version includes layers of meat and eggplant topped with a béchamel (\"white\") sauce and baked.",
+                                    "The modern Greek version was created by the French-trained Greek chef Nikolaos Tselementes in the 1920s."
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "En arménien, la moussaka s'écrit : Մուսակա.",
+                                    "translated": "In Armenian, moussaka is written as: Մուսակա.",
+                                    "fact_aligned_sentence": "La moussaka (en grec : μουσακάς / mousakás ;  en serbe en écriture cyrillique : мусака ; en macédonien : мусака ; en roumain : musaca, ; en bulgare : мусака ; en arménien : Մուսակա ; en arabe : مسقعة ; en arabe maghrébin : tajin msaq'a) est un plat traditionnel des Balkans et du Moyen-Orient, mais le plus souvent associé à la Grèce, composé d'aubergines grillées, d'oignons et de tomates.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Moussaka"
+                                },
+                                "src_context": [
+                                    "En roumain, la moussaka s'écrit : musaca.",
+                                    "En bulgare, la moussaka s'écrit : мусака.",
+                                    "En arménien, la moussaka s'écrit : Մուսակա."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The English name for moussaka was borrowed from Greek mousakás (μουσακάς) and from other Balkan languages, all borrowed from Ottoman Turkish, which in turn borrοwed it from Arabic  muṣaqqa‘a (مصقعة, lit.",
+                                    "'pounded'  or 'cold').",
+                                    "It may be served cold as a mezze dish, or hot.",
+                                    "The Egyptian version of moussaka, mesaqa‘ah is made from layers of fried eggplant immersed in tomato sauce and then baked."
                                 ]
                             }
                         ]
@@ -336,7 +640,7 @@
                                 },
                                 "fact": {
                                     "original": "木莎卡一词源自阿拉伯语مسقعة(musaqqaʿa)",
-                                    "translated": "The term \"mushak\" comes from the Arabic word مسقعة (musaqqaʿa).",
+                                    "translated": "The term '木莎卡' originates from the Arabic word 'مسقعة' (musaqqaʿa).",
                                     "fact_aligned_sentence": "木莎卡一词源自阿拉伯语مسقعة(musaqqaʿa),原意为“加水”。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E6%9C%A8%E8%8E%8E%E5%8D%A1"
                                 },
@@ -362,33 +666,6 @@
                                     "translated": null
                                 },
                                 "fact": {
-                                    "original": "最知名的木莎卡为希腊木莎卡。",
-                                    "translated": "The most well-known moussaka is Greek moussaka.",
-                                    "fact_aligned_sentence": "木莎卡(希腊语: μουσακάς Mousakas;土耳其语:musakka),又譯茄子肉醬千層批、希臘茄盒,主要使用炒茄子与番茄或櫛瓜,通常會加入碎肉。流行于巴尔干地区、中东等地。最知名的木莎卡为希腊木莎卡。",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E6%9C%A8%E8%8E%8E%E5%8D%A1"
-                                },
-                                "src_context": [
-                                    "木莎卡通常會加入碎肉。",
-                                    "木莎卡流行于巴尔干地区、中东等地。",
-                                    "最知名的木莎卡为希腊木莎卡。"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "The Greek version includes layers of meat and eggplant topped with a béchamel (\"white\") sauce and baked.",
-                                    "The Greek version includes layers of meat and eggplant topped with a béchamel (\"white\") sauce and baked.",
-                                    "In Egypt, messa'aa can be made vegan  or vegetarian as well as with meat; in all cases, the main ingredient is the fried eggplant.",
-                                    "In Egypt, messa'aa can be made vegan  or vegetarian as well as with meat; in all cases, the main ingredient is the fried eggplant."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "General description",
-                                    "translated": null
-                                },
-                                "fact": {
                                     "original": "木莎卡(希腊语: μουσακάς Mousakas;土耳其语:musakka)又譯茄子肉醬千層批、希臘茄盒。",
                                     "translated": "Moussaka (Greek: μουσακάς Mousakas; Turkish: musakka) is also translated as eggplant meat sauce lasagna or Greek eggplant casserole.",
                                     "fact_aligned_sentence": "木莎卡(希腊语: μουσακάς Mousakas;土耳其语:musakka),又譯茄子肉醬千層批、希臘茄盒,主要使用炒茄子与番茄或櫛瓜,通常會加入碎肉。流行于巴尔干地区、中东等地。最知名的木莎卡为希腊木莎卡。",
@@ -402,6 +679,33 @@
                                     "The Egyptian version of moussaka is made from layers of fried eggplant immersed in tomato sauce and then baked.",
                                     "There are also variants with zucchini (courgettes, kabak musakka), carrots (havuç musakka) and potatoes (patates musakka).",
                                     "There are also variants with zucchini (courgettes, kabak musakka), carrots (havuç musakka) and potatoes (patates musakka)."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "最知名的木莎卡为希腊木莎卡。",
+                                    "translated": "The most famous moussaka is Greek moussaka.",
+                                    "fact_aligned_sentence": "木莎卡(希腊语: μουσακάς Mousakas;土耳其语:musakka),又譯茄子肉醬千層批、希臘茄盒,主要使用炒茄子与番茄或櫛瓜,通常會加入碎肉。流行于巴尔干地区、中东等地。最知名的木莎卡为希腊木莎卡。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E6%9C%A8%E8%8E%8E%E5%8D%A1"
+                                },
+                                "src_context": [
+                                    "木莎卡通常會加入碎肉。",
+                                    "木莎卡流行于巴尔干地区、中东等地。",
+                                    "最知名的木莎卡为希腊木莎卡。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Greek version includes layers of meat and eggplant topped with a béchamel (\"white\") sauce and baked.",
+                                    "The Greek version includes layers of meat and eggplant topped with a béchamel (\"white\") sauce and baked.",
+                                    "In Egypt, messa'aa can be made vegan  or vegetarian as well as with meat; in all cases, the main ingredient is the fried eggplant.",
+                                    "In Egypt, messa'aa can be made vegan  or vegetarian as well as with meat; in all cases, the main ingredient is the fried eggplant."
                                 ]
                             }
                         ]

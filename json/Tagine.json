@@ -3,35 +3,147 @@
         "languages": {
             "ru": {
                 "headers": {
-                    "блюдо": {
+                    "посуда": {
                         "entries": [
                             {
                                 "header_2": {
-                                    "original": "марокко и алжир",
-                                    "translated": "Morocco and Algeria"
+                                    "original": null,
+                                    "translated": null
                                 },
                                 "header_1": {
-                                    "original": "блюдо",
-                                    "translated": "dish"
+                                    "original": "посуда",
+                                    "translated": "dishes"
                                 },
                                 "fact": {
-                                    "original": "Овощи, мясо и приправы закладывают в таджин без добавления бульона и тушат на очень слабом огне в собственном соку в течение нескольких часов.",
-                                    "translated": "Vegetables, meat, and spices are placed in the tagine without adding broth and are simmered on a very low heat in their own juices for several hours.",
-                                    "fact_aligned_sentence": "Овощи, мясо и приправы закладывают в таджин без добавления бульона и тушат на очень слабом огне в собственном соку в течение нескольких часов.",
+                                    "original": "Водяной затвор предотвращает пропускание запаха от готовящегося блюда.",
+                                    "translated": "The water seal prevents the smell of the cooking dish from escaping.",
+                                    "fact_aligned_sentence": "Благодаря сконденсировавшейся в нижней части жидкости образуется водяной затвор, который предотвращает пропускание пара и запаха от готовящегося блюда.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BD"
                                 },
                                 "src_context": [
-                                    "В качестве приправы используют различные пряности, мёд, фрукты, ягоды.",
-                                    "Мясо не обжаривают (или слегка обжаривают после долгого тушения).",
-                                    "Овощи, мясо и приправы закладывают в таджин без добавления бульона и тушат на очень слабом огне в собственном соку в течение нескольких часов."
+                                    "Сконденсировавшаяся в нижней части жидкость образует водяной затвор.",
+                                    "Водяной затвор предотвращает пропускание пара.",
+                                    "Водяной затвор предотвращает пропускание запаха от готовящегося блюда."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Tunisian tajine is more like a French quiche while the Libyan is more similar to an Italian frittata or an eggah.",
-                                    "First, a simple ragout is prepared, of meat cut into very small pieces, cooked with onions and spices, such as a blend of dried rose flower buds and ground cinnamon known as baharat or a robust combination of ground coriander and caraway seeds; this is called tabil.",
+                                    "Put back some of the broth on it along with sheep's tail.",
+                                    "Boil until cooked and the broth has been absorbed.",
                                     "Because the domed or cone-shaped lid of the tagine pot traps steam and returns the condensed liquid to the pot, a minimal amount of water is needed to cook meats and vegetables.",
-                                    "Because the domed or cone-shaped lid of the tagine pot traps steam and returns the condensed liquid to the pot, a minimal amount of water is needed to cook meats and vegetables."
+                                    "This method of cooking is important in areas where water supplies are limited or where public water is not yet available."
                                 ]
                             },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "посуда",
+                                    "translated": "dishes"
+                                },
+                                "fact": {
+                                    "original": "При медленном многочасовом тушении блюда поднимающийся пар конденсируется в относительно холодной верхней части крышки.",
+                                    "translated": "'During slow, prolonged cooking of the dish, the rising steam condenses in the relatively cool upper part of the lid.'",
+                                    "fact_aligned_sentence": "При медленном многочасовом тушении блюда поднимающийся пар конденсируется в относительно холодной верхней части крышки и стекает вниз.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BD"
+                                },
+                                "src_context": [
+                                    "Таджин изначально представлял собой массивный керамический горшок.",
+                                    "Таджин плотно закрывался высокой конической крышкой.",
+                                    "При медленном многочасовом тушении блюда поднимающийся пар конденсируется в относительно холодной верхней части крышки."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Other methods are to use a tagine in a slow oven or on a gas or electric stove top, on the lowest heat necessary to keep the stew simmering gently.",
+                                    "Other methods are to use a tagine in a slow oven or on a gas or electric stove top, on the lowest heat necessary to keep the stew simmering gently.",
+                                    "The cover is designed to return all condensation to the bottom.",
+                                    "That process can be improved by adding cold water into the specially designed well at the top of the lid."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "посуда",
+                                    "translated": "dishes"
+                                },
+                                "fact": {
+                                    "original": "Таджин плотно закрывался высокой конической крышкой.",
+                                    "translated": "The tadjin was tightly closed with a high conical lid.",
+                                    "fact_aligned_sentence": "Таджин изначально представлял собой массивный керамический горшок, плотно закрытый высокой конической крышкой.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BD"
+                                },
+                                "src_context": [
+                                    "Таджин — это также специальная посуда для приготовления этого блюда.",
+                                    "Таджин изначально представлял собой массивный керамический горшок.",
+                                    "Таджин плотно закрывался высокой конической крышкой."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The resulting tajine is crusty on top and bottom, moist within and is infused with a subtle smoky fragrance.",
+                                    "The resulting tajine is crusty on top and bottom, moist within and is infused with a subtle smoky fragrance.",
+                                    "The traditional tagine pottery, sometimes painted or glazed, consists of two parts: a circular base unit that is flat with low sides and a large cone- or dome-shaped cover that sits on the base during cooking.",
+                                    "The traditional tagine pottery, sometimes painted or glazed, consists of two parts: a circular base unit that is flat with low sides and a large cone- or dome-shaped cover that sits on the base during cooking."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "посуда",
+                                    "translated": "dishes"
+                                },
+                                "fact": {
+                                    "original": "Происхождение такой посуды обусловлено высокой температурой.",
+                                    "translated": "The origin of such utensils is due to the high temperature.",
+                                    "fact_aligned_sentence": "Происхождение такой посуды обусловлено климатом, а именно высокой температурой.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BD"
+                                },
+                                "src_context": [
+                                    "Водяной затвор предотвращает пропускание запаха от готовящегося блюда.",
+                                    "Происхождение такой посуды обусловлено климатом.",
+                                    "Происхождение такой посуды обусловлено высокой температурой."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Boil until cooked and the broth has been absorbed.",
+                                    "Remove [from the heat].Tagines have been in use for an extended period, persisting to the present day.",
+                                    "The Arabic طاجين (ṭajīn) is derived from Ancient Greek τάγηνον (tágēnon) 'frying-pan, saucepan'.",
+                                    "According to some sources, the origin of the word 'tagine' is Persian, pronounced \"ته چین\"."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "посуда",
+                                    "translated": "dishes"
+                                },
+                                "fact": {
+                                    "original": "Таджин изначально представлял собой массивный керамический горшок.",
+                                    "translated": "The tadzhin was originally a massive ceramic pot.",
+                                    "fact_aligned_sentence": "Таджин изначально представлял собой массивный керамический горшок, плотно закрытый высокой конической крышкой.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BD"
+                                },
+                                "src_context": [
+                                    "Таджин популярен в странах Магриба.",
+                                    "Таджин — это также специальная посуда для приготовления этого блюда.",
+                                    "Таджин изначально представлял собой массивный керамический горшок."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The traditional tagine pottery, sometimes painted or glazed, consists of two parts: a circular base unit that is flat with low sides and a large cone- or dome-shaped cover that sits on the base during cooking.",
+                                    "The traditional tagine pottery, sometimes painted or glazed, consists of two parts: a circular base unit that is flat with low sides and a large cone- or dome-shaped cover that sits on the base during cooking.",
+                                    "In 1859, French explorer, geographer, archaeologist, librarian, and Maghreb expert Oscar Mac Carthy recounted encountering cooking tagines and pottery in the streets of Algeria.",
+                                    "He described them as large hollow pots of various shapes."
+                                ]
+                            }
+                        ]
+                    },
+                    "блюдо": {
+                        "entries": [
                             {
                                 "header_2": {
                                     "original": "тунис",
@@ -58,6 +170,87 @@
                                     "First, a simple ragout is prepared, of meat cut into very small pieces, cooked with onions and spices, such as a blend of dried rose flower buds and ground cinnamon known as baharat or a robust combination of ground coriander and caraway seeds; this is called tabil.",
                                     "Then something starchy is added to thicken the juices."
                                 ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "марокко и алжир",
+                                    "translated": "Morocco and Algeria"
+                                },
+                                "header_1": {
+                                    "original": "блюдо",
+                                    "translated": "dish"
+                                },
+                                "fact": {
+                                    "original": "Мясо не обжаривают (или слегка обжаривают после долгого тушения).",
+                                    "translated": "'The meat is not browned (or is lightly browned after long stewing).'",
+                                    "fact_aligned_sentence": "Мясо не обжаривают (или слегка обжаривают после долгого тушения).",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BD"
+                                },
+                                "src_context": [
+                                    "Таджин по-мароккански и по-алжирски готовят из крупных кусков мяса или птицы на косточке и овощей (томатов, картофеля, баклажанов, лука).",
+                                    "В качестве приправы используют различные пряности, мёд, фрукты, ягоды.",
+                                    "Мясо не обжаривают (или слегка обжаривают после долгого тушения)."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Kabyle women have great skill in these types of work.There are many descriptions of how to prepare a tagine from Arab scholars.",
+                                    "A famous description is the one from ibn al-Adim (1192–1262):",
+                                    "Put over the meat.",
+                                    "Put back some of the broth on it along with sheep's tail."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "тунис",
+                                    "translated": "Tunisia"
+                                },
+                                "header_1": {
+                                    "original": "блюдо",
+                                    "translated": "dish"
+                                },
+                                "fact": {
+                                    "original": "Мясо или птицу мелко рубят.",
+                                    "translated": "'Meat or poultry is finely chopped.'",
+                                    "fact_aligned_sentence": "Мясо или птицу мелко рубят, смешивают с загустителем (фасолью, нутом, картофелем) и тушат на слабом огне.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BD"
+                                },
+                                "src_context": [
+                                    "Овощи, мясо и приправы закладывают в таджин без добавления бульона и тушат на очень слабом огне в собственном соку в течение нескольких часов.",
+                                    "Таджин по-тунисски близок к омлету.",
+                                    "Мясо или птицу мелко рубят."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Then pick out the fennel hearts and cut in half.",
+                                    "Put over the meat.",
+                                    "Algerian and Moroccan tagine dishes are slow-cooked stews, typically made with sliced meat, poultry or fish together with vegetables or fruit.",
+                                    "Algerian and Moroccan tagine dishes are slow-cooked stews, typically made with sliced meat, poultry or fish together with vegetables or fruit."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "марокко и алжир",
+                                    "translated": "Morocco and Algeria"
+                                },
+                                "header_1": {
+                                    "original": "блюдо",
+                                    "translated": "dish"
+                                },
+                                "fact": {
+                                    "original": "Овощи, мясо и приправы закладывают в таджин без добавления бульона и тушат на очень слабом огне в собственном соку в течение нескольких часов.",
+                                    "translated": "Vegetables, meat, and spices are placed in the tagine without adding broth and are simmered on very low heat in their own juice for several hours.",
+                                    "fact_aligned_sentence": "Овощи, мясо и приправы закладывают в таджин без добавления бульона и тушат на очень слабом огне в собственном соку в течение нескольких часов.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BD"
+                                },
+                                "src_context": [
+                                    "В качестве приправы используют различные пряности, мёд, фрукты, ягоды.",
+                                    "Мясо не обжаривают (или слегка обжаривают после долгого тушения).",
+                                    "Овощи, мясо и приправы закладывают в таджин без добавления бульона и тушат на очень слабом огне в собственном соку в течение нескольких часов."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Tunisian tajine is more like a French quiche while the Libyan is more similar to an Italian frittata or an eggah.",
+                                    "First, a simple ragout is prepared, of meat cut into very small pieces, cooked with onions and spices, such as a blend of dried rose flower buds and ground cinnamon known as baharat or a robust combination of ground coriander and caraway seeds; this is called tabil.",
+                                    "Because the domed or cone-shaped lid of the tagine pot traps steam and returns the condensed liquid to the pot, a minimal amount of water is needed to cook meats and vegetables.",
+                                    "Because the domed or cone-shaped lid of the tagine pot traps steam and returns the condensed liquid to the pot, a minimal amount of water is needed to cook meats and vegetables."
+                                ]
                             }
                         ]
                     },
@@ -74,7 +267,7 @@
                                 },
                                 "fact": {
                                     "original": "Таджин имеет распространение в сефардских общинах Франции.",
-                                    "translated": "Tajín is distributed in Sephardic communities in France.",
+                                    "translated": "Tadzhin is prevalent in the Sephardic communities of France.",
                                     "fact_aligned_sentence": "Также имеет распространение в сефардских общинах Франции и США — и, естественно, в Израиле.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BD"
                                 },
@@ -108,21 +301,187 @@
                                     "translated": "Related items"
                                 },
                                 "fact": {
-                                    "original": "Les Algériens consomment beaucoup de légumes frais et de fruits.",
-                                    "translated": "Algerians consume a lot of fresh vegetables and fruits.",
+                                    "original": "Le régime méditerranéen inclut également une consommation modérée de vin rouge, généralement pendant les repas.",
+                                    "translated": "The Mediterranean diet also includes a moderate consumption of red wine, typically during meals.",
+                                    "fact_aligned_sentence": "Régime méditerranéen",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Tajine"
+                                },
+                                "src_context": [
+                                    "La consommation de poisson et de fruits de mer est encouragée.",
+                                    "La viande rouge et les produits laitiers sont consommés en quantités limitées.",
+                                    "Le régime méditerranéen inclut également une consommation modérée de vin rouge, généralement pendant les repas."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Because the domed or cone-shaped lid of the tagine pot traps steam and returns the condensed liquid to the pot, a minimal amount of water is needed to cook meats and vegetables.",
+                                    "This method of cooking is important in areas where water supplies are limited or where public water is not yet available.",
+                                    "Maghrebi Jews also eat and prepare tagine, owing to their historic presence in North Africa.",
+                                    "Maghrebi Jews also eat and prepare tagine, owing to their historic presence in North Africa."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "articles connexes",
+                                    "translated": "Related items"
+                                },
+                                "fact": {
+                                    "original": "Le régime méditerranéen est basé sur les habitudes alimentaires traditionnelles des pays du bassin méditerranéen.",
+                                    "translated": "The Mediterranean diet is based on the traditional eating habits of the countries bordering the Mediterranean Sea.",
+                                    "fact_aligned_sentence": "Régime méditerranéen",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Tajine"
+                                },
+                                "src_context": [
+                                    "Les repas sont souvent accompagnés de pain traditionnel comme le khobz.",
+                                    "Le thé à la menthe est une boisson populaire dans la région.",
+                                    "Le régime méditerranéen est basé sur les habitudes alimentaires traditionnelles des pays du bassin méditerranéen."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Because the domed or cone-shaped lid of the tagine pot traps steam and returns the condensed liquid to the pot, a minimal amount of water is needed to cook meats and vegetables.",
+                                    "This method of cooking is important in areas where water supplies are limited or where public water is not yet available.",
+                                    "The concept of cooking in a tajine appears in the famous One Thousand and One Nights, an Arabic-language story collection from the 9th century.",
+                                    "Today, the cooking pot and its traditional broth are primarily prepared in the Middle East and North Africa, although both are popular in many other countries."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "articles connexes",
+                                    "translated": "Related items"
+                                },
+                                "fact": {
+                                    "original": "Les pâtisseries algériennes, comme les makrouts et les baklavas, sont très appréciées.",
+                                    "translated": "Algerian pastries, such as makrouts and baklavas, are highly appreciated.",
                                     "fact_aligned_sentence": "Cuisine algérienne",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Tajine"
                                 },
                                 "src_context": [
-                                    "Les plats algériens utilisent souvent des épices comme le cumin, le paprika et le safran.",
-                                    "Le couscous est l'un des plats les plus emblématiques de l'Algérie.",
-                                    "Les Algériens consomment beaucoup de légumes frais et de fruits."
+                                    "Les Algériens consomment beaucoup de légumes frais et de fruits.",
+                                    "Les plats à base de viande, comme le méchoui, sont également populaires.",
+                                    "Les pâtisseries algériennes, comme les makrouts et les baklavas, sont très appréciées."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Common spices include ginger, cumin, turmeric, cinnamon, and saffron.",
-                                    "Paprika and chili are used in vegetable tagines.",
+                                    "Some tagines, however, are intended only to be used as decorative serving dishes.",
                                     "Algerian and Moroccan tagine dishes are slow-cooked stews, typically made with sliced meat, poultry or fish together with vegetables or fruit.",
-                                    "Algerian and Moroccan tagine dishes are slow-cooked stews, typically made with sliced meat, poultry or fish together with vegetables or fruit."
+                                    "Common spices include ginger, cumin, turmeric, cinnamon, and saffron.",
+                                    "Paprika and chili are used in vegetable tagines."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "articles connexes",
+                                    "translated": "Related items"
+                                },
+                                "fact": {
+                                    "original": "Il est généralement préparé avec des œufs, de la viande, des légumes et des épices.",
+                                    "translated": "It is usually made with eggs, meat, vegetables, and spices.",
+                                    "fact_aligned_sentence": "Tajine tunisien",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Tajine"
+                                },
+                                "src_context": [
+                                    "Il ne doit pas être confondu avec le tajine marocain.",
+                                    "Le tajine tunisien est une sorte de gratin ou de quiche sans pâte.",
+                                    "Il est généralement préparé avec des œufs, de la viande, des légumes et des épices."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Algerian and Moroccan tagine dishes are slow-cooked stews, typically made with sliced meat, poultry or fish together with vegetables or fruit.",
+                                    "Algerian and Moroccan tagine dishes are slow-cooked stews, typically made with sliced meat, poultry or fish together with vegetables or fruit.",
+                                    "Tunisian tajine is more like a French quiche while the Libyan is more similar to an Italian frittata or an eggah.",
+                                    "First, a simple ragout is prepared, of meat cut into very small pieces, cooked with onions and spices, such as a blend of dried rose flower buds and ground cinnamon known as baharat or a robust combination of ground coriander and caraway seeds; this is called tabil."
+                                ]
+                            }
+                        ]
+                    },
+                    "par région": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "libye",
+                                    "translated": "Libya"
+                                },
+                                "header_1": {
+                                    "original": "par région",
+                                    "translated": "by region"
+                                },
+                                "fact": {
+                                    "original": "La méthode traditionnelle utilise une cocotte en terre cuite allant au four.",
+                                    "translated": "The traditional method uses a clay pot that can go in the oven.",
+                                    "fact_aligned_sentence": "La méthode traditionnelle utilise une cocotte en terre cuite allant au four qui passe de la cuisinière au four (on l'envoyait autrefois à la boulangerie du quartier).",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Tajine"
+                                },
+                                "src_context": [
+                                    "De nos jours, le tajine libyen est généralement préparé en faisant cuire la viande ou le poulet dans une marmite.",
+                                    "Ensuite, la viande ou le poulet est ajouté au reste des ingrédients dans un plat en pyrex.",
+                                    "La méthode traditionnelle utilise une cocotte en terre cuite allant au four."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In rural parts of Tunisia, home cooks place a shallow earthenware dish over olive-wood coals, fill it, cover it with a flat earthenware pan, and then pile hot coals on top.",
+                                    "In rural parts of Tunisia, home cooks place a shallow earthenware dish over olive-wood coals, fill it, cover it with a flat earthenware pan, and then pile hot coals on top.",
+                                    "There are different ways to prepare the tagine.",
+                                    "In the original qidra style, saman (clarified butter) is used to lubricate the surface and a puree of chopped onion is added for flavour and aroma."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "algérie",
+                                    "translated": "Algeria"
+                                },
+                                "header_1": {
+                                    "original": "par région",
+                                    "translated": "by region"
+                                },
+                                "fact": {
+                                    "original": "Elle peut aussi être appelée chtetra.",
+                                    "translated": "It can also be called chtetra.",
+                                    "fact_aligned_sentence": "Il existe en Algérie une variante de tajine populaire dans l'Atlas blidéen dite tadjine ferchetcha aussi appelée chtitha ferchetcha ou chtitha berchetcha ou chtetra, faite avec des champignons,.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Tajine"
+                                },
+                                "src_context": [
+                                    "Elle est aussi appelée chtitha ferchetcha.",
+                                    "Elle est également connue sous le nom de chtitha berchetcha.",
+                                    "Elle peut aussi être appelée chtetra."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "A tagine or tajine, also tajin or tagin (Arabic: طاجين, romanized: ṭajīn) is a Maghrebi dish, and also the earthenware pot in which it is cooked.",
+                                    "It is also called maraq or marqa.",
+                                    "It is also called maraq or marqa.",
+                                    "It is also called maraq or marqa."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "algérie",
+                                    "translated": "Algeria"
+                                },
+                                "header_1": {
+                                    "original": "par région",
+                                    "translated": "by region"
+                                },
+                                "fact": {
+                                    "original": "Elle est également connue sous le nom de chtitha berchetcha.",
+                                    "translated": "'She is also known as chtitha berchetcha.'",
+                                    "fact_aligned_sentence": "Il existe en Algérie une variante de tajine populaire dans l'Atlas blidéen dite tadjine ferchetcha aussi appelée chtitha ferchetcha ou chtitha berchetcha ou chtetra, faite avec des champignons,.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Tajine"
+                                },
+                                "src_context": [
+                                    "Cette variante est dite tadjine ferchetcha.",
+                                    "Elle est aussi appelée chtitha ferchetcha.",
+                                    "Elle est également connue sous le nom de chtitha berchetcha."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is also called maraq or marqa.",
+                                    "It is also called maraq or marqa.",
+                                    "A tagine or tajine, also tajin or tagin (Arabic: طاجين, romanized: ṭajīn) is a Maghrebi dish, and also the earthenware pot in which it is cooked.",
+                                    "It is also called maraq or marqa."
                                 ]
                             }
                         ]
@@ -139,52 +498,79 @@
                                     "translated": "Origin and etymology"
                                 },
                                 "fact": {
-                                    "original": "Les plats enfournés ont été mijotés au préalable.",
-                                    "translated": "The baked dishes were simmered beforehand.",
+                                    "original": "Le mot tajine désigne quelque chose qui a été préparé à partir d'un ragoût.",
+                                    "translated": "The word tajine refers to something that has been prepared from a stew.",
                                     "fact_aligned_sentence": "Le mot tajine désigne simplement le ragoût, quelque chose qui a été préparé à partir d'un ragoût, ou un « ragoût enfourné », d'où l'utilisation du mot aussi bien pour des plats mijotés que des plats enfournés, qui ont été mijotés au préalable.",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Tajine"
                                 },
                                 "src_context": [
-                                    "Le mot tajine désigne un 'ragoût enfourné'.",
-                                    "Le mot tajine est utilisé aussi bien pour des plats mijotés que des plats enfournés.",
-                                    "Les plats enfournés ont été mijotés au préalable."
+                                    "Des plats sucrés à la viande sont appelés marqa hluwwa.",
+                                    "Le mot tajine désigne simplement le ragoût.",
+                                    "Le mot tajine désigne quelque chose qui a été préparé à partir d'un ragoût."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "European manufacturers have created tagines with heavy cast-iron bottoms that can be heated on a cooking stove to a high temperature, which permits the browning of meat and vegetables before cooking.",
-                                    "European manufacturers have created tagines with heavy cast-iron bottoms that can be heated on a cooking stove to a high temperature, which permits the browning of meat and vegetables before cooking.",
-                                    "Put back some of the broth on it along with sheep's tail.",
-                                    "Boil until cooked and the broth has been absorbed."
+                                    "A tagine or tajine, also tajin or tagin (Arabic: طاجين, romanized: ṭajīn) is a Maghrebi dish, and also the earthenware pot in which it is cooked.",
+                                    "A tagine or tajine, also tajin or tagin (Arabic: طاجين, romanized: ṭajīn) is a Maghrebi dish, and also the earthenware pot in which it is cooked.",
+                                    "It is also called maraq or marqa.",
+                                    "The Arabic طاجين (ṭajīn) is derived from Ancient Greek τάγηνον (tágēnon) 'frying-pan, saucepan'."
                                 ]
                             }
                         ]
                     },
-                    "par région": {
+                    "terminologie et étymologie": {
                         "entries": [
                             {
                                 "header_2": {
-                                    "original": "algérie",
-                                    "translated": "Algeria"
+                                    "original": null,
+                                    "translated": null
                                 },
                                 "header_1": {
-                                    "original": "par région",
-                                    "translated": "by region"
+                                    "original": "terminologie et étymologie",
+                                    "translated": "Terminology and etymology"
                                 },
                                 "fact": {
-                                    "original": "En Algérie orientale comme en Tunisie les tajines ou tadjines désignent des mets culinaires similaires au tajine tunisien.",
-                                    "translated": "In eastern Algeria, as in Tunisia, tajines or tadjines refer to dishes similar to Tunisian tajine.",
-                                    "fact_aligned_sentence": "En Algérie orientale comme en Tunisie les tajines ou tadjines désignent des mets culinaires similaires au tajine tunisien, à savoir une sorte de terrine, quiche ou galette proche de la tortilla espagnole .",
+                                    "original": "L'orthographe ṭağin (retranscription du dj en ğ) est celle de l'accent de l'arabe algérien.",
+                                    "translated": "The spelling ṭağin (transcription of dj as ğ) is that of the Algerian Arabic accent.",
+                                    "fact_aligned_sentence": "En arabe marocain, en arabe tunisien et en arabe libyen on le prononce ṭajin tandis que l'orthographe ṭadjin ou ṭağin (retranscription du dj en ğ) est celui de l'accent de l'arabe algérien.",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Tajine"
                                 },
                                 "src_context": [
-                                    "Le tridet et tadjine est préparé avec des crêpes.",
-                                    "Le tridet et tadjine est accompagné de poulet.",
-                                    "En Algérie orientale comme en Tunisie les tajines ou tadjines désignent des mets culinaires similaires au tajine tunisien."
+                                    "En arabe libyen, on le prononce ṭajin.",
+                                    "L'orthographe ṭadjin est celle de l'accent de l'arabe algérien.",
+                                    "L'orthographe ṭağin (retranscription du dj en ğ) est celle de l'accent de l'arabe algérien."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Tunisian tajine is more like a French quiche while the Libyan is more similar to an Italian frittata or an eggah.",
-                                    "Tunisian tajine is more like a French quiche while the Libyan is more similar to an Italian frittata or an eggah.",
-                                    "This method of cooking is important in areas where water supplies are limited or where public water is not yet available.",
-                                    "What Tunisians refer to as a \"tagine\" is very different from other forms of the dish."
+                                    "A tagine or tajine, also tajin or tagin (Arabic: طاجين, romanized: ṭajīn) is a Maghrebi dish, and also the earthenware pot in which it is cooked.",
+                                    "A tagine or tajine, also tajin or tagin (Arabic: طاجين, romanized: ṭajīn) is a Maghrebi dish, and also the earthenware pot in which it is cooked.",
+                                    "It is also called maraq or marqa.",
+                                    "The Arabic طاجين (ṭajīn) is derived from Ancient Greek τάγηνον (tágēnon) 'frying-pan, saucepan'."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "terminologie et étymologie",
+                                    "translated": "Terminology and etymology"
+                                },
+                                "fact": {
+                                    "original": "Le terme guiso désigne la variante du ragoût ibérique.",
+                                    "translated": "The term guiso refers to the Iberian stew variant.",
+                                    "fact_aligned_sentence": "Le terme ges'a qui désigne en arabe maghrébin l'ustensile permettant de cuisiner les ragoûts peut être rapproché de l'espagnol guiso qui signifie justement ragoût et désigne la variante du ragoût ibérique[citation nécessaire].",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Tajine"
+                                },
+                                "src_context": [
+                                    "Le terme ges'a peut être rapproché de l'espagnol guiso.",
+                                    "Le terme guiso signifie ragoût en espagnol.",
+                                    "Le terme guiso désigne la variante du ragoût ibérique."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "A tagine or tajine, also tajin or tagin (Arabic: طاجين, romanized: ṭajīn) is a Maghrebi dish, and also the earthenware pot in which it is cooked.",
+                                    "A tagine or tajine, also tajin or tagin (Arabic: طاجين, romanized: ṭajīn) is a Maghrebi dish, and also the earthenware pot in which it is cooked.",
+                                    "A tagine or tajine, also tajin or tagin (Arabic: طاجين, romanized: ṭajīn) is a Maghrebi dish, and also the earthenware pot in which it is cooked.",
+                                    "A tagine or tajine, also tajin or tagin (Arabic: طاجين, romanized: ṭajīn) is a Maghrebi dish, and also the earthenware pot in which it is cooked."
                                 ]
                             }
                         ]
@@ -205,8 +591,32 @@
                                     "translated": null
                                 },
                                 "fact": {
+                                    "original": "塔吉鍋(Tajine或Tagine)又譯尖蓋鍋燴肉。",
+                                    "translated": "Tajine (also spelled Tagine) is also known as a conical lid stew pot.",
+                                    "fact_aligned_sentence": "塔吉鍋(Tajine或Tagine),又譯尖蓋鍋燴肉,是一种北非菜式。它以所使用的容器命名,这种容器可以保持菜肴的水分。用这种容器制作的菜包括鸡肉、羊肉、鱼等,用薑、孜然等调味。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%94%E5%90%89%E9%8D%8B"
+                                },
+                                "src_context": [
+                                    "塔吉鍋(Tajine或Tagine)又譯尖蓋鍋燴肉。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "A tagine or tajine, also tajin or tagin (Arabic: طاجين, romanized: ṭajīn) is a Maghrebi dish, and also the earthenware pot in which it is cooked.",
+                                    "It is also called maraq or marqa.",
+                                    "The Arabic طاجين (ṭajīn) is derived from Ancient Greek τάγηνον (tágēnon) 'frying-pan, saucepan'."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
                                     "original": "塔吉鍋以所使用的容器命名。",
-                                    "translated": "The Tajik pot is named after the container used.",
+                                    "translated": "The tagine is named after the container used.",
                                     "fact_aligned_sentence": "塔吉鍋(Tajine或Tagine),又譯尖蓋鍋燴肉,是一种北非菜式。它以所使用的容器命名,这种容器可以保持菜肴的水分。用这种容器制作的菜包括鸡肉、羊肉、鱼等,用薑、孜然等调味。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%94%E5%90%89%E9%8D%8B"
                                 },
@@ -220,30 +630,6 @@
                                     "Other methods are to use a tagine in a slow oven or on a gas or electric stove top, on the lowest heat necessary to keep the stew simmering gently.",
                                     "A tagine or tajine, also tajin or tagin (Arabic: طاجين, romanized: ṭajīn) is a Maghrebi dish, and also the earthenware pot in which it is cooked.",
                                     "A tagine or tajine, also tajin or tagin (Arabic: طاجين, romanized: ṭajīn) is a Maghrebi dish, and also the earthenware pot in which it is cooked."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "General description",
-                                    "translated": null
-                                },
-                                "fact": {
-                                    "original": "塔吉鍋(Tajine或Tagine)又譯尖蓋鍋燴肉。",
-                                    "translated": "Tajine (also spelled Tagine) is a type of pot used for stewing meat.",
-                                    "fact_aligned_sentence": "塔吉鍋(Tajine或Tagine),又譯尖蓋鍋燴肉,是一种北非菜式。它以所使用的容器命名,这种容器可以保持菜肴的水分。用这种容器制作的菜包括鸡肉、羊肉、鱼等,用薑、孜然等调味。",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%94%E5%90%89%E9%8D%8B"
-                                },
-                                "src_context": [
-                                    "塔吉鍋(Tajine或Tagine)又譯尖蓋鍋燴肉。"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "A tagine or tajine, also tajin or tagin (Arabic: طاجين, romanized: ṭajīn) is a Maghrebi dish, and also the earthenware pot in which it is cooked.",
-                                    "It is also called maraq or marqa.",
-                                    "The Arabic طاجين (ṭajīn) is derived from Ancient Greek τάγηνον (tágēnon) 'frying-pan, saucepan'."
                                 ]
                             }
                         ]
