@@ -22,8 +22,43 @@ const LANGUAGES = {
       label: "Topic Not Mentioned" 
     }
   };
+
+  function logUserAction(actionType, details = {}) {
+    const event = {
+      action: actionType,
+      timestamp: Date.now(),
+      pageTitle: document.title, // or window.location.href if you prefer
+      ...details
+    };
   
-  // State management
+    // Save locally
+    saveEventToLocal(event);
+  }
+  
+  function saveEventToLocal(event) {
+    const existingLogs = JSON.parse(localStorage.getItem('wikigap_logs') || '[]');
+    existingLogs.push(event);
+    localStorage.setItem('wikigap_logs', JSON.stringify(existingLogs));
+  }
+  
+function cleanSnippet(snippet) {
+  let trimmed = snippet.trim();
+  // remove any trailing punctuation like . ! ?
+  return trimmed.replace(/[.!?]+$/, "");
+}
+// State management
+function buildTextFragmentUrl(baseLink, snippet) {
+  if (!baseLink) return baseLink;
+  if (!snippet || !snippet.trim()) return baseLink;
+
+  // Clean snippet to remove trailing period (or other punctuation).
+  snippet = cleanSnippet(snippet);
+
+  const encodedSnippet = encodeURIComponent(snippet.trim());
+  return `${baseLink}#:~:text=${encodedSnippet}`;
+}
+
+
   let factsLoaded = false;
   let totalFacts = 0;
   let highlightedSentences = [];
@@ -32,6 +67,39 @@ const LANGUAGES = {
     fr: [],
     ru: []
   };
+  // Track user text selections
+  let lastSelected = "";
+  let selectionTimeout = null;
+  
+  document.addEventListener("selectionchange", () => {
+    if (selectionTimeout) clearTimeout(selectionTimeout);
+  
+    selectionTimeout = setTimeout(() => {
+      const sel = window.getSelection();
+      if (!sel || !sel.rangeCount) return;
+  
+      const text = sel.toString().trim();
+      if (!text || text === lastSelected) return;
+  
+      lastSelected = text;
+  
+      const range = sel.getRangeAt(0);
+      const rect = range.getBoundingClientRect();
+      const containerTag = range.startContainer?.parentElement?.tagName || "UNKNOWN";
+  
+      logUserAction("text_selection", {
+        selectedText: text,
+        containerTag,
+        boundingRect: {
+          top: rect.top,
+          left: rect.left,
+          width: rect.width,
+          height: rect.height
+        }
+      });
+    }, 300); // 300ms delay after selection stops
+  });
+
   
   // Initialize the extension
   function initWikiGap() {
@@ -100,8 +168,14 @@ const LANGUAGES = {
     factsCounter.innerHTML = '<i class="material-icons">insights</i> <span id="wikigap-fact-count">0</span> Facts';
     factsCounter.addEventListener('click', showAllFacts);
     
+    const exportBtn = document.createElement('button');
+    exportBtn.className = 'wikigap-button';
+    exportBtn.textContent = 'Export Logs';
+    exportBtn.addEventListener('click', exportLogsToFile);
+
     // Add the buttons to the header
     header.appendChild(settingsBtn);
+    header.appendChild(exportBtn)
     header.appendChild(factsCounter);
     container.appendChild(header);
     
@@ -137,6 +211,7 @@ const LANGUAGES = {
     // Add event listeners for tabs
     tabs.querySelectorAll('.wikigap-tab').forEach(tab => {
       tab.addEventListener('click', function() {
+        logUserAction("lang_tab_switch", { languageTab: this.dataset.tab });
         const currentActive = tabs.querySelector('.wikigap-tab-active');
         if (currentActive) {
           currentActive.classList.remove('wikigap-tab-active');
@@ -517,14 +592,12 @@ const LANGUAGES = {
       languageFacts.fr = [];
       languageFacts.ru = [];
   
-      // Helper function to parse each language
       function parseLanguage(langCode) {
         let counter = 1;
-        const MAX_FACTS = 5; // Limit to 5 facts total for this language
+        const MAX_FACTS = 10; // limit for demonstration
         const langData = data[pageTitle].languages[langCode];
         if (!langData || !langData.headers) return;
       
-        // Each header has an 'entries' array
         Object.keys(langData.headers).forEach(headerKey => {
           const headerObj = langData.headers[headerKey];
           if (!headerObj.entries || !Array.isArray(headerObj.entries)) {
@@ -533,22 +606,19 @@ const LANGUAGES = {
       
           headerObj.entries.forEach(entry => {
             if (counter > MAX_FACTS) return;
-            // Now that our JSON definitely uses real arrays, we no longer need any string parsing
-            // 'tgt_fact_aligned_sentences' should be either an array or null.
-            const rawSentences = entry.tgt_fact_aligned_sentences;
-            // If it's an array, use it. Otherwise, default to empty.
-            const sentencesArray = Array.isArray(rawSentences) ? rawSentences : [];
       
-            // Safely iterate over each sentence
-            sentencesArray.forEach(sentence => {
-              if (counter > MAX_FACTS) return;
-              languageFacts[langCode].push({
-                id: `${langCode}${counter++}`,       // e.g. 'ru1', 'ru2'
-                relatedText: sentence,               // the text we want to highlight
-                fact: entry.fact?.translated || "",  // the fact’s translated text
-                type: FACT_TYPES.ADDITIONAL,
-                link: `https://${langCode}.wikipedia.org/wiki/${encodeURIComponent(pageTitle)}`
-              });
+            // Gather all aligned sentences into one array
+            const sentencesArray = Array.isArray(entry.tgt_fact_aligned_sentences)
+              ? entry.tgt_fact_aligned_sentences
+              : [];
+      
+            // Push ONE fact object with an array of sentences
+            languageFacts[langCode].push({
+              id: `${langCode}${counter++}`,
+              relatedTexts: sentencesArray,  // store all sentences here
+              fact: entry.fact?.translated || "",
+              type: FACT_TYPES.ADDITIONAL,
+              link: buildTextFragmentUrl(entry.fact?.wiki_link, entry.fact?.fact_aligned_sentence) || entry.fact?.wiki_link
             });
           });
         });
@@ -591,15 +661,17 @@ const LANGUAGES = {
       const facts = languageFacts[lang];
       
       facts.forEach(fact => {
-        if (fact.relatedText) {
+        if (!fact.relatedTexts || fact.relatedTexts.length === 0) return;
+        
+        fact.relatedTexts.forEach(sentence => {
           // Try to find the sentence in the text elements
           let found = false;
           
           textElements.forEach(element => {
-            if (element.textContent.includes(fact.relatedText) && !found) {
+            if (element.textContent.includes(sentence) && !found) {
               // Try to find the exact text
               const html = element.innerHTML;
-              const index = element.textContent.indexOf(fact.relatedText);
+              const index = element.textContent.indexOf(sentence);
               
               if (index !== -1) {
                 // Use DOM methods to find and wrap the text node
@@ -615,7 +687,7 @@ const LANGUAGES = {
                 let targetNode = null;
                 let targetIndex = 0;
                 
-                // Find the text node containing our target text
+                // Find the text node containing our target sentence
                 while ((currentNode = walker.nextNode())) {
                   const nodeTextLength = currentNode.textContent.length;
                   if (index >= currentPos && index < currentPos + nodeTextLength) {
@@ -632,7 +704,7 @@ const LANGUAGES = {
                   span.dataset.factId = fact.id;
                   
                   const beforeText = targetNode.textContent.substring(0, targetIndex);
-                  const targetText = fact.relatedText;
+                  const targetText = sentence;
                   const afterText = targetNode.textContent.substring(targetIndex + targetText.length);
                   
                   // Create text nodes for before and after
@@ -661,9 +733,9 @@ const LANGUAGES = {
               }
             }
           });
-        }
+        });
         
-        // FIXED: Create fact card with proper icon display
+        // Create fact card once per fact
         createFactCard(fact, lang);
       });
     }
@@ -673,6 +745,11 @@ const LANGUAGES = {
       if (item.element) {
         // Critical fix: Using direct click handler for immediate highlighting
         item.element.addEventListener('click', (e) => {
+          logUserAction("fact_highlight_click", {
+            factId: item.fact.id,
+            language: item.fact.language || item.fact.lang || "unknown",
+            sentence: item.element.textContent
+          });
           e.preventDefault();
           e.stopPropagation();
           
@@ -768,6 +845,11 @@ const LANGUAGES = {
     
     // Add click event to the fact card
     factCard.addEventListener('click', (e) => {
+      logUserAction("fact_card_click", {
+        factId: fact.id,
+        language,
+        sentence: fact.fact
+      });
       // Don't trigger if clicking on a link
       if (e.target.tagName === 'A') return;
       
@@ -798,6 +880,17 @@ const LANGUAGES = {
     factCard.addEventListener('mouseleave', () => {
       factCard.classList.remove('wikigap-fact-hover');
     });
+    
+    const linkEl = factCard.querySelector('a.wikigap-source-link');
+    if (linkEl) {
+      linkEl.addEventListener('click', () => {
+        logUserAction("external_link_click", {
+          factId: fact.id,
+          language,
+          url: linkEl.href
+        });
+      });
+    }
   }
   
   // Initialize WikiGap when the page is fully loaded
@@ -841,3 +934,24 @@ const LANGUAGES = {
     // Return true to indicate we'll respond asynchronously
     return true;
   });
+
+  function exportLogsToFile() {
+    const logs = localStorage.getItem('wikigap_logs');
+    if (!logs) {
+      alert("No logs found to export.");
+      return;
+    }
+  
+    const blob = new Blob([logs], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const filename = `wikigap_logs_${Date.now()}.json`;
+  
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    a.style.display = 'none';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
