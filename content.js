@@ -954,4 +954,8 @@ function buildTextFragmentUrl(baseLink, snippet) {
     a.click();
     document.body.removeChild(a);
     URL.revokeObjectURL(url);
+    
+    // Clear logs from localStorage
+    localStorage.removeItem('wikigap_logs');
+    console.log("WikiGap logs exported and cleared from localStorage.");
   }
