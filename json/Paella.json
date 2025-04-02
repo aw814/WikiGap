@@ -15,33 +15,6 @@
                                     "translated": "Types"
                                 },
                                 "fact": {
-                                    "original": "Лев Толстой жил в 19 веке.",
-                                    "translated": "Leo Tolstoy lived in the 19th century.",
-                                    "fact_aligned_sentence": "Наиболее известные",
-                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%8D%D0%BB%D1%8C%D1%8F"
-                                },
-                                "src_context": [
-                                    "Наиболее известные произведения Льва Толстого включают 'Войну и мир' и 'Анну Каренину'.",
-                                    "Лев Толстой был русским писателем.",
-                                    "Лев Толстой жил в 19 веке."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Novelist Vicente Blasco Ibáñez described the Valencia custom of eating water voles in Cañas y Barro (1902), a realistic novel about life among the fishermen and peasants near lake Albufera.",
-                                    "Living standards rose with the sociological changes of the late 19th century in Spain, giving rise to gatherings and outings in the countryside.",
-                                    "The dish became so popular that in 1840, a local Spanish newspaper first used the word paella to refer to the recipe rather than the pan, according to food historian Lynne Olver.",
-                                    "The dish became so popular that in 1840, a local Spanish newspaper first used the word paella to refer to the recipe rather than the pan, according to food historian Lynne Olver."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "виды",
-                                    "translated": "Types"
-                                },
-                                "fact": {
                                     "original": "Лев Толстой также известен своими философскими и религиозными взглядами.",
                                     "translated": "Leo Tolstoy is also known for his philosophical and religious views.",
                                     "fact_aligned_sentence": "Наиболее известные",

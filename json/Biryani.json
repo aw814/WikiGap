@@ -7,83 +7,191 @@
                         "entries": [
                             {
                                 "header_2": {
-                                    "original": "калькуттское бирьяни",
-                                    "translated": "Calcutian Biriyan"
+                                    "original": "хайдарабадское бирьяни",
+                                    "translated": "Haidrabad Biriyan"
                                 },
                                 "header_1": {
                                     "original": "виды бирьяни",
                                     "translated": "Types of Biryan"
                                 },
                                 "fact": {
-                                    "original": "Обилие картофеля в калькуттском бирьяни не мешает добавлению в блюда мяса.",
-                                    "translated": "The abundance of potatoes in Calcutta biryani does not interfere with the addition of meat to the dishes.",
-                                    "fact_aligned_sentence": "Сейчас обилие картофеля считается отличительной особенностью калькуттского бирьяни, что не мешает добавлению в блюда мяса.",
+                                    "original": "Хайдарабадское бирьяни является невегетарианским.",
+                                    "translated": "Hyderabadi biryani is non-vegetarian.",
+                                    "fact_aligned_sentence": "Хайдарабадское бирьяни является невегетарианским и распространено по всей Индии.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%B8"
                                 },
                                 "src_context": [
-                                    "Мясо в этой разновидности бирьяни было замещено картофелем.",
-                                    "Сейчас обилие картофеля считается отличительной особенностью калькуттского бирьяни.",
-                                    "Обилие картофеля в калькуттском бирьяни не мешает добавлению в блюда мяса."
+                                    "Бирьяни хорошо сочетается с квашенными баклажанами.",
+                                    "Бирьяни хорошо сочетается с креветками.",
+                                    "Хайдарабадское бирьяни является невегетарианским."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "In a pakki biryani, the rice, marinated meat, and any vegetables are partially (\"three-quarters\") cooked separately, before being combined into layers in a cooking vessel.",
-                                    "In a pakki biryani, the rice, marinated meat, and any vegetables are partially (\"three-quarters\") cooked separately, before being combined into layers in a cooking vessel.",
-                                    "Its origins are traced to the Persian traders who introduced biryani along with kababs and Indian breads.",
-                                    "In Bhatkali biryani, the meat is cooked in an onion and green chili-based masala and layered with fragrant rice."
+                                    "The choice of meat can be either chicken or mutton.",
+                                    "Hyderabadi biryani is India's most famous biryani; some say biryani is synonymous with Hyderabad.",
+                                    "A few chilies and spices littered with curry leaves lends a unique flavour to Bhatkali biryani.",
+                                    "No oil is used."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "хайдарабадское бирьяни",
+                                    "translated": "Haidrabad Biriyan"
+                                },
+                                "header_1": {
+                                    "original": "виды бирьяни",
+                                    "translated": "Types of Biryan"
+                                },
+                                "fact": {
+                                    "original": "Имеется множество разновидностей хайдарабадского бирьяни с рыбой, перепелками, зайчатиной, олениной, креветками.",
+                                    "translated": "There are many varieties of Hyderabad biryani with fish, quail, rabbit, venison, and shrimp.",
+                                    "fact_aligned_sentence": "Имеется множество разновидностей этого блюда с рыбой, перепелками, зайчатиной, олениной, креветками.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Хайдарабадское бирьяни является невегетарианским.",
+                                    "Хайдарабадское бирьяни распространено по всей Индии.",
+                                    "Имеется множество разновидностей хайдарабадского бирьяни с рыбой, перепелками, зайчатиной, олениной, креветками."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It has a unique spicy and heady flavour, and the rice is overwhelmingly white with mild streaks of orange.",
+                                    "Its variations include beef, goat, chicken, titar (partridge), egg, fish, crab, prawn, and vegetable biryani.",
+                                    "Popular variations use chicken instead of goat meat.",
+                                    "There are various forms of Hyderabadi biryani, such as kachay gosht ki biryani or dum biryani, where goat meat is marinated and cooked along with the rice."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "шри-ланкийское бирьяни",
+                                    "translated": "Sri-Lanka Berryani"
+                                },
+                                "header_1": {
+                                    "original": "виды бирьяни",
+                                    "translated": "Types of Biryan"
+                                },
+                                "fact": {
+                                    "original": "В Шри-Ланке бирьяни наиболее популярно среди мусульман.",
+                                    "translated": "'In Sri Lanka, biryani is most popular among Muslims.'",
+                                    "fact_aligned_sentence": "В Шри-Ланке бирьяни наиболее популярно среди мусульман и подаётся с курятиной, говядиной или бараниной.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Курятина также используется в процессе приготовления кхау мок.",
+                                    "Говядина также используется в процессе приготовления кхау мок.",
+                                    "В Шри-Ланке бирьяни наиболее популярно среди мусульман."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Biryani was introduced in the 1900s to Sri Lanka by the Indian Muslims who engaged in trade within the country.",
+                                    "In many cases, Sri Lankan biryani is spicier than most Indian varieties.",
+                                    "Biryani dishes are very popular in Mauritius, especially at Muslim weddings and festivities.",
+                                    "Biryani dishes are very popular in Mauritius, especially at Muslim weddings and festivities."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "иранское бирьяни",
+                                    "translated": "Iranian Biriyan"
+                                },
+                                "header_1": {
+                                    "original": "виды бирьяни",
+                                    "translated": "Types of Biryan"
+                                },
+                                "fact": {
+                                    "original": "Дам Пухт означает «приготовленный на пару».",
+                                    "translated": "Dam Pukht means 'cooked by steaming'.",
+                                    "fact_aligned_sentence": "Более распространённое название бирьяни в Иране — Дам Пухт, что означает «приготовленный на пару».",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "В качестве гарнира подавался выпаренный рис.",
+                                    "Более распространённое название бирьяни в Иране — Дам Пухт.",
+                                    "Дам Пухт означает «приготовленный на пару»."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Myanmar (Burma), biryani is known in Burmese as danpauk or danbauk (ဒံပေါက်), derived from the Persian term dum pukht, which refers to a slow oven cooking technique.",
+                                    "In Myanmar (Burma), biryani is known in Burmese as danpauk or danbauk (ဒံပေါက်), derived from the Persian term dum pukht, which refers to a slow oven cooking technique.",
+                                    "In Myanmar (Burma), biryani is known in Burmese as danpauk or danbauk (ဒံပေါက်), derived from the Persian term dum pukht, which refers to a slow oven cooking technique.",
+                                    "In Myanmar (Burma), biryani is known in Burmese as danpauk or danbauk (ဒံပေါက်), derived from the Persian term dum pukht, which refers to a slow oven cooking technique."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "хайдарабадское бирьяни",
+                                    "translated": "Haidrabad Biriyan"
+                                },
+                                "header_1": {
+                                    "original": "виды бирьяни",
+                                    "translated": "Types of Biryan"
+                                },
+                                "fact": {
+                                    "original": "Наиболее известный вариант хайдарабадского бирьяни называется Kachi Akhni Biryani с маринованным мясом.",
+                                    "translated": "The most famous variant of Hyderabadi biryani is called Kachi Akhni Biryani with marinated meat.",
+                                    "fact_aligned_sentence": "Наиболее известный вариант называется Kachi Akhni Biryani с маринованным мясом.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Хайдарабадское бирьяни распространено по всей Индии.",
+                                    "Имеется множество разновидностей хайдарабадского бирьяни с рыбой, перепелками, зайчатиной, олениной, креветками.",
+                                    "Наиболее известный вариант хайдарабадского бирьяни называется Kachi Akhni Biryani с маринованным мясом."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The city of Dhaka in Bangladesh used to be the capital of Bengal Subah and is known for Dhakaiya Kacchi Biryani, a Chevon Biryani made with highly seasoned rice and goat meat.",
+                                    "The city of Dhaka in Bangladesh used to be the capital of Bengal Subah and is known for Dhakaiya Kacchi Biryani, a Chevon Biryani made with highly seasoned rice and goat meat.",
+                                    "It is made with basmati rice, spices and goat meat.",
+                                    "Popular variations use chicken instead of goat meat."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "хайдарабадское бирьяни",
+                                    "translated": "Haidrabad Biriyan"
+                                },
+                                "header_1": {
+                                    "original": "виды бирьяни",
+                                    "translated": "Types of Biryan"
+                                },
+                                "fact": {
+                                    "original": "Хайдарабадское бирьяни распространено по всей Индии.",
+                                    "translated": "Hyderabadi biryani is popular all over India.",
+                                    "fact_aligned_sentence": "Хайдарабадское бирьяни является невегетарианским и распространено по всей Индии.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Бирьяни хорошо сочетается с креветками.",
+                                    "Хайдарабадское бирьяни является невегетарианским.",
+                                    "Хайдарабадское бирьяни распространено по всей Индии."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The choice of meat can be either chicken or mutton.",
+                                    "Hyderabadi biryani is India's most famous biryani; some say biryani is synonymous with Hyderabad.",
+                                    "For example, Sindhi biryani developed in the Sindh region of what is now Pakistan, and Hyderabadi biryani developed in the city of Hyderabad in South India.",
+                                    "For example, Sindhi biryani developed in the Sindh region of what is now Pakistan, and Hyderabadi biryani developed in the city of Hyderabad in South India."
                                 ]
                             },
                             {
                                 "header_2": {
                                     "original": "калькуттское бирьяни",
-                                    "translated": "Calcutian Biriyan"
+                                    "translated": "Calcuttic Biriyan"
                                 },
                                 "header_1": {
                                     "original": "виды бирьяни",
                                     "translated": "Types of Biryan"
                                 },
                                 "fact": {
-                                    "original": "Одна из наиболее популярных разновидностей бирьяни получила распространение сначала в бедных районах Калькутты.",
-                                    "translated": "One of the most popular varieties of biryani first gained popularity in the poor neighborhoods of Calcutta.",
+                                    "original": "Мясо в этой разновидности бирьяни было замещено картофелем.",
+                                    "translated": "The meat in this variety of biryani was replaced with potatoes.",
                                     "fact_aligned_sentence": "Одна из наиболее популярных разновидностей бирьяни получила распространение сначала в бедных районах Калькутты, поэтому мясо в ней было замещено картофелем.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%B8"
                                 },
                                 "src_context": [
-                                    "На многих западных маршрутах Pakistan International Airlines подают синдское бирьяни.",
                                     "Таким образом, Pakistan International Airlines популяризирует национальную кухню.",
-                                    "Одна из наиболее популярных разновидностей бирьяни получила распространение сначала в бедных районах Калькутты."
+                                    "Одна из наиболее популярных разновидностей бирьяни получила распространение сначала в бедных районах Калькутты.",
+                                    "Мясо в этой разновидности бирьяни было замещено картофелем."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "It is composed of a mutton keema and prawn biryani wrapped inside an omurice-style seasoned omelette.",
-                                    "This type of biryani is popular in the Palakkad and Coimbatore regions.",
-                                    "In Southern India, where rice is more widely used as a staple food, several distinct varieties of biryani emerged from Hyderabad in Telangana, Vijayawada in Andhra Pradesh, Mangalore and Bhatkal in Coastal Karnataka, Thalassery in Kerala, as well as Ambur and Chettinad in Tamil Nadu.",
-                                    "In Southern India, where rice is more widely used as a staple food, several distinct varieties of biryani emerged from Hyderabad in Telangana, Vijayawada in Andhra Pradesh, Mangalore and Bhatkal in Coastal Karnataka, Thalassery in Kerala, as well as Ambur and Chettinad in Tamil Nadu."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": "тайское бирьяни",
-                                    "translated": "Thai Birians"
-                                },
-                                "header_1": {
-                                    "original": "виды бирьяни",
-                                    "translated": "Types of Biryan"
-                                },
-                                "fact": {
-                                    "original": "Курятина также используется в процессе приготовления кхау мок.",
-                                    "translated": "Chicken is also used in the preparation of khao mok.",
-                                    "fact_aligned_sentence": "Мусульманская часть населения добавляет в него козлиное мясо, однако курятина и говядина также используются в процессе приготовления.",
-                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%B8"
-                                },
-                                "src_context": [
-                                    "В Таиланде популярна вариация блюда, которую называют кхау мок.",
-                                    "Мусульманская часть населения добавляет в кхау мок козлиное мясо.",
-                                    "Курятина также используется в процессе приготовления кхау мок."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "The dish is common in Thai cuisine and is often served with a green sour sauce.",
-                                    "The dish is common in Thai cuisine and is often served with a green sour sauce.",
-                                    "Unlike the other methods, the meat is marinated in spices and lemon juice and cooked separately; with the same applying for the rice and gravy.",
-                                    "Coconut milk is somewhat used as a signature ingredient to enrich the texture."
+                                    "It is made with basmati rice, spices and goat meat.",
+                                    "Popular variations use chicken instead of goat meat.",
+                                    "This was most commonly prepared by Rowther families in Kerala and Tamil Nadu.",
+                                    "This type of biryani is cooked in a different style."
                                 ]
                             },
                             {
@@ -115,29 +223,56 @@
                             },
                             {
                                 "header_2": {
-                                    "original": "шри-ланкийское бирьяни",
-                                    "translated": "Sri-Lanka Berryani"
+                                    "original": "данпаук",
+                                    "translated": "DAPAUK"
                                 },
                                 "header_1": {
                                     "original": "виды бирьяни",
                                     "translated": "Types of Biryan"
                                 },
                                 "fact": {
-                                    "original": "В Шри-Ланке бирьяни наиболее популярно среди мусульман.",
-                                    "translated": "'In Sri Lanka, biryani is most popular among Muslims.'",
-                                    "fact_aligned_sentence": "В Шри-Ланке бирьяни наиболее популярно среди мусульман и подаётся с курятиной, говядиной или бараниной.",
+                                    "original": "Отличительной чертой является то, что рис и курица готовятся вместе.",
+                                    "translated": "A distinguishing feature is that the rice and chicken are cooked together.",
+                                    "fact_aligned_sentence": "Отличительной чертой является то, что рис и курица готовятся вместе.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%B8"
                                 },
                                 "src_context": [
-                                    "Курятина также используется в процессе приготовления кхау мок.",
-                                    "Говядина также используется в процессе приготовления кхау мок.",
-                                    "В Шри-Ланке бирьяни наиболее популярно среди мусульман."
+                                    "Обилие картофеля в калькуттском бирьяни не мешает добавлению в блюда мяса.",
+                                    "В Мьянме данное блюдо известно под названием данпаук или данбаук.",
+                                    "Отличительной чертой является то, что рис и курица готовятся вместе."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Biryani was introduced in the 1900s to Sri Lanka by the Indian Muslims who engaged in trade within the country.",
-                                    "In many cases, Sri Lankan biryani is spicier than most Indian varieties.",
-                                    "Biryani dishes are very popular in Mauritius, especially at Muslim weddings and festivities.",
-                                    "Biryani dishes are very popular in Mauritius, especially at Muslim weddings and festivities."
+                                    "Given danbauk's South Asian origins, danbauk restaurants and chains have traditionally been owned by Muslims, but in recent decades Buddhist entrepreneurs have entered the market.",
+                                    "Featured ingredients include: cashew nuts, yogurt, raisins and peas, chicken, cloves, cinnamon, saffron and bay leaf cooked in long-grain rice.",
+                                    "Author Colleen Taylor Sen lists the following distinctions between biryani and pulao:",
+                                    "Author Colleen Taylor Sen lists the following distinctions between biryani and pulao:"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "калькуттское бирьяни",
+                                    "translated": "Calcuttic Biriyan"
+                                },
+                                "header_1": {
+                                    "original": "виды бирьяни",
+                                    "translated": "Types of Biryan"
+                                },
+                                "fact": {
+                                    "original": "Одна из наиболее популярных разновидностей бирьяни получила распространение сначала в бедных районах Калькутты.",
+                                    "translated": "One of the most popular varieties of biryani first became widespread in the poor areas of Kolkata.",
+                                    "fact_aligned_sentence": "Одна из наиболее популярных разновидностей бирьяни получила распространение сначала в бедных районах Калькутты, поэтому мясо в ней было замещено картофелем.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%80%D1%8C%D1%8F%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "На многих западных маршрутах Pakistan International Airlines подают синдское бирьяни.",
+                                    "Таким образом, Pakistan International Airlines популяризирует национальную кухню.",
+                                    "Одна из наиболее популярных разновидностей бирьяни получила распространение сначала в бедных районах Калькутты."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is composed of a mutton keema and prawn biryani wrapped inside an omurice-style seasoned omelette.",
+                                    "This type of biryani is popular in the Palakkad and Coimbatore regions.",
+                                    "In Southern India, where rice is more widely used as a staple food, several distinct varieties of biryani emerged from Hyderabad in Telangana, Vijayawada in Andhra Pradesh, Mangalore and Bhatkal in Coastal Karnataka, Thalassery in Kerala, as well as Ambur and Chettinad in Tamil Nadu.",
+                                    "In Southern India, where rice is more widely used as a staple food, several distinct varieties of biryani emerged from Hyderabad in Telangana, Vijayawada in Andhra Pradesh, Mangalore and Bhatkal in Coastal Karnataka, Thalassery in Kerala, as well as Ambur and Chettinad in Tamil Nadu."
                                 ]
                             }
                         ]
@@ -158,8 +293,143 @@
                                     "translated": "ingredients"
                                 },
                                 "fact": {
+                                    "original": "Le plat peut être servi avec de la salade.",
+                                    "translated": "The dish can be served with salad.",
+                                    "fact_aligned_sentence": "Le plat peut être servi avec du chutney dahi ou du raïta, du korma, du curry, un plat aigre d'aubergines (brinjal), des œufs à la coque ou des œufs durs et de la salade.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Biryani"
+                                },
+                                "src_context": [
+                                    "Le plat peut être servi avec des œufs à la coque.",
+                                    "Le plat peut être servi avec des œufs durs.",
+                                    "Le plat peut être servi avec de la salade."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The main ingredient that usually accompanies the spices is chicken, lamb or goat meat; special varieties might use beef or seafood instead.",
+                                    "The dish may be served with dahi chutney or raita, with the sole purpose of them being to soothe the biryani and lower the heat from the spices in the biryani.",
+                                    "Potatoes often comprise the bottom layer (a technique also used in Iranian cuisine), because, with their natural moisture content, they brown well with less risk of getting burned accidentally.",
+                                    "The lid is not opened until the dish is ready to serve."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "ingrédients",
+                                    "translated": "ingredients"
+                                },
+                                "fact": {
+                                    "original": "L'ingrédient principal qui accompagne les épices est la viande de bœuf, de poulet, de chevreau ou d'agneau.",
+                                    "translated": "The main ingredient that accompanies the spices is beef, chicken, goat, or lamb.",
+                                    "fact_aligned_sentence": "L'ingrédient principal qui accompagne les épices est la viande de bœuf, de poulet, de chevreau ou d'agneau.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Biryani"
+                                },
+                                "src_context": [
+                                    "Les variétés plus élaborées de biryani comprennent du safran.",
+                                    "Dans le nord de l'Inde, au Pakistan et au Bangladesh, le biryani contient de la viande.",
+                                    "L'ingrédient principal qui accompagne les épices est la viande de bœuf, de poulet, de chevreau ou d'agneau."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In nasi briyani and other variants made in Southeast Asian countries such as Malaysia, Singapore, and Indonesia, typical Southeast Asian spices and aromatics such as pandan leaf may be used alongside typical South Asian spices.",
+                                    "The main ingredient that usually accompanies the spices is chicken, lamb or goat meat; special varieties might use beef or seafood instead.",
+                                    "Ingredients for biryani are extensive and vary according to the region and the type of meat and vegetables used.",
+                                    "Meat (chicken, goat, beef, lamb, prawn or fish) is the prime ingredient with rice."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "ingrédients",
+                                    "translated": "ingredients"
+                                },
+                                "fact": {
+                                    "original": "Le plat peut être servi avec un plat aigre d'aubergines (brinjal).",
+                                    "translated": "The dish can be served with a sour eggplant dish.",
+                                    "fact_aligned_sentence": "Le plat peut être servi avec du chutney dahi ou du raïta, du korma, du curry, un plat aigre d'aubergines (brinjal), des œufs à la coque ou des œufs durs et de la salade.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Biryani"
+                                },
+                                "src_context": [
+                                    "Le plat peut être servi avec du korma.",
+                                    "Le plat peut être servi avec du curry.",
+                                    "Le plat peut être servi avec un plat aigre d'aubergines (brinjal)."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The main ingredient that usually accompanies the spices is chicken, lamb or goat meat; special varieties might use beef or seafood instead.",
+                                    "The dish may be served with dahi chutney or raita, with the sole purpose of them being to soothe the biryani and lower the heat from the spices in the biryani.",
+                                    "Most variations also include vermicelli, fried onions, fried potato cubes, almonds, and raisins spread liberally over the rice.",
+                                    "Sometimes, a sour/spicy tomato sauce is served on the side (maraq)."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "ingrédients",
+                                    "translated": "ingredients"
+                                },
+                                "fact": {
+                                    "original": "Les variétés les plus courantes de riz utilisées pour la préparation du biryani étaient le riz brun à long grain (en Inde du Nord).",
+                                    "translated": "The most common varieties of rice used for preparing biryani were long-grain brown rice (in North India).",
+                                    "fact_aligned_sentence": "Les variétés les plus courantes de riz utilisées pour la préparation du biryani étaient le riz brun à long grain (en Inde du Nord), le riz samba (en Inde du Sud) et le riz kaima/jeerakshala (au Kerala).",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Biryani"
+                                },
+                                "src_context": [
+                                    "La version de Dindigul est la seule issue d'une communauté hindoue.",
+                                    "La version de Dindigul est issue des Naidus d'Andhra Pradesh.",
+                                    "Les variétés les plus courantes de riz utilisées pour la préparation du biryani étaient le riz brun à long grain (en Inde du Nord)."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Today, the military hotels of Bangalore are well known for selling biryani served in dried leaf bowls called donne, in Kannada.",
+                                    "Just like many other biryani varieties in South India, it uses the standard short grain seeraga samba rice.",
+                                    "These spices are not found in the Middle East, Persia, or North India, underscoring the unique culinary heritage and local ingredients of Southern Indian biryani.",
+                                    "In Southern India, where rice is more widely used as a staple food, several distinct varieties of biryani emerged from Hyderabad in Telangana, Vijayawada in Andhra Pradesh, Mangalore and Bhatkal in Coastal Karnataka, Thalassery in Kerala, as well as Ambur and Chettinad in Tamil Nadu."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "ingrédients",
+                                    "translated": "ingredients"
+                                },
+                                "fact": {
+                                    "original": "La cuisson à la vapeur se fait dans une marmite scellée.",
+                                    "translated": "Steaming is done in a sealed pot.",
+                                    "fact_aligned_sentence": "La cuisson à la vapeur (dum pukht), dans une marmite scellée, permet aux épices de conserver leur saveur.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Biryani"
+                                },
+                                "src_context": [
+                                    "Dans le Kerala, le biryani contient souvent des crevettes.",
+                                    "La cuisson à la vapeur est appelée dum pukht.",
+                                    "La cuisson à la vapeur se fait dans une marmite scellée."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "This biryani is also referred to as Kachay Gosht ki Biryani or Dum Biryani, as the marinated meat is slow-cooked with fragrant, short-grained rice under dum (sealed, slow-cooking method) to enhance its aroma and taste.The dish is cooked on a low flame using the dum method, allowing the flavors to infuse deeply, resulting in a rich, aromatic biryani.",
+                                    "This biryani is also referred to as Kachay Gosht ki Biryani or Dum Biryani, as the marinated meat is slow-cooked with fragrant, short-grained rice under dum (sealed, slow-cooking method) to enhance its aroma and taste.The dish is cooked on a low flame using the dum method, allowing the flavors to infuse deeply, resulting in a rich, aromatic biryani.",
+                                    "Cooking occurs by a process of steaming from the ingredients' own moisture: the cooking vessel's lid is sealed (traditionally, with a strip of wheat dough) so that steam cannot escape (proper dum pukht).",
+                                    "Cooking occurs by a process of steaming from the ingredients' own moisture: the cooking vessel's lid is sealed (traditionally, with a strip of wheat dough) so that steam cannot escape (proper dum pukht)."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "ingrédients",
+                                    "translated": "ingredients"
+                                },
+                                "fact": {
                                     "original": "On y ajoute parfois des fruits secs.",
-                                    "translated": "Sometimes dried fruits are added to it.",
+                                    "translated": "Dried fruits are sometimes added.",
                                     "fact_aligned_sentence": "On y ajoute parfois des fruits secs.",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Biryani"
                                 },
@@ -173,6 +443,33 @@
                                     "Sometimes eggs or potatoes are also added.",
                                     "Sometimes eggs or potatoes are also added.",
                                     "Sometimes eggs or potatoes are also added."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "ingrédients",
+                                    "translated": "ingredients"
+                                },
+                                "fact": {
+                                    "original": "Dans le nord de l'Inde, au Pakistan et au Bangladesh, le biryani contient de la viande.",
+                                    "translated": "'In northern India, Pakistan, and Bangladesh, biryani contains meat.'",
+                                    "fact_aligned_sentence": "Dans le nord de l'Inde, au Pakistan et au Bangladesh, le biryani contient de la viande.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Biryani"
+                                },
+                                "src_context": [
+                                    "Le biryani utilise de l'ail.",
+                                    "Les variétés plus élaborées de biryani comprennent du safran.",
+                                    "Dans le nord de l'Inde, au Pakistan et au Bangladesh, le biryani contient de la viande."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Memoni or Kutchi biryani is an extremely spicy variety developed by the Memons of Gujarat-Sindh region in India and Pakistan.",
+                                    "Memoni or Kutchi biryani is an extremely spicy variety developed by the Memons of Gujarat-Sindh region in India and Pakistan.",
+                                    "The exact origin of the dish is uncertain, however, it has been suggested that it originated in Persia.",
+                                    "In North India, different varieties of biryani developed."
                                 ]
                             }
                         ]
@@ -190,7 +487,7 @@
                                 },
                                 "fact": {
                                     "original": "Les biryanis populaires en Inde incluent ceux de Lucknow (Uttar Pradesh).",
-                                    "translated": "Popular biryanis in India include those from Lucknow (Uttar Pradesh).",
+                                    "translated": "The popular biryanis in India include those from Lucknow (Uttar Pradesh).",
                                     "fact_aligned_sentence": "En Inde, les biryanis les plus populaires sont souvent issus des communautés musulmanes, telles que celles de Lucknow (Uttar Pradesh), de Thalassery (Kerala), d'Hyderabad (Télangana), de Calcutta (Bengale), d'Ambur (Tamil Nadu) et de Bombay (Maharashtra).",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Biryani"
                                 },
@@ -205,6 +502,60 @@
                                     "The Bohris, originally from Yemen, migrated mainly to Gujarat and other parts of India between the 11th and 13th centuries.",
                                     "The Bohris, originally from Yemen, migrated mainly to Gujarat and other parts of India between the 11th and 13th centuries."
                                 ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Le biryani a été importé au sous-continent indien par les voyageurs musulmans et les marchands.",
+                                    "translated": "'Biryani was brought to the Indian subcontinent by Muslim travelers and traders.'",
+                                    "fact_aligned_sentence": "Le biryani a été importé au sous-continent indien par les voyageurs musulmans et les marchands.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Biryani"
+                                },
+                                "src_context": [
+                                    "Le nom est dérivé du mot persan beryā (n) (بریان).",
+                                    "Beryā (n) signifie « frit » ou « grillé ».",
+                                    "Le biryani a été importé au sous-continent indien par les voyageurs musulmans et les marchands."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Green chillies may be used as an alternative.",
+                                    "Biryani was introduced in the 1900s to Sri Lanka by the Indian Muslims who engaged in trade within the country.",
+                                    "According to Vishwanath Shenoy, the owner of a biryani restaurant chain in India, one branch of biryani comes from the Mughals, while another was brought by the Arab traders to Malabar in South India.",
+                                    "According to Vishwanath Shenoy, the owner of a biryani restaurant chain in India, one branch of biryani comes from the Mughals, while another was brought by the Arab traders to Malabar in South India."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Le nom est dérivé du mot persan beryā (n) (بریان).",
+                                    "translated": "The name is derived from the Persian word beryā (n) (بریان).",
+                                    "fact_aligned_sentence": "Le nom est dérivé du mot persan beryā (n) (بریان) qui signifie « frit » ou « grillé ».",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Biryani"
+                                },
+                                "src_context": [
+                                    "Le biryani s'écrit ਬਿਰਿਆਨੀ en pendjabi.",
+                                    "Le biryani s'écrit ബിരിയാണി en malayalam.",
+                                    "Le nom est dérivé du mot persan beryā (n) (بریان)."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Biryani is the single most-ordered dish on Indian online food ordering and delivery services, and has been labelled as the most popular dish overall in India.",
+                                    "One theory states that it originated from birinj (Persian: برنج), the Persian word for rice.",
+                                    "Another theory states that it was derived from biryan or beriyan (Persian: بریان), which means \"to fry\" or \"to roast\".",
+                                    "It may alternatively be related to the Persian word bereshtan (Persian: برشتن) which also means \"to roast (onions)\", as the dish is often prepared by flavouring rice with fried onions and meat, besides mild spices."
+                                ]
                             }
                         ]
                     }
@@ -212,7 +563,7 @@
             },
             "zh": {
                 "headers": {
-                    "配料": {
+                    "General description": {
                         "entries": [
                             {
                                 "header_2": {
@@ -220,25 +571,25 @@
                                     "translated": null
                                 },
                                 "header_1": {
-                                    "original": "配料",
-                                    "translated": "Ingredients"
+                                    "original": "General description",
+                                    "translated": null
                                 },
                                 "fact": {
-                                    "original": "印度/巴基斯坦香饭的美味来源于众多香料。",
-                                    "translated": "The deliciousness of Indian/Pakistani flavored rice comes from a variety of spices.",
-                                    "fact_aligned_sentence": "印度/巴基斯坦香饭的美味来源于众多香料,包括酥油、白豆蔻、月桂葉、香菜和薄荷叶,北印度則是用丁香、胡荽、孜然、綠豆蔻、檸檬等。为了使香饭呈现金黄的色泽,需要加入食用色素或是薑黃或番紅花。对于非素食主义者,香饭的主要原料可以是牛肉、鸡肉、羊肉、山羊肉和鲜虾,而印度素食香饭也很流行。",
+                                    "original": "印度香饭使用香料、米(通常是印度香米)、肉、蔬菜和酸奶或稱優格混合烹饪而成",
+                                    "translated": "Indian biryani is made by mixing spices, rice (usually basmati rice), meat, vegetables, and yogurt.",
+                                    "fact_aligned_sentence": "印度香饭(biryani或biriani(بریانی)),来自波斯语词berya(n)(بریان),意為「烤制的」。印度香饭属于中东和南亚菜,使用香料、米(通常是印度香米),肉、蔬菜和酸奶或稱優格混合烹饪而成。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E9%A6%99%E9%A5%AD"
                                 },
                                 "src_context": [
+                                    "berya(n)(بریان)意為'烤制的'",
                                     "印度香饭属于中东和南亚菜",
-                                    "印度香饭使用香料、米(通常是印度香米)、肉、蔬菜和酸奶或稱優格混合烹饪而成",
-                                    "印度/巴基斯坦香饭的美味来源于众多香料。"
+                                    "印度香饭使用香料、米(通常是印度香米)、肉、蔬菜和酸奶或稱優格混合烹饪而成"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "In Southern India, where rice is more widely used as a staple food, several distinct varieties of biryani emerged from Hyderabad in Telangana, Vijayawada in Andhra Pradesh, Mangalore and Bhatkal in Coastal Karnataka, Thalassery in Kerala, as well as Ambur and Chettinad in Tamil Nadu.",
-                                    "In Southern India, where rice is more widely used as a staple food, several distinct varieties of biryani emerged from Hyderabad in Telangana, Vijayawada in Andhra Pradesh, Mangalore and Bhatkal in Coastal Karnataka, Thalassery in Kerala, as well as Ambur and Chettinad in Tamil Nadu.",
-                                    "The exotic and aromatic Sindhi biryani, originating in the former Mughal subah based in Thatta is known in Pakistan for its spicy taste, fragrant rice, and delicate meat.",
-                                    "The exotic and aromatic Sindhi biryani, originating in the former Mughal subah based in Thatta is known in Pakistan for its spicy taste, fragrant rice, and delicate meat."
+                                    "This dish, which was served to the soldiers of the Chera kings in Kerala, was said to be made of rice, ghee, meat, turmeric, coriander, pepper, and bay leaf.",
+                                    "This dish, which was served to the soldiers of the Chera kings in Kerala, was said to be made of rice, ghee, meat, turmeric, coriander, pepper, and bay leaf.",
+                                    "In Iran, during the Safavid dynasty (1501–1736), a dish called Beriyan Polo (Nastaliq script: بریان پلو) was made with lamb or chicken, marinated overnight—with yogurt, herbs, spices, dried fruits like raisins, prunes or pomegranate seeds—and later cooked in a tannour oven, then served with steamed rice.",
+                                    "In Iran, during the Safavid dynasty (1501–1736), a dish called Beriyan Polo (Nastaliq script: بریان پلو) was made with lamb or chicken, marinated overnight—with yogurt, herbs, spices, dried fruits like raisins, prunes or pomegranate seeds—and later cooked in a tannour oven, then served with steamed rice."
                                 ]
                             },
                             {
@@ -247,27 +598,29 @@
                                     "translated": null
                                 },
                                 "header_1": {
-                                    "original": "配料",
-                                    "translated": "Ingredients"
+                                    "original": "General description",
+                                    "translated": null
                                 },
                                 "fact": {
-                                    "original": "北印度的香饭使用丁香、胡荽、孜然、綠豆蔻和檸檬等香料。",
-                                    "translated": "The fragrant rice of North India uses spices like cloves, coriander, cumin, cardamom, and lemon.",
-                                    "fact_aligned_sentence": "印度/巴基斯坦香饭的美味来源于众多香料,包括酥油、白豆蔻、月桂葉、香菜和薄荷叶,北印度則是用丁香、胡荽、孜然、綠豆蔻、檸檬等。为了使香饭呈现金黄的色泽,需要加入食用色素或是薑黃或番紅花。对于非素食主义者,香饭的主要原料可以是牛肉、鸡肉、羊肉、山羊肉和鲜虾,而印度素食香饭也很流行。",
+                                    "original": "印度香饭(biryani或biriani(بریانی))来自波斯语词berya(n)(بریان)",
+                                    "translated": "'Indian aromatic rice (biryani or biriani) comes from the Persian word berya(n).'",
+                                    "fact_aligned_sentence": "印度香饭(biryani或biriani(بریانی)),来自波斯语词berya(n)(بریان),意為「烤制的」。印度香饭属于中东和南亚菜,使用香料、米(通常是印度香米),肉、蔬菜和酸奶或稱優格混合烹饪而成。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E9%A6%99%E9%A5%AD"
                                 },
                                 "src_context": [
-                                    "印度/巴基斯坦香饭的美味来源于众多香料。",
-                                    "这些香料包括酥油、白豆蔻、月桂葉、香菜和薄荷叶。",
-                                    "北印度的香饭使用丁香、胡荽、孜然、綠豆蔻和檸檬等香料。"
+                                    "印度香饭(biryani或biriani(بریانی))来自波斯语词berya(n)(بریان)"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Dried sour prunes (alu bukhara) may also be added to the biryani.",
-                                    "In nasi briyani and other variants made in Southeast Asian countries such as Malaysia, Singapore, and Indonesia, typical Southeast Asian spices and aromatics such as pandan leaf may be used alongside typical South Asian spices.",
-                                    "Khyma rice is generally mixed with ghee.",
-                                    "Although a large number of spices such as mace, cashew nuts, sultana raisins, fennel-cumin seeds, tomatoes, onions, ginger, garlic, shallots, cloves and cinnamon are used, there is only a small amount of chilli (or chili powder) used in its preparation."
+                                    "Biryani is the single most-ordered dish on Indian online food ordering and delivery services, and has been labelled as the most popular dish overall in India.",
+                                    "One theory states that it originated from birinj (Persian: برنج), the Persian word for rice.",
+                                    "One theory states that it originated from birinj (Persian: برنج), the Persian word for rice.",
+                                    "Another theory states that it was derived from biryan or beriyan (Persian: بریان), which means \"to fry\" or \"to roast\"."
                                 ]
-                            },
+                            }
+                        ]
+                    },
+                    "配料": {
+                        "entries": [
                             {
                                 "header_2": {
                                     "original": null,
@@ -305,6 +658,33 @@
                                     "translated": "Ingredients"
                                 },
                                 "fact": {
+                                    "original": "印度/巴基斯坦香饭的美味来源于众多香料。",
+                                    "translated": "The deliciousness of Indian/Pakistani biryani comes from a variety of spices.",
+                                    "fact_aligned_sentence": "印度/巴基斯坦香饭的美味来源于众多香料,包括酥油、白豆蔻、月桂葉、香菜和薄荷叶,北印度則是用丁香、胡荽、孜然、綠豆蔻、檸檬等。为了使香饭呈现金黄的色泽,需要加入食用色素或是薑黃或番紅花。对于非素食主义者,香饭的主要原料可以是牛肉、鸡肉、羊肉、山羊肉和鲜虾,而印度素食香饭也很流行。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E9%A6%99%E9%A5%AD"
+                                },
+                                "src_context": [
+                                    "印度香饭属于中东和南亚菜",
+                                    "印度香饭使用香料、米(通常是印度香米)、肉、蔬菜和酸奶或稱優格混合烹饪而成",
+                                    "印度/巴基斯坦香饭的美味来源于众多香料。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Southern India, where rice is more widely used as a staple food, several distinct varieties of biryani emerged from Hyderabad in Telangana, Vijayawada in Andhra Pradesh, Mangalore and Bhatkal in Coastal Karnataka, Thalassery in Kerala, as well as Ambur and Chettinad in Tamil Nadu.",
+                                    "In Southern India, where rice is more widely used as a staple food, several distinct varieties of biryani emerged from Hyderabad in Telangana, Vijayawada in Andhra Pradesh, Mangalore and Bhatkal in Coastal Karnataka, Thalassery in Kerala, as well as Ambur and Chettinad in Tamil Nadu.",
+                                    "The exotic and aromatic Sindhi biryani, originating in the former Mughal subah based in Thatta is known in Pakistan for its spicy taste, fragrant rice, and delicate meat.",
+                                    "The exotic and aromatic Sindhi biryani, originating in the former Mughal subah based in Thatta is known in Pakistan for its spicy taste, fragrant rice, and delicate meat."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "配料",
+                                    "translated": "Ingredients"
+                                },
+                                "fact": {
                                     "original": "印度素食香饭也很流行。",
                                     "translated": "Indian vegetarian fragrant rice is also very popular.",
                                     "fact_aligned_sentence": "印度/巴基斯坦香饭的美味来源于众多香料,包括酥油、白豆蔻、月桂葉、香菜和薄荷叶,北印度則是用丁香、胡荽、孜然、綠豆蔻、檸檬等。为了使香饭呈现金黄的色泽,需要加入食用色素或是薑黃或番紅花。对于非素食主义者,香饭的主要原料可以是牛肉、鸡肉、羊肉、山羊肉和鲜虾,而印度素食香饭也很流行。",
@@ -321,35 +701,6 @@
                                     "The dish is common in Thai cuisine and is often served with a green sour sauce.",
                                     "The dish is common in Thai cuisine and is often served with a green sour sauce."
                                 ]
-                            }
-                        ]
-                    },
-                    "General description": {
-                        "entries": [
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "General description",
-                                    "translated": null
-                                },
-                                "fact": {
-                                    "original": "印度香饭(biryani或biriani(بریانی))来自波斯语词berya(n)(بریان)",
-                                    "translated": "'Indian fragrant rice (biryani or biriani) comes from the Persian word berya(n).'",
-                                    "fact_aligned_sentence": "印度香饭(biryani或biriani(بریانی)),来自波斯语词berya(n)(بریان),意為「烤制的」。印度香饭属于中东和南亚菜,使用香料、米(通常是印度香米),肉、蔬菜和酸奶或稱優格混合烹饪而成。",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E9%A6%99%E9%A5%AD"
-                                },
-                                "src_context": [
-                                    "印度香饭(biryani或biriani(بریانی))来自波斯语词berya(n)(بریان)"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Biryani is the single most-ordered dish on Indian online food ordering and delivery services, and has been labelled as the most popular dish overall in India.",
-                                    "One theory states that it originated from birinj (Persian: برنج), the Persian word for rice.",
-                                    "One theory states that it originated from birinj (Persian: برنج), the Persian word for rice.",
-                                    "Another theory states that it was derived from biryan or beriyan (Persian: بریان), which means \"to fry\" or \"to roast\"."
-                                ]
                             },
                             {
                                 "header_2": {
@@ -357,25 +708,25 @@
                                     "translated": null
                                 },
                                 "header_1": {
-                                    "original": "General description",
-                                    "translated": null
+                                    "original": "配料",
+                                    "translated": "Ingredients"
                                 },
                                 "fact": {
-                                    "original": "印度香饭使用香料、米(通常是印度香米)、肉、蔬菜和酸奶或稱優格混合烹饪而成",
-                                    "translated": "Indian biryani is made by cooking a mixture of spices, rice (usually basmati rice), meat, vegetables, and yogurt.",
-                                    "fact_aligned_sentence": "印度香饭(biryani或biriani(بریانی)),来自波斯语词berya(n)(بریان),意為「烤制的」。印度香饭属于中东和南亚菜,使用香料、米(通常是印度香米),肉、蔬菜和酸奶或稱優格混合烹饪而成。",
+                                    "original": "北印度的香饭使用丁香、胡荽、孜然、綠豆蔻和檸檬等香料。",
+                                    "translated": "The fragrant rice of North India uses spices such as cloves, coriander, cumin, cardamom, and lemon.",
+                                    "fact_aligned_sentence": "印度/巴基斯坦香饭的美味来源于众多香料,包括酥油、白豆蔻、月桂葉、香菜和薄荷叶,北印度則是用丁香、胡荽、孜然、綠豆蔻、檸檬等。为了使香饭呈现金黄的色泽,需要加入食用色素或是薑黃或番紅花。对于非素食主义者,香饭的主要原料可以是牛肉、鸡肉、羊肉、山羊肉和鲜虾,而印度素食香饭也很流行。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6%E9%A6%99%E9%A5%AD"
                                 },
                                 "src_context": [
-                                    "berya(n)(بریان)意為'烤制的'",
-                                    "印度香饭属于中东和南亚菜",
-                                    "印度香饭使用香料、米(通常是印度香米)、肉、蔬菜和酸奶或稱優格混合烹饪而成"
+                                    "印度/巴基斯坦香饭的美味来源于众多香料。",
+                                    "这些香料包括酥油、白豆蔻、月桂葉、香菜和薄荷叶。",
+                                    "北印度的香饭使用丁香、胡荽、孜然、綠豆蔻和檸檬等香料。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "This dish, which was served to the soldiers of the Chera kings in Kerala, was said to be made of rice, ghee, meat, turmeric, coriander, pepper, and bay leaf.",
-                                    "This dish, which was served to the soldiers of the Chera kings in Kerala, was said to be made of rice, ghee, meat, turmeric, coriander, pepper, and bay leaf.",
-                                    "In Iran, during the Safavid dynasty (1501–1736), a dish called Beriyan Polo (Nastaliq script: بریان پلو) was made with lamb or chicken, marinated overnight—with yogurt, herbs, spices, dried fruits like raisins, prunes or pomegranate seeds—and later cooked in a tannour oven, then served with steamed rice.",
-                                    "In Iran, during the Safavid dynasty (1501–1736), a dish called Beriyan Polo (Nastaliq script: بریان پلو) was made with lamb or chicken, marinated overnight—with yogurt, herbs, spices, dried fruits like raisins, prunes or pomegranate seeds—and later cooked in a tannour oven, then served with steamed rice."
+                                    "Dried sour prunes (alu bukhara) may also be added to the biryani.",
+                                    "In nasi briyani and other variants made in Southeast Asian countries such as Malaysia, Singapore, and Indonesia, typical Southeast Asian spices and aromatics such as pandan leaf may be used alongside typical South Asian spices.",
+                                    "Khyma rice is generally mixed with ghee.",
+                                    "Although a large number of spices such as mace, cashew nuts, sultana raisins, fennel-cumin seeds, tomatoes, onions, ginger, garlic, shallots, cloves and cinnamon are used, there is only a small amount of chilli (or chili powder) used in its preparation."
                                 ]
                             }
                         ]
