@@ -612,13 +612,24 @@ function buildTextFragmentUrl(baseLink, snippet) {
               ? entry.tgt_fact_aligned_sentences
               : [];
       
+            // Build a final link value that uses wiki_link_direct if available
+            let finalLink;
+            if (entry.fact?.wiki_link_direct) {
+              finalLink = entry.fact.wiki_link_direct;
+            } else {
+              finalLink = buildTextFragmentUrl(
+                entry.fact?.wiki_link,
+                entry.fact?.fact_aligned_sentence
+              ) || entry.fact?.wiki_link;
+            }
+
             // Push ONE fact object with an array of sentences
             languageFacts[langCode].push({
               id: `${langCode}${counter++}`,
               relatedTexts: sentencesArray,  // store all sentences here
               fact: entry.fact?.translated || "",
               type: FACT_TYPES.ADDITIONAL,
-              link: buildTextFragmentUrl(entry.fact?.wiki_link, entry.fact?.fact_aligned_sentence) || entry.fact?.wiki_link
+              link: finalLink
             });
           });
         });

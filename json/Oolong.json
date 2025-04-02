@@ -324,8 +324,6 @@
                                     "Le thé Tieguanyin peut être infusé plusieurs fois, chaque infusion révélant des saveurs différentes."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "As the weather in Taiwan is highly variable, tea quality may differ from season to season.",
-                                    "As the weather in Taiwan is highly variable, tea quality may differ from season to season.",
                                     "Tieguanyin: Muzha Tea Co. brought the tea from Anxi County and developed Taiwan's own variation of the popular tea on the hills of Muzha area near Taipei.",
                                     "Tieguanyin: Muzha Tea Co. brought the tea from Anxi County and developed Taiwan's own variation of the popular tea on the hills of Muzha area near Taipei."
                                 ]
@@ -351,9 +349,6 @@
                                     "AliShan (阿里山) est une chaîne de montagnes située à Taïwan."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "It produces golden yellow tea with a unique fruity aroma.",
-                                    "Lishan (梨山) oolong: Grown near Lishan mountain in the north-central region of Taiwan, this tea is very similar in appearance to Alishan teas.",
-                                    "The tea is picked in summer at lower elevations because this is the environment most likely to attract these types of insects.",
                                     "Alishan oolong: Grown in the Alishan area of Chiayi County, this tea has large rolled leaves that have a purple-green appearance when dry."
                                 ]
                             },
@@ -405,10 +400,7 @@
                                     "Lishan (梨山) est cultivé à une altitude supérieure à 2 200 mètres."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Lishan (梨山) oolong: Grown near Lishan mountain in the north-central region of Taiwan, this tea is very similar in appearance to Alishan teas.",
-                                    "It is grown at an elevation above 1,600 m (5,200 ft), with Dayuling, and Fushou being the well known regions and teas along Lishan.",
-                                    "Alishan oolong: Grown in the Alishan area of Chiayi County, this tea has large rolled leaves that have a purple-green appearance when dry.",
-                                    "It is grown at an elevation of 1,000 to 1,400 m (3,300 to 4,600 ft)."
+                                    "Grown near Lishan mountain in the north-central region of Taiwan, this tea is very similar in appearance to Alishan teas."
                                 ]
                             },
                             {
@@ -432,9 +424,6 @@
                                     "Thés faiblement oxydés, entre 10 et 30 %"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "For a single infusion, 1- to 5-minute steepings are recommended, depending on personal preference.",
-                                    "The recommended water temperature ranges from 80–95 °C (180–205 °F).",
-                                    "Most oolong teas, especially those of fine quality, involve unique tea plant cultivars that are exclusively used for particular varieties.",
                                     "The degree of oxidation, which is controlled by the length of time between picking and final drying, can range from 8% to 85% depending on the variety and production style."
                                 ]
                             },
@@ -486,10 +475,7 @@
                                     "Dayuling (大禹嶺) est cultivé à une altitude supérieure à 2 500 mètres."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Lishan (梨山) oolong: Grown near Lishan mountain in the north-central region of Taiwan, this tea is very similar in appearance to Alishan teas.",
-                                    "It is grown at an elevation above 1,600 m (5,200 ft), with Dayuling, and Fushou being the well known regions and teas along Lishan.",
-                                    "Alishan oolong: Grown in the Alishan area of Chiayi County, this tea has large rolled leaves that have a purple-green appearance when dry.",
-                                    "It is grown at an elevation of 1,000 to 1,400 m (3,300 to 4,600 ft)."
+                                    "It is grown at an elevation above 1,600 m (5,200 ft), with Dayuling, and Fushou being the well known regions and teas along Lishan."
                                 ]
                             },
                             {
@@ -516,6 +502,31 @@
                                     "In Taiwan, oolong teas are also known as qingcha (Chinese: 青茶; pinyin: qīngchá; Pe̍h-ōe-jī: chhen-tê) or \"dark green teas\" since early 2000.",
                                     "The term \"blue tea\" (French: thé bleu) in French is used to refer to oolong tea.",
                                     "Oolong (UK: , US: ; simplified Chinese: 乌龙茶; traditional Chinese: 烏龍茶; pinyin: wūlóngchá; Pe̍h-ōe-jī: o͘-liông tê, \"black dragon\" tea) is a traditional semi-oxidized Chinese tea (Camellia sinensis) produced through a process that includes withering the leaves under strong sun and allowing some oxidation to occur before curling and twisting."
+                                ]
+                            }
+                        ]
+                    },
+                    "histoire": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "exportation du oolong",
+                                    "translated": "exportation of Oolong"
+                                },
+                                "header_1": {
+                                    "original": "histoire",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "Le thé Oolong fut introduit en Europe au XVIIIe siècle par des marchands britanniques.",
+                                    "translated": "Oolong tea was introduced to Europe by British merchants in the 18th century.",
+                                    "fact_aligned_sentence": "La première exportation de Oolong en Europe se fait au XVIIIe siècle, où des marchands britanniques en offrent à la reine Charlotte[5].",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Th%C3%A9_Oolong"
+                                },
+                                "src_context": [
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                   "The term \"blue tea\" (French: thé bleu) in French is used to refer to oolong tea."
                                 ]
                             }
                         ]
@@ -575,9 +586,7 @@
                                 ],
                                 "tgt_fact_aligned_sentences": [
                                     "It is grown at an elevation above 1,600 m (5,200 ft), with Dayuling, and Fushou being the well known regions and teas along Lishan.",
-                                    "Baozhong: the least oxidized of the oolong teas from Taiwan, with unrolled leaves of a light green to brown color.",
-                                    "Vietnamese oolong.",
-                                    "Vietnamese oolong."
+                                    "Baozhong: the least oxidized of the oolong teas from Taiwan, with unrolled leaves of a light green to brown color."
                                 ]
                             }
                         ]
@@ -609,7 +618,6 @@
                                     "这株茶树于是被单株采收、单株制作。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Some semi-oxidized oolong teas contain acylated flavonoid tetraglycosides, named teaghrelins due to their ability to bind to ghrelin receptors.",
                                     "Teaghrelins were isolated from Chin-shin oolong tea and Shy‐jih‐chuen oolong tea and recently from other oolong tea varieties.",
                                     "Teaghrelins were isolated from Chin-shin oolong tea and Shy‐jih‐chuen oolong tea and recently from other oolong tea varieties.",
                                     "Teaghrelins were isolated from Chin-shin oolong tea and Shy‐jih‐chuen oolong tea and recently from other oolong tea varieties."
@@ -636,10 +644,7 @@
                                     "凍頂烏龍茶是一种茶。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Rougui (\"Cassia\"): a dark tea with a spicy aroma.",
-                                    "Rougui (\"Cassia\"): a dark tea with a spicy aroma.",
-                                    "Assam smoked oolong: Assam's tea made according to Chinese methods, and smoked over open fire.",
-                                    "Vietnamese oolong."
+                                    "Named after the mountain in Nantou County, Central Taiwan, where it is grown."
                                 ]
                             },
                             {
@@ -663,10 +668,7 @@
                                     "乌龙茶按产地不同，可分为闽北乌龙茶。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Some semi-oxidized oolong teas contain acylated flavonoid tetraglycosides, named teaghrelins due to their ability to bind to ghrelin receptors.",
-                                    "Teaghrelins were isolated from Chin-shin oolong tea and Shy‐jih‐chuen oolong tea and recently from other oolong tea varieties.",
-                                    "Teaghrelins were isolated from Chin-shin oolong tea and Shy‐jih‐chuen oolong tea and recently from other oolong tea varieties.",
-                                    "Teaghrelins were isolated from Chin-shin oolong tea and Shy‐jih‐chuen oolong tea and recently from other oolong tea varieties."
+                                    "Some semi-oxidized oolong teas contain acylated flavonoid tetraglycosides, named teaghrelins due to their ability to bind to ghrelin receptors."
                                 ]
                             },
                             {
@@ -707,7 +709,7 @@
                                 },
                                 "fact": {
                                     "original": "因此這種茶被稱為凍頂烏龍。",
-                                    "translated": "Therefore, this type of tea is called Dong Ding Oolong.",
+                                    "translated": "Dong Ding Oolong, made from Fujian tea cultivars transplanted to Taiwan’s Dong Ding Mountain, is a representative Taiwanese oolong that resembles Tie Guan Yin in semi-spherical form but with lower fermentation, yielding a bright amber liquor, a gentle taste, and a floral fragrance.",
                                     "fact_aligned_sentence": "凍頂烏龍茶:福建的茶樹種移種到台灣的凍頂山上,故稱為凍頂烏龍,為台灣青茶的代表。外觀類似鐵觀音,呈半球狀,但發酵度較低,有著琥珀般明亮的茶色,溫和的味道及如花般的清香。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E4%B9%8C%E9%BE%99%E8%8C%B6"
                                 },
@@ -717,10 +719,7 @@
                                     "因此這種茶被稱為凍頂烏龍。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Ruan zhi: a light variety of oolong tea.",
-                                    "The tea is also known as Qingxin and as # 17.",
-                                    "Some semi-oxidized oolong teas contain acylated flavonoid tetraglycosides, named teaghrelins due to their ability to bind to ghrelin receptors.",
-                                    "Some semi-oxidized oolong teas contain acylated flavonoid tetraglycosides, named teaghrelins due to their ability to bind to ghrelin receptors."
+                                    "Dong Ding"
                                 ]
                             },
                             {
@@ -744,10 +743,7 @@
                                     "安溪鐵觀音的味道因季節不同而有差異"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Oolong is especially popular in southeastern China and among ethnic Chinese in Southeast Asia, as is the Fujian preparation process known as the gongfu tea ceremony.",
-                                    "Different styles of oolong tea can vary widely in flavor.",
-                                    "Sijichun Oolong: Also known as Four Seasons Oolong Tea, a beloved and popular choice in Taiwan.",
-                                    "Sijichun Oolong: Also known as Four Seasons Oolong Tea, a beloved and popular choice in Taiwan."
+                                    "Tieguanyin (\"Iron Goddess of Mercy\"): one of the Ten Famous Chinese Teas."
                                 ]
                             },
                             {
@@ -776,33 +772,6 @@
                                     "Teaghrelins were isolated from Chin-shin oolong tea and Shy‐jih‐chuen oolong tea and recently from other oolong tea varieties.",
                                     "Teaghrelins were isolated from Chin-shin oolong tea and Shy‐jih‐chuen oolong tea and recently from other oolong tea varieties."
                                 ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "品種",
-                                    "translated": "variety"
-                                },
-                                "fact": {
-                                    "original": "铁观音是一种茶。",
-                                    "translated": "Tie Guanyin is a type of tea.",
-                                    "fact_aligned_sentence": "按茶种可分为大红袍、铁观音、凍頂烏龍茶、东方美人、水仙茶、本山、肉桂等:",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%B9%8C%E9%BE%99%E8%8C%B6"
-                                },
-                                "src_context": [
-                                    "乌龙茶按产地不同，可分为台湾乌龙茶。",
-                                    "大红袍是一种茶。",
-                                    "铁观音是一种茶。"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Rougui (\"Cassia\"): a dark tea with a spicy aroma.",
-                                    "Rougui (\"Cassia\"): a dark tea with a spicy aroma.",
-                                    "This is due to the processing of the leaf as well as the tea plants being attacked by the Jassid (\"Leaf Hopper\") insect, before picking.",
-                                    "The tea is picked in summer at lower elevations because this is the environment most likely to attract these types of insects."
-                                ]
                             }
                         ]
                     },
@@ -829,7 +798,6 @@
                                     "台灣青茶類包括包種、鐵觀音及烏龍茶。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Oolong (UK: , US: ; simplified Chinese: 乌龙茶; traditional Chinese: 烏龍茶; pinyin: wūlóngchá; Pe̍h-ōe-jī: o͘-liông tê, \"black dragon\" tea) is a traditional semi-oxidized Chinese tea (Camellia sinensis) produced through a process that includes withering the leaves under strong sun and allowing some oxidation to occur before curling and twisting.",
                                     "Tieguanyin (\"Iron Goddess of Mercy\"): one of the Ten Famous Chinese Teas.",
                                     "Tieguanyin (\"Iron Goddess of Mercy\"): one of the Ten Famous Chinese Teas."
                                 ]
