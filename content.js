@@ -169,7 +169,7 @@ function buildTextFragmentUrl(baseLink, snippet) {
     factsCounter.addEventListener('click', showAllFacts);
     
     const exportBtn = document.createElement('button');
-    exportBtn.className = 'wikigap-button';
+    exportBtn.className = 'wikigap-settings-btn';
     exportBtn.textContent = 'Export Logs';
     exportBtn.addEventListener('click', exportLogsToFile);
 
