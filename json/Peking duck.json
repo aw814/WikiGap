@@ -16,7 +16,7 @@
                                 },
                                 "fact": {
                                     "original": "Этот рецепт происходит из провинции Шаньдун.",
-                                    "translated": "This recipe originates from the Shandong province.",
+                                    "translated": "The recipe for Peking duckis believed to have originated in Shandong province.",
                                     "fact_aligned_sentence": "Считается, что этот рецепт происходит из провинции Шаньдун.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D1%82%D0%BA%D0%B0"
                                 },
@@ -26,8 +26,6 @@
                                     "Этот рецепт происходит из провинции Шаньдун."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "For example, Henry Kissinger, the secretary of state of the United States, met Premier Zhou Enlai in the Great Hall of the People on 10 July 1971, during his first (secret) visit to China.",
-                                    "For example, Henry Kissinger, the secretary of state of the United States, met Premier Zhou Enlai in the Great Hall of the People on 10 July 1971, during his first (secret) visit to China.",
                                     "A number of restaurants in Beijing specialise in Peking duck.",
                                     "Examples include Quanjude, Bianyifang, Changan Yihao (長安一號), Dayali, Beijing Xiaowangfu (北京小王府) and Dadong Kaoyadian (大董烤鴨店)."
                                 ]
@@ -124,7 +122,7 @@
                                 },
                                 "fact": {
                                     "original": "Рецепт распространился повсеместно под нынешним названием.",
-                                    "translated": "'The recipe has spread everywhere under its current name.'",
+                                    "translated": "The recipe has spread everywhere under its current name.",
                                     "fact_aligned_sentence": "Он пользовался популярностью при юаньском дворе в Пекине, почему и распространился повсеместно под нынешним названием.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D1%82%D0%BA%D0%B0"
                                 },
@@ -330,10 +328,7 @@
                                     "Une incision est pratiquée au niveau du croupion du canard."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "This tightens the skin.",
-                                    "While it is hung, the duck is glazed with a layer of syrup with honey, and the duck's inside is rinsed once more with water.",
-                                    "The duck is then blanched in boiling hot water for two to three minutes before it is hung up to dry.",
-                                    "This tightens the skin."
+                                    "Air is pumped under the skin through the neck cavity to separate the skin from the fat."
                                 ]
                             },
                             {
@@ -347,9 +342,10 @@
                                 },
                                 "fact": {
                                     "original": "Le canard est ébouillanté.",
-                                    "translated": "The duck is scalded.",
+                                    "translated": "The preparation of Peking duck begins as soon as the animal is born. It is fattened by force-feeding for two months and then its throat is slit when it weighs about 3 kilos.",
                                     "fact_aligned_sentence": "Il est ensuite gonflé d’air sous la peau, vidé de ses entrailles, ébouillanté, enduit de miel et séché lors du rôtissage la chair du canard est cuite de l’intérieur par vaporisation d’eau bouillante.",
-                                    "wiki_link": "https://fr.wikipedia.org/wiki/Canard_laqu%C3%A9_de_P%C3%A9kin"
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Canard_laqu%C3%A9_de_P%C3%A9kin",
+                                    "wiki_link_direct": "https://fr.wikipedia.org/wiki/Canard_laqu%C3%A9_de_P%C3%A9kin#:~:text=La%20pr%C3%A9paration%20du,vaporisation%20d%E2%80%99eau%20bouillante."
                                 },
                                 "src_context": [
                                     "Le canard est ensuite gonflé d’air sous la peau.",
@@ -357,10 +353,7 @@
                                     "Le canard est ébouillanté."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "They were large, had black feathers, and lived in the canals that linked the city to major waterways.",
-                                    "They were large, had black feathers, and lived in the canals that linked the city to major waterways.",
-                                    "The duck is first marinated with spices, then steamed until tender, and finally deep fried until crispy.",
-                                    "The duck is first marinated with spices, then steamed until tender, and finally deep fried until crispy."
+                                    "resulting in ducks that weigh 5–7 kg (11–15 lbs)"
                                 ]
                             }
                         ]
@@ -416,9 +409,7 @@
                                 ],
                                 "tgt_fact_aligned_sentences": [
                                     "Otherwise, the carved duck is packed to be taken home by the customers.",
-                                    "Whole Peking ducks can be ordered as takeaway.",
-                                    "The wrap is then eaten by hand or with chopsticks.",
-                                    "The carved duck (鸭架) – the remainder of the roast duck, with choice cuts removed – can be cooked in three ways."
+                                    "Whole Peking ducks can be ordered as takeaway."
                                 ]
                             },
                             {
@@ -432,7 +423,7 @@
                                 },
                                 "fact": {
                                     "original": "À Canton, le canard laqué est préparé et présenté différemment.",
-                                    "translated": "'In Canton, the lacquered duck is prepared and presented differently.'",
+                                    "translated": "In Canton, the lacquered duck is prepared and presented differently.",
                                     "fact_aligned_sentence": "Dans le sud de la Chine, ou à Canton, ou encore dans la plupart des restaurants chinois occidentaux, le canard laqué (ou canard laqué à la cantonaise) est préparé et présenté différemment, avec des morceaux plus épais contenant chair et peau moelleuses marinées au miel, et consommées en sauce ou en soupe",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Canard_laqu%C3%A9_de_P%C3%A9kin"
                                 },
@@ -494,7 +485,7 @@
                                 },
                                 "fact": {
                                     "original": "la viande va servir à préparer une soupe",
-                                    "translated": "'The meat will be used to make a soup.'",
+                                    "translated": "The meat will be used to make a soup.",
                                     "fact_aligned_sentence": "Le temps que les clients dégustent ces premiers plats, le reste de la viande retourne en cuisine, où elle va servir à préparer une soupe à partir d'un bouillon digestif de légumes, avec un mélange de divers épices.",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Canard_laqu%C3%A9_de_P%C3%A9kin"
                                 },
@@ -610,7 +601,7 @@
                                 },
                                 "fact": {
                                     "original": "鸭子入炉后，要用挑杆有规律地调换鸭子的位置。",
-                                    "translated": "'After the duck is placed in the oven, it should be rotated regularly with a stick.'",
+                                    "translated": "After the duck is placed in the oven, it should be rotated regularly with a stick.",
                                     "fact_aligned_sentence": "挂炉:没有炉门,使用果木(多使枣木或者梨木)为燃料,这种燃料耐烧、无烟,燃烧后有一种清香。挂炉烧制时炉膛是开放的,鸭子入炉后,要用挑杆有规律地调换鸭子的位置,以使鸭子受热均匀,周身都能烤到。挂炉烤鸭的鸭胚受热均匀、强烈,皮下脂肪已经融化,烤制的鸭子皮脆肉嫩。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD"
                                 },
@@ -664,7 +655,7 @@
                                 },
                                 "fact": {
                                     "original": "理想情况下2分钟30秒片完片鸭。",
-                                    "translated": "Translation Error: Error code: 400 - {'error': {'message': \"The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766\", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}",
+                                    "translated": "Ideally, the duck should be fully carved in 2 minutes and 30 seconds.",
                                     "fact_aligned_sentence": "烤制完成的鸭子用刀削成小片,叫做“片鸭”,理想情况下2分钟30秒片完,配以大葱丝、黄瓜丝、甜面酱,用薄饼卷着食用。值得一提的是,烤鸭配上黄瓜丝、白糖食用的方法据称是由京剧艺术家梅兰芳发明。剔除鸭肉后剩余的鸭架可以打包帶走或用来煲汤,不過在全聚德或便宜坊是要另外收費的。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD"
                                 },

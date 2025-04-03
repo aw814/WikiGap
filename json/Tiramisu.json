@@ -646,12 +646,7 @@
                                     "提拉米蘇其中主要原料马斯卡邦尼奶酪(Mascarpone)是葷的。",
                                     "提拉米蘇可能加入吉力丁(gelatin,動物膠)。"
                                 ],
-                                "tgt_fact_aligned_sentences": [
-                                    "In 2013, Luca Zaia, President of Veneto, sought European Union protected status certification for the dessert, based on the ingredients used in 1970, so substitute ingredients, such as strawberries, could not be used in a dish called tiramisu.",
-                                    "Traditional tiramisu contains ladyfingers (savoiardi), egg yolks, sugar, coffee, mascarpone, and cocoa powder.",
-                                    "Traditional tiramisu contains ladyfingers (savoiardi), egg yolks, sugar, coffee, mascarpone, and cocoa powder.",
-                                    "Traditional tiramisu contains ladyfingers (savoiardi), egg yolks, sugar, coffee, mascarpone, and cocoa powder."
-                                ]
+                                "tgt_fact_aligned_sentences": ["Traditional tiramisu contains ladyfingers"]
                             },
                             {
                                 "header_2": {
