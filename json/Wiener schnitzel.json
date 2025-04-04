@@ -1,0 +1,855 @@
+{
+    "Wiener schnitzel": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В американской сети фастфуда Wienerschnitzel продают только хот-доги.",
+                                    "translated": "The American fast food chain Wienerschnitzel sells only hot dogs.",
+                                    "fact_aligned_sentence": "В американской сети фастфуда Wienerschnitzel продают только хот-доги.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C",
+                                    "wiki_link_direct": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C#:~:text=%D0%92%20%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9%20%D1%81%D0%B5%D1%82%D0%B8%20%D1%84%D0%B0%D1%81%D1%82%D1%84%D1%83%D0%B4%D0%B0%20Wienerschnitzel%5B%D0%B2%D0%B4%5D%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D1%8E%D1%82%20%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D1%85%D0%BE%D1%82%2D%D0%B4%D0%BE%D0%B3%D0%B8%5B18%5D."
+                                },
+                                "src_context": [
+                                    "В 2010-е годы положение изменилось: «оригинальный» венский шницель из молочной телятины на настоящем бочковом топлёном масле с гордостью готовят австрийские шеф-повара.",
+                                    "Венский шницель прочно занял место в меню таких престижных берлинских ресторанов, как Borchardt или Ottenthal.",
+                                    "В американской сети фастфуда Wienerschnitzel продают только хот-доги."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Wiener schnitzel ( VEE-nər SHNIT-səl; German: Wiener Schnitzel [ˈviːnɐ ˈʃnɪtsl̩] , 'Viennese cutlet'), sometimes spelled Wienerschnitzel, is a type of schnitzel made of a thin, breaded, pan-fried veal cutlet.",
+                                    "Wiener schnitzel ( VEE-nər SHNIT-səl; German: Wiener Schnitzel [ˈviːnɐ ˈʃnɪtsl̩] , 'Viennese cutlet'), sometimes spelled Wienerschnitzel, is a type of schnitzel made of a thin, breaded, pan-fried veal cutlet.",
+                                    "The Schnitzel was then mentioned in the 19th century as Wiener Schnitzel analogically to the Wiener Backhendl.",
+                                    "In 1887, E. F. Knight wrote of a Wiener schnitzel ordered in a Rotterdam cafe, \"as far as I could make out, the lowest layer of a Wienerschnitzel consists of juicy veal steaks and slices of lemon peel; the next layer is composed of sardines; then come sliced gherkins, capers, and diverse mysteries; a delicate sauce flavours the whole, and the result is a gastronomic dream.\""
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "После Второй мировой войны в качестве насыщающего гарнира стал приемлем отварной рис.",
+                                    "translated": "After World War II, boiled rice became an acceptable side dish.",
+                                    "fact_aligned_sentence": "После Второй мировой войны в качестве насыщающего гарнира стал приемлем отварной рис.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C"
+                                },
+                                "src_context": [
+                                    "В Германии венский шницель сервируют с выложенными решёткой филе сардин и каперсами.",
+                                    "Император Франц Иосиф I предпочитал к венскому шницелю картофельное пюре.",
+                                    "После Второй мировой войны в качестве насыщающего гарнира стал приемлем отварной рис."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The dish was traditionally served in Austria with butterhead lettuce tossed with a sweetened vinaigrette dressing, optionally with chopped chives or onions, potato salad, cucumber salad, or parsley potatoes.",
+                                    "In recent times french fries have become common."
+                                    ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В современной русской кухне шницель по-венски предлагается готовить также из свиной корейки.",
+                                    "translated": "In modern Russian cuisine, Wiener schnitzel is also suggested to be made from pork loin.",
+                                    "fact_aligned_sentence": "В современной русской кухне шницель по-венски предлагается готовить также из свиной корейки, а гарнировать выложенными кружком или крест-накрест филе анчоусов и каперсами между ними и сервировать с рисом и припущенными овощами.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C",
+                                    "wiki_link_direct": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C#:~:text=%D0%92%20%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BA%D1%83%D1%85%D0%BD%D0%B5%20%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C%20%D0%BF%D0%BE%2D%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%B0%D0%B3%D0%B0%D0%B5%D1%82%D1%81%D1%8F%20%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D1%82%D1%8C%20%D1%82%D0%B0%D0%BA%D0%B6%D0%B5%20%D0%B8%D0%B7%20%D1%81%D0%B2%D0%B8%D0%BD%D0%BE%D0%B9%20%D0%BA%D0%BE%D1%80%D0%B5%D0%B9%D0%BA%D0%B8%5B23%5D%2C%20%D0%B0%20%D0%B3%D0%B0%D1%80%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%B2%D1%8B%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20%D0%BA%D1%80%D1%83%D0%B6%D0%BA%D0%BE%D0%BC%20%D0%B8%D0%BB%D0%B8%20%D0%BA%D1%80%D0%B5%D1%81%D1%82%2D%D0%BD%D0%B0%D0%BA%D1%80%D0%B5%D1%81%D1%82%20%D1%84%D0%B8%D0%BB%D0%B5%20%D0%B0%D0%BD%D1%87%D0%BE%D1%83%D1%81%D0%BE%D0%B2%20%D0%B8%20%D0%BA%D0%B0%D0%BF%D0%B5%D1%80%D1%81%D0%B0%D0%BC%D0%B8%20%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%20%D0%BD%D0%B8%D0%BC%D0%B8%20%D0%B8%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D1%81%20%D1%80%D0%B8%D1%81%D0%BE%D0%BC%20%D0%B8%20%D0%BF%D1%80%D0%B8%D0%BF%D1%83%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20%D0%BE%D0%B2%D0%BE%D1%89%D0%B0%D0%BC%D0%B8%5B24%5D."
+                                },
+                                "src_context": [
+                                    "В русской кулинарной литературе «шницель по-венски» из телятины упоминается не позднее начала XX века.",
+                                    "Шницель по-венски полагалось панировать в яйце и сухарях, жарить на сливочном масле с припущенным репчатым луком и отпускать «сухим, с кусками лимона» или политым «процеженным маслом, в котором он жарился» с картофельным гарниром.",
+                                    "В современной русской кухне шницель по-венски предлагается готовить также из свиной корейки."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Owing to food shortages at that time and the high cost of meat and veal, and due to kashrut laws that forbid eating pork, the local version was made of chicken breast, which was less expensive.",
+                                    "To this day, Israeli schnitzel is made of chicken.",
+                                    "Pohl doubts that Wiener schnitzel came from Italy at all, with the basis that in the other \"imported dishes\" in Austrian cuisine, the original concept is mentioned, even if in Germanised form, such as in goulash or palatschinke, and the schnitzel does not appear even in specialised cookbooks about Italian cuisine.",
+                                    "Pohl doubts that Wiener schnitzel came from Italy at all, with the basis that in the other \"imported dishes\" in Austrian cuisine, the original concept is mentioned, even if in Germanised form, such as in goulash or palatschinke, and the schnitzel does not appear even in specialised cookbooks about Italian cuisine."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Из соображений экономии яйца практичнее взбивать долго, до жидкого состояния.",
+                                    "translated": "For the sake of efficiency, it is more practical to whip the eggs for a long time until they reach a liquid state.",
+                                    "fact_aligned_sentence": "Из соображений экономии яйца практичнее взбивать долго, до жидкого состояния, и, чтобы жидкая яичная масса соединилась с мясом, потребовалась его предварительная обработка мукой.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C"
+                                },
+                                "src_context": [
+                                    "Поначалу телячьи шницели обмакивали только в слегка взбитом яйце, при этом яичный белок сохранял достаточную вязкость.",
+                                    "Отголосок того рецепта сохранился в венской кухне в парижском шницеле.",
+                                    "Из соображений экономии яйца практичнее взбивать долго, до жидкого состояния."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The dish is prepared from veal slices, butterfly cut, about 4 mm (3⁄16 in) in thickness and lightly pounded flat, slightly salted, and rolled in flour, whipped eggs, and bread crumbs.",
+                                    "The bread crumbs must not be pressed into the meat, so that they stay dry and can be \"souffléd\".",
+                                    "In the early 20th century, the garnish consisted of capers and anchovies.",
+                                    "A popular variation is made with pork instead of veal, because pork is cheaper than veal (usually about half the price)."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Джордж Табори называл венский шницель жалким, вульгарным и бесхарактерным блюдом, «мечтой дальнобойщика».",
+                                    "translated": "George Tabori called the Viennese schnitzel a pathetic, vulgar, and characterless dish, a \"truck driver's dream.\"",
+                                    "fact_aligned_sentence": "В 1996 году в «Балладе о венском шницеле» австрийский драматург Джордж Табори в эйфории от креативности новой австрийской кухни предрекал венскому шницелю, этому жалкому, вульгарному и бесхарактерному блюду, «мечте дальнобойщика», скорое забвение.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C"
+                                },
+                                "src_context": [
+                                    "В 1980-е годы на лыжных курортах в Тироле венский шницель гордо оформляли при подаче маленьким национальным флагом на древке из зубочистки.",
+                                    "В 1996 году в «Балладе о венском шницеле» австрийский драматург Джордж Табори в эйфории от креативности новой австрийской кухни предрекал венскому шницелю скорое забвение.",
+                                    "Джордж Табори называл венский шницель жалким, вульгарным и бесхарактерным блюдом, «мечтой дальнобойщика»."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Finally the Schnitzel is fried in a good proportion of lard or clarified butter at a temperature of 160–170 °C (320–340 °F) until it is golden yellow.",
+                                    "Finally the Schnitzel is fried in a good proportion of lard or clarified butter at a temperature of 160–170 °C (320–340 °F) until it is golden yellow.",
+                                    "In 1887, E. F. Knight wrote of a Wiener schnitzel ordered in a Rotterdam cafe, \"as far as I could make out, the lowest layer of a Wienerschnitzel consists of juicy veal steaks and slices of lemon peel; the next layer is composed of sardines; then come sliced gherkins, capers, and diverse mysteries; a delicate sauce flavours the whole, and the result is a gastronomic dream.\"",
+                                    "In 1887, E. F. Knight wrote of a Wiener schnitzel ordered in a Rotterdam cafe, \"as far as I could make out, the lowest layer of a Wienerschnitzel consists of juicy veal steaks and slices of lemon peel; the next layer is composed of sardines; then come sliced gherkins, capers, and diverse mysteries; a delicate sauce flavours the whole, and the result is a gastronomic dream.\""
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В Вене название «венский шницель» закрепилось окончательно только в начале XX века с публикацией кулинарного труда Марии фон Рокитански «Австрийская кухня».",
+                                    "translated": "In Vienna, the name \"Viennese schnitzel\" only became firmly established at the beginning of the 20th century with the publication of Maria von Rokitansky's culinary work \"Austrian Cuisine.\"",
+                                    "fact_aligned_sentence": "В Вене название закрепилось окончательно только в начале XX века с публикацией кулинарного труда Марии фон Рокитански «Австрийская кухня».",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C"
+                                },
+                                "src_context": [
+                                    "В 1850 году автор кулинарной книги из прусского Бреслау Каролина Бауман писала: «Венские шницели последнее время очень популярное блюдо».",
+                                    "26 июля 1864 года венскими шницелями cotelettes de veau à la viennoise обедала императорская чета Франции Наполеон III и Евгения.",
+                                    "В Вене название «венский шницель» закрепилось окончательно только в начале XX века с публикацией кулинарного труда Марии фон Рокитански «Австрийская кухня»."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In 2007, linguist Heinz-Dieter Pohl could prove that this story had been invented.",
+                                    "According to Pohl, the dish is first mentioned in connection with Radetzky in 1869 in an Italian gastronomy book (Guida gastronomica d'Italia), which was published in German in 1871 as Italien tafelt, and it is claimed that the story instead concerned the cotoletta alla milanese.",
+                                    "The designation Wiener Schnitzel first appeared in the 19th century, with the first known mention in a cookbook from 1831.",
+                                    "The designation Wiener Schnitzel first appeared in the 19th century, with the first known mention in a cookbook from 1831."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Австрийский кулинарный автор Кристоф Вагнер видел в венском шницеле материализованную душу венца.",
+                                    "translated": "Austrian culinary author Christoph Wagner saw in the Viennese schnitzel the materialized soul of the crown.",
+                                    "fact_aligned_sentence": "Австрийский кулинарный автор Кристоф Вагнер видел в венском шницеле материализованную душу венца и прослеживал в истории венского шницеля путь всей «австрийскости» между Востоком и Западом, столетиями впитывавшей чужеземное, а, сделав его своим, сдержанно противящейся новому чужеземному.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C"
+                                },
+                                "src_context": [
+                                    "Венский шницель является типичным блюдом австрийцев на воскресный обед.",
+                                    "Венский шницель — одно из любимых блюд у немцев.",
+                                    "Австрийский кулинарный автор Кристоф Вагнер видел в венском шницеле материализованную душу венца."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In 1887, E. F. Knight wrote of a Wiener schnitzel ordered in a Rotterdam cafe, \"as far as I could make out, the lowest layer of a Wienerschnitzel consists of juicy veal steaks and slices of lemon peel; the next layer is composed of sardines; then come sliced gherkins, capers, and diverse mysteries; a delicate sauce flavours the whole, and the result is a gastronomic dream.\"",
+                                    "In 1887, E. F. Knight wrote of a Wiener schnitzel ordered in a Rotterdam cafe, \"as far as I could make out, the lowest layer of a Wienerschnitzel consists of juicy veal steaks and slices of lemon peel; the next layer is composed of sardines; then come sliced gherkins, capers, and diverse mysteries; a delicate sauce flavours the whole, and the result is a gastronomic dream.\"",
+                                    "In 1887, E. F. Knight wrote of a Wiener schnitzel ordered in a Rotterdam cafe, \"as far as I could make out, the lowest layer of a Wienerschnitzel consists of juicy veal steaks and slices of lemon peel; the next layer is composed of sardines; then come sliced gherkins, capers, and diverse mysteries; a delicate sauce flavours the whole, and the result is a gastronomic dream.\"",
+                                    "In 1887, E. F. Knight wrote of a Wiener schnitzel ordered in a Rotterdam cafe, \"as far as I could make out, the lowest layer of a Wienerschnitzel consists of juicy veal steaks and slices of lemon peel; the next layer is composed of sardines; then come sliced gherkins, capers, and diverse mysteries; a delicate sauce flavours the whole, and the result is a gastronomic dream.\""
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Для разоблачения этой мистификации потребовалось три с лишним десятка лет.",
+                                    "translated": "It took more than thirty years to uncover this mystification.",
+                                    "fact_aligned_sentence": "Для разоблачения симпатичной мистификации потребовалось три с лишним десятка лет.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C"
+                                },
+                                "src_context": [
+                                    "В Австрии история о Радецком и миланской котлете стала известна после издания перевода путеводителя на немецкий язык в Мюнхене в 1971 году.",
+                                    "Эта история пришлась по вкусу, так как подтверждала популярный гастрономический миф с колониальным привкусом о том, что венская кухня продолжает традиции многонациональной Австро-Венгерской империи.",
+                                    "Для разоблачения этой мистификации потребовалось три с лишним десятка лет."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "No such Count Attems appears in any biographical work about the Austrian monarchy, which would have corresponded to this time and position.\"",
+                                    "No such Count Attems appears in any biographical work about the Austrian monarchy, which would have corresponded to this time and position.\"",
+                                    "After Radetzky had returned, the emperor personally requested the recipe from him.",
+                                    "Pohl relates this anecdote with the words: \"This story is scientifically meaningless, it does not cite any sources and it is not mentioned [...] in the literature about Radetzky."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В Австрии венский шницель традиционно сервируют с полужидким картофельным салатом, заправленным растительным маслом с уксусом.",
+                                    "translated": "In Austria, Wiener schnitzel is traditionally served with a semi-liquid potato salad dressed with vegetable oil and vinegar.",
+                                    "fact_aligned_sentence": "Венский шницель в Австрии традиционно сервируют также на немецкий манер с полужидким картофельным салатом, заправленным растительным маслом с уксусом, а в Германии — на французский, с выложенными решёткой филе сардин и каперсами.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C",
+                                    "wiki_link_direct": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C#:~:text=%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C%20%D0%B2%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D0%B8%20%D1%82%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%80%D1%83%D1%8E%D1%82%20%D1%82%D0%B0%D0%BA%D0%B6%D0%B5%20%D0%BD%D0%B0%20%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%B0%D0%BD%D0%B5%D1%80%20%D1%81%20%D0%BF%D0%BE%D0%BB%D1%83%D0%B6%D0%B8%D0%B4%D0%BA%D0%B8%D0%BC%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%20%D1%81%D0%B0%D0%BB%D0%B0%D1%82%D0%BE%D0%BC%5B10%5D%2C%20%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%20%D1%80%D0%B0%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%20%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D0%BC%20%D1%81%20%D1%83%D0%BA%D1%81%D1%83%D1%81%D0%BE%D0%BC%2C%20%D0%B0%20%D0%B2%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8%C2%A0%E2%80%94%20%D0%BD%D0%B0%20%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9%2C%20%D1%81%20%D0%B2%D1%8B%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20%D1%80%D0%B5%D1%88%D1%91%D1%82%D0%BA%D0%BE%D0%B9%20%D1%84%D0%B8%D0%BB%D0%B5%20%D1%81%D0%B0%D1%80%D0%B4%D0%B8%D0%BD%20%D0%B8%20%D0%BA%D0%B0%D0%BF%D0%B5%D1%80%D1%81%D0%B0%D0%BC%D0%B8."
+                                },
+                                "src_context": [
+                                    "Кислота лимонного сока позволяет замаскировать низкое качество мяса или старый жир, в котором оно жарилось.",
+                                    "В альпийской традиции к венскому шницелю подают бруснику.",
+                                    "В Австрии венский шницель традиционно сервируют с полужидким картофельным салатом, заправленным растительным маслом с уксусом."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Schnitzel is cooked after it turns golden yellow or brown.",
+                                    "The dish was traditionally served in Austria with butterhead lettuce tossed with a sweetened vinaigrette dressing, optionally with chopped chives or onions, potato salad, cucumber salad, or parsley potatoes.",
+                                    "The dish was traditionally served in Austria with butterhead lettuce tossed with a sweetened vinaigrette dressing, optionally with chopped chives or onions, potato salad, cucumber salad, or parsley potatoes.",
+                                    "The dish was traditionally served in Austria with butterhead lettuce tossed with a sweetened vinaigrette dressing, optionally with chopped chives or onions, potato salad, cucumber salad, or parsley potatoes."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Австрийская кухня столетиями впитывала чужеземное, а, сделав его своим, сдержанно противилась новому чужеземному.",
+                                    "translated": "Austrian culinary author Christoph Wagner saw the Viennese schnitzel as the embodied soul of Vienna and traced in its history the path of “Austrianness” ",
+                                    "fact_aligned_sentence": "Австрийский кулинарный автор Кристоф Вагнер видел в венском шницеле материализованную душу венца и прослеживал в истории венского шницеля путь всей «австрийскости» между Востоком и Западом, столетиями впитывавшей чужеземное, а, сделав его своим, сдержанно противящейся новому чужеземному.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C"
+                                },
+                                "src_context": [
+                                    "Австрийский кулинарный автор Кристоф Вагнер видел в венском шницеле материализованную душу венца.",
+                                    "Кристоф Вагнер прослеживал в истории венского шницеля путь всей «австрийскости» между Востоком и Западом.",
+                                    "Австрийская кухня столетиями впитывала чужеземное, а, сделав его своим, сдержанно противилась новому чужеземному."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is one of the best known specialities of Viennese cuisine, and one of the national dishes of Austria.",
+                                    "It is one of the best known specialities of Viennese cuisine, and one of the national dishes of Austria.",
+                                    "Pohl doubts that Wiener schnitzel came from Italy at all, with the basis that in the other \"imported dishes\" in Austrian cuisine, the original concept is mentioned, even if in Germanised form, such as in goulash or palatschinke, and the schnitzel does not appear even in specialised cookbooks about Italian cuisine.",
+                                    "Pohl hints that there had been other dishes in Austrian cuisine, before the Schnitzel, that were breaded and deep fried, such as the popular Backhendl, which was first mentioned in a cookbook from 1719."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Шницель по-венски встречается в произведениях русской художественной литературы.",
+                                    "translated": "Wiener schnitzel is mentioned in the works of Russian fiction.",
+                                    "fact_aligned_sentence": "Шницель по-венски встречается в произведениях русской художественной литературы.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C"
+                                },
+                                "src_context": [
+                                    "Венский шницель прочно занял место в меню таких престижных берлинских ресторанов, как Borchardt или Ottenthal.",
+                                    "В американской сети фастфуда Wienerschnitzel продают только хот-доги.",
+                                    "Шницель по-венски встречается в произведениях русской художественной литературы."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pohl doubts that Wiener schnitzel came from Italy at all, with the basis that in the other \"imported dishes\" in Austrian cuisine, the original concept is mentioned, even if in Germanised form, such as in goulash or palatschinke, and the schnitzel does not appear even in specialised cookbooks about Italian cuisine.",
+                                    "Pohl doubts that Wiener schnitzel came from Italy at all, with the basis that in the other \"imported dishes\" in Austrian cuisine, the original concept is mentioned, even if in Germanised form, such as in goulash or palatschinke, and the schnitzel does not appear even in specialised cookbooks about Italian cuisine.",
+                                    "The designation Wiener Schnitzel first appeared in the 19th century, with the first known mention in a cookbook from 1831.",
+                                    "The designation Wiener Schnitzel first appeared in the 19th century, with the first known mention in a cookbook from 1831."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В современной русской кухне шницель по-венски предлагается гарнировать выложенными кружком или крест-накрест филе анчоусов и каперсами между ними и сервировать с рисом и припущенными овощами.",
+                                    "translated": "In modern Russian cuisine, Wiener schnitzel is suggested to be garnished with fillets of anchovies arranged in a circle or crossed, with capers in between, and served with rice and steamed vegetables.",
+                                    "fact_aligned_sentence": "В современной русской кухне шницель по-венски предлагается готовить также из свиной корейки, а гарнировать выложенными кружком или крест-накрест филе анчоусов и каперсами между ними и сервировать с рисом и припущенными овощами.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C"
+                                },
+                                "src_context": [
+                                    "Шницель по-венски полагалось панировать в яйце и сухарях, жарить на сливочном масле с припущенным репчатым луком и отпускать «сухим, с кусками лимона» или политым «процеженным маслом, в котором он жарился» с картофельным гарниром.",
+                                    "В современной русской кухне шницель по-венски предлагается готовить также из свиной корейки.",
+                                    "В современной русской кухне шницель по-венски предлагается гарнировать выложенными кружком или крест-накрест филе анчоусов и каперсами между ними и сервировать с рисом и припущенными овощами."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Owing to food shortages at that time and the high cost of meat and veal, and due to kashrut laws that forbid eating pork, the local version was made of chicken breast, which was less expensive.",
+                                    "To this day, Israeli schnitzel is made of chicken.",
+                                    "It is often served with french fries or mashed potatoes.",
+                                    "In Israel, schnitzel is popular, first introduced by European Jews who immigrated to Israel during the middle decades of the twentieth century."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Ресторан Figlmüller близ собора Святого Стефана поддерживает традицию фирменного венского шницеля из свинины диаметром до 30 см, жаренного на растительном масле, на протяжении более чем 115 лет.",
+                                    "translated": "Figlmüller restaurant near St. Stephen's Cathedral has been upholding the tradition of its signature pork schnitzel with a diameter of up to 30 cm, fried in vegetable oil, for more than 115 years.",
+                                    "fact_aligned_sentence": "В послевоенное время появились рецепты панированного шницеля не только из свинины, но и курятины и индюшатины.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C"
+                                },
+                                "src_context": [
+                                    "Многие венцы предпочитают культовому телячьему «ка́льбсвинеру» (нем. Kalbswiener — «венский телячий») шницель из свинины «шва́йнсвинер» (нем. Schweinswiener).",
+                                    "Венцы предпочитают шницель из свинины не только из экономии, но и по вкусовым качествам — сочности и аромату.",
+                                    "Ресторан Figlmüller близ собора Святого Стефана поддерживает традицию фирменного венского шницеля из свинины диаметром до 30 см, жаренного на растительном масле, на протяжении более чем 115 лет."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "To avoid confusion, Austrian law requires that Wiener Schnitzel be made of veal.",
+                                    "A schnitzel made of pork can be called Wiener Schnitzel vom Schwein ('Wiener schnitzel from pork') or Schnitzel Wiener Art ('Viennese style schnitzel').",
+                                    "Wiener schnitzel ( VEE-nər SHNIT-səl; German: Wiener Schnitzel [ˈviːnɐ ˈʃnɪtsl̩] , 'Viennese cutlet'), sometimes spelled Wienerschnitzel, is a type of schnitzel made of a thin, breaded, pan-fried veal cutlet.",
+                                    "Wiener schnitzel ( VEE-nər SHNIT-səl; German: Wiener Schnitzel [ˈviːnɐ ˈʃnɪtsl̩] , 'Viennese cutlet'), sometimes spelled Wienerschnitzel, is a type of schnitzel made of a thin, breaded, pan-fried veal cutlet."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "variantes": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "en serbie",
+                                    "translated": "in Serbia"
+                                },
+                                "header_1": {
+                                    "original": "variantes",
+                                    "translated": "variants"
+                                },
+                                "fact": {
+                                    "original": "Le plat est nommé en hommage au chef de la révolution serbe de 1804, Karađorđe.",
+                                    "translated": "The dish is named in homage to the leader of the Serbian revolution of 1804, Karađorđe.",
+                                    "fact_aligned_sentence": "Le plat se nomme une Karadjordjeva snicla, en hommage au chef de la révolution serbe de 1804, Karađorđe.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Escalope_%C3%A0_la_viennoise",
+                                    "wiki_link_direct": "https://fr.wikipedia.org/wiki/Escalope_%C3%A0_la_viennoise#:~:text=Le%20plat%20se%20nomme%20une%20Karadjordjeva%20snicla%5B11%5D%2C%20en%20hommage%20au%20chef%20de%20la%20r%C3%A9volution%20serbe%20de%201804%2C%20Kara%C4%91or%C4%91e."
+                                },
+                                "src_context": [
+                                    "En Serbie, il existe une variante enroulée avec du fromage traditionnel de la région (Kajmak) et du jambon.",
+                                    "Le plat se nomme une Karadjordjeva snicla.",
+                                    "Le plat est nommé en hommage au chef de la révolution serbe de 1804, Karađorđe."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In the popular southern German cookbook by Katharina Prato, it was mentioned as eingebröselte Kalbsschnitzchen (roughly, \"breaded veal cutlets\").",
+                                    "According to a tale, Field Marshal Joseph Radetzky von Radetz brought the recipe from Italy to Vienna in 1857.",
+                                    "In 2007, linguist Heinz-Dieter Pohl could prove that this story had been invented.",
+                                    "According to Pohl, the dish is first mentioned in connection with Radetzky in 1869 in an Italian gastronomy book (Guida gastronomica d'Italia), which was published in German in 1871 as Italien tafelt, and it is claimed that the story instead concerned the cotoletta alla milanese."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "en serbie",
+                                    "translated": "in Serbia"
+                                },
+                                "header_1": {
+                                    "original": "variantes",
+                                    "translated": "variants"
+                                },
+                                "fact": {
+                                    "original": "Le plat est nommé en hommage au chef de la révolution serbe de 1804, Karađorđe.",
+                                    "translated": "In Serbia, The dish is named in tribute to the leader of the Serbian revolution of 1804, Karađorđe.",
+                                    "fact_aligned_sentence": "Le plat se nomme une Karadjordjeva snicla, en hommage au chef de la révolution serbe de 1804, Karađorđe.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Escalope_%C3%A0_la_viennoise",
+                                    "wiki_link_direct": "https://fr.wikipedia.org/wiki/Escalope_%C3%A0_la_viennoise#:~:text=Le%20plat%20se%20nomme%20une%20Karadjordjeva%20snicla%5B11%5D%2C%20en%20hommage%20au%20chef%20de%20la%20r%C3%A9volution%20serbe%20de%201804%2C%20Kara%C4%91or%C4%91e."
+                                },
+                                "src_context": [
+                                    "En Serbie, il existe une variante enroulée avec du fromage traditionnel de la région (Kajmak) et du jambon.",
+                                    "Le plat se nomme une Karadjordjeva snicla.",
+                                    "Le plat est nommé en hommage au chef de la révolution serbe de 1804, Karađorđe."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In the popular southern German cookbook by Katharina Prato, it was mentioned as eingebröselte Kalbsschnitzchen (roughly, \"breaded veal cutlets\").",
+                                    "According to a tale, Field Marshal Joseph Radetzky von Radetz brought the recipe from Italy to Vienna in 1857.",
+                                    "In 2007, linguist Heinz-Dieter Pohl could prove that this story had been invented.",
+                                    "According to Pohl, the dish is first mentioned in connection with Radetzky in 1869 in an Italian gastronomy book (Guida gastronomica d'Italia), which was published in German in 1871 as Italien tafelt, and it is claimed that the story instead concerned the cotoletta alla milanese."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "en serbie",
+                                    "translated": "in Serbia"
+                                },
+                                "header_1": {
+                                    "original": "variantes",
+                                    "translated": "variants"
+                                },
+                                "fact": {
+                                    "original": "En Serbie, il existe une variante enroulée avec du fromage traditionnel de la région (Kajmak) et du jambon.",
+                                    "translated": "In Serbia, there is a rolled variant with traditional regional cheese (Kajmak) and ham.",
+                                    "fact_aligned_sentence": "En Serbie, il existe une variante enroulée avec du fromage traditionnel de la région (Kajmak) et du jambon.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Escalope_%C3%A0_la_viennoise"
+                                },
+                                "src_context": [
+                                    "Elle peut être surmontée d'œufs.",
+                                    "Elle peut être surmontée de fromage.",
+                                    "En Serbie, il existe une variante enroulée avec du fromage traditionnel de la région (Kajmak) et du jambon."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Tonkatsu is a similar, fried pork cutlet from Japanese cuisine, thicker than its European counterparts.",
+                                    "In the Southern Cone, particularly in Argentina and Uruguay, a similar dish is milanesa.",
+                                    "In 2007, linguist Heinz-Dieter Pohl could prove that this story had been invented.",
+                                    "According to Pohl, the dish is first mentioned in connection with Radetzky in 1869 in an Italian gastronomy book (Guida gastronomica d'Italia), which was published in German in 1871 as Italien tafelt, and it is claimed that the story instead concerned the cotoletta alla milanese."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "en france",
+                                    "translated": "In France"
+                                },
+                                "header_1": {
+                                    "original": "variantes",
+                                    "translated": "variants"
+                                },
+                                "fact": {
+                                    "original": "Elle fut présentée à l'occasion de l'Exposition universelle de Paris de 1889.",
+                                    "translated": "It was presented at the Exposition Universelle in Paris in 1889.",
+                                    "fact_aligned_sentence": "Elle fut présentée à l'occasion de l'Exposition universelle de Paris de 1889.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Escalope_%C3%A0_la_viennoise"
+                                },
+                                "src_context": [
+                                    "Le maréchal Radetzky aurait passé une grande partie de sa vie à Milan.",
+                                    "Il existe une autre variante sans chapelure de l'escalope viennoise, appelée escalope parisienne (Pariser Schnitzel).",
+                                    "Elle fut présentée à l'occasion de l'Exposition universelle de Paris de 1889."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "According to Pohl, the dish is first mentioned in connection with Radetzky in 1869 in an Italian gastronomy book (Guida gastronomica d'Italia), which was published in German in 1871 as Italien tafelt, and it is claimed that the story instead concerned the cotoletta alla milanese.",
+                                    "According to Pohl, the dish is first mentioned in connection with Radetzky in 1869 in an Italian gastronomy book (Guida gastronomica d'Italia), which was published in German in 1871 as Italien tafelt, and it is claimed that the story instead concerned the cotoletta alla milanese.",
+                                    "In 2007, linguist Heinz-Dieter Pohl could prove that this story had been invented.",
+                                    "According to Pohl, the dish is first mentioned in connection with Radetzky in 1869 in an Italian gastronomy book (Guida gastronomica d'Italia), which was published in German in 1871 as Italien tafelt, and it is claimed that the story instead concerned the cotoletta alla milanese."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "en israël",
+                                    "translated": "in Israel"
+                                },
+                                "header_1": {
+                                    "original": "variantes",
+                                    "translated": "variants"
+                                },
+                                "fact": {
+                                    "original": "Une chaîne de restauration rapide appelée HaShnitzelia a ouvert en Israël en 2004.",
+                                    "translated": "A fast food chain called HaShnitzelia opened in Israel in 2004.",
+                                    "fact_aligned_sentence": "Une chaîne de restauration rapide appelée HaShnitzelia, ce qui peut être traduit par « La Schnizelle » ou « Le pays du Schnitzel », a ouvert dans le pays en 2004.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Escalope_%C3%A0_la_viennoise"
+                                },
+                                "src_context": [
+                                    "Le schnitzel israélien est consommé en plat ou en sandwich dans un pain pita.",
+                                    "Le schnitzel est consommé par toute la population israélienne quelles que soient son origine ou sa religion.",
+                                    "Une chaîne de restauration rapide appelée HaShnitzelia a ouvert en Israël en 2004."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is often served with french fries or mashed potatoes.",
+                                    "In Israel, schnitzel is popular, first introduced by European Jews who immigrated to Israel during the middle decades of the twentieth century.",
+                                    "Kashrut laws also forbid using dairy products with meat, so kosher schnitzel is prepared with cooking oil.",
+                                    "Schnitzel has become so popular that it is regularly described as one of Israel's \"national dishes.\""
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "en israël",
+                                    "translated": "in Israel"
+                                },
+                                "header_1": {
+                                    "original": "variantes",
+                                    "translated": "variants"
+                                },
+                                "fact": {
+                                    "original": "Le schnitzel israélien est frit à l'huile végétale.",
+                                    "translated": "A vegan version of schnitzel exists in Israel. The Israeli schnitzel is fried in vegetable oil.",
+                                    "fact_aligned_sentence": "Leur version plus économique et conforme aux prescriptions juives de la cacheroute est composée de volaille (poulet principalement ou dinde), frite à l'huile végétale et est consommée en plat ou en sandwich dans un pain pita par toute la population israélienne quelles que soient son origine ou sa religion.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Escalope_%C3%A0_la_viennoise"
+                                },
+                                "src_context": [
+                                    "La version israélienne du schnitzel est plus économique et conforme aux prescriptions juives de la cacheroute.",
+                                    "La version israélienne du schnitzel est composée de volaille (poulet principalement ou dinde).",
+                                    "Le schnitzel israélien est frit à l'huile végétale."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Kashrut laws also forbid using dairy products with meat, so kosher schnitzel is prepared with cooking oil.",
+                                    "Kashrut laws also forbid using dairy products with meat, so kosher schnitzel is prepared with cooking oil.",
+                                    "It is often served with french fries or mashed potatoes.",
+                                    "In Israel, schnitzel is popular, first introduced by European Jews who immigrated to Israel during the middle decades of the twentieth century."
+                                ]
+                            }
+                        ]
+                    },
+                    "origines": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "origines",
+                                    "translated": "origins"
+                                },
+                                "fact": {
+                                    "original": "En Roumanie, la variante avec du porc est très courante et est appelée « șnițel ».",
+                                    "translated": "In Romania, the variant with pork is very common and is called \"șnițel.\"",
+                                    "fact_aligned_sentence": "On peut remplacer le veau par du porc, même si, dans ce cas, il est souvent appelé le Schnitzel Wiener Art en Allemagne ou Wiener Schnitzel vom Schwein (littéralement « escalope viennoise de porc ») en Autriche, pour le différencier de l'original ; en Roumanie, cette variante avec du porc qui est très courante, est appelée « șnițel » ; en Israël, le schnitzel est constitué de volaille.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Escalope_%C3%A0_la_viennoise"
+                                },
+                                "src_context": [
+                                    "En Allemagne, le schnitzel de porc est souvent appelé le Schnitzel Wiener Art.",
+                                    "En Autriche, le schnitzel de porc est appelé Wiener Schnitzel vom Schwein (littéralement « escalope viennoise de porc »).",
+                                    "En Roumanie, la variante avec du porc est très courante et est appelée « șnițel »."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In the early 20th century, the garnish consisted of capers and anchovies.",
+                                    "A popular variation is made with pork instead of veal, because pork is cheaper than veal (usually about half the price).",
+                                    "It is often served with french fries or mashed potatoes.",
+                                    "In Israel, schnitzel is popular, first introduced by European Jews who immigrated to Israel during the middle decades of the twentieth century."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "origines",
+                                    "translated": "origins"
+                                },
+                                "fact": {
+                                    "original": "Cette préparation serait apparue à Vienne au cours des XVe et XVIe siècles.",
+                                    "translated": "Although the dish dates back to 15th–16th century Vienna, the term “Wiener Schnitzel” first appeared in an 1831 Prague cookbook.",
+                                    "fact_aligned_sentence": "Cette préparation serait apparue à Vienne au cours des XVe et XVIe siècles mais la première mention connue du terme Wiener Schnitzel se trouve dans un livre de recette praguois de 1831.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Escalope_%C3%A0_la_viennoise"
+                                },
+                                "src_context": [
+                                    "L'escalope viennoise est un mets traditionnel de Vienne en Autriche.",
+                                    "L'escalope viennoise est constituée d'une fine tranche de viande enrobée de chapelure et frite.",
+                                    "Cette préparation serait apparue à Vienne au cours des XVe et XVIe siècles."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The designation Wiener Schnitzel first appeared in the 19th century, with the first known mention in a cookbook from 1831."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "origines",
+                                    "translated": "origins"
+                                },
+                                "fact": {
+                                    "original": "L'escalope viennoise fut apportée en Italie puis en Autriche lors des guerres napoléoniennes.",
+                                    "translated": "The Wiener schnitzel was brought to Italy and then to Austria during the Napoleonic wars.",
+                                    "fact_aligned_sentence": "Certains historiens pensent que l'escalope viennoise est d'origine française et fut apportée en Italie puis en Autriche lors des guerres napoléoniennes.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Escalope_%C3%A0_la_viennoise"
+                                },
+                                "src_context": [
+                                    "En Israël, le schnitzel est constitué de volaille.",
+                                    "Certains historiens pensent que l'escalope viennoise est d'origine française.",
+                                    "L'escalope viennoise fut apportée en Italie puis en Autriche lors des guerres napoléoniennes."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "No such Count Attems appears in any biographical work about the Austrian monarchy, which would have corresponded to this time and position.\"",
+                                    "Pohl doubts that Wiener schnitzel came from Italy at all, with the basis that in the other \"imported dishes\" in Austrian cuisine, the original concept is mentioned, even if in Germanised form, such as in goulash or palatschinke, and the schnitzel does not appear even in specialised cookbooks about Italian cuisine.",
+                                    "In Israel, schnitzel is popular, first introduced by European Jews who immigrated to Israel during the middle decades of the twentieth century.",
+                                    "In Israel, schnitzel is popular, first introduced by European Jews who immigrated to Israel during the middle decades of the twentieth century."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "origines",
+                                    "translated": "origins"
+                                },
+                                "fact": {
+                                    "original": "L'escalope viennoise fut d'abord nommée côtelette révolution française.",
+                                    "translated": "The Wiener schnitzel was originally called French Revolution cutlet.",
+                                    "fact_aligned_sentence": "Elle fut d'abord nommée côtelette révolution française.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Escalope_%C3%A0_la_viennoise"
+                                },
+                                "src_context": [
+                                    "Certains historiens pensent que l'escalope viennoise est d'origine française.",
+                                    "L'escalope viennoise fut apportée en Italie puis en Autriche lors des guerres napoléoniennes.",
+                                    "L'escalope viennoise fut d'abord nommée côtelette révolution française."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Schnitzel was then mentioned in the 19th century as Wiener Schnitzel analogically to the Wiener Backhendl.",
+                                    "The Schnitzel was then mentioned in the 19th century as Wiener Schnitzel analogically to the Wiener Backhendl.",
+                                    "The dish was traditionally served in Austria with butterhead lettuce tossed with a sweetened vinaigrette dressing, optionally with chopped chives or onions, potato salad, cucumber salad, or parsley potatoes.",
+                                    "In recent times french fries have become common."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "起源": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "起源",
+                                    "translated": "origin"
+                                },
+                                "fact": {
+                                    "original": "维也纳炸牛排与意大利北部的米兰炸肉排十分类似。",
+                                    "translated": "The Vienna schnitzel is very similar to the Milanese cutlet from northern Italy.",
+                                    "fact_aligned_sentence": "维也纳炸牛排與義大利北部的米蘭炸肉排十分類似,奧地利與北義大利均曾是哈布斯堡王朝的領地,此兩個擁有歷史淵源的區域也爭相競奪料理起源地的地位。根據一項廣為流傳的說法,炸肉排的食譜是1857年時由曾在倫巴底擔任駐屯軍司令的沙場大將——約瑟夫·拉德茨基·馮·拉德茨帶回維也納的。他之前透過皇帝法蘭茲·約瑟夫一世的副官艾騰伯爵(Graf Attems)上交了一份戰況報告書給朝廷,當中提及自己在倫巴底地區嚐過一道極美味的小牛肉料理。當拉德茨返國後,皇帝親自跟他索取了食譜。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E4%B9%9F%E7%BA%B3%E7%82%B8%E7%89%9B%E6%8E%92",
+                                    "wiki_link_direct": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E4%B9%9F%E7%BA%B3%E7%82%B8%E7%89%9B%E6%8E%92#:~:text=%E7%BB%B4%E4%B9%9F%E7%BA%B3%E7%82%B8%E7%89%9B%E6%8E%92%E8%88%87%E7%BE%A9%E5%A4%A7%E5%88%A9%E5%8C%97%E9%83%A8%E7%9A%84%E7%B1%B3%E8%98%AD%E7%82%B8%E8%82%89%E6%8E%92%E5%8D%81%E5%88%86%E9%A1%9E%E4%BC%BC%EF%BC%8C%E5%A5%A7%E5%9C%B0%E5%88%A9%E8%88%87%E5%8C%97%E7%BE%A9%E5%A4%A7%E5%88%A9%E5%9D%87%E6%9B%BE%E6%98%AF%E5%93%88%E5%B8%83%E6%96%AF%E5%A0%A1%E7%8E%8B%E6%9C%9D%E7%9A%84%E9%A0%98%E5%9C%B0%EF%BC%8C%E6%AD%A4%E5%85%A9%E5%80%8B%E6%93%81%E6%9C%89%E6%AD%B7%E5%8F%B2%E6%B7%B5%E6%BA%90%E7%9A%84%E5%8D%80%E5%9F%9F%E4%B9%9F%E7%88%AD%E7%9B%B8%E7%AB%B6%E5%A5%AA%E6%96%99%E7%90%86%E8%B5%B7%E6%BA%90%E5%9C%B0%E7%9A%84%E5%9C%B0%E4%BD%8D"
+                                },
+                                "src_context": [
+                                    "南德烹饪畅销烹饪食谱作家卡塔琳娜·普拉托提及了维也纳炸牛排。",
+                                    "卡塔琳娜·普拉托在她的书中将维也纳炸牛排称作『eingebröselte Kalbsschnitze』。",
+                                    "维也纳炸牛排与意大利北部的米兰炸肉排十分类似。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Tonkatsu is a similar, fried pork cutlet from Japanese cuisine, thicker than its European counterparts.",
+                                    "In the Southern Cone, particularly in Argentina and Uruguay, a similar dish is milanesa.",
+                                    "Similarly prepared dishes include cotoletta alla milanese, schnitzel cordon bleu filled with ham and cheese and Pariser Schnitzel.",
+                                    "The American chicken-fried steak is often said to be closely related to Wiener schnitzel, the result of the adaptation of the recipe by German or Austrian immigrants to the Texas Hill Country to locally available ingredients."
+                                ]
+                            }
+                        ]
+                    },
+                    "作法": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "作法",
+                                    "translated": "practice"
+                                },
+                                "fact": {
+                                    "original": "之後將肉浸泡在香檳酒或白葡萄氣泡酒中醃漬兩小時。",
+                                    "translated": "Then soak the meat in champagne or sparkling white wine for two hours. This can make the meat tender.",
+                                    "fact_aligned_sentence": "用於維也納炸牛排的小牛肉必須切成蝴蝶型片狀,使肉質軟嫩,接著用帶刺的鐵錘輕度的捶打,再撒上少量的鹽或胡椒調味,之後將肉浸泡在香檳酒或白葡萄氣泡酒中醃漬兩小時,以保證去腥味以及充滿豐富的肉汁,完畢後把肉裹上蛋液,再鋪上小麥粉和麵包屑的混合物,下到用豬油或黃油熱好的金屬桶型鍋中,加熱到約160或170°C,直到麵衣炸至微微金黃色即可,不用油炸至焦黃。因為肉質接受過香檳酒的軟化,所以會產生鮮嫩多汁、肉質鬆軟的口感。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E4%B9%9F%E7%BA%B3%E7%82%B8%E7%89%9B%E6%8E%92",
+                                    "wiki_link_direct": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E4%B9%9F%E7%BA%B3%E7%82%B8%E7%89%9B%E6%8E%92#:~:text=%E7%94%A8%E6%96%BC%E7%B6%AD%E4%B9%9F%E7%B4%8D%E7%82%B8%E7%89%9B%E6%8E%92%E7%9A%84%E5%B0%8F%E7%89%9B%E8%82%89%E5%BF%85%E9%A0%88%E5%88%87%E6%88%90%E8%9D%B4%E8%9D%B6%E5%9E%8B%E7%89%87%E7%8B%80%EF%BC%8C%E4%BD%BF%E8%82%89%E8%B3%AA%E8%BB%9F%E5%AB%A9%EF%BC%8C%E6%8E%A5%E8%91%97%E7%94%A8%E5%B8%B6%E5%88%BA%E7%9A%84%E9%90%B5%E9%8C%98%E8%BC%95%E5%BA%A6%E7%9A%84%E6%8D%B6%E6%89%93%EF%BC%8C%E5%86%8D%E6%92%92%E4%B8%8A%E5%B0%91%E9%87%8F%E7%9A%84%E9%B9%BD%E6%88%96%E8%83%A1%E6%A4%92%E8%AA%BF%E5%91%B3%EF%BC%8C%E4%B9%8B%E5%BE%8C%E5%B0%87%E8%82%89%E6%B5%B8%E6%B3%A1%E5%9C%A8%E9%A6%99%E6%AA%B3%E9%85%92%E6%88%96%E7%99%BD%E8%91%A1%E8%90%84%E6%B0%A3%E6%B3%A1%E9%85%92%E4%B8%AD%E9%86%83%E6%BC%AC%E5%85%A9%E5%B0%8F%E6%99%82%EF%BC%8C%E4%BB%A5%E4%BF%9D%E8%AD%89%E5%8E%BB%E8%85%A5%E5%91%B3%E4%BB%A5%E5%8F%8A%E5%85%85%E6%BB%BF%E8%B1%90%E5%AF%8C%E7%9A%84%E8%82%89%E6%B1%81%EF%BC%8C%E5%AE%8C%E7%95%A2%E5%BE%8C%E6%8A%8A%E8%82%89%E8%A3%B9%E4%B8%8A%E8%9B%8B%E6%B6%B2%EF%BC%8C%E5%86%8D%E9%8B%AA%E4%B8%8A%E5%B0%8F%E9%BA%A5%E7%B2%89%E5%92%8C%E9%BA%B5%E5%8C%85%E5%B1%91%E7%9A%84%E6%B7%B7%E5%90%88%E7%89%A9%EF%BC%8C%E4%B8%8B%E5%88%B0%E7%94%A8%E8%B1%AC%E6%B2%B9%E6%88%96%E9%BB%83%E6%B2%B9%E7%86%B1%E5%A5%BD%E7%9A%84%E9%87%91%E5%B1%AC%E6%A1%B6%E5%9E%8B%E9%8D%8B%E4%B8%AD%EF%BC%8C%E5%8A%A0%E7%86%B1%E5%88%B0%E7%B4%84160%E6%88%96170%C2%B0C%5B7%5D%EF%BC%8C%E7%9B%B4%E5%88%B0%E9%BA%B5%E8%A1%A3%E7%82%B8%E8%87%B3%E5%BE%AE%E5%BE%AE%E9%87%91%E9%BB%83%E8%89%B2%E5%8D%B3%E5%8F%AF%EF%BC%8C%E4%B8%8D%E7%94%A8%E6%B2%B9%E7%82%B8%E8%87%B3%E7%84%A6%E9%BB%83%5B8%5D%E3%80%82%E5%9B%A0%E7%82%BA%E8%82%89%E8%B3%AA%E6%8E%A5%E5%8F%97%E9%81%8E%E9%A6%99%E6%AA%B3%E9%85%92%E7%9A%84%E8%BB%9F%E5%8C%96%EF%BC%8C%E6%89%80%E4%BB%A5%E6%9C%83%E7%94%A2%E7%94%9F%E9%AE%AE%E5%AB%A9%E5%A4%9A%E6%B1%81%E3%80%81%E8%82%89%E8%B3%AA%E9%AC%86%E8%BB%9F%E7%9A%84%E5%8F%A3%E6%84%9F%E3%80%82"
+                                },
+                                "src_context": [
+                                    "接著用帶刺的鐵錘輕度的捶打小牛肉。",
+                                    "再撒上少量的鹽或胡椒調味。",
+                                    "之後將肉浸泡在香檳酒或白葡萄氣泡酒中醃漬兩小時。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Also during the frying, fat can be scooped from the pan with a spoon and poured onto the meat.",
+                                    "The Schnitzel is cooked after it turns golden yellow or brown.",
+                                    "The bread crumbs must not be pressed into the meat, so that they stay dry and can be \"souffléd\".",
+                                    "Finally the Schnitzel is fried in a good proportion of lard or clarified butter at a temperature of 160–170 °C (320–340 °F) until it is golden yellow."
+                                ]
+                            }
+                        ]
+                    },
+                    "外国影响": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "外国影响",
+                                    "translated": "Foreign influence"
+                                },
+                                "fact": {
+                                    "original": "把法國的炸牛排的油炸方法和維也納炸豬排醃漬方法進行結合",
+                                    "translated": "Combine the French deep-frying method for steak with the marinating method for Wiener schnitzel.",
+                                    "fact_aligned_sentence": "在日本,把法國的炸牛排的油炸方法和維也納炸豬排醃漬方法進行結合,變為了日式炸豬排。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E4%B9%9F%E7%BA%B3%E7%82%B8%E7%89%9B%E6%8E%92"
+                                },
+                                "src_context": [
+                                    "上海炸豬排经常配合排骨年糕食用。",
+                                    "在日本",
+                                    "把法國的炸牛排的油炸方法和維也納炸豬排醃漬方法進行結合"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pohl doubts that Wiener schnitzel came from Italy at all, with the basis that in the other \"imported dishes\" in Austrian cuisine, the original concept is mentioned, even if in Germanised form, such as in goulash or palatschinke, and the schnitzel does not appear even in specialised cookbooks about Italian cuisine.",
+                                    "Pohl doubts that Wiener schnitzel came from Italy at all, with the basis that in the other \"imported dishes\" in Austrian cuisine, the original concept is mentioned, even if in Germanised form, such as in goulash or palatschinke, and the schnitzel does not appear even in specialised cookbooks about Italian cuisine.",
+                                    "Similarly prepared dishes include cotoletta alla milanese, schnitzel cordon bleu filled with ham and cheese and Pariser Schnitzel.",
+                                    "The American chicken-fried steak is often said to be closely related to Wiener schnitzel, the result of the adaptation of the recipe by German or Austrian immigrants to the Texas Hill Country to locally available ingredients."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "外国影响",
+                                    "translated": "Foreign influence"
+                                },
+                                "fact": {
+                                    "original": "這道菜稱作上海炸豬排。",
+                                    "translated": "This dish is called Shanghai fried pork chop.",
+                                    "fact_aligned_sentence": "在中國的上海,也有一道作法與維也納炸牛排類似的海派西餐,稱作上海炸豬排,经常配合排骨年糕食用。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E4%B9%9F%E7%BA%B3%E7%82%B8%E7%89%9B%E6%8E%92",
+                                    "wiki_link_direct": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E4%B9%9F%E7%BA%B3%E7%82%B8%E7%89%9B%E6%8E%92#:~:text=%E5%9C%A8%E4%B8%AD%E5%9C%8B%E7%9A%84%E4%B8%8A%E6%B5%B7%EF%BC%8C%E4%B9%9F%E6%9C%89%E4%B8%80%E9%81%93%E4%BD%9C%E6%B3%95%E8%88%87%E7%B6%AD%E4%B9%9F%E7%B4%8D%E7%82%B8%E7%89%9B%E6%8E%92%E9%A1%9E%E4%BC%BC%E7%9A%84%E6%B5%B7%E6%B4%BE%E8%A5%BF%E9%A4%90%EF%BC%8C%E7%A8%B1%E4%BD%9C%E4%B8%8A%E6%B5%B7%E7%82%B8%E8%B1%AC%E6%8E%92%5B13%5D%EF%BC%8C%E7%BB%8F%E5%B8%B8%E9%85%8D%E5%90%88%E6%8E%92%E9%AA%A8%E5%B9%B4%E7%B3%95%E9%A3%9F%E7%94%A8%E3%80%82"
+                                },
+                                "src_context": [
+                                    "類似的料理還包括填入火腿和乳酪的藍帶炸肉排(Schnitzel Cordon bleu)",
+                                    "在中國的上海有一道作法與維也納炸牛排類似的海派西餐。",
+                                    "這道菜稱作上海炸豬排。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The American chicken-fried steak is often said to be closely related to Wiener schnitzel, the result of the adaptation of the recipe by German or Austrian immigrants to the Texas Hill Country to locally available ingredients.",
+                                    "Tonkatsu is a similar, fried pork cutlet from Japanese cuisine, thicker than its European counterparts.",
+                                    "Pohl hints that there had been other dishes in Austrian cuisine, before the Schnitzel, that were breaded and deep fried, such as the popular Backhendl, which was first mentioned in a cookbook from 1719.",
+                                    "Pohl hints that there had been other dishes in Austrian cuisine, before the Schnitzel, that were breaded and deep fried, such as the popular Backhendl, which was first mentioned in a cookbook from 1719."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "外国影响",
+                                    "translated": "Foreign influence"
+                                },
+                                "fact": {
+                                    "original": "在中國的上海有一道作法與維也納炸牛排類似的海派西餐。",
+                                    "translated": "In Shanghai, China, there is a type of Western cuisine similar to Vienna schnitzel.",
+                                    "fact_aligned_sentence": "在中國的上海,也有一道作法與維也納炸牛排類似的海派西餐,稱作上海炸豬排,经常配合排骨年糕食用。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E4%B9%9F%E7%BA%B3%E7%82%B8%E7%89%9B%E6%8E%92"
+                                },
+                                "src_context": [
+                                    "類似的料理還包括炸火雞或雞排",
+                                    "類似的料理還包括填入火腿和乳酪的藍帶炸肉排(Schnitzel Cordon bleu)",
+                                    "在中國的上海有一道作法與維也納炸牛排類似的海派西餐。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Tonkatsu is a similar, fried pork cutlet from Japanese cuisine, thicker than its European counterparts.",
+                                    "In the Southern Cone, particularly in Argentina and Uruguay, a similar dish is milanesa.",
+                                    "The American chicken-fried steak is often said to be closely related to Wiener schnitzel, the result of the adaptation of the recipe by German or Austrian immigrants to the Texas Hill Country to locally available ingredients.",
+                                    "Tonkatsu is a similar, fried pork cutlet from Japanese cuisine, thicker than its European counterparts."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "外国影响",
+                                    "translated": "Foreign influence"
+                                },
+                                "fact": {
+                                    "original": "上海炸豬排经常配合排骨年糕食用。",
+                                    "translated": "Shanghai fried pork chop is often served with rib and rice cake.",
+                                    "fact_aligned_sentence": "在中國的上海,也有一道作法與維也納炸牛排類似的海派西餐,稱作上海炸豬排,经常配合排骨年糕食用。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E4%B9%9F%E7%BA%B3%E7%82%B8%E7%89%9B%E6%8E%92"
+                                },
+                                "src_context": [
+                                    "在中國的上海有一道作法與維也納炸牛排類似的海派西餐。",
+                                    "這道菜稱作上海炸豬排。",
+                                    "上海炸豬排经常配合排骨年糕食用。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The American chicken-fried steak is often said to be closely related to Wiener schnitzel, the result of the adaptation of the recipe by German or Austrian immigrants to the Texas Hill Country to locally available ingredients.",
+                                    "Tonkatsu is a similar, fried pork cutlet from Japanese cuisine, thicker than its European counterparts.",
+                                    "In the Southern Cone, particularly in Argentina and Uruguay, a similar dish is milanesa.",
+                                    "It is often served with french fries or mashed potatoes."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "外国影响",
+                                    "translated": "Foreign influence"
+                                },
+                                "fact": {
+                                    "original": "變為了日式炸豬排",
+                                    "translated": "In Japan, the frying method of French fried beefsteak was combined with the marinating method of Viennese schnitzel to create the Japanese-style pork cutlet (tonkatsu).",
+                                    "fact_aligned_sentence": "在日本,把法國的炸牛排的油炸方法和維也納炸豬排醃漬方法進行結合,變為了日式炸豬排。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E4%B9%9F%E7%BA%B3%E7%82%B8%E7%89%9B%E6%8E%92"
+                                },
+                                "src_context": [
+                                    "在日本",
+                                    "把法國的炸牛排的油炸方法和維也納炸豬排醃漬方法進行結合",
+                                    "變為了日式炸豬排"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The American chicken-fried steak is often said to be closely related to Wiener schnitzel, the result of the adaptation of the recipe by German or Austrian immigrants to the Texas Hill Country to locally available ingredients.",
+                                    "Tonkatsu is a similar, fried pork cutlet from Japanese cuisine, thicker than its European counterparts.",
+                                    "Tonkatsu is a similar, fried pork cutlet from Japanese cuisine, thicker than its European counterparts.",
+                                    "Tonkatsu is a similar, fried pork cutlet from Japanese cuisine, thicker than its European counterparts."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

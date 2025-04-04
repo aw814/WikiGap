@@ -1,0 +1,1062 @@
+{
+    "Philippine adobo": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "«Адобонг малутонг» (хрустящее адобо) — повторно приготовленные остатки адобо.",
+                                    "translated": "\"Adobong malutong\" (crispy adobo) - the re-cooked leftovers of adobo.",
+                                    "fact_aligned_sentence": "«Адобонг малутонг» (хрустящее адобо) — повторно приготовленные остатки адобо, их жарят в горячем масле до хрустящей корочки.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "«Адобонг пусо нг сагинг» — овощное адобо из цветков банана в уксусе с креветочной пастой.",
+                                    "«Адобонг пусо нг сагинг» происходит из Кавите.",
+                                    "«Адобонг малутонг» (хрустящее адобо) — повторно приготовленные остатки адобо."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "A rarer version without soy sauce is known as adobong puti (\"white adobo\"), which uses salt instead, to contrast it with adobong itim (\"black adobo\"), the more prevalent versions with soy sauce.",
+                                    "A rarer version without soy sauce is known as adobong puti (\"white adobo\"), which uses salt instead, to contrast it with adobong itim (\"black adobo\"), the more prevalent versions with soy sauce.",
+                                    "Even people in the same household can cook adobo in significantly different ways.",
+                                    "A rarer version without soy sauce is known as adobong puti (\"white adobo\"), which uses salt instead, to contrast it with adobong itim (\"black adobo\"), the more prevalent versions with soy sauce."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "«Адобонг пусо нг сагинг» происходит из Кавите.",
+                                    "translated": "\"Adobong puso ng saging\" comes from Cavite.",
+                                    "fact_aligned_sentence": "Происходит из Кавите.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "«Адобонг пути» (белое адобо) готовится без лаврового листа.",
+                                    "«Адобонг пусо нг сагинг» — овощное адобо из цветков банана в уксусе с креветочной пастой.",
+                                    "«Адобонг пусо нг сагинг» происходит из Кавите."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is believed that paksíw, sangkutsá, and adobo are all derivations of kiniláw.",
+                                    "It is believed that paksíw, sangkutsá, and adobo are all derivations of kiniláw.",
+                                    "The main reference will be Kulinarya: A Guidebook to Philippine Cuisine (2008), authored by Barreto and the committee vice-chairperson Myrna Segismundo, both notable chefs of Filipino cuisine in their own right.",
+                                    "The announcement has received some criticism from the public, but the DTI-BPS clarified that it's not mandatory and will only aim to define a basic traditional recipe that can serve as a benchmark for determining the authenticity of Filipino dishes in the international setting."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "«Адобонг пусо нг сагинг» — овощное адобо из цветков банана в уксусе с креветочной пастой.",
+                                    "translated": "\"Adobong puso ng saging\" - vegetable adobo made from banana flowers in vinegar with shrimp paste.",
+                                    "fact_aligned_sentence": "«Адобонг пусо нг сагинг» — овощное адобо из цветков банана в уксусе с креветочной пастой.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "«Адобонг пути» (белое адобо) готовится без соевого соуса.",
+                                    "«Адобонг пути» (белое адобо) готовится без лаврового листа.",
+                                    "«Адобонг пусо нг сагинг» — овощное адобо из цветков банана в уксусе с креветочной пастой."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Adobo has also become a favorite of Filipino-based fusion cuisine, with avant-garde cooks coming up with variants such as \"Japanese-style\" pork adobo.",
+                                    "Pork adobo with rice is a combination of jasmine rice with pandan leaf and served with magno atchara.",
+                                    "It is believed that paksíw, sangkutsá, and adobo are all derivations of kiniláw.",
+                                    "It is believed that paksíw, sangkutsá, and adobo are all derivations of kiniláw."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "«Адобо са гата» готовится с зелёным чили.",
+                                    "translated": "Adobo with gata is prepared with green chili.",
+                                    "fact_aligned_sentence": "«Адобо са гата» — южнолусонская разновидность с кокосовым молоком и зелёным чили.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "«Адобо са гата» — южнолусонская разновидность.",
+                                    "«Адобо са гата» готовится с кокосовым молоком.",
+                                    "«Адобо са гата» готовится с зелёным чили."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "A rarer version without soy sauce is known as adobong puti (\"white adobo\"), which uses salt instead, to contrast it with adobong itim (\"black adobo\"), the more prevalent versions with soy sauce.",
+                                    "A rarer version without soy sauce is known as adobong puti (\"white adobo\"), which uses salt instead, to contrast it with adobong itim (\"black adobo\"), the more prevalent versions with soy sauce.",
+                                    "Pork adobo with rice is a combination of jasmine rice with pandan leaf and served with magno atchara.",
+                                    "Pork adobo with rice is a combination of jasmine rice with pandan leaf and served with magno atchara."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Адобо может быть приготовлено из курицы.",
+                                    "translated": "Adobo can be made from chicken.",
+                                    "fact_aligned_sentence": "Адобо из свинины, курицы или говядины с отваром аннатто вместо соевого соуса; изобретено в Батангасе.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "Адобо можно подавать с рисом.",
+                                    "Адобо может быть приготовлено из свинины.",
+                                    "Адобо может быть приготовлено из курицы."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Offal and giblets can also be cooked as adobo, like liver, gizzard, heart, and neck.",
+                                    "Offal and giblets can also be cooked as adobo, like liver, gizzard, heart, and neck.",
+                                    "Vegan options utilize vegetables and fruits, like water spinach (kangkóng), bamboo shoots (labóng), eggplant (talóng), banana flowers (pusô ng saging), and okra (okra).",
+                                    "Offal and giblets can also be cooked as adobo, like liver, gizzard, heart, and neck."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Адобо готовят в современной посуде — сотейниках.",
+                                    "translated": "Adobo is cooked in modern cookware — frying pans.",
+                                    "fact_aligned_sentence": "Адобо готовят в небольших керамических горшочках либо в современной посуде — сотейниках и воке.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "«Апан-апан адобабо» готовится с водяным шпинатом.",
+                                    "Адобо готовят в небольших керамических горшочках.",
+                                    "Адобо готовят в современной посуде — сотейниках."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Other terms for precolonial adobo-like dishes among the Visayan peoples are dayok and danglusi.",
+                                    "In modern Visayan, guinamós and dayok refer to separate dishes.",
+                                    "Adobo has also become a favorite of Filipino-based fusion cuisine, with avant-garde cooks coming up with variants such as \"Japanese-style\" pork adobo.",
+                                    "Adobo has also become a favorite of Filipino-based fusion cuisine, with avant-garde cooks coming up with variants such as \"Japanese-style\" pork adobo."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "«Адобонг пусит» готовится из кальмара.",
+                                    "translated": "\"Adobong pusit\" is made from squid.",
+                                    "fact_aligned_sentence": "«Адобонг пусит» (адобо из кальмара) — кальмар, жаренный в уксусно-соевом соусе с добавлением чернил.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "Остатки адобо жарят в горячем масле до хрустящей корочки.",
+                                    "«Адобонг пусит» (адобо из кальмара) — это блюдо.",
+                                    "«Адобонг пусит» готовится из кальмара."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Philippine adobo variants",
+                                    "Outside of the dish itself, the flavor of adobo has been developed commercially and adapted to other foods.",
+                                    "Adobong dilaw (\"yellow adobo\"), which uses kalawag (turmeric) to provide the yellow colouring as well as adding in a different flavour, can be found in Batangas, the Visayas, and Mindanao regions.",
+                                    "Adobong dilaw (\"yellow adobo\"), which uses kalawag (turmeric) to provide the yellow colouring as well as adding in a different flavour, can be found in Batangas, the Visayas, and Mindanao regions."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В испанском языке слово «адобо» означает маринад из масла, уксуса и приправ.",
+                                    "translated": "In the Spanish language, the word \"adobo\" means a marinade made of oil, vinegar, and spices.",
+                                    "fact_aligned_sentence": "adobo), в котором означает маринад из масла, уксуса и приправ.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "Адо́бо считается неотъемлемой частью филиппинской кухни.",
+                                    "Слово «адобо» заимствовано из испанского языка (исп. adobo).",
+                                    "В испанском языке слово «адобо» означает маринад из масла, уксуса и приправ."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Philippine adobo (from Spanish: adobar: \"marinade\", \"sauce\" or \"seasoning\" / English:  Tagalog pronunciation: [ɐdobo]) is a popular Filipino dish and cooking process in Philippine cuisine.",
+                                    "In the 1794 edition of the Vocabulario, it was applied to quilauìn (kinilaw) a related but different dish which also primarily uses vinegar.",
+                                    "In the 1711 Visayan dictionary Vocabulario de la lengua Bisaya, the term guinamus (verb form: gamus) was used to refer to any kind of marinades (adobo), from fish to pork."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Кальмар жарится в уксусно-соевом соусе.",
+                                    "translated": "'Squid is fried in vinegar-soy sauce.'",
+                                    "fact_aligned_sentence": "«Адобонг пусит» (адобо из кальмара) — кальмар, жаренный в уксусно-соевом соусе с добавлением чернил.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "«Адобонг пусит» (адобо из кальмара) — это блюдо.",
+                                    "«Адобонг пусит» готовится из кальмара.",
+                                    "Кальмар жарится в уксусно-соевом соусе."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Philippine adobo variants",
+                                    "Philippine adobo variants",
+                                    "Typically, pork or chicken, or a combination of both, is slowly cooked in vinegar, crushed garlic, bay leaves, black peppercorns, and soy sauce.",
+                                    "Typically, pork or chicken, or a combination of both, is slowly cooked in vinegar, crushed garlic, bay leaves, black peppercorns, and soy sauce."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "«Адобо са гата» — южнолусонская разновидность.",
+                                    "translated": "\"Adobo sa gata\" - a southern Luzon variety.",
+                                    "fact_aligned_sentence": "«Адобо са гата» — южнолусонская разновидность с кокосовым молоком и зелёным чили.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "Вместо соевого соуса в адобо может использоваться отвар аннатто.",
+                                    "Адобо с отваром аннатто вместо соевого соуса изобретено в Батангасе.",
+                                    "«Адобо са гата» — южнолусонская разновидность."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "A rarer version without soy sauce is known as adobong puti (\"white adobo\"), which uses salt instead, to contrast it with adobong itim (\"black adobo\"), the more prevalent versions with soy sauce.",
+                                    "A rarer version without soy sauce is known as adobong puti (\"white adobo\"), which uses salt instead, to contrast it with adobong itim (\"black adobo\"), the more prevalent versions with soy sauce.",
+                                    "It is similar to another dish known as pinatisan, where patis (fish sauce) is used instead of vinegar.",
+                                    "Adobong dilaw (\"yellow adobo\"), which uses kalawag (turmeric) to provide the yellow colouring as well as adding in a different flavour, can be found in Batangas, the Visayas, and Mindanao regions."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В блюдо добавляются чернила кальмара.",
+                                    "translated": "'Squid ink is added to the dish.'",
+                                    "fact_aligned_sentence": "«Адобонг пусит» (адобо из кальмара) — кальмар, жаренный в уксусно-соевом соусе с добавлением чернил.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "«Адобонг пусит» готовится из кальмара.",
+                                    "Кальмар жарится в уксусно-соевом соусе.",
+                                    "В блюдо добавляются чернила кальмара."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Philippine adobo variants",
+                                    "Philippine adobo variants",
+                                    "Adobong dilaw (\"yellow adobo\"), which uses kalawag (turmeric) to provide the yellow colouring as well as adding in a different flavour, can be found in Batangas, the Visayas, and Mindanao regions.",
+                                    "Adobong dilaw (\"yellow adobo\"), which uses kalawag (turmeric) to provide the yellow colouring as well as adding in a different flavour, can be found in Batangas, the Visayas, and Mindanao regions."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "«Адобо са гата» готовится с кокосовым молоком.",
+                                    "translated": "\"Adobo sa gata\" is prepared with coconut milk.",
+                                    "fact_aligned_sentence": "«Адобо са гата» — южнолусонская разновидность с кокосовым молоком и зелёным чили.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "Адобо с отваром аннатто вместо соевого соуса изобретено в Батангасе.",
+                                    "«Адобо са гата» — южнолусонская разновидность.",
+                                    "«Адобо са гата» готовится с кокосовым молоком."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "A rarer version without soy sauce is known as adobong puti (\"white adobo\"), which uses salt instead, to contrast it with adobong itim (\"black adobo\"), the more prevalent versions with soy sauce.",
+                                    "A rarer version without soy sauce is known as adobong puti (\"white adobo\"), which uses salt instead, to contrast it with adobong itim (\"black adobo\"), the more prevalent versions with soy sauce.",
+                                    "Pork adobo with rice is a combination of jasmine rice with pandan leaf and served with magno atchara.",
+                                    "Pork adobo with rice is a combination of jasmine rice with pandan leaf and served with magno atchara."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Адо́бо — филиппинский кулинарный термин.",
+                                    "translated": "Adobo is a Filipino culinary term.",
+                                    "fact_aligned_sentence": "Адо́бо — филиппинский кулинарный термин; способ приготовления свинины (иногда вместе с курицей) — тушение с уксусом, соевым соусом и приправами.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "Адо́бо — филиппинский кулинарный термин."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Philippine adobo (from Spanish: adobar: \"marinade\", \"sauce\" or \"seasoning\" / English:  Tagalog pronunciation: [ɐdobo]) is a popular Filipino dish and cooking process in Philippine cuisine.",
+                                    "Pork adobo with rice is a combination of jasmine rice with pandan leaf and served with magno atchara.",
+                                    "Philippine adobo variants"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В тарелку с адо́бо может быть налита подливка, в которой мясо готовилось.",
+                                    "translated": "The sauce in which the meat was cooked can be poured over the adobo dish.",
+                                    "fact_aligned_sentence": "Подаётся с рисом; при этом в тарелку может быть налита подливка, в которой мясо готовилось, либо же оно зажаривается до хрустящей корочки и подаётся сухим.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "Адо́бо готовится путем тушения с уксусом, соевым соусом и приправами.",
+                                    "Адо́бо подаётся с рисом.",
+                                    "В тарелку с адо́бо может быть налита подливка, в которой мясо готовилось."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Philippine adobo variants",
+                                    "Philippine adobo variants",
+                                    "In Bicol, Quezon, and south in Zamboanga City, it is common for adobo to have coconut milk (known as adobo sa gatâ).",
+                                    "In Cavite, mashed pork liver is added."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Жарка с уксусом была местным способом сохранить мясо свежим в тропическом климате.",
+                                    "translated": "Frying with vinegar was a local method to keep meat fresh in the tropical climate.",
+                                    "fact_aligned_sentence": "adobo de los naturales) — оно напоминало ему испанское блюдо с похожими ингредиентами; однако адобо существовало и до испанцев: жарка с уксусом — местный способ сохранить мясо свежим в тропическом климате.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "Адобо напоминало Педро де Сан-Буэнавентуре испанское блюдо с похожими ингредиентами.",
+                                    "Адобо существовало и до прихода испанцев на Филиппины.",
+                                    "Жарка с уксусом была местным способом сохранить мясо свежим в тропическом климате."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In 2021, the Bureau of Philippine Standards of the Department of Trade and Industry (DTI-BPS) of the Philippines unveiled plans to standardize the most popular Filipino dishes to make it easier to promote them internationally as well as keep their cultural identity.",
+                                    "In 2021, the Bureau of Philippine Standards of the Department of Trade and Industry (DTI-BPS) of the Philippines unveiled plans to standardize the most popular Filipino dishes to make it easier to promote them internationally as well as keep their cultural identity.",
+                                    "The main reference will be Kulinarya: A Guidebook to Philippine Cuisine (2008), authored by Barreto and the committee vice-chairperson Myrna Segismundo, both notable chefs of Filipino cuisine in their own right.",
+                                    "The main reference will be Kulinarya: A Guidebook to Philippine Cuisine (2008), authored by Barreto and the committee vice-chairperson Myrna Segismundo, both notable chefs of Filipino cuisine in their own right."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "«Апан-апан адобабо» — хилигайнонское вегетарианское адобо.",
+                                    "translated": "'Apan-apang adobabo' is a Hiligaynon vegetarian adobo.",
+                                    "fact_aligned_sentence": "«Апан-апан адобабо» — хилигайнонское вегетарианское адобо с водяным шпинатом.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "Кальмар жарится в уксусно-соевом соусе.",
+                                    "В блюдо добавляются чернила кальмара.",
+                                    "«Апан-апан адобабо» — хилигайнонское вегетарианское адобо."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Philippine adobo has a characteristically salty and sour, and often sweet taste, in contrast to Spanish and Mexican adobos, which are spicier or infused with oregano.",
+                                    "While the Philippine adobo can be considered adobo in the Spanish sense—a marinated dish—the Philippine usage is much more specific to a cooking process (rather than a specific recipe) and is not restricted to meat.",
+                                    "Typically, pork or chicken, or a combination of both, is slowly cooked in vinegar, crushed garlic, bay leaves, black peppercorns, and soy sauce.",
+                                    "It is served with white rice."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Адобо может быть приготовлено из свинины.",
+                                    "translated": "Adobo can be made from pork.",
+                                    "fact_aligned_sentence": "Адобо из свинины, курицы или говядины с отваром аннатто вместо соевого соуса; изобретено в Батангасе.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "Адобо часто тушится до мягкости мяса.",
+                                    "Адобо можно подавать с рисом.",
+                                    "Адобо может быть приготовлено из свинины."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Offal and giblets can also be cooked as adobo, like liver, gizzard, heart, and neck.",
+                                    "Offal and giblets can also be cooked as adobo, like liver, gizzard, heart, and neck.",
+                                    "Vegan options utilize vegetables and fruits, like water spinach (kangkóng), bamboo shoots (labóng), eggplant (talóng), banana flowers (pusô ng saging), and okra (okra).",
+                                    "Offal and giblets can also be cooked as adobo, like liver, gizzard, heart, and neck."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Адобо с отваром аннатто вместо соевого соуса изобретено в Батангасе.",
+                                    "translated": "Adobo with annatto broth instead of soy sauce was invented in Batangas.",
+                                    "fact_aligned_sentence": "Адобо из свинины, курицы или говядины с отваром аннатто вместо соевого соуса; изобретено в Батангасе.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "Адобо может быть приготовлено из говядины.",
+                                    "Вместо соевого соуса в адобо может использоваться отвар аннатто.",
+                                    "Адобо с отваром аннатто вместо соевого соуса изобретено в Батангасе."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Batangas and Laguna, turmeric is added, giving the dish a distinct, yellowish color (known as adobong diláw, \"yellow adobo\"), as well as a red variant using achuete seeds in the former.",
+                                    "In Batangas and Laguna, turmeric is added, giving the dish a distinct, yellowish color (known as adobong diláw, \"yellow adobo\"), as well as a red variant using achuete seeds in the former.",
+                                    "It is similar to another dish known as pinatisan, where patis (fish sauce) is used instead of vinegar.",
+                                    "It is similar to another dish known as pinatisan, where patis (fish sauce) is used instead of vinegar."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "«Апан-апан адобабо» готовится с водяным шпинатом.",
+                                    "translated": "'A pan-apana adobabo' is made with water spinach.",
+                                    "fact_aligned_sentence": "«Апан-апан адобабо» — хилигайнонское вегетарианское адобо с водяным шпинатом.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "В блюдо добавляются чернила кальмара.",
+                                    "«Апан-апан адобабо» — хилигайнонское вегетарианское адобо.",
+                                    "«Апан-апан адобабо» готовится с водяным шпинатом."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Typically, pork or chicken, or a combination of both, is slowly cooked in vinegar, crushed garlic, bay leaves, black peppercorns, and soy sauce.",
+                                    "It is served with white rice.",
+                                    "Pork adobo with rice is a combination of jasmine rice with pandan leaf and served with magno atchara.",
+                                    "Pork adobo with rice is a combination of jasmine rice with pandan leaf and served with magno atchara."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "«Адобонг пусит» (адобо из кальмара) — это блюдо.",
+                                    "translated": "\"Adobong pusit\" (squid adobo) is a dish.",
+                                    "fact_aligned_sentence": "«Адобонг пусит» (адобо из кальмара) — кальмар, жаренный в уксусно-соевом соусе с добавлением чернил.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BE%D0%B1%D0%BE_(%D1%84%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D1%85%D0%BD%D1%8F)"
+                                },
+                                "src_context": [
+                                    "«Адобонг малутонг» (хрустящее адобо) — повторно приготовленные остатки адобо.",
+                                    "Остатки адобо жарят в горячем масле до хрустящей корочки.",
+                                    "«Адобонг пусит» (адобо из кальмара) — это блюдо."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Adobong puti is often regarded as the closest to the original version of the prehispanic adobo.",
+                                    "It is similar to another dish known as pinatisan, where patis (fish sauce) is used instead of vinegar.",
+                                    "Philippine adobo variants",
+                                    "Philippine adobo variants"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "méthode de cuisson de l'adobo": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "méthode de cuisson de l'adobo",
+                                    "translated": "Adobo cooking method"
+                                },
+                                "fact": {
+                                    "original": "L'ajout de Sprite aide également à attendrir la viande.",
+                                    "translated": "'The addition of Sprite also helps to tenderize the meat.'",
+                                    "fact_aligned_sentence": "Par ailleurs, des sources locales mentionnent que, pour remplacer le sucre de palme ou de coco, certains réduisent la quantité d’eau et ajoutent du Sprite, apportant ainsi non seulement une touche sucrée, mais également une aide pour attendrir la viande.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Adobo_philippin"
+                                },
+                                "src_context": [
+                                    "Des sources locales mentionnent que certains réduisent la quantité d’eau et ajoutent du Sprite pour remplacer le sucre de palme ou de coco.",
+                                    "L'ajout de Sprite apporte une touche sucrée.",
+                                    "L'ajout de Sprite aide également à attendrir la viande."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The main reference will be Kulinarya: A Guidebook to Philippine Cuisine (2008), authored by Barreto and the committee vice-chairperson Myrna Segismundo, both notable chefs of Filipino cuisine in their own right.",
+                                    "The main reference will be Kulinarya: A Guidebook to Philippine Cuisine (2008), authored by Barreto and the committee vice-chairperson Myrna Segismundo, both notable chefs of Filipino cuisine in their own right.",
+                                    "Other ingredients can sometimes be used; like siling labuyo, bird's eye chili, jalapeño pepper, red bell pepper, olive oil, onions, brown sugar, potatoes, pineapple, or lemon-lime sodas like Sprite.",
+                                    "It may also be further browned in the oven, pan-fried, deep-fried, or even grilled to get crisped edges."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "méthode de cuisson de l'adobo",
+                                    "translated": "Adobo cooking method"
+                                },
+                                "fact": {
+                                    "original": "Dans l'adobo, tout est question d’équilibre des saveurs.",
+                                    "translated": "'In adobo, it's all about balancing flavors.'",
+                                    "fact_aligned_sentence": "Dans l'adobo, tout est question d’équilibre des saveurs.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Adobo_philippin"
+                                },
+                                "src_context": [
+                                    "La durée de conservation relativement longue de l'adobo est due à un de ses principaux ingrédients, le vinaigre.",
+                                    "Le vinaigre inhibe le développement des bactéries.",
+                                    "Dans l'adobo, tout est question d’équilibre des saveurs."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Cavite, mashed pork liver is added.",
+                                    "In Batangas and Laguna, turmeric is added, giving the dish a distinct, yellowish color (known as adobong diláw, \"yellow adobo\"), as well as a red variant using achuete seeds in the former.",
+                                    "Philippine adobo variants",
+                                    "Outside of the dish itself, the flavor of adobo has been developed commercially and adapted to other foods."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "méthode de cuisson de l'adobo",
+                                    "translated": "Adobo cooking method"
+                                },
+                                "fact": {
+                                    "original": "Cette méthode permet une grande flexibilité dans l’élaboration du plat.",
+                                    "translated": "This method allows for great flexibility in the preparation of the dish.",
+                                    "fact_aligned_sentence": "Cette méthode permet une grande flexibilité dans l’élaboration du plat.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Adobo_philippin"
+                                },
+                                "src_context": [
+                                    "Pour un poulet adobo mijoté, la marinade complète est incorporée.",
+                                    "La marinade est complétée par de l’eau ou du bouillon afin de recouvrir le poulet.",
+                                    "Cette méthode permet une grande flexibilité dans l’élaboration du plat."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The definition will be set by a technical committee headed by Glenda Rosales Barreto, and includes representatives from the academia, government departments, the food industry, chefs, and food writers.",
+                                    "The definition will be set by a technical committee headed by Glenda Rosales Barreto, and includes representatives from the academia, government departments, the food industry, chefs, and food writers.",
+                                    "The main reference will be Kulinarya: A Guidebook to Philippine Cuisine (2008), authored by Barreto and the committee vice-chairperson Myrna Segismundo, both notable chefs of Filipino cuisine in their own right.",
+                                    "The main reference will be Kulinarya: A Guidebook to Philippine Cuisine (2008), authored by Barreto and the committee vice-chairperson Myrna Segismundo, both notable chefs of Filipino cuisine in their own right."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "méthode de cuisson de l'adobo",
+                                    "translated": "Adobo cooking method"
+                                },
+                                "fact": {
+                                    "original": "L'ajout de Sprite apporte une touche sucrée.",
+                                    "translated": "'Adding Sprite adds a sweet touch.'",
+                                    "fact_aligned_sentence": "Par ailleurs, des sources locales mentionnent que, pour remplacer le sucre de palme ou de coco, certains réduisent la quantité d’eau et ajoutent du Sprite, apportant ainsi non seulement une touche sucrée, mais également une aide pour attendrir la viande.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Adobo_philippin"
+                                },
+                                "src_context": [
+                                    "Cette méthode permet une grande flexibilité dans l’élaboration du plat.",
+                                    "Des sources locales mentionnent que certains réduisent la quantité d’eau et ajoutent du Sprite pour remplacer le sucre de palme ou de coco.",
+                                    "L'ajout de Sprite apporte une touche sucrée."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is believed that paksíw, sangkutsá, and adobo are all derivations of kiniláw.",
+                                    "They are also related to cooking techniques like sinigáng and pinangát na isdâ that also have a sour broth, albeit using fruits like calamansi, tamarind, unripe mangoes, bilimbi, santól, and star fruit as souring agents instead of vinegar.",
+                                    "The main reference will be Kulinarya: A Guidebook to Philippine Cuisine (2008), authored by Barreto and the committee vice-chairperson Myrna Segismundo, both notable chefs of Filipino cuisine in their own right.",
+                                    "The main reference will be Kulinarya: A Guidebook to Philippine Cuisine (2008), authored by Barreto and the committee vice-chairperson Myrna Segismundo, both notable chefs of Filipino cuisine in their own right."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "méthode de cuisson de l'adobo",
+                                    "translated": "Adobo cooking method"
+                                },
+                                "fact": {
+                                    "original": "Des sources locales mentionnent que certains réduisent la quantité d’eau et ajoutent du Sprite pour remplacer le sucre de palme ou de coco.",
+                                    "translated": "Local sources mention that some reduce the amount of water and add Sprite to replace palm or coconut sugar.",
+                                    "fact_aligned_sentence": "Par ailleurs, des sources locales mentionnent que, pour remplacer le sucre de palme ou de coco, certains réduisent la quantité d’eau et ajoutent du Sprite, apportant ainsi non seulement une touche sucrée, mais également une aide pour attendrir la viande.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Adobo_philippin"
+                                },
+                                "src_context": [
+                                    "La marinade est complétée par de l’eau ou du bouillon afin de recouvrir le poulet.",
+                                    "Cette méthode permet une grande flexibilité dans l’élaboration du plat.",
+                                    "Des sources locales mentionnent que certains réduisent la quantité d’eau et ajoutent du Sprite pour remplacer le sucre de palme ou de coco."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The main reference will be Kulinarya: A Guidebook to Philippine Cuisine (2008), authored by Barreto and the committee vice-chairperson Myrna Segismundo, both notable chefs of Filipino cuisine in their own right.",
+                                    "The main reference will be Kulinarya: A Guidebook to Philippine Cuisine (2008), authored by Barreto and the committee vice-chairperson Myrna Segismundo, both notable chefs of Filipino cuisine in their own right.",
+                                    "Philippine adobo variants",
+                                    "Philippine adobo variants"
+                                ]
+                            }
+                        ]
+                    },
+                    "histoire": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "histoire",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "Il existe des puristes de l'adobo qui continuent d'utiliser du sel dans leur plat.",
+                                    "translated": "There are purists of adobo who continue to use salt in their dish.",
+                                    "fact_aligned_sentence": "Toutefois, il existe des puristes de l'adobo qui continuent d'utiliser du sel dans leur plat.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Adobo_philippin"
+                                },
+                                "src_context": [
+                                    "Le nom originel de ce plat est désormais perdu.",
+                                    "Les marchands chinois ont apporté la sauce de soja qui a remplacé le sel dans ce plat.",
+                                    "Il existe des puristes de l'adobo qui continuent d'utiliser du sel dans leur plat."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Unlike the Spanish and Latin American adobo, the main ingredients of Philippine adobo are ingredients native to Southeast Asia, which include vinegar (made from palm sap or sugarcane), soy sauce (typically substituting salt), black peppercorns, and bay leaves (traditionally Cinnamomum spp.",
+                                    "Unlike the Spanish and Latin American adobo, the main ingredients of Philippine adobo are ingredients native to Southeast Asia, which include vinegar (made from palm sap or sugarcane), soy sauce (typically substituting salt), black peppercorns, and bay leaves (traditionally Cinnamomum spp.",
+                                    "A rarer version without soy sauce is known as adobong puti (\"white adobo\"), which uses salt instead, to contrast it with adobong itim (\"black adobo\"), the more prevalent versions with soy sauce.",
+                                    "A rarer version without soy sauce is known as adobong puti (\"white adobo\"), which uses salt instead, to contrast it with adobong itim (\"black adobo\"), the more prevalent versions with soy sauce."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "histoire",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "L’adobo est une méthode de cuisson originaire d'Espagne.",
+                                    "translated": "Marinade is a cooking method that originated in Spain.",
+                                    "fact_aligned_sentence": "L’adobo est une méthode de cuisson originaire d'Espagne.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Adobo_philippin"
+                                },
+                                "src_context": [
+                                    "La préparation de l’adobo philippin consiste à laisser mijoter les ingrédients dans la marinade.",
+                                    "L’adobo philippin est parfois considéré comme le plat national non officiel des Philippines.",
+                                    "L’adobo est une méthode de cuisson originaire d'Espagne."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Philippine adobo (from Spanish: adobar: \"marinade\", \"sauce\" or \"seasoning\" / English:  Tagalog pronunciation: [ɐdobo]) is a popular Filipino dish and cooking process in Philippine cuisine.",
+                                    "It was first recorded in the 1613 dictionary Vocabulario de la lengua tagala compiled by the Spanish Franciscan missionary, Pedro de San Buenaventura.",
+                                    "He referred to it as adobo de los naturales (\"adobo of the native [peoples]\")."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "相關料理": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "相關料理",
+                                    "translated": "Related cuisine"
+                                },
+                                "fact": {
+                                    "original": "海鮮類的阿多波有時會以小蝦作為主食。",
+                                    "translated": "Seafood adobo is sometimes made with small shrimp as the main ingredient.",
+                                    "fact_aligned_sentence": "相關的阿多波料理含括牛肉阿多波(adobong baka)、雞肉阿多波(adobong manok),它們在菲律賓的穆斯林群體裡特別受到歡迎,而不同肉食種類的阿多波還有鵪鶉阿多波、鴨肉阿多波、山羊肉阿多波,至於海鮮類的阿多波,有的會以魚肉、鯰魚、小蝦、魷魚、烏賊作為阿多波料理的主食。蔬果類的阿多波則像是菠菜阿多波、竹筍阿多波、茄子阿多波、香蕉花阿多波、秋葵阿多波。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E8%B3%93%E9%98%BF%E5%A4%9A%E6%B3%A2"
+                                },
+                                "src_context": [
+                                    "海鮮類的阿多波有時會以魚肉作為主食。",
+                                    "海鮮類的阿多波有時會以鯰魚作為主食。",
+                                    "海鮮類的阿多波有時會以小蝦作為主食。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Philippine adobo variants",
+                                    "Philippine adobo variants",
+                                    "Vegan options utilize vegetables and fruits, like water spinach (kangkóng), bamboo shoots (labóng), eggplant (talóng), banana flowers (pusô ng saging), and okra (okra).",
+                                    "Offal and giblets can also be cooked as adobo, like liver, gizzard, heart, and neck."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "相關料理",
+                                    "translated": "Related cuisine"
+                                },
+                                "fact": {
+                                    "original": "牛肉阿多波(adobong baka)是一种阿多波料理。",
+                                    "translated": "Beef adobo (adobong baka) is a type of adobo dish.",
+                                    "fact_aligned_sentence": "相關的阿多波料理含括牛肉阿多波(adobong baka)、雞肉阿多波(adobong manok),它們在菲律賓的穆斯林群體裡特別受到歡迎,而不同肉食種類的阿多波還有鵪鶉阿多波、鴨肉阿多波、山羊肉阿多波,至於海鮮類的阿多波,有的會以魚肉、鯰魚、小蝦、魷魚、烏賊作為阿多波料理的主食。蔬果類的阿多波則像是菠菜阿多波、竹筍阿多波、茄子阿多波、香蕉花阿多波、秋葵阿多波。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E8%B3%93%E9%98%BF%E5%A4%9A%E6%B3%A2"
+                                },
+                                "src_context": [
+                                    "西班牙和墨西哥地區的阿多波會更辣。",
+                                    "西班牙和墨西哥地區的阿多波中牛至葉的味道更突出。",
+                                    "牛肉阿多波(adobong baka)是一种阿多波料理。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "More exotic versions include adobong sawâ (snake), adobong palakâ (frog), Kapampangan adobung kamaru (mole cricket), and the adobong atáy at balúnbalunan (chicken liver and gizzard).",
+                                    "More exotic versions include adobong sawâ (snake), adobong palakâ (frog), Kapampangan adobung kamaru (mole cricket), and the adobong atáy at balúnbalunan (chicken liver and gizzard).",
+                                    "Offal and giblets can also be cooked as adobo, like liver, gizzard, heart, and neck.",
+                                    "More exotic versions include adobong sawâ (snake), adobong palakâ (frog), Kapampangan adobung kamaru (mole cricket), and the adobong atáy at balúnbalunan (chicken liver and gizzard)."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "相關料理",
+                                    "translated": "Related cuisine"
+                                },
+                                "fact": {
+                                    "original": "在西班牙和拉丁美洲各地的阿多波料理使用混合食材和醃製的手法製成。",
+                                    "translated": "Adobo cuisine found in Spain and various regions of Latin America is made using a mix of ingredients and marinating techniques.",
+                                    "fact_aligned_sentence": "在西班牙和拉丁美洲各地的阿多波料理,也是使用混合食材、醃製的手法製成,和菲律賓阿多波的相似之處是作料都有用醋和蒜頭,相異處則是西班牙及拉丁美洲地區傳統上會添加紅番椒(chilis)、辣椒粉(papriko)、牛至葉(oregano)和番茄,但菲律賓阿多波沒有,由於菲律賓阿多波的主要成分是醬油、醋、黑胡椒粉、月桂葉,因此味道會偏鹹、酸、甜。相較之下,西班牙和墨西哥地區阿多波會更辣、牛至葉的味道更突出。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E8%B3%93%E9%98%BF%E5%A4%9A%E6%B3%A2"
+                                },
+                                "src_context": [
+                                    "等雞肉煮熟、轉變成微微的褐棕色。",
+                                    "雞肉充分地吸收醃料的風味後即可盛盤。",
+                                    "在西班牙和拉丁美洲各地的阿多波料理使用混合食材和醃製的手法製成。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Philippine adobo has a characteristically salty and sour, and often sweet taste, in contrast to Spanish and Mexican adobos, which are spicier or infused with oregano.",
+                                    "Philippine adobo has a characteristically salty and sour, and often sweet taste, in contrast to Spanish and Mexican adobos, which are spicier or infused with oregano.",
+                                    "Unlike Spanish and Latin American adobo, Philippine adobo does not traditionally use chilis, paprika, oregano, or tomatoes.",
+                                    "Instead, they only share similarities in their primary use of vinegar and garlic."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "相關料理",
+                                    "translated": "Related cuisine"
+                                },
+                                "fact": {
+                                    "original": "鴨肉阿多波是一种不同肉食種類的阿多波。",
+                                    "translated": "Duck adobo is a type of adobo made with a different kind of meat.",
+                                    "fact_aligned_sentence": "相關的阿多波料理含括牛肉阿多波(adobong baka)、雞肉阿多波(adobong manok),它們在菲律賓的穆斯林群體裡特別受到歡迎,而不同肉食種類的阿多波還有鵪鶉阿多波、鴨肉阿多波、山羊肉阿多波,至於海鮮類的阿多波,有的會以魚肉、鯰魚、小蝦、魷魚、烏賊作為阿多波料理的主食。蔬果類的阿多波則像是菠菜阿多波、竹筍阿多波、茄子阿多波、香蕉花阿多波、秋葵阿多波。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E8%B3%93%E9%98%BF%E5%A4%9A%E6%B3%A2"
+                                },
+                                "src_context": [
+                                    "牛肉阿多波和雞肉阿多波在菲律賓的穆斯林群體裡特別受到歡迎。",
+                                    "鵪鶉阿多波是一种不同肉食種類的阿多波。",
+                                    "鴨肉阿多波是一种不同肉食種類的阿多波。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Philippine adobo variants",
+                                    "Philippine adobo variants",
+                                    "Adobo has also become a favorite of Filipino-based fusion cuisine, with avant-garde cooks coming up with variants such as \"Japanese-style\" pork adobo.",
+                                    "Adobo has also become a favorite of Filipino-based fusion cuisine, with avant-garde cooks coming up with variants such as \"Japanese-style\" pork adobo."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "相關料理",
+                                    "translated": "Related cuisine"
+                                },
+                                "fact": {
+                                    "original": "在西班牙和拉丁美洲各地的阿多波料理使用混合食材和醃製的手法製成。",
+                                    "translated": "Adobo cuisine in Spain and across Latin America is made using a combination of ingredients and marinating techniques.",
+                                    "fact_aligned_sentence": "在西班牙和拉丁美洲各地的阿多波料理,也是使用混合食材、醃製的手法製成,和菲律賓阿多波的相似之處是作料都有用醋和蒜頭,相異處則是西班牙及拉丁美洲地區傳統上會添加紅番椒(chilis)、辣椒粉(papriko)、牛至葉(oregano)和番茄,但菲律賓阿多波沒有,由於菲律賓阿多波的主要成分是醬油、醋、黑胡椒粉、月桂葉,因此味道會偏鹹、酸、甜。相較之下,西班牙和墨西哥地區阿多波會更辣、牛至葉的味道更突出。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E8%B3%93%E9%98%BF%E5%A4%9A%E6%B3%A2"
+                                },
+                                "src_context": [
+                                    "等雞肉煮熟、轉變成微微的褐棕色。",
+                                    "雞肉充分地吸收醃料的風味後即可盛盤。",
+                                    "在西班牙和拉丁美洲各地的阿多波料理使用混合食材和醃製的手法製成。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Philippine adobo has a characteristically salty and sour, and often sweet taste, in contrast to Spanish and Mexican adobos, which are spicier or infused with oregano.",
+                                    "Philippine adobo has a characteristically salty and sour, and often sweet taste, in contrast to Spanish and Mexican adobos, which are spicier or infused with oregano.",
+                                    "Unlike Spanish and Latin American adobo, Philippine adobo does not traditionally use chilis, paprika, oregano, or tomatoes.",
+                                    "Instead, they only share similarities in their primary use of vinegar and garlic."
+                                ]
+                            }
+                        ]
+                    },
+                    "其他用途": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "其他用途",
+                                    "translated": "Other uses"
+                                },
+                                "fact": {
+                                    "original": "菲律賓阿多波的獨特口味創造出更多的商機。",
+                                    "translated": "The unique flavor of Filipino adobo creates more business opportunities.",
+                                    "fact_aligned_sentence": "除了菲律賓阿多波這道料理之外,它的口味也被大量地改良、添加在多種食物上,例如道地的菲律賓點心產品—— corniks (一種油炸玉米粒的零食,呈不規則圓形顆粒狀,有脆脆的口感,大部分是大蒜口味,也有菲律賓阿多波口味)、堅果、湯麵、玉米脆餅等。藉由菲律賓阿多波的獨特口味,發展成菜餚以外的產品,創造出更多的商機。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E8%B3%93%E9%98%BF%E5%A4%9A%E6%B3%A2"
+                                },
+                                "src_context": [
+                                    "菲律賓阿多波的口味被添加在玉米脆餅上。",
+                                    "菲律賓阿多波的獨特口味發展成菜餚以外的產品。",
+                                    "菲律賓阿多波的獨特口味創造出更多的商機。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Philippine adobo variants",
+                                    "Outside of the dish itself, the flavor of adobo has been developed commercially and adapted to other foods.",
+                                    "Outside of the dish itself, the flavor of adobo has been developed commercially and adapted to other foods.",
+                                    "A number of local Philippine snack products such as cornicks, nuts, chips, noodle soups, and corn crackers, market their items as \"adobo flavored\"."
+                                ]
+                            }
+                        ]
+                    },
+                    "歷史": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "歷史",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "這是阿多波一詞第一次出現在字典裡。",
+                                    "translated": "This is the first time the word 'Adobo' has appeared in the dictionary.",
+                                    "fact_aligned_sentence": "早在菲律賓成為殖民地以前,當地即發展出一套符合地理環境的食物製作手法,為了因應菲律賓炎熱潮濕的氣候,當地人常常用醋和食鹽烹調或儲存食物,不僅能抑制細菌的孳生,也可以維持食物的新鮮度和保存期限。而「阿多波」一詞,是來自西班牙語的「Adobar」,意思是把東西浸泡在滷汁的這個動作,也有學者認為此詞彙指的是一種保存食物的方式。直到十六世紀到十七世紀初,西班牙帝國殖民菲律賓時,認識了這道菲律賓本土料理的製作過程,便將此料理取名為阿多波。西班牙傳教士佩德羅·德·聖布埃納文圖拉更是將阿多波編入Vocabulario de la Lengua Tagala字典中,這是阿多波一詞第一次出現在字典裡。而菲律賓的歷史因素,使阿多波這道菜餚受到西班牙、美國、東南亞等國的影響,有著豐富、多元的風味。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E8%B3%93%E9%98%BF%E5%A4%9A%E6%B3%A2"
+                                },
+                                "src_context": [
+                                    "西班牙帝國將這道菲律賓本土料理取名為阿多波。",
+                                    "西班牙傳教士佩德羅·德·聖布埃納文圖拉將阿多波編入Vocabulario de la Lengua Tagala字典中。",
+                                    "這是阿多波一詞第一次出現在字典裡。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "When the Spanish Empire colonized the Philippines in the late 16th and early 17th centuries, they encountered the adobo cooking process.",
+                                    "It was first recorded in the 1613 dictionary Vocabulario de la lengua tagala compiled by the Spanish Franciscan missionary, Pedro de San Buenaventura.",
+                                    "Dishes prepared with vinegar, garlic, salt (later soy sauce), and other spices eventually came to be known solely as adobo, with the original term for the dish now lost to history.",
+                                    "Dishes prepared with vinegar, garlic, salt (later soy sauce), and other spices eventually came to be known solely as adobo, with the original term for the dish now lost to history."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "歷史",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "「Adobar」的意思是把東西浸泡在滷汁的這個動作。",
+                                    "translated": "The meaning of \"Adobar\" is the action of soaking something in marinated sauce.",
+                                    "fact_aligned_sentence": "早在菲律賓成為殖民地以前,當地即發展出一套符合地理環境的食物製作手法,為了因應菲律賓炎熱潮濕的氣候,當地人常常用醋和食鹽烹調或儲存食物,不僅能抑制細菌的孳生,也可以維持食物的新鮮度和保存期限。而「阿多波」一詞,是來自西班牙語的「Adobar」,意思是把東西浸泡在滷汁的這個動作,也有學者認為此詞彙指的是一種保存食物的方式。直到十六世紀到十七世紀初,西班牙帝國殖民菲律賓時,認識了這道菲律賓本土料理的製作過程,便將此料理取名為阿多波。西班牙傳教士佩德羅·德·聖布埃納文圖拉更是將阿多波編入Vocabulario de la Lengua Tagala字典中,這是阿多波一詞第一次出現在字典裡。而菲律賓的歷史因素,使阿多波這道菜餚受到西班牙、美國、東南亞等國的影響,有著豐富、多元的風味。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E8%B3%93%E9%98%BF%E5%A4%9A%E6%B3%A2"
+                                },
+                                "src_context": [
+                                    "使用醋和食鹽烹調或儲存食物不僅能抑制細菌的孳生, 也可以維持食物的新鮮度和保存期限。",
+                                    "「阿多波」一詞來自西班牙語的「Adobar」。",
+                                    "「Adobar」的意思是把東西浸泡在滷汁的這個動作。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It was first recorded in the 1613 dictionary Vocabulario de la lengua tagala compiled by the Spanish Franciscan missionary, Pedro de San Buenaventura.",
+                                    "He referred to it as adobo de los naturales (\"adobo of the native [peoples]\").",
+                                    "Philippine adobo (from Spanish: adobar: \"marinade\", \"sauce\" or \"seasoning\" / English:  Tagalog pronunciation: [ɐdobo]) is a popular Filipino dish and cooking process in Philippine cuisine."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "歷史",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "早在菲律賓成為殖民地以前, 當地即發展出一套符合地理環境的食物製作手法。",
+                                    "translated": "Long before the Philippines became a colony, the local people had developed a set of food preparation techniques that suited the geographical environment.",
+                                    "fact_aligned_sentence": "早在菲律賓成為殖民地以前,當地即發展出一套符合地理環境的食物製作手法,為了因應菲律賓炎熱潮濕的氣候,當地人常常用醋和食鹽烹調或儲存食物,不僅能抑制細菌的孳生,也可以維持食物的新鮮度和保存期限。而「阿多波」一詞,是來自西班牙語的「Adobar」,意思是把東西浸泡在滷汁的這個動作,也有學者認為此詞彙指的是一種保存食物的方式。直到十六世紀到十七世紀初,西班牙帝國殖民菲律賓時,認識了這道菲律賓本土料理的製作過程,便將此料理取名為阿多波。西班牙傳教士佩德羅·德·聖布埃納文圖拉更是將阿多波編入Vocabulario de la Lengua Tagala字典中,這是阿多波一詞第一次出現在字典裡。而菲律賓的歷史因素,使阿多波這道菜餚受到西班牙、美國、東南亞等國的影響,有著豐富、多元的風味。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E8%B3%93%E9%98%BF%E5%A4%9A%E6%B3%A2"
+                                },
+                                "src_context": [
+                                    "菲律賓阿多波的常見吃法是將嫩煎好的肉品鋪蓋在飯上。",
+                                    "菲律賓阿多波的常見吃法是再淋上剩餘的醬汁。",
+                                    "早在菲律賓成為殖民地以前, 當地即發展出一套符合地理環境的食物製作手法。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "When the Spanish Empire colonized the Philippines in the late 16th and early 17th centuries, they encountered the adobo cooking process.",
+                                    "When the Spanish Empire colonized the Philippines in the late 16th and early 17th centuries, they encountered the adobo cooking process.",
+                                    "The Spanish also applied the term adobo to any native dish that was marinated before consumption.",
+                                    "However, the concept of cooking adobo already existed long before the arrival of the Spanish in 1521."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "歷史",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "阿多波有著豐富、多元的風味。",
+                                    "translated": "Adobo has a rich and diverse flavor.",
+                                    "fact_aligned_sentence": "早在菲律賓成為殖民地以前,當地即發展出一套符合地理環境的食物製作手法,為了因應菲律賓炎熱潮濕的氣候,當地人常常用醋和食鹽烹調或儲存食物,不僅能抑制細菌的孳生,也可以維持食物的新鮮度和保存期限。而「阿多波」一詞,是來自西班牙語的「Adobar」,意思是把東西浸泡在滷汁的這個動作,也有學者認為此詞彙指的是一種保存食物的方式。直到十六世紀到十七世紀初,西班牙帝國殖民菲律賓時,認識了這道菲律賓本土料理的製作過程,便將此料理取名為阿多波。西班牙傳教士佩德羅·德·聖布埃納文圖拉更是將阿多波編入Vocabulario de la Lengua Tagala字典中,這是阿多波一詞第一次出現在字典裡。而菲律賓的歷史因素,使阿多波這道菜餚受到西班牙、美國、東南亞等國的影響,有著豐富、多元的風味。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E8%B3%93%E9%98%BF%E5%A4%9A%E6%B3%A2"
+                                },
+                                "src_context": [
+                                    "這是阿多波一詞第一次出現在字典裡。",
+                                    "菲律賓的歷史因素使阿多波這道菜餚受到西班牙、美國、東南亞等國的影響。",
+                                    "阿多波有著豐富、多元的風味。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "More exotic versions include adobong sawâ (snake), adobong palakâ (frog), Kapampangan adobung kamaru (mole cricket), and the adobong atáy at balúnbalunan (chicken liver and gizzard).",
+                                    "There are also regional variations.",
+                                    "Philippine adobo variants",
+                                    "Philippine adobo variants"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "歷史",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "西班牙帝國將這道菲律賓本土料理取名為阿多波。",
+                                    "translated": "The Spanish Empire named this native Filipino dish Adobo.",
+                                    "fact_aligned_sentence": "早在菲律賓成為殖民地以前,當地即發展出一套符合地理環境的食物製作手法,為了因應菲律賓炎熱潮濕的氣候,當地人常常用醋和食鹽烹調或儲存食物,不僅能抑制細菌的孳生,也可以維持食物的新鮮度和保存期限。而「阿多波」一詞,是來自西班牙語的「Adobar」,意思是把東西浸泡在滷汁的這個動作,也有學者認為此詞彙指的是一種保存食物的方式。直到十六世紀到十七世紀初,西班牙帝國殖民菲律賓時,認識了這道菲律賓本土料理的製作過程,便將此料理取名為阿多波。西班牙傳教士佩德羅·德·聖布埃納文圖拉更是將阿多波編入Vocabulario de la Lengua Tagala字典中,這是阿多波一詞第一次出現在字典裡。而菲律賓的歷史因素,使阿多波這道菜餚受到西班牙、美國、東南亞等國的影響,有著豐富、多元的風味。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%BE%8B%E8%B3%93%E9%98%BF%E5%A4%9A%E6%B3%A2"
+                                },
+                                "src_context": [
+                                    "有學者認為「阿多波」一詞指的是一種保存食物的方式。",
+                                    "直到十六世紀到十七世紀初, 西班牙帝國殖民菲律賓時, 認識了這道菲律賓本土料理的製作過程。",
+                                    "西班牙帝國將這道菲律賓本土料理取名為阿多波。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It may also be further browned in the oven, pan-fried, deep-fried, or even grilled to get crisped edges.",
+                                    "Adobo has been called the quintessential Philippine stew, served with rice both at daily meals and at feasts.",
+                                    "He referred to it as adobo de los naturales (\"adobo of the native [peoples]\").",
+                                    "The Spanish also applied the term adobo to any native dish that was marinated before consumption."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

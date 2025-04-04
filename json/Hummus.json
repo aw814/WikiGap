@@ -1,0 +1,1298 @@
+{
+    "Hummus": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В состав хумуса обычно добавляются кунжутная паста (тахи́ни).",
+                                    "translated": "'Tahini (sesame paste) is usually added to the composition of hummus.'",
+                                    "fact_aligned_sentence": "حُمُّص) — закуска из нутового пюре, в состав которой обычно добавляются кунжутная паста (тахи́ни), оливковое масло, чеснок, сок лимона, паприка.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "Ху́мус (ху́ммус, хо́мус, хо́ммус) — закуска из нутового пюре.",
+                                    "Хумус происходит от арабского слова حُمُّص.",
+                                    "В состав хумуса обычно добавляются кунжутная паста (тахи́ни)."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "All of the ingredients in hummus are easily found in gardens, farms and markets, thus adding to the availability and popularity of the dish.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В современности хумус получил известность во всём мире.",
+                                    "translated": "'Hummus has gained fame worldwide in modern times.'",
+                                    "fact_aligned_sentence": "Широко распространён в странах Ближнего Востока, в современности получил известность во всём мире.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "В арабском языке слово «хумус» означает как растение нут бараний (Cicer arietinum), так и саму закуску.",
+                                    "Хумус широко распространён в странах Ближнего Востока.",
+                                    "В современности хумус получил известность во всём мире."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Hummus is a common dip in Egypt where it is eaten with pita, and frequently flavored with cumin or other spices.",
+                                    "In the Levant, hummus has long been a staple food, often served as a warm dish, with bread for breakfast, lunch or dinner.",
+                                    "Hummus was popularized in the UK by chefs such as Yotam Ottolenghi, Claudia Roden and Anissa Helou.",
+                                    "As of 2013, £60 million worth of hummus was sold in the UK each year, and one survey found that 41% of Britons had hummus in their fridge, twice as many as the rest of Europe."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Хумус широко распространён в странах Ближнего Востока.",
+                                    "translated": "'Hummus is widely spread in the countries of the Middle East.'",
+                                    "fact_aligned_sentence": "Широко распространён в странах Ближнего Востока, в современности получил известность во всём мире.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "В состав хумуса обычно добавляется паприка.",
+                                    "В арабском языке слово «хумус» означает как растение нут бараний (Cicer arietinum), так и саму закуску.",
+                                    "Хумус широко распространён в странах Ближнего Востока."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Commonly consumed in Levantine cuisine, it is usually eaten as a dip with pita bread.",
+                                    "In the West, it is produced industrially and consumed as a snack or appetizer with crackers or vegetables.",
+                                    "Although, hummus has traditionally been part of the cuisine of the Mizrahi Jews who lived in Arabic-speaking lands, the dish was also popularized among the Jewish immigrants from Europe in the late 19th and early 20th century.",
+                                    "Although, hummus has traditionally been part of the cuisine of the Mizrahi Jews who lived in Arabic-speaking lands, the dish was also popularized among the Jewish immigrants from Europe in the late 19th and early 20th century."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В состав хумуса обычно добавляется чеснок.",
+                                    "translated": "Garlic is usually added to the composition of hummus.",
+                                    "fact_aligned_sentence": "حُمُّص) — закуска из нутового пюре, в состав которой обычно добавляются кунжутная паста (тахи́ни), оливковое масло, чеснок, сок лимона, паприка.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "В состав хумуса обычно добавляются кунжутная паста (тахи́ни).",
+                                    "В состав хумуса обычно добавляется оливковое масло.",
+                                    "В состав хумуса обычно добавляется чеснок."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Ху́мус (ху́ммус, хо́мус, хо́ммус) — закуска из нутового пюре.",
+                                    "translated": "Hummus (humus, homus, hummus) is a snack made from chickpea puree.",
+                                    "fact_aligned_sentence": "Ху́мус (ху́ммус, хо́мус, хо́ммус; от араб.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "Ху́мус (ху́ммус, хо́мус, хо́ммус) — закуска из нутового пюре."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In the Levant, hummus has long been a staple food, often served as a warm dish, with bread for breakfast, lunch or dinner.",
+                                    "In the Levant, hummus has long been a staple food, often served as a warm dish, with bread for breakfast, lunch or dinner.",
+                                    "Hummus (, ; Arabic: حُمُّص ḥummuṣ, 'chickpeas', also spelled hommus or houmous), is a Levantine dip, spread, or savory dish made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic.",
+                                    "Hummus (, ; Arabic: حُمُّص ḥummuṣ, 'chickpeas', also spelled hommus or houmous), is a Levantine dip, spread, or savory dish made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Хумус используется как спред.",
+                                    "translated": "'Hummus is used as a spread.'",
+                                    "fact_aligned_sentence": "Используется как самостоятельное блюдо, как соус, заправка для других блюд, как спред.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "Хумус используется как соус.",
+                                    "Хумус используется как заправка для других блюд.",
+                                    "Хумус используется как спред."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "As an appetizer and dip, diners scoop hummus with flatbread, such as pita.",
+                                    "It is also served as part of a meze or as an accompaniment to falafel, grilled chicken, fish, or eggplant.",
+                                    "It is also served as part of a meze or as an accompaniment to falafel, grilled chicken, fish, or eggplant.",
+                                    "It is also served as part of a meze or as an accompaniment to falafel, grilled chicken, fish, or eggplant."
+                                ]
+                            }
+                        ]
+                    },
+                    "распространение": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "распространение",
+                                    "translated": "spreading"
+                                },
+                                "fact": {
+                                    "original": "С 2005 по 2010 год объём продаж хумуса в США вырос с 5 до 18 миллионов долларов.",
+                                    "translated": "From 2005 to 2010, the volume of hummus sales in the USA increased from 5 to 18 million dollars.",
+                                    "fact_aligned_sentence": "В начале XXI века хумус стал набирать популярность в США, где с 2005 по 2010 год объём его продаж вырос с 5 до 18 миллионов долларов, и в других развитых странах среди вегетарианцев и людей, не способных употреблять в пищу глютен и содержащие его продукты.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "Эти книги датируются XIII веком.",
+                                    "В начале XXI века хумус стал набирать популярность в США.",
+                                    "С 2005 по 2010 год объём продаж хумуса в США вырос с 5 до 18 миллионов долларов."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "While in 2006–08 when some 15 million Americans consumed hummus, and annual national sales were about $5 million, sales growth in 2016 was reflected by an estimated 25% of US households consuming hummus.",
+                                    "While in 2006–08 when some 15 million Americans consumed hummus, and annual national sales were about $5 million, sales growth in 2016 was reflected by an estimated 25% of US households consuming hummus.",
+                                    "One commentator attributed the growth of hummus to America's embrace of ethnic and exotic foods.",
+                                    "While in 2006–08 when some 15 million Americans consumed hummus, and annual national sales were about $5 million, sales growth in 2016 was reflected by an estimated 25% of US households consuming hummus."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "распространение",
+                                    "translated": "spreading"
+                                },
+                                "fact": {
+                                    "original": "Хумус стал популярен среди людей, не способных употреблять в пищу глютен и содержащие его продукты.",
+                                    "translated": "Hummus has become popular among people who cannot eat gluten and gluten-containing products.",
+                                    "fact_aligned_sentence": "В начале XXI века хумус стал набирать популярность в США, где с 2005 по 2010 год объём его продаж вырос с 5 до 18 миллионов долларов, и в других развитых странах среди вегетарианцев и людей, не способных употреблять в пищу глютен и содержащие его продукты.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "С 2005 по 2010 год объём продаж хумуса в США вырос с 5 до 18 миллионов долларов.",
+                                    "Хумус стал популярен в других развитых странах среди вегетарианцев.",
+                                    "Хумус стал популярен среди людей, не способных употреблять в пищу глютен и содержащие его продукты."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "All of the ingredients in hummus are easily found in gardens, farms and markets, thus adding to the availability and popularity of the dish.",
+                                    "All of the ingredients in hummus are easily found in gardens, farms and markets, thus adding to the availability and popularity of the dish.",
+                                    "One commentator attributed the growth of hummus to America's embrace of ethnic and exotic foods.",
+                                    "While in 2006–08 when some 15 million Americans consumed hummus, and annual national sales were about $5 million, sales growth in 2016 was reflected by an estimated 25% of US households consuming hummus."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "распространение",
+                                    "translated": "spreading"
+                                },
+                                "fact": {
+                                    "original": "Хумус стал популярен в других развитых странах среди вегетарианцев.",
+                                    "translated": "Hummus has become popular in other developed countries among vegetarians.",
+                                    "fact_aligned_sentence": "В начале XXI века хумус стал набирать популярность в США, где с 2005 по 2010 год объём его продаж вырос с 5 до 18 миллионов долларов, и в других развитых странах среди вегетарианцев и людей, не способных употреблять в пищу глютен и содержащие его продукты.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "В начале XXI века хумус стал набирать популярность в США.",
+                                    "С 2005 по 2010 год объём продаж хумуса в США вырос с 5 до 18 миллионов долларов.",
+                                    "Хумус стал популярен в других развитых странах среди вегетарианцев."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "To meet the rising consumer demand for hummus, American farmers increased their production of chickpeas four-fold since 2009, harvesting more than 100,000,000 pounds (45,000,000 kg) in 2015, an increase from 25,000,000 pounds (11,000,000 kg) in 2009.",
+                                    "Hummus consumption has been so popular that many tobacco farmers have switched to growing chickpeas to meet demand.",
+                                    "One commentator attributed the growth of hummus to America's embrace of ethnic and exotic foods.",
+                                    "While in 2006–08 when some 15 million Americans consumed hummus, and annual national sales were about $5 million, sales growth in 2016 was reflected by an estimated 25% of US households consuming hummus."
+                                ]
+                            }
+                        ]
+                    },
+                    "принадлежность": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "принадлежность",
+                                    "translated": "belonging"
+                                },
+                                "fact": {
+                                    "original": "Войны между Израилем и соседними арабскими государствами привели к увеличению популярности хумуса у израильских евреев и отрицанию его палестинского происхождения.",
+                                    "translated": "The wars between Israel and neighboring Arab states led to an increase in the popularity of hummus among Israeli Jews and a denial of its Palestinian origins.",
+                                    "fact_aligned_sentence": "Палестино-израильский конфликт, войны между Израилем и соседними арабскими государствами, а также переселение евреев из мусульманских стран привели к увеличению популярности хумуса у израильских евреев и отрицанию его палестинского происхождения.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "Историк Дафна Хирш утверждает, что некоторые палестинские блюда, в том числе и хумус, были заимствованы еврейскими переселенцами из Восточной Европы как часть мер по укоренению на Ближнем Востоке.",
+                                    "Палестино-израильский конфликт привел к увеличению популярности хумуса у израильских евреев и отрицанию его палестинского происхождения.",
+                                    "Войны между Израилем и соседними арабскими государствами привели к увеличению популярности хумуса у израильских евреев и отрицанию его палестинского происхождения."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In recent years, through a process of gourmetization, the Arab identity of hummus became a marker of its authenticity, making famous Arab-Israeli villages such as Abu Gosh and Kafr Yasif.",
+                                    "In recent years, through a process of gourmetization, the Arab identity of hummus became a marker of its authenticity, making famous Arab-Israeli villages such as Abu Gosh and Kafr Yasif.",
+                                    "As of 2009, the Lebanese Industrialists Association was still \"collecting documents and proof\" to support its claim.",
+                                    "The 2005 short film West Bank Story features a rivalry between two fictional restaurants, the Israeli \"Kosher King\" and the Palestinian \"Hummus Hut\"."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "принадлежность",
+                                    "translated": "belonging"
+                                },
+                                "fact": {
+                                    "original": "Палестино-израильский конфликт привел к увеличению популярности хумуса у израильских евреев и отрицанию его палестинского происхождения.",
+                                    "translated": "The Palestinian-Israeli conflict has led to an increase in the popularity of hummus among Israeli Jews and a denial of its Palestinian origins.",
+                                    "fact_aligned_sentence": "Палестино-израильский конфликт, войны между Израилем и соседними арабскими государствами, а также переселение евреев из мусульманских стран привели к увеличению популярности хумуса у израильских евреев и отрицанию его палестинского происхождения.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "Иногда израильские евреи именуют хумус «самым израильским блюдом».",
+                                    "Историк Дафна Хирш утверждает, что некоторые палестинские блюда, в том числе и хумус, были заимствованы еврейскими переселенцами из Восточной Европы как часть мер по укоренению на Ближнем Востоке.",
+                                    "Палестино-израильский конфликт привел к увеличению популярности хумуса у израильских евреев и отрицанию его палестинского происхождения."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "As of 2009, the Lebanese Industrialists Association was still \"collecting documents and proof\" to support its claim.",
+                                    "The 2005 short film West Bank Story features a rivalry between two fictional restaurants, the Israeli \"Kosher King\" and the Palestinian \"Hummus Hut\".",
+                                    "Hummus is often seen as an unofficial \"national dish\" of Israel, reflecting its huge popularity and significance among the entire Israeli population, which Israel's critics describe as an appropriation of Lebanese, Palestinian or Arab culture.",
+                                    "Hummus is often seen as an unofficial \"national dish\" of Israel, reflecting its huge popularity and significance among the entire Israeli population, which Israel's critics describe as an appropriation of Lebanese, Palestinian or Arab culture."
+                                ]
+                            }
+                        ]
+                    },
+                    "состав и свойства": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "состав и свойства",
+                                    "translated": "Composition and properties"
+                                },
+                                "fact": {
+                                    "original": "Приправы могут добавляться по вкусу.",
+                                    "translated": "Spices can be added to taste.",
+                                    "fact_aligned_sentence": "Приправы (в частности, чеснок, соль, петрушка, лук, молотый кумин (зира́), за́атар, перец чили) могут добавляться по вкусу.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "В хумус добавляется сок лимона.",
+                                    "В хумус добавляется кунжутная паста (тахи́ни).",
+                                    "Приправы могут добавляться по вкусу."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The \"title\" has gone back and forth between Israel (2008), Lebanon (2009), Israel (January 2010), and, as of 2021, Lebanon (May 2010).",
+                                    "The \"title\" has gone back and forth between Israel (2008), Lebanon (2009), Israel (January 2010), and, as of 2021, Lebanon (May 2010).",
+                                    "Chickpeas, the main ingredient of conventional hummus, have appreciable amounts of dietary fiber, protein, vitamin B6, manganese and other nutrients.",
+                                    "As hummus recipes vary, so does nutritional content, depending primarily on the relative proportions of chickpeas, tahini, and water."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "состав и свойства",
+                                    "translated": "Composition and properties"
+                                },
+                                "fact": {
+                                    "original": "Нут гомогенизируется вручную или с помощью блендера.",
+                                    "translated": "The chickpea is homogenized manually or with a blender.",
+                                    "fact_aligned_sentence": "Хумус готовится из отварного нута, который гомогенизируется вручную или с помощью блендера с добавлением оливкового масла, сока лимона и кунжутной пасты (тахи́ни).",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "В ходе процесса «гурметизации» хумуса арабская идентичность производителя становится признаком аутентичности и высокого качества продукта.",
+                                    "Хумус готовится из отварного нута.",
+                                    "Нут гомогенизируется вручную или с помощью блендера."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Lebanon and Israel's chefs have been engaged in a competition over the largest dish of hummus, as validated by the Guinness World Record, as a form of contestation of \"ownership\".",
+                                    "Lebanon and Israel's chefs have been engaged in a competition over the largest dish of hummus, as validated by the Guinness World Record, as a form of contestation of \"ownership\".",
+                                    "In the Levant, hummus has long been a staple food, often served as a warm dish, with bread for breakfast, lunch or dinner.",
+                                    "In the Levant, hummus has long been a staple food, often served as a warm dish, with bread for breakfast, lunch or dinner."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "состав и свойства",
+                                    "translated": "Composition and properties"
+                                },
+                                "fact": {
+                                    "original": "Среди популярных добавок к хумусу — тыквенное пюре.",
+                                    "translated": "Among the popular additions to hummus is pumpkin puree.",
+                                    "fact_aligned_sentence": "Среди популярных добавок к хумусу — жареный красный перец, чеснок, жареный лук, жареные помидоры, кедровые орехи, тыквенное пюре, сыр фета, копчёная паприка, какао.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "Среди популярных добавок к хумусу — жареные помидоры.",
+                                    "Среди популярных добавок к хумусу — кедровые орехи.",
+                                    "Среди популярных добавок к хумусу — тыквенное пюре."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In the United States and Europe, hummus is commercially available in numerous traditional and non-traditional varieties, such as beet or chocolate.",
+                                    "Chickpeas, the main ingredient of conventional hummus, have appreciable amounts of dietary fiber, protein, vitamin B6, manganese and other nutrients.",
+                                    "In the United States and Europe, hummus is commercially available in numerous traditional and non-traditional varieties, such as beet or chocolate.",
+                                    "In the United States and Europe, hummus is commercially available in numerous traditional and non-traditional varieties, such as beet or chocolate."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "состав и свойства",
+                                    "translated": "Composition and properties"
+                                },
+                                "fact": {
+                                    "original": "Хумус содержит большое количество железа.",
+                                    "translated": "'Hummus contains a large amount of iron.'",
+                                    "fact_aligned_sentence": "Хумус содержит большое количество растительного белка, пищевой клетчатки, ненасыщенных жиров и железа.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "Хумус содержит большое количество пищевой клетчатки.",
+                                    "Хумус содержит большое количество ненасыщенных жиров.",
+                                    "Хумус содержит большое количество железа."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Chickpeas, the main ingredient of conventional hummus, have appreciable amounts of dietary fiber, protein, vitamin B6, manganese and other nutrients.",
+                                    "Chickpeas, the main ingredient of conventional hummus, have appreciable amounts of dietary fiber, protein, vitamin B6, manganese and other nutrients.",
+                                    "Chickpeas, the main ingredient of conventional hummus, have appreciable amounts of dietary fiber, protein, vitamin B6, manganese and other nutrients.",
+                                    "Chickpeas, the main ingredient of conventional hummus, have appreciable amounts of dietary fiber, protein, vitamin B6, manganese and other nutrients."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "состав и свойства",
+                                    "translated": "Composition and properties"
+                                },
+                                "fact": {
+                                    "original": "В качестве приправ могут использоваться чеснок, соль, петрушка, лук, молотый кумин (зира́), за́атар, перец чили.",
+                                    "translated": "Garlic, salt, parsley, onion, ground cumin (zira), za'atar, and chili pepper can be used as seasonings.",
+                                    "fact_aligned_sentence": "Приправы (в частности, чеснок, соль, петрушка, лук, молотый кумин (зира́), за́атар, перец чили) могут добавляться по вкусу.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "В хумус добавляется кунжутная паста (тахи́ни).",
+                                    "Приправы могут добавляться по вкусу.",
+                                    "В качестве приправ могут использоваться чеснок, соль, петрушка, лук, молотый кумин (зира́), за́атар, перец чили."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Although multiple different theories and claims of origins exist in various parts of the Middle East, evidence is insufficient to determine the precise location or time of the invention of hummus.",
+                                    "Its basic ingredients—chickpeas, sesame, lemon, and garlic—have been combined and eaten in Egypt and the Levant for centuries.",
+                                    "Hummus (, ; Arabic: حُمُّص ḥummuṣ, 'chickpeas', also spelled hommus or houmous), is a Levantine dip, spread, or savory dish made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic.",
+                                    "The standard garnish includes olive oil, a few whole chickpeas, parsley, and paprika."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "состав и свойства",
+                                    "translated": "Composition and properties"
+                                },
+                                "fact": {
+                                    "original": "Среди популярных добавок к хумусу — жареные помидоры.",
+                                    "translated": "Among popular toppings for hummus are roasted tomatoes.",
+                                    "fact_aligned_sentence": "Среди популярных добавок к хумусу — жареный красный перец, чеснок, жареный лук, жареные помидоры, кедровые орехи, тыквенное пюре, сыр фета, копчёная паприка, какао.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BC%D1%83%D1%81"
+                                },
+                                "src_context": [
+                                    "Среди популярных добавок к хумусу — чеснок.",
+                                    "Среди популярных добавок к хумусу — жареный лук.",
+                                    "Среди популярных добавок к хумусу — жареные помидоры."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In the United States and Europe, hummus is commercially available in numerous traditional and non-traditional varieties, such as beet or chocolate.",
+                                    "Chickpeas, the main ingredient of conventional hummus, have appreciable amounts of dietary fiber, protein, vitamin B6, manganese and other nutrients.",
+                                    "In the United States and Europe, hummus is commercially available in numerous traditional and non-traditional varieties, such as beet or chocolate.",
+                                    "In the United States and Europe, hummus is commercially available in numerous traditional and non-traditional varieties, such as beet or chocolate."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "origine": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "origine",
+                                    "translated": "origin"
+                                },
+                                "fact": {
+                                    "original": "Les plus vieilles preuves archéologiques de la domestication du pois chiche sont datées à 9 900 à 9 500 ans avant le présent.",
+                                    "translated": "The oldest archaeological evidence of chickpea domestication dates back to 9,900 to 9,500 years ago.",
+                                    "fact_aligned_sentence": "Les premières mentions du plat datent du VIIe siècle av.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Houmous"
+                                },
+                                "src_context": [
+                                    "Le pois chiche sauvage est endémique au Croissant fertile.",
+                                    "La culture du pois chiche sauvage a commencé dans le Croissant fertile.",
+                                    "Les plus vieilles preuves archéologiques de la domestication du pois chiche sont datées à 9 900 à 9 500 ans avant le présent."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "By 2016, the leading American hummus manufacturer, Sabra Dipping Company, held a 62% market share for hummus sales in the United States, and was forecast to exceed $1 billion in sales in 2017.",
+                                    "To meet the rising consumer demand for hummus, American farmers increased their production of chickpeas four-fold since 2009, harvesting more than 100,000,000 pounds (45,000,000 kg) in 2015, an increase from 25,000,000 pounds (11,000,000 kg) in 2009.",
+                                    "Although multiple different theories and claims of origins exist in various parts of the Middle East, evidence is insufficient to determine the precise location or time of the invention of hummus.",
+                                    "Although multiple different theories and claims of origins exist in various parts of the Middle East, evidence is insufficient to determine the precise location or time of the invention of hummus."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "origine",
+                                    "translated": "origin"
+                                },
+                                "fact": {
+                                    "original": "La culture du pois chiche sauvage a commencé dans le Croissant fertile.",
+                                    "translated": "The cultivation of wild chickpeas began in the Fertile Crescent.",
+                                    "fact_aligned_sentence": "Les plus vieilles preuves archéologiques de la domestication de ce légume sont datées à 9 900 à 9 500 ans avant le présent.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Houmous"
+                                },
+                                "src_context": [
+                                    "Le mot « houmous » se trouve transcrit en français de manière variable (« hommos », « hoummous », « houmos », « oumos », « humus », « hummus », etc.).",
+                                    "Le pois chiche sauvage est endémique au Croissant fertile.",
+                                    "La culture du pois chiche sauvage a commencé dans le Croissant fertile."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Its basic ingredients—chickpeas, sesame, lemon, and garlic—have been combined and eaten in Egypt and the Levant for centuries.",
+                                    "Though regional populations widely ate chickpeas, and often cooked them in stews and other hot dishes, puréed chickpeas eaten cold with tahini do not appear in records before the Abbasid Caliphate in Egypt and the Levant.",
+                                    "Commonly consumed in Levantine cuisine, it is usually eaten as a dip with pita bread.",
+                                    "In the West, it is produced industrially and consumed as a snack or appetizer with crackers or vegetables."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "origine",
+                                    "translated": "origin"
+                                },
+                                "fact": {
+                                    "original": "Les premières mentions du plat à base de pois chiche datent du VIIe siècle av. J.-C. en Mésopotamie.",
+                                    "translated": "The first mentions of the dish made from chickpeas date back to the 7th century BC in Mesopotamia.",
+                                    "fact_aligned_sentence": "J.-C. en Mésopotamie.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Houmous"
+                                },
+                                "src_context": [
+                                    "La culture du pois chiche sauvage a commencé dans le Croissant fertile.",
+                                    "Les plus vieilles preuves archéologiques de la domestication du pois chiche sont datées à 9 900 à 9 500 ans avant le présent.",
+                                    "Les premières mentions du plat à base de pois chiche datent du VIIe siècle av. J.-C. en Mésopotamie."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The standard garnish includes olive oil, a few whole chickpeas, parsley, and paprika.",
+                                    "The earliest mention of hummus was in a 13th century cookbook attributed to the historian Ibn al-Adim from Aleppo in present-day Syria.",
+                                    "The earliest mention of Hummus comes from Syria, in a 13th-century cookbook attributed to the Aleppine historian Ibn al-Adim.",
+                                    "The earliest mention of Hummus comes from Syria, in a 13th-century cookbook attributed to the Aleppine historian Ibn al-Adim."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "origine",
+                                    "translated": "origin"
+                                },
+                                "fact": {
+                                    "original": "Le pois chiche sauvage est endémique au Croissant fertile.",
+                                    "translated": "Wild chickpea is endemic to the Fertile Crescent.",
+                                    "fact_aligned_sentence": "Le pois chiche sauvage est endémique au Croissant fertile et sa culture a donc commencé dans cette région.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Houmous"
+                                },
+                                "src_context": [
+                                    "Il ne faut pas confondre le houmous avec la balila (ar), aussi appelée حمص بليلة / ḥummuṣ balīla.",
+                                    "Le mot « houmous » se trouve transcrit en français de manière variable (« hommos », « hoummous », « houmos », « oumos », « humus », « hummus », etc.).",
+                                    "Le pois chiche sauvage est endémique au Croissant fertile."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Its basic ingredients—chickpeas, sesame, lemon, and garlic—have been combined and eaten in Egypt and the Levant for centuries.",
+                                    "Though regional populations widely ate chickpeas, and often cooked them in stews and other hot dishes, puréed chickpeas eaten cold with tahini do not appear in records before the Abbasid Caliphate in Egypt and the Levant.",
+                                    "Some American dictionaries give hommos as an alternative, while British dictionaries give houmous or hoummos.",
+                                    "The major British supermarkets use houmous."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "origine",
+                                    "translated": "origin"
+                                },
+                                "fact": {
+                                    "original": "Le pays d'origine du houmous est inconnu.",
+                                    "translated": "The country of origin of hummus is unknown.",
+                                    "fact_aligned_sentence": "Le pays d'origine du houmous est donc inconnu, mais au moins huit pays sont candidats, le Liban, Palestine/Israël sont les plus actifs sur le sujet, mais également la Grèce, la Turquie, la Jordanie, la Syrie et l'Égypte.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Houmous"
+                                },
+                                "src_context": [
+                                    "Les premières mentions du plat à base de pois chiche datent du VIIe siècle av. J.-C. en Mésopotamie.",
+                                    "La forme moderne du houmous serait apparue dans l'Empire ottoman durant le XVe siècle.",
+                                    "Le pays d'origine du houmous est inconnu."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "As hummus recipes vary, so does nutritional content, depending primarily on the relative proportions of chickpeas, tahini, and water.",
+                                    "As hummus recipes vary, so does nutritional content, depending primarily on the relative proportions of chickpeas, tahini, and water.",
+                                    "Hummus consumption has been so popular that many tobacco farmers have switched to growing chickpeas to meet demand.",
+                                    "Hummus is often seen as an unofficial \"national dish\" of Israel, reflecting its huge popularity and significance among the entire Israeli population, which Israel's critics describe as an appropriation of Lebanese, Palestinian or Arab culture."
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Cette préparation est d'origine très disputée.",
+                                    "translated": "This preparation has a highly disputed origin.",
+                                    "fact_aligned_sentence": "Cette préparation est d'origine très disputée : au moins sept pays se considèrent comme la mère patrie du houmous et la « guerre du houmous » est régulièrement relayée par la presse.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Houmous"
+                                },
+                                "src_context": [
+                                    "Le mot houmous en hébreu s'écrit חומוס.",
+                                    "Le mot houmous en arménien s'écrit համուս.",
+                                    "Cette préparation est d'origine très disputée."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Commonly consumed in Levantine cuisine, it is usually eaten as a dip with pita bread.",
+                                    "In the West, it is produced industrially and consumed as a snack or appetizer with crackers or vegetables.",
+                                    "Though regional populations widely ate chickpeas, and often cooked them in stews and other hot dishes, puréed chickpeas eaten cold with tahini do not appear in records before the Abbasid Caliphate in Egypt and the Levant.",
+                                    "Though regional populations widely ate chickpeas, and often cooked them in stews and other hot dishes, puréed chickpeas eaten cold with tahini do not appear in records before the Abbasid Caliphate in Egypt and the Levant."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Le houmous ou hommos est une préparation culinaire du Proche-Orient.",
+                                    "translated": "Hummus is a culinary preparation from the Near East.",
+                                    "fact_aligned_sentence": "Le houmous  ou  hommos (en arabe : حمص / ḥummuṣ ; prononciation levantine : [ˈħɔmmɔsʕ] ; en hébreu : חומוס ; en arménien : համուս) est une préparation culinaire du Proche-Orient, composée notamment de purée de pois chiches et de tahini (purée de sésame).",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Houmous"
+                                },
+                                "src_context": [
+                                    "Le houmous ou hommos est une préparation culinaire du Proche-Orient."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is made from ingredients that, following Kashrut (Jewish dietary laws), can be combined with both meat and dairy meals.",
+                                    "Chickpea dishes have long been part of the cuisine of Jews who lived in the Middle East and Northern Africa.",
+                                    "Hummus (, ; Arabic: حُمُّص ḥummuṣ, 'chickpeas', also spelled hommus or houmous), is a Levantine dip, spread, or savory dish made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Le mot houmous en arménien s'écrit համուս.",
+                                    "translated": "The word hummus is written as հաստ in Armenian.",
+                                    "fact_aligned_sentence": "Il s'agit d'un plat typique de la cuisine arabe, juive, arménienne et levantine.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Houmous"
+                                },
+                                "src_context": [
+                                    "Le mot houmous en arabe s'écrit حمص et se prononce [ˈħɔmmɔsʕ] en levantin.",
+                                    "Le mot houmous en hébreu s'écrit חומוס.",
+                                    "Le mot houmous en arménien s'écrit համուս."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Cyprus, hummus is part of the local cuisine in both Turkish Cypriot and Greek Cypriot communities where it is called \"humoi\" (Greek: χούμοι).",
+                                    "In Cyprus, hummus is part of the local cuisine in both Turkish Cypriot and Greek Cypriot communities where it is called \"humoi\" (Greek: χούμοι).",
+                                    "Hummus (, ; Arabic: حُمُّص ḥummuṣ, 'chickpeas', also spelled hommus or houmous), is a Levantine dip, spread, or savory dish made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic.",
+                                    "Hummus (, ; Arabic: حُمُّص ḥummuṣ, 'chickpeas', also spelled hommus or houmous), is a Levantine dip, spread, or savory dish made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic."
+                                ]
+                            }
+                        ]
+                    },
+                    "intérêt nutritionnel": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "intérêt nutritionnel",
+                                    "translated": "nutritional interest"
+                                },
+                                "fact": {
+                                    "original": "Le sésame fournit un apport de méthionine.",
+                                    "translated": "Sesame provides a source of methionine.",
+                                    "fact_aligned_sentence": "Le sésame fournit un apport de méthionine, un des huit acides aminés essentiels.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Houmous"
+                                },
+                                "src_context": [
+                                    "Le houmous contient des pois chiches.",
+                                    "Les pois chiches, comme toutes les légumineuses, apportent des protéines végétales.",
+                                    "Le sésame fournit un apport de méthionine."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Chickpeas, the main ingredient of conventional hummus, have appreciable amounts of dietary fiber, protein, vitamin B6, manganese and other nutrients.",
+                                    "Chickpeas, the main ingredient of conventional hummus, have appreciable amounts of dietary fiber, protein, vitamin B6, manganese and other nutrients.",
+                                    "Chickpeas, the main ingredient of conventional hummus, have appreciable amounts of dietary fiber, protein, vitamin B6, manganese and other nutrients.",
+                                    "Chickpeas, the main ingredient of conventional hummus, have appreciable amounts of dietary fiber, protein, vitamin B6, manganese and other nutrients."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "intérêt nutritionnel",
+                                    "translated": "nutritional interest"
+                                },
+                                "fact": {
+                                    "original": "Les pois chiches, comme toutes les légumineuses, apportent des protéines végétales.",
+                                    "translated": "Chickpeas, like all legumes, provide plant-based protein.",
+                                    "fact_aligned_sentence": "Le houmous contient des pois chiches qui, comme toutes les légumineuses, apportent des protéines végétales.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Houmous"
+                                },
+                                "src_context": [
+                                    "Un documentaire est consacré à la « guerre du houmous ».",
+                                    "Le houmous contient des pois chiches.",
+                                    "Les pois chiches, comme toutes les légumineuses, apportent des protéines végétales."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Chickpeas, the main ingredient of conventional hummus, have appreciable amounts of dietary fiber, protein, vitamin B6, manganese and other nutrients.",
+                                    "Chickpeas, the main ingredient of conventional hummus, have appreciable amounts of dietary fiber, protein, vitamin B6, manganese and other nutrients.",
+                                    "Chickpeas, the main ingredient of conventional hummus, have appreciable amounts of dietary fiber, protein, vitamin B6, manganese and other nutrients.",
+                                    "Chickpeas, the main ingredient of conventional hummus, have appreciable amounts of dietary fiber, protein, vitamin B6, manganese and other nutrients."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "intérêt nutritionnel",
+                                    "translated": "nutritional interest"
+                                },
+                                "fact": {
+                                    "original": "Sa matière grasse est principalement mono-insaturée.",
+                                    "translated": "'Its fat content is mainly monounsaturated.'",
+                                    "fact_aligned_sentence": "C'est un aliment également riche en fibres, et sa matière grasse est principalement mono-insaturée.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Houmous"
+                                },
+                                "src_context": [
+                                    "La méthionine est un des huit acides aminés essentiels.",
+                                    "C'est un aliment riche en fibres.",
+                                    "Sa matière grasse est principalement mono-insaturée."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "As hummus recipes vary, so does nutritional content, depending primarily on the relative proportions of chickpeas, tahini, and water.",
+                                    "As hummus recipes vary, so does nutritional content, depending primarily on the relative proportions of chickpeas, tahini, and water.",
+                                    "As hummus recipes vary, so does nutritional content, depending primarily on the relative proportions of chickpeas, tahini, and water.",
+                                    "As hummus recipes vary, so does nutritional content, depending primarily on the relative proportions of chickpeas, tahini, and water."
+                                ]
+                            }
+                        ]
+                    },
+                    "préparation": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "préparation",
+                                    "translated": "preparation"
+                                },
+                                "fact": {
+                                    "original": "On saupoudre généralement du cumin en poudre sur le houmous.",
+                                    "translated": "They generally sprinkle ground cumin on hummus.",
+                                    "fact_aligned_sentence": "Le houmous est présenté avec de l'huile d'olive, sur laquelle on saupoudre généralement du cumin en poudre et du piment d'Alep.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Houmous"
+                                },
+                                "src_context": [
+                                    "La purée onctueuse est assaisonnée avec du jus de citron.",
+                                    "Le houmous est présenté avec de l'huile d'olive.",
+                                    "On saupoudre généralement du cumin en poudre sur le houmous."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "préparation",
+                                    "translated": "preparation"
+                                },
+                                "fact": {
+                                    "original": "La purée onctueuse est assaisonnée avec de l'ail écrasé.",
+                                    "translated": "The creamy puree is seasoned with crushed garlic.",
+                                    "fact_aligned_sentence": "La purée onctueuse est assaisonnée à l'aide d'ail écrasé, de sel et de jus de citron.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Houmous"
+                                },
+                                "src_context": [
+                                    "Les pois chiches sont réduits en purée très fine.",
+                                    "Les pois chiches réduits en purée sont mélangés au tahini.",
+                                    "La purée onctueuse est assaisonnée avec de l'ail écrasé."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is also served as part of a meze or as an accompaniment to falafel, grilled chicken, fish, or eggplant.",
+                                    "It is also served as part of a meze or as an accompaniment to falafel, grilled chicken, fish, or eggplant.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "préparation",
+                                    "translated": "preparation"
+                                },
+                                "fact": {
+                                    "original": "Une préparation d'aspect proche composée d'aubergines s'appelle le baba ganousch.",
+                                    "translated": "A similarly appearing preparation made with eggplants is called baba ganoush.",
+                                    "fact_aligned_sentence": "Une préparation d'aspect proche composée d'aubergines s'appelle le baba ganousch.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Houmous"
+                                },
+                                "src_context": [
+                                    "Il est commun de décorer le plat de houmous avec des pois chiches.",
+                                    "Il est commun de décorer le plat de houmous avec de petits dés de tomates.",
+                                    "Une préparation d'aspect proche composée d'aubergines s'appelle le baba ganousch."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The word hummus is Arabic: حُمُّص, romanized: ḥummuṣ 'chickpeas'.",
+                                    "The full name of the prepared spread in Arabic is ḥummuṣ bi ṭaḥīna 'chickpeas with tahini'.",
+                                    "In France, in the region of Provence, there is a dish called poichichade that resembles hummus.",
+                                    "In France, in the region of Provence, there is a dish called poichichade that resembles hummus."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "延伸閱讀": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "Legumes include beans, lentils, peas, and peanuts.",
+                                    "translated": "Legumes include beans, lentils, peas, and peanuts.",
+                                    "fact_aligned_sentence": "Template:Legume dishes",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%B9%B0%E5%98%B4%E8%B1%86%E6%B3%A5"
+                                },
+                                "src_context": [
+                                    "鷹嘴豆進而達到控制飲食的效果。",
+                                    "Legume dishes are culinary preparations that primarily feature legumes.",
+                                    "Legumes include beans, lentils, peas, and peanuts."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Although multiple different theories and claims of origins exist in various parts of the Middle East, evidence is insufficient to determine the precise location or time of the invention of hummus.",
+                                    "Its basic ingredients—chickpeas, sesame, lemon, and garlic—have been combined and eaten in Egypt and the Levant for centuries.",
+                                    "As hummus recipes vary, so does nutritional content, depending primarily on the relative proportions of chickpeas, tahini, and water.",
+                                    "As hummus recipes vary, so does nutritional content, depending primarily on the relative proportions of chickpeas, tahini, and water."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "Legume dishes are popular in many cultures around the world.",
+                                    "translated": "Legume dishes are popular in many cultures around the world.",
+                                    "fact_aligned_sentence": "Template:Legume dishes",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%B9%B0%E5%98%B4%E8%B1%86%E6%B3%A5"
+                                },
+                                "src_context": [
+                                    "Legume dishes are culinary preparations that primarily feature legumes.",
+                                    "Legumes include beans, lentils, peas, and peanuts.",
+                                    "Legume dishes are popular in many cultures around the world."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Its basic ingredients—chickpeas, sesame, lemon, and garlic—have been combined and eaten in Egypt and the Levant for centuries.",
+                                    "Though regional populations widely ate chickpeas, and often cooked them in stews and other hot dishes, puréed chickpeas eaten cold with tahini do not appear in records before the Abbasid Caliphate in Egypt and the Levant.",
+                                    "In the United States and Europe, hummus is commercially available in numerous traditional and non-traditional varieties, such as beet or chocolate.",
+                                    "In the United States and Europe, hummus is commercially available in numerous traditional and non-traditional varieties, such as beet or chocolate."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "Legume dishes are often considered healthy and nutritious.",
+                                    "translated": "Legume dishes are often considered healthy and nutritious.",
+                                    "fact_aligned_sentence": "Template:Legume dishes",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%B9%B0%E5%98%B4%E8%B1%86%E6%B3%A5"
+                                },
+                                "src_context": [
+                                    "These dishes can be prepared in various ways, such as soups, stews, salads, and spreads.",
+                                    "Legumes are known for their high protein content.",
+                                    "Legume dishes are often considered healthy and nutritious."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Though regional populations widely ate chickpeas, and often cooked them in stews and other hot dishes, puréed chickpeas eaten cold with tahini do not appear in records before the Abbasid Caliphate in Egypt and the Levant.",
+                                    "Though regional populations widely ate chickpeas, and often cooked them in stews and other hot dishes, puréed chickpeas eaten cold with tahini do not appear in records before the Abbasid Caliphate in Egypt and the Levant.",
+                                    "Hummus consumption has been so popular that many tobacco farmers have switched to growing chickpeas to meet demand.",
+                                    "Hummus is often seen as an unofficial \"national dish\" of Israel, reflecting its huge popularity and significance among the entire Israeli population, which Israel's critics describe as an appropriation of Lebanese, Palestinian or Arab culture."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "These dishes can be prepared in various ways, such as soups, stews, salads, and spreads.",
+                                    "translated": "These dishes can be prepared in various ways, such as soups, stews, salads, and spreads.",
+                                    "fact_aligned_sentence": "Template:Legume dishes",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%B9%B0%E5%98%B4%E8%B1%86%E6%B3%A5"
+                                },
+                                "src_context": [
+                                    "Legumes include beans, lentils, peas, and peanuts.",
+                                    "Legume dishes are popular in many cultures around the world.",
+                                    "These dishes can be prepared in various ways, such as soups, stews, salads, and spreads."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Syrian and Lebanese in Canada's Arab diaspora prepare and consume hummus along with other dishes like falafel, kibbeh and tabbouleh, even among the third- and fourth-generation offspring of the original immigrants.",
+                                    "Syrian and Lebanese in Canada's Arab diaspora prepare and consume hummus along with other dishes like falafel, kibbeh and tabbouleh, even among the third- and fourth-generation offspring of the original immigrants.",
+                                    "In the Levant, hummus has long been a staple food, often served as a warm dish, with bread for breakfast, lunch or dinner.",
+                                    "In the Levant, hummus has long been a staple food, often served as a warm dish, with bread for breakfast, lunch or dinner."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "Legume dishes are culinary preparations that primarily feature legumes.",
+                                    "translated": "Legume dishes are culinary preparations that primarily feature legumes.",
+                                    "fact_aligned_sentence": "Template:Legume dishes",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%B9%B0%E5%98%B4%E8%B1%86%E6%B3%A5"
+                                },
+                                "src_context": [
+                                    "鷹嘴豆不容易造成飢餓感。",
+                                    "鷹嘴豆進而達到控制飲食的效果。",
+                                    "Legume dishes are culinary preparations that primarily feature legumes."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In the United States and Europe, hummus is commercially available in numerous traditional and non-traditional varieties, such as beet or chocolate.",
+                                    "Chickpeas, the main ingredient of conventional hummus, have appreciable amounts of dietary fiber, protein, vitamin B6, manganese and other nutrients.",
+                                    "Hummus is a common dip in Egypt where it is eaten with pita, and frequently flavored with cumin or other spices.",
+                                    "In the Levant, hummus has long been a staple food, often served as a warm dish, with bread for breakfast, lunch or dinner."
+                                ]
+                            }
+                        ]
+                    },
+                    "營養資訊": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "營養資訊",
+                                    "translated": "Nutrition Information"
+                                },
+                                "fact": {
+                                    "original": "鷹嘴豆不容易造成飢餓感。",
+                                    "translated": "Chickpeas do not easily cause a feeling of hunger.",
+                                    "fact_aligned_sentence": "鷹嘴豆為低升糖指數(低GI)食物,腸道會減緩吸收碳水化合物的速度,使分解後的醣份緩慢且穩定釋放至血液中,不容易造成飢餓感,進而達到控制飲食的效果。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%B9%B0%E5%98%B4%E8%B1%86%E6%B3%A5"
+                                },
+                                "src_context": [
+                                    "腸道會減緩吸收碳水化合物的速度。",
+                                    "鷹嘴豆分解後的醣份緩慢且穩定釋放至血液中。",
+                                    "鷹嘴豆不容易造成飢餓感。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Its basic ingredients—chickpeas, sesame, lemon, and garlic—have been combined and eaten in Egypt and the Levant for centuries.",
+                                    "Though regional populations widely ate chickpeas, and often cooked them in stews and other hot dishes, puréed chickpeas eaten cold with tahini do not appear in records before the Abbasid Caliphate in Egypt and the Levant.",
+                                    "Hummus is a common dip in Egypt where it is eaten with pita, and frequently flavored with cumin or other spices.",
+                                    "In the Levant, hummus has long been a staple food, often served as a warm dish, with bread for breakfast, lunch or dinner."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "營養資訊",
+                                    "translated": "Nutrition Information"
+                                },
+                                "fact": {
+                                    "original": "鷹嘴豆為低升糖指數(低GI)食物。",
+                                    "translated": "Chickpeas are low glycemic index (low GI) foods.",
+                                    "fact_aligned_sentence": "鷹嘴豆為低升糖指數(低GI)食物,腸道會減緩吸收碳水化合物的速度,使分解後的醣份緩慢且穩定釋放至血液中,不容易造成飢餓感,進而達到控制飲食的效果。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%B9%B0%E5%98%B4%E8%B1%86%E6%B3%A5"
+                                },
+                                "src_context": [
+                                    "實際上的營養含量會有差異。",
+                                    "營養含量主要因鷹嘴豆、芝麻醬跟水的比例而變化。",
+                                    "鷹嘴豆為低升糖指數(低GI)食物。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "As hummus recipes vary, so does nutritional content, depending primarily on the relative proportions of chickpeas, tahini, and water.",
+                                    "Hummus provides roughly 170 calories for 100 grams, and is a good to excellent (more than 10% of the Daily Value) source of dietary fiber, vitamin B6, and several dietary minerals.",
+                                    "Hummus provides roughly 170 calories for 100 grams, and is a good to excellent (more than 10% of the Daily Value) source of dietary fiber, vitamin B6, and several dietary minerals.",
+                                    "Hummus provides roughly 170 calories for 100 grams, and is a good to excellent (more than 10% of the Daily Value) source of dietary fiber, vitamin B6, and several dietary minerals."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "營養資訊",
+                                    "translated": "Nutrition Information"
+                                },
+                                "fact": {
+                                    "original": "鷹嘴豆進而達到控制飲食的效果。",
+                                    "translated": "Chickpeas further achieve the effect of controlling diet.",
+                                    "fact_aligned_sentence": "鷹嘴豆為低升糖指數(低GI)食物,腸道會減緩吸收碳水化合物的速度,使分解後的醣份緩慢且穩定釋放至血液中,不容易造成飢餓感,進而達到控制飲食的效果。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%B9%B0%E5%98%B4%E8%B1%86%E6%B3%A5"
+                                },
+                                "src_context": [
+                                    "鷹嘴豆分解後的醣份緩慢且穩定釋放至血液中。",
+                                    "鷹嘴豆不容易造成飢餓感。",
+                                    "鷹嘴豆進而達到控制飲食的效果。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "As hummus recipes vary, so does nutritional content, depending primarily on the relative proportions of chickpeas, tahini, and water.",
+                                    "Hummus provides roughly 170 calories for 100 grams, and is a good to excellent (more than 10% of the Daily Value) source of dietary fiber, vitamin B6, and several dietary minerals.",
+                                    "As hummus recipes vary, so does nutritional content, depending primarily on the relative proportions of chickpeas, tahini, and water.",
+                                    "As hummus recipes vary, so does nutritional content, depending primarily on the relative proportions of chickpeas, tahini, and water."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "營養資訊",
+                                    "translated": "Nutrition Information"
+                                },
+                                "fact": {
+                                    "original": "鷹嘴豆分解後的醣份緩慢且穩定釋放至血液中。",
+                                    "translated": "The carbohydrates in chickpeas are released slowly and steadily into the bloodstream after digestion.",
+                                    "fact_aligned_sentence": "鷹嘴豆為低升糖指數(低GI)食物,腸道會減緩吸收碳水化合物的速度,使分解後的醣份緩慢且穩定釋放至血液中,不容易造成飢餓感,進而達到控制飲食的效果。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%B9%B0%E5%98%B4%E8%B1%86%E6%B3%A5"
+                                },
+                                "src_context": [
+                                    "鷹嘴豆為低升糖指數(低GI)食物。",
+                                    "腸道會減緩吸收碳水化合物的速度。",
+                                    "鷹嘴豆分解後的醣份緩慢且穩定釋放至血液中。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "As hummus recipes vary, so does nutritional content, depending primarily on the relative proportions of chickpeas, tahini, and water.",
+                                    "As hummus recipes vary, so does nutritional content, depending primarily on the relative proportions of chickpeas, tahini, and water.",
+                                    "A cold purée of chickpeas with vinegar and pickled lemons with herbs, spices, and oil, but no tahini or garlic, appears in the Treasure Trove of Benefits and Variety at the Table (كنز الفوائد في تنويع الموائد); and a purée of chickpeas and tahini called hummus kasa appears in Muhammad bin Hasan al-Baghdadi's The Book of Dishes: it is based on puréed chickpeas and tahini, and acidulated with vinegar (not lemon), but it also contains many spices, herbs, and nuts, and no garlic.",
+                                    "It is also served by rolling it out and letting it sit overnight."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "營養資訊",
+                                    "translated": "Nutrition Information"
+                                },
+                                "fact": {
+                                    "original": "腸道會減緩吸收碳水化合物的速度。",
+                                    "translated": "The intestine slows down the absorption of carbohydrates.",
+                                    "fact_aligned_sentence": "鷹嘴豆為低升糖指數(低GI)食物,腸道會減緩吸收碳水化合物的速度,使分解後的醣份緩慢且穩定釋放至血液中,不容易造成飢餓感,進而達到控制飲食的效果。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%B9%B0%E5%98%B4%E8%B1%86%E6%B3%A5"
+                                },
+                                "src_context": [
+                                    "營養含量主要因鷹嘴豆、芝麻醬跟水的比例而變化。",
+                                    "鷹嘴豆為低升糖指數(低GI)食物。",
+                                    "腸道會減緩吸收碳水化合物的速度。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "As hummus recipes vary, so does nutritional content, depending primarily on the relative proportions of chickpeas, tahini, and water.",
+                                    "Hummus provides roughly 170 calories for 100 grams, and is a good to excellent (more than 10% of the Daily Value) source of dietary fiber, vitamin B6, and several dietary minerals.",
+                                    "Hence, enthusiasts travel to the more remote Arab and Druze villages in the northern Galilee region for culinary experiences.",
+                                    "In October 2008, the Association of Lebanese Industrialists petitioned the Lebanese Ministry of Economy and Trade to request protected status from the European Commission for hummus as a uniquely Lebanese food, similar to the Protected Geographical Status rights held over regional food items by various European Union countries."
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "鹰嘴豆泥可以加入柠檬。",
+                                    "translated": "Hummus can be made with lemon.",
+                                    "fact_aligned_sentence": "鹰嘴豆泥可以加入柠檬、大蒜、芝麻酱和辣椒。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%B9%B0%E5%98%B4%E8%B1%86%E6%B3%A5"
+                                },
+                                "src_context": [
+                                    "鹰嘴豆泥常与面包一同供应。",
+                                    "鹰嘴豆泥常与烤肉一同供应。",
+                                    "鹰嘴豆泥可以加入柠檬。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "All of the ingredients in hummus are easily found in gardens, farms and markets, thus adding to the availability and popularity of the dish.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "鹰嘴豆泥常与蔬菜一同供应。",
+                                    "translated": "Hummus is often served with vegetables.",
+                                    "fact_aligned_sentence": "鹰嘴豆泥或鹰嘴豆沙(阿拉伯语:حمص بطحينة、拉丁化:ḥummuṣ bi-ṭ-ṭaḥīna)是黎凡特食物。鹰嘴豆泥常与蔬菜、面包和烤肉一同供应。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%B9%B0%E5%98%B4%E8%B1%86%E6%B3%A5"
+                                },
+                                "src_context": [
+                                    "鹰嘴豆泥或鹰嘴豆沙(阿拉伯语:حمص بطحينة、拉丁化:ḥummuṣ bi-ṭ-ṭaḥīna)是黎凡特食物。",
+                                    "鹰嘴豆泥常与蔬菜一同供应。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "鹰嘴豆泥常与面包一同供应。",
+                                    "translated": "Hummus is often served with bread.",
+                                    "fact_aligned_sentence": "鹰嘴豆泥或鹰嘴豆沙(阿拉伯语:حمص بطحينة、拉丁化:ḥummuṣ bi-ṭ-ṭaḥīna)是黎凡特食物。鹰嘴豆泥常与蔬菜、面包和烤肉一同供应。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%B9%B0%E5%98%B4%E8%B1%86%E6%B3%A5"
+                                },
+                                "src_context": [
+                                    "鹰嘴豆泥或鹰嘴豆沙(阿拉伯语:حمص بطحينة、拉丁化:ḥummuṣ bi-ṭ-ṭaḥīna)是黎凡特食物。",
+                                    "鹰嘴豆泥常与蔬菜一同供应。",
+                                    "鹰嘴豆泥常与面包一同供应。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "It is also served as part of a meze or as an accompaniment to falafel, grilled chicken, fish, or eggplant.",
+                                    "It is also served as part of a meze or as an accompaniment to falafel, grilled chicken, fish, or eggplant."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "鹰嘴豆泥可以加入大蒜。",
+                                    "translated": "Hummus can include garlic.",
+                                    "fact_aligned_sentence": "鹰嘴豆泥可以加入柠檬、大蒜、芝麻酱和辣椒。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%B9%B0%E5%98%B4%E8%B1%86%E6%B3%A5"
+                                },
+                                "src_context": [
+                                    "鹰嘴豆泥常与烤肉一同供应。",
+                                    "鹰嘴豆泥可以加入柠檬。",
+                                    "鹰嘴豆泥可以加入大蒜。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "鹰嘴豆泥可以加入芝麻酱。",
+                                    "translated": "Hummus can be made with sesame paste.",
+                                    "fact_aligned_sentence": "鹰嘴豆泥可以加入柠檬、大蒜、芝麻酱和辣椒。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E9%B9%B0%E5%98%B4%E8%B1%86%E6%B3%A5"
+                                },
+                                "src_context": [
+                                    "鹰嘴豆泥可以加入柠檬。",
+                                    "鹰嘴豆泥可以加入大蒜。",
+                                    "鹰嘴豆泥可以加入芝麻酱。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "All of the ingredients in hummus are easily found in gardens, farms and markets, thus adding to the availability and popularity of the dish.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley.",
+                                    "Hummus is usually garnished with olive oil, \"nana\" mint leaves, paprika, and parsley."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

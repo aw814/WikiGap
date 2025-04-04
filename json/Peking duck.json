@@ -259,7 +259,8 @@
                                     "original": "При подаче на стол тушку утки нарезают на 80-120 тонких ломтиков.",
                                     "translated": "When serving at the table, the duck carcass is cut into 80-120 thin slices.",
                                     "fact_aligned_sentence": "При подаче на стол тушку утки нарезают на 80-120 тонких ломтиков, каждый обязательно с кусочком шкурки.",
-                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D1%82%D0%BA%D0%B0"
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D1%82%D0%BA%D0%B0",
+                                    "wiki_link_direct":"https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D1%82%D0%BA%D0%B0#:~:text=%D0%9F%D1%80%D0%B8%20%D0%BF%D0%BE%D0%B4%D0%B0%D1%87%D0%B5%20%D0%BD%D0%B0%20%D1%81%D1%82%D0%BE%D0%BB%20%D1%82%D1%83%D1%88%D0%BA%D1%83%20%D1%83%D1%82%D0%BA%D0%B8%20%D0%BD%D0%B0%D1%80%D0%B5%D0%B7%D0%B0%D1%8E%D1%82%20%D0%BD%D0%B0%2080%2D120%20%D1%82%D0%BE%D0%BD%D0%BA%D0%B8%D1%85%20%D0%BB%D0%BE%D0%BC%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%2C%20%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9%20%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%20%D1%81%20%D0%BA%D1%83%D1%81%D0%BE%D1%87%D0%BA%D0%BE%D0%BC%20%D1%88%D0%BA%D1%83%D1%80%D0%BA%D0%B8."
                                 },
                                 "src_context": [
                                     "Утка запечена в специальной печи на дровах из вишневого дерева.",
@@ -795,7 +796,7 @@
                                 "fact": {
                                     "original": "鲜鱼口便宜坊成为现代便宜坊烤鸭的起源地。",
                                     "translated": "Xianyu Kou Bianyi Fang has become the birthplace of modern Bianyi Fang roast duck.",
-                                    "fact_aligned_sentence": "采用传统的焖炉方式烤制的便宜坊烤鸭始于明朝永乐十四年(1416年)称为米市胡同老便宜坊。1855年,一些老便宜坊的制鸭能手在前门鲜鱼口另起炉灶,创建了鲜鱼口便宜坊,成为现代便宜坊烤鸭的起源地。1864年,河北冀县人杨明全改良烤鸭的烤制方法,采用挂炉方式烤制,并在全聚德使用,使北京烤鴨發揚光大。",
+                                    "fact_aligned_sentence": "采用传统的焖炉方式烤制的便宜坊烤鸭始于明朝永乐十四年(1416年)称为米市胡同老便宜坊。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD"
                                 },
                                 "src_context": [

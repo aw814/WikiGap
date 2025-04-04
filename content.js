@@ -594,7 +594,7 @@ function buildTextFragmentUrl(baseLink, snippet) {
   
       function parseLanguage(langCode) {
         let counter = 1;
-        const MAX_FACTS = 10; // limit for demonstration
+        const MAX_FACTS = 40; // limit for demonstration
         const langData = data[pageTitle].languages[langCode];
         if (!langData || !langData.headers) return;
       
