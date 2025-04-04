@@ -203,7 +203,7 @@
                                 },
                                 "fact": {
                                     "original": "Каждый ломтик обязательно с кусочком шкурки.",
-                                    "translated": "Each slice must have a piece of rind.",
+                                    "translated": "Each slice must have a piece of skin.",
                                     "fact_aligned_sentence": "При подаче на стол тушку утки нарезают на 80-120 тонких ломтиков, каждый обязательно с кусочком шкурки.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D1%82%D0%BA%D0%B0"
                                 },
@@ -230,7 +230,7 @@
                                 },
                                 "fact": {
                                     "original": "Суп из китайской капусты подаётся после мяса.",
-                                    "translated": "'The cabbage soup is served after the meat.'",
+                                    "translated": "The cabbage soup is served after the meat.",
                                     "fact_aligned_sentence": "Так как утка заказывается в ресторанах целиком, на бульоне из оставшихся после нарезки частей может быть сварен суп из китайской капусты, который подаётся после мяса.",
                                     "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D1%82%D0%BA%D0%B0"
                                 },
@@ -293,7 +293,7 @@
                                 },
                                 "fact": {
                                     "original": "La préparation du canard de Pékin laqué commence dès la naissance de l'animal.",
-                                    "translated": "The preparation of lacquered Peking duck begins at the birth of the animal.",
+                                    "translated": "The preparation of Peking duck begins at the birth of the animal.",
                                     "fact_aligned_sentence": "La préparation du canard de Pékin laqué commence dès la naissance de l'animal.",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Canard_laqu%C3%A9_de_P%C3%A9kin"
                                 },
@@ -306,30 +306,6 @@
                                     "Newly hatched ducks are raised in a free-range environment for the first 45 days of their lives, and force-fed 4 times a day for the next 15–20 days, resulting in ducks that weigh 5–7 kg (11–15 lbs).",
                                     "The force-feeding of the ducks led to an alternate name for the animal, \"Peking stuffed duck\" (simplified Chinese: 北京填鸭; traditional Chinese: 北京填鴨; pinyin: běijīng tián yā).",
                                     "Peking duck is a dish from Beijing that has been prepared since the Imperial era."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "préparation traditionnelle du canard",
-                                    "translated": "Traditional duck preparation"
-                                },
-                                "fact": {
-                                    "original": "Une incision est pratiquée au niveau du croupion du canard.",
-                                    "translated": "An incision is made at the level of the duck's rump.",
-                                    "fact_aligned_sentence": "En pratiquant une incision au niveau du croupion et en soufflant, la peau est décollée de la chair et le canard est ensuite enduit d'un mélange contenant notamment du miel et est enfin suspendu et séché dans une pièce bien ventilée et aérée.",
-                                    "wiki_link": "https://fr.wikipedia.org/wiki/Canard_laqu%C3%A9_de_P%C3%A9kin"
-                                },
-                                "src_context": [
-                                    "Lors du rôtissage, la chair du canard est cuite de l’intérieur par vaporisation d’eau bouillante.",
-                                    "Dans la recette traditionnelle, le canard est tué 24 à 48 heures à l'avance.",
-                                    "Une incision est pratiquée au niveau du croupion du canard."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Air is pumped under the skin through the neck cavity to separate the skin from the fat."
                                 ]
                             },
                             {
@@ -355,6 +331,35 @@
                                 ],
                                 "tgt_fact_aligned_sentences": [
                                     "resulting in ducks that weigh 5–7 kg (11–15 lbs)"
+                                ]
+                            }
+                        ]
+                    },
+                    "histoire": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "histoire",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "Le canard laqué devient un des plats favoris de l'impératrice Cixi au XVIIIe siècle.",
+                                    "translated": "The lacquered duck became one of the favorite dishes of Empress Cixi in the 18th century.",
+                                    "fact_aligned_sentence": "Il devient un des plats favoris de l’empereur Qianlong et de l'impératrice Cixi, au XVIIIe siècle, et se popularise et devient très en vogue sous la dynastie Qing (dernière dynastie impériale à régner sur la Chine, de 1644 à 1912),.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Canard_laqu%C3%A9_de_P%C3%A9kin"
+                                },
+                                "src_context": [
+                                    "Le canard laqué était rôti dans un four à bois fermé.",
+                                    "Le canard laqué devient un des plats favoris de l’empereur Qianlong au XVIIIe siècle.",
+                                    "Le canard laqué devient un des plats favoris de l'impératrice Cixi au XVIIIe siècle."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Peking roast duck that came to be associated with the term was fully developed during the later Ming dynasty, and by then, Peking duck was one of the main dishes on imperial court menus.",
+                                    "The Peking roast duck that came to be associated with the term was fully developed during the later Ming dynasty, and by then, Peking duck was one of the main dishes on imperial court menus."
                                 ]
                             }
                         ]
@@ -424,7 +429,7 @@
                                 },
                                 "fact": {
                                     "original": "À Canton, le canard laqué est préparé et présenté différemment.",
-                                    "translated": "In Canton, the lacquered duck is prepared and presented differently.",
+                                    "translated": "In Canton, the lacquered duck is prepared and presented differently. ",
                                     "fact_aligned_sentence": "Dans le sud de la Chine, ou à Canton, ou encore dans la plupart des restaurants chinois occidentaux, le canard laqué (ou canard laqué à la cantonaise) est préparé et présenté différemment, avec des morceaux plus épais contenant chair et peau moelleuses marinées au miel, et consommées en sauce ou en soupe",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Canard_laqu%C3%A9_de_P%C3%A9kin"
                                 },
@@ -455,7 +460,7 @@
                                 },
                                 "fact": {
                                     "original": "Le service de ce plat suit le cérémonial d'art culinaire hérité de la tradition gastronomique chinoise.",
-                                    "translated": "'The service of this dish follows the ceremonial culinary art inherited from the Chinese gastronomic tradition.'",
+                                    "translated": "The service of this dish follows the ceremonial culinary art inherited from the Chinese gastronomic tradition.",
                                     "fact_aligned_sentence": "Des restaurants historiques de Pékin tels que Bianyifang (en) (depuis 1416) ou Quanjude (en) (depuis 1864) se distinguent par l’art et la manière de servir ce plat selon le cérémonial d'art culinaire hérité de la tradition gastronomique chinoise.",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Canard_laqu%C3%A9_de_P%C3%A9kin"
                                 },
@@ -566,33 +571,6 @@
                         "entries": [
                             {
                                 "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "製法",
-                                    "translated": "Method of making"
-                                },
-                                "fact": {
-                                    "original": "烤制时鸭体完整。",
-                                    "translated": "The duck is intact when roasted.",
-                                    "fact_aligned_sentence": "北京烤鸭所用的原料是北京填鸭,鸭子肥大,全身白色,每天定时由技术工人将用莜麦面和其他营养物调好的饲料,一团团地塞入鸭子食道中,鸭子几乎不会自己进食了,由此也衍生出“填鸭式教育”。作为鸭胚的北京鸭生长时间有严格的规定,有一种说法是只用生长45天的鸭子。近年来由于人们口味的改变,过于肥腻的鸭肉已不受欢迎,烤鸭店都已改用瘦肉型鸭。鸭子洗剥干净后,肚内灌上水,泄殖腔用鐵針穿插封住。烤制时鸭体完整,由于肚内水的冷却作用,让鸭肉口感嫩滑。",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD"
-                                },
-                                "src_context": [
-                                    "鸭子洗剥干净后，肚内灌上水。",
-                                    "泄殖腔用铁针穿插封住。",
-                                    "烤制时鸭体完整。"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "The duck is first marinated with spices, then steamed until tender, and finally deep fried until crispy.",
-                                    "The duck is first marinated with spices, then steamed until tender, and finally deep fried until crispy.",
-                                    "The duck is first marinated with spices, then steamed until tender, and finally deep fried until crispy.",
-                                    "The duck is first marinated with spices, then steamed until tender, and finally deep fried until crispy."
-                                ]
-                            },
-                            {
-                                "header_2": {
                                     "original": "烤制",
                                     "translated": "Baked"
                                 },
@@ -671,87 +649,6 @@
                                     "When an oven is used, the duck is heated at a temperature of 150 °C (302 °F) for 20 minutes, and then at 160 °C (320 °F) for another 10 minutes.",
                                     "When an oven is used, the duck is heated at a temperature of 150 °C (302 °F) for 20 minutes, and then at 160 °C (320 °F) for another 10 minutes."
                                 ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": "烤制",
-                                    "translated": "Baked"
-                                },
-                                "header_1": {
-                                    "original": "製法",
-                                    "translated": "Method of making"
-                                },
-                                "fact": {
-                                    "original": "一种是挂炉烤鸭。",
-                                    "translated": "One type is hanging oven roasted duck.",
-                                    "fact_aligned_sentence": "烤鸭烤制可分为两种——挂炉烤鸭和焖炉烤鸭。",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD"
-                                },
-                                "src_context": [
-                                    "由于肚内水的冷却作用，让鸭肉口感嫩滑。",
-                                    "烤鸭烤制可分为两种。",
-                                    "一种是挂炉烤鸭。"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Besides two traditional methods to prepare Peking duck, recipes have been compiled by chefs all around the world to produce the dish at home.",
-                                    "Peking duck is traditionally roasted in a closed oven (Chinese: 焖炉).",
-                                    "Two notable restaurants in Beijing which serve this dish are Quanjude and Bianyifang, both centuries-old establishments which have become household names, each with their own style: Quanjude is known for using the hung oven roasting method, while Bianyifang uses the oldest technique of closed oven roasting.",
-                                    "Two notable restaurants in Beijing which serve this dish are Quanjude and Bianyifang, both centuries-old establishments which have become household names, each with their own style: Quanjude is known for using the hung oven roasting method, while Bianyifang uses the oldest technique of closed oven roasting."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": "烤制",
-                                    "translated": "Baked"
-                                },
-                                "header_1": {
-                                    "original": "製法",
-                                    "translated": "Method of making"
-                                },
-                                "fact": {
-                                    "original": "鸭脯肉暄腾。",
-                                    "translated": "Duck breast meat is tender and fragrant.",
-                                    "fact_aligned_sentence": "焖炉:有炉门,使用秫秸为燃料。烤制时先将秫秸等燃料如炉燃烧,待烤炉内壁烧热到一定温度后灭火,然后将鸭子放入烤炉内,关闭炉门,凭借炉壁的热力将鸭子烘烤而熟。整个过程鸭子并不见明火,中间不打开炉门,不转动鸭身,一次放入一次出炉。因焖炉使用炉壁余温烤制,空气湿度大,耗油量小,鸭脯肉暄腾。",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD"
-                                },
-                                "src_context": [
-                                    "空气湿度大。",
-                                    "耗油量小。",
-                                    "鸭脯肉暄腾。"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "The duck is then blanched in boiling hot water for two to three minutes before it is hung up to dry.",
-                                    "This tightens the skin.",
-                                    "The meat has less fat and is drier and crispier compared to that of Peking duck.",
-                                    "The meat has less fat and is drier and crispier compared to that of Peking duck."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": "烤制",
-                                    "translated": "Baked"
-                                },
-                                "header_1": {
-                                    "original": "製法",
-                                    "translated": "Method of making"
-                                },
-                                "fact": {
-                                    "original": "一次放入一次出炉。",
-                                    "translated": "Put in once, take out once.",
-                                    "fact_aligned_sentence": "焖炉:有炉门,使用秫秸为燃料。烤制时先将秫秸等燃料如炉燃烧,待烤炉内壁烧热到一定温度后灭火,然后将鸭子放入烤炉内,关闭炉门,凭借炉壁的热力将鸭子烘烤而熟。整个过程鸭子并不见明火,中间不打开炉门,不转动鸭身,一次放入一次出炉。因焖炉使用炉壁余温烤制,空气湿度大,耗油量小,鸭脯肉暄腾。",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD"
-                                },
-                                "src_context": [
-                                    "中间不打开炉门。",
-                                    "不转动鸭身。",
-                                    "一次放入一次出炉。"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "The oven is preheated by burning Gaoliang sorghum straw (Chinese: 秫秸; pinyin: shú jiē) at the base.",
-                                    "The duck is placed in the oven immediately after the fire burns out, allowing the meat to be slowly cooked through the convection of heat within the oven.",
-                                    "Duck Chang's Restaurant, established in 1975 in Virginia, United States, was the first Chinese restaurant to prepare and serve Peking duck without a 24-hour advanced notice.",
-                                    "In 2018, the James Beard Foundation awarded Sun Wah BBQ in Chicago, Illinois, with their America's Classics award, specifically citing Sun Wah's three-course \"Beijing Duck Feast\" in their announcement of the award."
-                                ]
                             }
                         ]
                     },
@@ -767,21 +664,21 @@
                                     "translated": "history"
                                 },
                                 "fact": {
-                                    "original": "这些制鸭能手创建了鲜鱼口便宜坊。",
-                                    "translated": "These duck-making experts created Xianyu Kou Piyifang.",
-                                    "fact_aligned_sentence": "采用传统的焖炉方式烤制的便宜坊烤鸭始于明朝永乐十四年(1416年)称为米市胡同老便宜坊。1855年,一些老便宜坊的制鸭能手在前门鲜鱼口另起炉灶,创建了鲜鱼口便宜坊,成为现代便宜坊烤鸭的起源地。1864年,河北冀县人杨明全改良烤鸭的烤制方法,采用挂炉方式烤制,并在全聚德使用,使北京烤鴨發揚光大。",
+                                    "original": "“南炉鸭”意即南方传入的炉火烤鸭。",
+                                    "translated": "\"Northern Roasted Duck\" refers to the roasted duck cooked over a fire that was introduced from the south.",
+                                    "fact_aligned_sentence": "由于北京烤鸭其肥瘦分明,鲜嫩适度,成为元、明、清历代宫廷御膳珍品。北京烤鸭是在南京燒鴨的基础上发展而来,烤鸭的前身是出现在南北朝时期的「炙鸭」,在当时是宫廷食品。北京古代附近小河冬雪无鸭,但烤鸭是明成祖的宫廷菜,据说太祖在南京分烤鸭菜给众子女吃,成祖怀念儿时在南京餐桌和乐,故带至北京宫廷。当时烤鸭在北京地区被称为“南炉鸭”,意即南方传入的炉火烤鸭;但后来北京烤鸭也逐渐融入了鲁菜的元素,如荷叶饼和葱丝。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD"
                                 },
                                 "src_context": [
-                                    "便宜坊烤鸭最初称为米市胡同老便宜坊。",
-                                    "1855年, 一些老便宜坊的制鸭能手在前门鲜鱼口另起炉灶。",
-                                    "这些制鸭能手创建了鲜鱼口便宜坊。"
+                                    "成祖将烤鸭带至北京宫廷。",
+                                    "当时烤鸭在北京地区被称为“南炉鸭”。",
+                                    "“南炉鸭”意即南方传入的炉火烤鸭。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Often these barges spilled water into side-canals, providing a habitat for the ducks.",
-                                    "Often these barges spilled water into side-canals, providing a habitat for the ducks.",
-                                    "The open oven (Chinese: 挂炉; lit.",
-                                    "'hung oven') was developed in the imperial kitchens during the Qing dynasty and adopted by the Quanjude restaurant chain."
+                                    "The meat is often eaten with spring onion, cucumber, and sweet bean sauce, with pancakes rolled around the fillings.",
+                                    "Duck has been roasted in China since the Southern and Northern dynasties.",
+                                    "Two notable restaurants in Beijing which serve this dish are Quanjude and Bianyifang, both centuries-old establishments which have become household names, each with their own style: Quanjude is known for using the hung oven roasting method, while Bianyifang uses the oldest technique of closed oven roasting.",
+                                    "The ducks used to prepare Peking duck originated in Nanjing."
                                 ]
                             },
                             {
@@ -794,21 +691,21 @@
                                     "translated": "history"
                                 },
                                 "fact": {
-                                    "original": "鲜鱼口便宜坊成为现代便宜坊烤鸭的起源地。",
-                                    "translated": "Xianyu Kou Bianyi Fang has become the birthplace of modern Bianyi Fang roast duck.",
-                                    "fact_aligned_sentence": "采用传统的焖炉方式烤制的便宜坊烤鸭始于明朝永乐十四年(1416年)称为米市胡同老便宜坊。",
+                                    "original": "便宜坊烤鸭始于明朝永乐十四年(1416年)。",
+                                    "translated": "Bianyifang Roast Duck originated in the 14th year of the Yongle period of the Ming Dynasty (1416).",
+                                    "fact_aligned_sentence": "采用传统的焖炉方式烤制的便宜坊烤鸭始于明朝永乐十四年(1416年)称为米市胡同老便宜坊。1855年,一些老便宜坊的制鸭能手在前门鲜鱼口另起炉灶,创建了鲜鱼口便宜坊,成为现代便宜坊烤鸭的起源地。1864年,河北冀县人杨明全改良烤鸭的烤制方法,采用挂炉方式烤制,并在全聚德使用,使北京烤鴨發揚光大。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD"
                                 },
                                 "src_context": [
-                                    "1855年, 一些老便宜坊的制鸭能手在前门鲜鱼口另起炉灶。",
-                                    "这些制鸭能手创建了鲜鱼口便宜坊。",
-                                    "鲜鱼口便宜坊成为现代便宜坊烤鸭的起源地。"
+                                    "北京烤鸭融入了鲁菜的元素如荷叶饼和葱丝。",
+                                    "便宜坊烤鸭采用传统的焖炉方式烤制。",
+                                    "便宜坊烤鸭始于明朝永乐十四年(1416年)。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "The open oven (Chinese: 挂炉; lit.",
-                                    "'hung oven') was developed in the imperial kitchens during the Qing dynasty and adopted by the Quanjude restaurant chain.",
-                                    "Often these barges spilled water into side-canals, providing a habitat for the ducks.",
-                                    "Often these barges spilled water into side-canals, providing a habitat for the ducks."
+                                    "In addition, Quanjude has received worldwide recognition, having been named a China Renowned Trademark in 1999.",
+                                    "Duck Chang's Restaurant, established in 1975 in Virginia, United States, was the first Chinese restaurant to prepare and serve Peking duck without a 24-hour advanced notice.",
+                                    "The Peking roast duck that came to be associated with the term was fully developed during the later Ming dynasty, and by then, Peking duck was one of the main dishes on imperial court menus.",
+                                    "The first restaurant specialising in Peking duck, Bianyifang, was established in the Xianyukou, close to Qianmen of Beijing in 1416."
                                 ]
                             }
                         ]
@@ -825,8 +722,35 @@
                                     "translated": null
                                 },
                                 "fact": {
+                                    "original": "北京其他著名的烤鸭店还有大董、长安壹号、1949全鸭季、利群、四季民福和花家怡园等。",
+                                    "translated": "Other famous roast duck restaurants in Beijing include Da Dong, Chang'an No. 1, 1949 Roast Duck Season, Li Qun, Siji Minfu, and Huajia Yiyuan.",
+                                    "fact_aligned_sentence": "北京烤鸭,是源自中國北京的一道全鸭菜式,又名北京填鴨(烤鸭是道菜,填鸭是使用的原料,是指用强制喂食方法养大的北京鸭)。北京烤鸭分为「挂炉烤鸭」与「焖炉烤鸭」两大流派,北京的老字号烤鸭店全聚德主打挂炉烤鸭,便宜坊則主打焖炉烤鸭。北京其他著名的烤鸭店還有大董、长安壹号、1949全鸭季、利群、四季民福和花家怡园等。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD"
+                                },
+                                "src_context": [
+                                    "北京的老字号烤鸭店全聚德主打挂炉烤鸭。",
+                                    "便宜坊主打焖炉烤鸭。",
+                                    "北京其他著名的烤鸭店还有大董、长安壹号、1949全鸭季、利群、四季民福和花家怡园等。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "A number of restaurants in Beijing specialise in Peking duck.",
+                                    "Examples include Quanjude, Bianyifang, Changan Yihao (長安一號), Dayali, Beijing Xiaowangfu (北京小王府) and Dadong Kaoyadian (大董烤鴨店).",
+                                    "Peking duck is traditionally roasted in a closed oven (Chinese: 焖炉).",
+                                    "Bianyifang, a restaurant in Beijing, China, is famous for keeping this tradition."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
                                     "original": "便宜坊主打焖炉烤鸭。",
-                                    "translated": "Bianyi Fang specializes in Beijing-style roasted duck.",
+                                    "translated": "Bianyi Fang specializes in braised oven-roasted duck.",
                                     "fact_aligned_sentence": "北京烤鸭,是源自中國北京的一道全鸭菜式,又名北京填鴨(烤鸭是道菜,填鸭是使用的原料,是指用强制喂食方法养大的北京鸭)。北京烤鸭分为「挂炉烤鸭」与「焖炉烤鸭」两大流派,北京的老字号烤鸭店全聚德主打挂炉烤鸭,便宜坊則主打焖炉烤鸭。北京其他著名的烤鸭店還有大董、长安壹号、1949全鸭季、利群、四季民福和花家怡园等。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD"
                                 },
@@ -840,6 +764,95 @@
                                     "Yang Quanren (楊全仁), the founder of Quanjude, developed the hung oven to roast ducks.",
                                     "Besides two traditional methods to prepare Peking duck, recipes have been compiled by chefs all around the world to produce the dish at home.",
                                     "Peking duck is traditionally roasted in a closed oven (Chinese: 焖炉)."
+                                ]
+                            }
+                        ]
+                    },
+                    "非遺": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "非遺",
+                                    "translated": "Intangible Heritage"
+                                },
+                                "fact": {
+                                    "original": "2008年, 北京烤鸭入选第二批国家级非物质文化遗产名录。",
+                                    "translated": "In 2008, Peking duck was included in the second batch of the national intangible cultural heritage list.",
+                                    "fact_aligned_sentence": "2008年,北京烤鸭入选第二批国家级非物质文化遗产名录。北京烤鸭主要分为以挂炉烤鸭为代表的全聚德和以焖炉烤鸭为代表的便宜坊两大门派。北京烤鸭在全世界享誉盛名,它色泽红润,肉质肥而不腻,外脆里嫩,号称“舌尖上的非遗”。北京烤鸭好吃,离不开烤鸭师傅几代人兢兢业业、精益求精的技艺传承。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD"
+                                },
+                                "src_context": [
+                                    "食客多寫詩句,以防店家偷偷地將鴨子以小換大。",
+                                    "现在北京一些小店仍然有这种服务。",
+                                    "2008年, 北京烤鸭入选第二批国家级非物质文化遗产名录。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In addition, Quanjude has received worldwide recognition, having been named a China Renowned Trademark in 1999.",
+                                    "In addition, Quanjude has received worldwide recognition, having been named a China Renowned Trademark in 1999.",
+                                    "Duck Chang's Restaurant, established in 1975 in Virginia, United States, was the first Chinese restaurant to prepare and serve Peking duck without a 24-hour advanced notice.",
+                                    "In 2018, the James Beard Foundation awarded Sun Wah BBQ in Chicago, Illinois, with their America's Classics award, specifically citing Sun Wah's three-course \"Beijing Duck Feast\" in their announcement of the award."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "非遺",
+                                    "translated": "Intangible Heritage"
+                                },
+                                "fact": {
+                                    "original": "北京烤鸭主要分为以挂炉烤鸭为代表的全聚德和以焖炉烤鸭为代表的便宜坊两大门派。",
+                                    "translated": "Peking duck is mainly divided into two major schools: Quanjude, represented by the hanging oven roast duck, and Bianyifang, represented by the braised oven roast duck.",
+                                    "fact_aligned_sentence": "2008年,北京烤鸭入选第二批国家级非物质文化遗产名录。北京烤鸭主要分为以挂炉烤鸭为代表的全聚德和以焖炉烤鸭为代表的便宜坊两大门派。北京烤鸭在全世界享誉盛名,它色泽红润,肉质肥而不腻,外脆里嫩,号称“舌尖上的非遗”。北京烤鸭好吃,离不开烤鸭师傅几代人兢兢业业、精益求精的技艺传承。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD"
+                                },
+                                "src_context": [
+                                    "现在北京一些小店仍然有这种服务。",
+                                    "2008年, 北京烤鸭入选第二批国家级非物质文化遗产名录。",
+                                    "北京烤鸭主要分为以挂炉烤鸭为代表的全聚德和以焖炉烤鸭为代表的便宜坊两大门派。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Besides two traditional methods to prepare Peking duck, recipes have been compiled by chefs all around the world to produce the dish at home.",
+                                    "Peking duck is traditionally roasted in a closed oven (Chinese: 焖炉).",
+                                    "The meat is characterized by its thin, crispy skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook.",
+                                    "The meat is characterized by its thin, crispy skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook."
+                                ]
+                            }    
+                        ]
+                    },
+                    "軼事": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "軼事",
+                                    "translated": "anecdote"
+                                },
+                                "fact": {
+                                    "original": "舊時,一些食客挑中了要烤的鴨子,還會用高粱饴或者麦芽糖寫上字跡。",
+                                    "translated": "In the old days, some diners would write on the ducks with sorghum syrup or maltose to prevent the shop from secretly swapping a small duck for a large one.",
+                                    "fact_aligned_sentence": "舊時,一些食客挑中了要烤的鴨子,還會用高粱饴或者麦芽糖寫上字跡,且多寫詩句,以防店家偷偷地將鴨子以小換大。现在北京一些小店仍然有这种服务。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD"
+                                },
+                                "src_context": [
+                                    "第二食是用剩餘的鴨肉再做另一道菜。",
+                                    "第二道菜通常是鴨肉條炒三絲或鴨鬆生菜包。",
+                                    "舊時,一些食客挑中了要烤的鴨子,還會用高粱饴或者麦芽糖寫上字跡。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The meat is then served with steamed pancakes (simplified Chinese: 春饼; traditional Chinese: 春餅; pinyin: chūn bǐng) and an assortment of vegetable dishes, typically julienned cucumber and spring onion.",
+                                    "Traditionally, diners dip slices of duck into the condiments and wrap into the pancake with cucumber and any other ingredients.",
+                                    "How to taste",
+                                    "The traditional way of eating is just to have the roasted duck carved into slices by the waiter on the spot, separate the duck skin and duck meat, and dip a little duck skin into each slice."
                                 ]
                             }
                         ]
