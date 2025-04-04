@@ -679,10 +679,13 @@ function buildTextFragmentUrl(baseLink, snippet) {
           let found = false;
           
           textElements.forEach(element => {
+            console.log("Searching for snippet:", sentence);
+            console.log("In element:", element, element.textContent);
             if (element.textContent.includes(sentence) && !found) {
               // Try to find the exact text
               const html = element.innerHTML;
               const index = element.textContent.indexOf(sentence);
+              console.log("Match found at index:", index);
               
               if (index !== -1) {
                 // Use DOM methods to find and wrap the text node
@@ -724,13 +727,20 @@ function buildTextFragmentUrl(baseLink, snippet) {
                   
                   // Set the target text as the span content
                   span.textContent = targetText;
-                  
+
+                  // Log before insertion
+                  console.log("Found target node:", targetNode, "with text:", targetNode.textContent);
+                  console.log("Before insertion, parent HTML is:", targetNode.parentNode.innerHTML);
+                  console.log("Target index:", targetIndex, "and snippet:", sentence);
+
                   // Replace the original text node with our sequence
                   const parentNode = targetNode.parentNode;
                   parentNode.insertBefore(beforeTextNode, targetNode);
                   parentNode.insertBefore(span, targetNode);
                   parentNode.insertBefore(afterTextNode, targetNode);
                   parentNode.removeChild(targetNode);
+                  console.log("After insertion, parent HTML is now:", parentNode.innerHTML);
+                  console.log("Created highlight span:", span);
                   
                   found = true;
                   
