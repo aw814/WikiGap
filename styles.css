@@ -120,10 +120,38 @@
   position: relative;
   text-align: center;
   border-bottom: 3px solid transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.wikigap-tab[data-tab="zh"] {
+  background-color: rgba(255, 107, 107, 0.1); /* Light red for Chinese */
+}
+
+.wikigap-tab[data-tab="fr"] {
+  background-color: rgba(52, 152, 219, 0.1); /* Light blue for French */
+}
+
+.wikigap-tab[data-tab="ru"] {
+  background-color: rgba(6, 214, 160, 0.1); /* Light green for Russian */
 }
 
 .wikigap-tab:hover {
   background-color: rgba(0, 0, 0, 0.03);
+}
+
+.wikigap-tab[data-tab="zh"]:hover {
+  background-color: rgba(255, 107, 107, 0.2);
+}
+
+.wikigap-tab[data-tab="fr"]:hover {
+  background-color: rgba(52, 152, 219, 0.2);
+}
+
+.wikigap-tab[data-tab="ru"]:hover {
+  background-color: rgba(6, 214, 160, 0.2);
 }
 
 .wikigap-tab-active {
@@ -138,16 +166,19 @@
 .wikigap-tab[data-tab="zh"].wikigap-tab-active {
   color: var(--wikigap-zh-color);
   border-bottom-color: var(--wikigap-zh-color);
+  background-color: rgba(255, 107, 107, 0.2); /* Slightly darker red when active */
 }
 
 .wikigap-tab[data-tab="fr"].wikigap-tab-active {
   color: var(--wikigap-fr-color);
   border-bottom-color: var(--wikigap-fr-color);
+  background-color: rgba(52, 152, 219, 0.2); /* Slightly darker blue when active */
 }
 
 .wikigap-tab[data-tab="ru"].wikigap-tab-active {
   color: var(--wikigap-ru-color);
   border-bottom-color: var(--wikigap-ru-color);
+  background-color: rgba(6, 214, 160, 0.2); /* Slightly darker green when active */
 }
 
 /* Facts container - FIXED: increased spacing between facts */
@@ -431,4 +462,53 @@
 .wikigap-resizing {
   user-select: none;
   transition: none;
+}
+
+.flag-emoji {
+  font-size: 16px;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+/* Search box styles */
+.wikigap-search-container {
+  padding: var(--wikigap-spacing-md);
+  background-color: var(--wikigap-background);
+  border-bottom: 1px solid var(--wikigap-border);
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.wikigap-search-box {
+  width: 100%;
+  padding: 8px 12px 8px 36px;
+  border: 1px solid var(--wikigap-border);
+  border-radius: 6px;
+  font-size: var(--wikigap-font-medium);
+  transition: all 0.2s ease;
+  background-color: white;
+}
+
+.wikigap-search-box:focus {
+  outline: none;
+  border-color: var(--wikigap-primary);
+  box-shadow: 0 0 0 2px rgba(67, 97, 238, 0.1);
+}
+
+.wikigap-search-icon {
+  position: absolute;
+  left: 24px;
+  color: #666;
+  font-size: 20px;
+}
+
+.wikigap-no-results {
+  padding: var(--wikigap-spacing-lg);
+  text-align: center;
+  color: #666;
+  font-style: italic;
+  background-color: #f5f7fa;
+  margin: var(--wikigap-spacing-md);
+  border-radius: 6px;
 }

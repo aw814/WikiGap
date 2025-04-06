@@ -158,7 +158,7 @@ function buildTextFragmentUrl(baseLink, snippet) {
     // FIXED: Create the settings button with consistent styling
     const settingsBtn = document.createElement('button');
     settingsBtn.className = 'wikigap-settings-btn';
-    settingsBtn.innerHTML = '<i class="material-icons">settings</i> Settings';
+    settingsBtn.innerHTML = '<i class="material-icons">settings</i>';
     settingsBtn.addEventListener('click', toggleSettings);
     
     // FIXED: Create the facts counter with proper text
@@ -170,7 +170,7 @@ function buildTextFragmentUrl(baseLink, snippet) {
     
     const exportBtn = document.createElement('button');
     exportBtn.className = 'wikigap-settings-btn';
-    exportBtn.textContent = 'Export Logs';
+    exportBtn.innerHTML = '<i class="material-icons">file_download</i> Logs';
     exportBtn.addEventListener('click', exportLogsToFile);
 
     // Add the buttons to the header
@@ -203,6 +203,15 @@ function buildTextFragmentUrl(baseLink, snippet) {
     ruTab.textContent = 'Russian';
     ruTab.dataset.tab = 'ru';
     
+    // Add flags if setting is enabled
+    chrome.storage.sync.get({ showFlags: false }, (items) => {
+      if (items.showFlags) {
+        zhTab.innerHTML = '<span class="flag-emoji">🇨🇳</span> Chinese';
+        frTab.innerHTML = '<span class="flag-emoji">🇫🇷</span> French';
+        ruTab.innerHTML = '<span class="flag-emoji">🇷🇺</span> Russian';
+      }
+    });
+    
     tabs.appendChild(allTab);
     tabs.appendChild(zhTab);
     tabs.appendChild(frTab);
@@ -222,6 +231,33 @@ function buildTextFragmentUrl(baseLink, snippet) {
     });
     
     container.appendChild(tabs);
+    
+    // Create search box
+    const searchContainer = document.createElement('div');
+    searchContainer.className = 'wikigap-search-container';
+    
+    const searchBox = document.createElement('input');
+    searchBox.type = 'text';
+    searchBox.className = 'wikigap-search-box';
+    searchBox.placeholder = '';
+    
+    const searchIcon = document.createElement('i');
+    searchIcon.className = 'material-icons wikigap-search-icon';
+    searchIcon.textContent = 'search';
+    
+    searchContainer.appendChild(searchIcon);
+    searchContainer.appendChild(searchBox);
+    container.appendChild(searchContainer);
+    
+    // Add search functionality
+    let searchTimeout;
+    searchBox.addEventListener('input', (e) => {
+      clearTimeout(searchTimeout);
+      searchTimeout = setTimeout(() => {
+        const searchTerm = e.target.value.toLowerCase();
+        filterFactsBySearch(searchTerm);
+      }, 300); // Debounce search for better performance
+    });
     
     // Create the content area for facts
     const factsContainer = document.createElement('div');
@@ -265,6 +301,12 @@ function buildTextFragmentUrl(baseLink, snippet) {
         <label>
           <input type="checkbox" id="wikigap-setting-auto-highlight" class="wikigap-checkbox" checked> 
           Auto-highlight related content
+        </label>
+      </div>
+      <div class="wikigap-setting-group">
+        <label>
+          <input type="checkbox" id="wikigap-setting-show-flags" class="wikigap-checkbox"> 
+          Show country flags in tabs
         </label>
       </div>
       <button id="wikigap-settings-close" class="wikigap-button">Close</button>
@@ -443,6 +485,10 @@ function buildTextFragmentUrl(baseLink, snippet) {
     const showFrench = document.getElementById('wikigap-setting-fr').checked;
     const showRussian = document.getElementById('wikigap-setting-ru').checked;
     const showUnderlines = document.getElementById('wikigap-setting-underline').checked;
+    const showFlags = document.getElementById('wikigap-setting-show-flags').checked;
+    
+    // Save the flag setting
+    chrome.storage.sync.set({ showFlags });
     
     // Update CSS visibility
     document.documentElement.style.setProperty('--wikigap-zh-display', showChinese ? 'block' : 'none');
@@ -461,6 +507,29 @@ function buildTextFragmentUrl(baseLink, snippet) {
     
     // Update fact counter
     updateFactCounter();
+    
+    // Update tab flags
+    const tabs = document.querySelectorAll('.wikigap-tab[data-tab]');
+    tabs.forEach(tab => {
+      const lang = tab.dataset.tab;
+      if (lang !== 'all') {
+        const langNames = {
+          zh: 'Chinese',
+          fr: 'French',
+          ru: 'Russian'
+        };
+        if (showFlags) {
+          const flag = {
+            zh: '🇨🇳',
+            fr: '🇫🇷',
+            ru: '🇷🇺'
+          }[lang];
+          tab.innerHTML = `<span class="flag-emoji">${flag}</span> ${langNames[lang]}`;
+        } else {
+          tab.textContent = langNames[lang];
+        }
+      }
+    });
   }
   
   // Filter displayed facts by language
@@ -500,61 +569,45 @@ function buildTextFragmentUrl(baseLink, snippet) {
     }
   }
   
-  // // Fetch facts based on the current Wikipedia article
-  // async function fetchFacts() {
-  //   console.log("WikiGap: Fetching facts from other language wikis");
-    
-  //   // Get the current article title
-  //   const pageTitle = document.title.replace(' - Wikipedia', '').trim();
-    
-  //   // If we're on the Oolong tea page (as per requirements and example)
-  //   if (pageTitle.toLowerCase().includes('oolong')) {
-  //     // Chinese facts
-  //     languageFacts.zh = [
-  //       {
-  //         id: 'zh1',
-  //         relatedText: "in the 1857",
-  //         fact: "The term (oolong) first appeared in China during the Qing dynasty, approximately in 1725.",
-  //         type: FACT_TYPES.CONTRADICTION,
-  //         link: 'https://zh.wikipedia.org/wiki/乌龙茶'
-  //       }
-  //       // {
-  //       //   id: 'zh2',
-  //       //   relatedText: "Traditional Chinese oolong processing",
-  //       //   fact: "Traditional Chinese oolong processing includes a unique step called \"shaking\" (yao qing) that bruises the leaf edges to promote oxidation while leaving the center intact.",
-  //       //   type: FACT_TYPES.ADDITIONAL,
-  //       //   link: 'https://zh.wikipedia.org/wiki/乌龙茶'
-  //       // }
-  //     ];
+  // Filter facts by search term
+  function filterFactsBySearch(searchTerm) {
+    const factElements = document.querySelectorAll('.wikigap-fact');
+    let visibleCount = 0;
+
+    factElements.forEach(fact => {
+      const factContent = fact.querySelector('.wikigap-fact-content').textContent.toLowerCase();
+      const factLanguage = fact.querySelector('.wikigap-fact-language').textContent.toLowerCase();
+      const matches = factContent.includes(searchTerm) || factLanguage.includes(searchTerm);
       
-  //     // French facts
-  //     languageFacts.fr = [
-  //       {
-  //         id: 'fr1',
-  //         relatedText: "There are three widely espoused explanations of the origin of the name of Oolong tea",
-  //         fact: "Oolong tea was introduced to Europe by British merchants in the 18th century.",
-  //         type: FACT_TYPES.NOT_MENTIONED,
-  //         link: 'https://fr.wikipedia.org/wiki/Thé_oolong'
-  //       }
-  //     ];
-      
-  //     // Russian facts
-  //     languageFacts.ru = [
-  //       {
-  //         id: 'ru1',
-  //         relatedText: "The manufacturing of oolong tea",
-  //         fact: "Heavily fermented oolongs are traditionally considered older.",
-  //         type: FACT_TYPES.ADDITIONAL,
-  //         link: 'https://ru.wikipedia.org/wiki/Улун'
-  //       }
-  //     ];
-      
-  //     // Update total facts count
-  //     totalFacts = languageFacts.zh.length + languageFacts.fr.length + languageFacts.ru.length;
-  //   }
-    
-  //   return true;
-  // }
+      if (matches) {
+        fact.style.display = 'block';
+        visibleCount++;
+      } else {
+        fact.style.display = 'none';
+      }
+    });
+
+    // Update the fact counter with filtered count
+    const factCount = document.getElementById('wikigap-fact-count');
+    if (factCount) {
+      factCount.textContent = visibleCount;
+    }
+
+    // Show "no results" message if needed
+    let noResultsMsg = document.querySelector('.wikigap-no-results');
+    if (visibleCount === 0 && searchTerm) {
+      if (!noResultsMsg) {
+        noResultsMsg = document.createElement('div');
+        noResultsMsg.className = 'wikigap-no-results';
+        const factsContainer = document.getElementById('wikigap-facts-container');
+        factsContainer.appendChild(noResultsMsg);
+      }
+      noResultsMsg.textContent = `No facts found for "${searchTerm}"`;
+      noResultsMsg.style.display = 'block';
+    } else if (noResultsMsg) {
+      noResultsMsg.style.display = 'none';
+    }
+  }
   
   async function fetchFacts() {
     console.log("WikiGap: Fetching facts from external JSON data...");
