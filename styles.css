@@ -8,6 +8,7 @@
   --wikigap-text: #333333;
   --wikigap-background: #ffffff;
   --wikigap-border: #e8e9eb;
+  --wikigap-button: rgba(200, 220, 255, 0.5);
   --wikigap-shadow: rgba(0, 0, 0, 0.1);
   --wikigap-zh-color: #ff6b6b;
   --wikigap-fr-color: #3498db; /* Brighter blue as requested */
@@ -77,7 +78,7 @@
   display: flex;
   align-items: center;
   gap: var(--wikigap-spacing-sm);
-  background-color: var(--wikigap-tertiary);
+  background-color: var(--wikigap-button);
   color: #333;
   border: none;
   cursor: pointer;
