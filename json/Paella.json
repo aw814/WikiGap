@@ -15,33 +15,6 @@
                                     "translated": "Types"
                                 },
                                 "fact": {
-                                    "original": "Лев Толстой также известен своими философскими и религиозными взглядами.",
-                                    "translated": "Leo Tolstoy is also known for his philosophical and religious views.",
-                                    "fact_aligned_sentence": "Наиболее известные",
-                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%8D%D0%BB%D1%8C%D1%8F"
-                                },
-                                "src_context": [
-                                    "Лев Толстой был русским писателем.",
-                                    "Лев Толстой жил в 19 веке.",
-                                    "Лев Толстой также известен своими философскими и религиозными взглядами."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "The dish became so popular that in 1840, a local Spanish newspaper first used the word paella to refer to the recipe rather than the pan, according to food historian Lynne Olver.",
-                                    "The dish became so popular that in 1840, a local Spanish newspaper first used the word paella to refer to the recipe rather than the pan, according to food historian Lynne Olver.",
-                                    "Spanish food historian Lourdes March notes that the dish \"symbolizes the union and heritage of two important cultures, the Roman, which gives us the utensil and the Arab which brought us the basic food of humanity for centuries: rice.\"",
-                                    "Spanish food historian Lourdes March notes that the dish \"symbolizes the union and heritage of two important cultures, the Roman, which gives us the utensil and the Arab which brought us the basic food of humanity for centuries: rice.\""
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "виды",
-                                    "translated": "Types"
-                                },
-                                "fact": {
                                     "original": "«Чёрный рис» (аррос негре) готовится с добавлением каракатицы.",
                                     "translated": "\"Black rice\" (arroz negro) is prepared with the addition of cuttlefish.",
                                     "fact_aligned_sentence": "«Чёрный рис» (аррос негре) готовится с добавлением каракатицы, интенсивный чёрный цвет получается добавлением «чернил», выделяемых каракатицей.",
@@ -58,173 +31,11 @@
                                     "Arroz con pollo – Latin American adaptation with chicken",
                                     "Arroz con pollo – Latin American adaptation with chicken"
                                 ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "виды",
-                                    "translated": "Types"
-                                },
-                                "fact": {
-                                    "original": "Другие ключевые компоненты паэльи — шафран и оливковое масло.",
-                                    "translated": "Other key components of paella are saffron and olive oil.",
-                                    "fact_aligned_sentence": "Другие ключевые компоненты паэльи — шафран и оливковое масло.",
-                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%8D%D0%BB%D1%8C%D1%8F"
-                                },
-                                "src_context": [
-                                    "В паэлье с морепродуктами отсутствуют бобы и овощи.",
-                                    "Большинство поваров, готовящих паэлью, используют рис под названием calasparra или bomba для приготовления этого блюда.",
-                                    "Другие ключевые компоненты паэльи — шафран и оливковое масло."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Workers would gather what was available to them around the rice fields.",
-                                    "This often included tomatoes, onions, and snails.",
-                                    "On special occasions, 18th-century Valencians used calderos to cook the rice in the open air of their orchards near lake Albufera.",
-                                    "Water vole meat was one of the main ingredients of early paellas, along with eel and butter beans."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "виды",
-                                    "translated": "Types"
-                                },
-                                "fact": {
-                                    "original": "«Рис с корочкой» готовится из яиц",
-                                    "translated": "\"Rice with a crust\" is made from eggs.",
-                                    "fact_aligned_sentence": "«Рис с корочкой» готовится из риса, шафрана, куриного бульона, помидоров, чеснока, курятины, белой и кровяной колбасы, сосисок и яиц.",
-                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%8D%D0%BB%D1%8C%D1%8F"
-                                },
-                                "src_context": [
-                                    "«Рис с корочкой» готовится из кровяной колбасы",
-                                    "«Рис с корочкой» готовится из сосисок",
-                                    "«Рис с корочкой» готовится из яиц"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Arroz con pollo – Latin American adaptation with chicken",
-                                    "Arroz con pollo – Latin American adaptation with chicken",
-                                    "Arroz con costra (Crusted rice), so named because it is covered with an egg crust.",
-                                    "Arroz con costra (Crusted rice), so named because it is covered with an egg crust."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "виды",
-                                    "translated": "Types"
-                                },
-                                "fact": {
-                                    "original": "Интенсивный чёрный цвет получается добавлением «чернил», выделяемых каракатицей.",
-                                    "translated": "Intense black color is achieved by adding 'ink' secreted by the cuttlefish.",
-                                    "fact_aligned_sentence": "«Чёрный рис» (аррос негре) готовится с добавлением каракатицы, интенсивный чёрный цвет получается добавлением «чернил», выделяемых каракатицей.",
-                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%8D%D0%BB%D1%8C%D1%8F"
-                                },
-                                "src_context": [
-                                    "Другие ключевые компоненты паэльи — шафран и оливковое масло.",
-                                    "«Чёрный рис» (аррос негре) готовится с добавлением каракатицы.",
-                                    "Интенсивный чёрный цвет получается добавлением «чернил», выделяемых каракатицей."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "According to tradition in Valencia, paella is cooked over an open fire, fueled by orange tree and pine branches and pine cones.",
-                                    "This produces an aromatic smoke which infuses the paella.",
-                                    "The name Senyoret translates as \"little lord\".",
-                                    "Arroz con costra (Crusted rice), so named because it is covered with an egg crust."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "виды",
-                                    "translated": "Types"
-                                },
-                                "fact": {
-                                    "original": "Наиболее известные произведения Льва Толстого включают 'Войну и мир' и 'Анну Каренину'.",
-                                    "translated": "The most famous works of Leo Tolstoy include 'War and Peace' and 'Anna Karenina'.",
-                                    "fact_aligned_sentence": "Наиболее известные",
-                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%8D%D0%BB%D1%8C%D1%8F"
-                                },
-                                "src_context": [
-                                    "К началу XIX века паэлья уже была любима по всей Испании.",
-                                    "Паэлья до сих пор популярна в Испании, как футбол или карнавал.",
-                                    "Наиболее известные произведения Льва Толстого включают 'Войну и мир' и 'Анну Каренину'."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "The dish became so popular that in 1840, a local Spanish newspaper first used the word paella to refer to the recipe rather than the pan, according to food historian Lynne Olver.",
-                                    "The dish became so popular that in 1840, a local Spanish newspaper first used the word paella to refer to the recipe rather than the pan, according to food historian Lynne Olver.",
-                                    "Spanish food historian Lourdes March notes that the dish \"symbolizes the union and heritage of two important cultures, the Roman, which gives us the utensil and the Arab which brought us the basic food of humanity for centuries: rice.\"",
-                                    "Spanish food historian Lourdes March notes that the dish \"symbolizes the union and heritage of two important cultures, the Roman, which gives us the utensil and the Arab which brought us the basic food of humanity for centuries: rice.\""
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "виды",
-                                    "translated": "Types"
-                                },
-                                "fact": {
-                                    "original": "Лев Толстой основал движение толстовцев.",
-                                    "translated": "Leo Tolstoy founded the movement of the Tolstoyans.",
-                                    "fact_aligned_sentence": "Наиболее известные",
-                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%8D%D0%BB%D1%8C%D1%8F"
-                                },
-                                "src_context": [
-                                    "Лев Толстой жил в 19 веке.",
-                                    "Лев Толстой также известен своими философскими и религиозными взглядами.",
-                                    "Лев Толстой основал движение толстовцев."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Valencia restaurateur Juan Galbis claims to have made the world's largest paella with help from a team of workers on 2 October 2001.",
-                                    "This paella fed about 110,000 people, according to Galbis' former website.",
-                                    "Spanish food historian Lourdes March notes that the dish \"symbolizes the union and heritage of two important cultures, the Roman, which gives us the utensil and the Arab which brought us the basic food of humanity for centuries: rice.\"",
-                                    "Spanish food historian Lourdes March notes that the dish \"symbolizes the union and heritage of two important cultures, the Roman, which gives us the utensil and the Arab which brought us the basic food of humanity for centuries: rice.\""
-                                ]
                             }
                         ]
                     },
                     "General description": {
                         "entries": [
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "General description",
-                                    "translated": null
-                                },
-                                "fact": {
-                                    "original": "Испанцы относят паэлью к кухне Валенсии.",
-                                    "translated": "The Spanish consider paella to be part of Valencia's cuisine.",
-                                    "fact_aligned_sentence": "Неиспанцы часто считают паэлью национальным испанским блюдом, в то же время испанцы относят его к кухне Валенсии, где оно рассматривается как один из символов региона.",
-                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%8D%D0%BB%D1%8C%D1%8F"
-                                },
-                                "src_context": [
-                                    "Традиционно подаётся в день святого Иосифа (19 марта)",
-                                    "Неиспанцы часто считают паэлью национальным испанским блюдом.",
-                                    "Испанцы относят паэлью к кухне Валенсии."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Traditional Valencian cuisine offers recipes similar to paella valenciana and paella de marisco such as arròs negre, arròs al forn, arròs a banda and arròs amb fesols i naps since rice is the base of much of the local cuisine.",
-                                    "Traditional Valencian cuisine offers recipes similar to paella valenciana and paella de marisco such as arròs negre, arròs al forn, arròs a banda and arròs amb fesols i naps since rice is the base of much of the local cuisine.",
-                                    "Traditional Valencian cuisine offers recipes similar to paella valenciana and paella de marisco such as arròs negre, arròs al forn, arròs a banda and arròs amb fesols i naps since rice is the base of much of the local cuisine.",
-                                    "Traditional Valencian cuisine offers recipes similar to paella valenciana and paella de marisco such as arròs negre, arròs al forn, arròs a banda and arròs amb fesols i naps since rice is the base of much of the local cuisine."
-                                ]
-                            },
                             {
                                 "header_2": {
                                     "original": null,
@@ -249,6 +60,176 @@
                                     "According to tradition in Valencia, paella is cooked over an open fire, fueled by orange tree and pine branches and pine cones.",
                                     "Valencian speakers use the word paella for all pans, including the traditional shallow pan used for cooking the homonym dish.",
                                     "The pan is made of polished or coated steel with two side handles."
+                                ]
+                            }
+                        ]
+                    },
+                    "история": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "история",
+                                    "translated": "story"
+                                },
+                                "fact": {
+                                    "original": "Арабы завоевали Пиренейский полуостров в VIII веке.",
+                                    "translated": "In the 8th century, Arabs who conquered the Iberian Peninsula began cultivating rice, a staple of their diet",
+                                    "fact_aligned_sentence": "Завоевавшие Пиренейский полуостров в VIII веке арабы стали выращивать на этих топких землях важный компонент своего рациона — рис.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%8D%D0%BB%D1%8C%D1%8F"
+                                },
+                                "src_context": [
+                                    "Местом её рождения считают рыболовецкую деревушку Эль Пальмаррайон возле Альбуферы.",
+                                    "Альбуфера — это береговое озеро средиземноморского побережья, отделённое от моря узкой полосой намытого песка.",
+                                    "Арабы завоевали Пиренейский полуостров в VIII веке."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Spain, paella is traditionally included in restaurant menus on Thursdays.",
+                                    "Muslims in Al-Andalus began rice cultivation around the 10th century.",
+                                    "This led to rice becoming a staple by the 15th century.",
+                                    "This led to rice becoming a staple by the 15th century."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "история",
+                                    "translated": "story"
+                                },
+                                "fact": {
+                                    "original": "К началу XIX века паэлья уже была любима по всей Испании.",
+                                    "translated": "By the beginning of the 19th century, paella was already loved throughout Spain.",
+                                    "fact_aligned_sentence": "К началу XIX века паэлья уже была любима по всей Испании, и до сих пор она популярна, как футбол или карнавал.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%8D%D0%BB%D1%8C%D1%8F"
+                                },
+                                "src_context": [
+                                    "Валенсийцы добавляли в рис рыбу, улиток, стручковую фасоль, мидии, креветки, мясо птицы и крольчатину.",
+                                    "Рис прекрасно впитывал и смешивал вкусы разнообразных ингредиентов.",
+                                    "К началу XIX века паэлья уже была любима по всей Испании."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "This paella is sometimes called preparación barroca (baroque preparation) due to the variety of ingredients and its final presentation.",
+                                    "During the 20th century, paella's popularity spread past Spain's borders.",
+                                    "This led to rice becoming a staple by the 15th century.",
+                                    "This led to rice becoming a staple by the 15th century."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "история",
+                                    "translated": "story"
+                                },
+                                "fact": {
+                                    "original": "Рис прекрасно впитывал и смешивал вкусы разнообразных ингредиентов.",
+                                    "translated": "The rice absorbed and blended the flavors of various ingredients perfectly.",
+                                    "fact_aligned_sentence": "Рис прекрасно впитывал и смешивал вкусы разнообразных ингредиентов.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%8D%D0%BB%D1%8C%D1%8F"
+                                },
+                                "src_context": [
+                                    "Рис был важным компонентом рациона арабов.",
+                                    "Валенсийцы добавляли в рис рыбу, улиток, стручковую фасоль, мидии, креветки, мясо птицы и крольчатину.",
+                                    "Рис прекрасно впитывал и смешивал вкусы разнообразных ингредиентов."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Spanish food historian Lourdes March notes that the dish \"symbolizes the union and heritage of two important cultures, the Roman, which gives us the utensil and the Arab which brought us the basic food of humanity for centuries: rice.\"",
+                                    "Spanish food historian Lourdes March notes that the dish \"symbolizes the union and heritage of two important cultures, the Roman, which gives us the utensil and the Arab which brought us the basic food of humanity for centuries: rice.\"",
+                                    "Spanish food historian Lourdes March notes that the dish \"symbolizes the union and heritage of two important cultures, the Roman, which gives us the utensil and the Arab which brought us the basic food of humanity for centuries: rice.\"",
+                                    "Spanish food historian Lourdes March notes that the dish \"symbolizes the union and heritage of two important cultures, the Roman, which gives us the utensil and the Arab which brought us the basic food of humanity for centuries: rice.\""
+                                ]
+                            }
+                        ]
+                    },
+                    "название": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "название",
+                                    "translated": "Name"
+                                },
+                                "fact": {
+                                    "original": "Paelleras традиционно имеют круглую форму.",
+                                    "translated": "'Paelleras traditionally have a round shape.'",
+                                    "fact_aligned_sentence": "Paelleras традиционно имеют круглую форму.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%8D%D0%BB%D1%8C%D1%8F"
+                                },
+                                "src_context": [
+                                    "В большей части Испании и в испаноговорящей Латинской Америке термин paellera используется в этом значении чаще.",
+                                    "Королевская испанская академия заявляет, что оба термина могут равнозначно применяться.",
+                                    "Paelleras традиционно имеют круглую форму."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Other popular local variations of paella are cooked throughout the Mediterranean area, the rest of Spain, and internationally.",
+                                    "In Spain, paella is traditionally included in restaurant menus on Thursdays.",
+                                    "The pan is made of polished or coated steel with two side handles.",
+                                    "The pan is made of polished or coated steel with two side handles."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "название",
+                                    "translated": "Name"
+                                },
+                                "fact": {
+                                    "original": "Слово «Паэлья» происходит от валенсийского paella, означающего «сковорода».",
+                                    "translated": "The word \"Paella\" comes from the Valencian paella, meaning \"pan.\"",
+                                    "fact_aligned_sentence": "Слово «Паэлья» происходит от валенсийского paella, означающего «сковорода», которое, в свою очередь, произошло от лат.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%8D%D0%BB%D1%8C%D1%8F"
+                                },
+                                "src_context": [
+                                    "Существуют различные варианты паэльи, включая оригинальный валенсийский рецепт.",
+                                    "Существуют такие разновидности паэльи, как паэлья с морепродуктами (paella de marisco) и смешанная паэлья (paella mixta).",
+                                    "Слово «Паэлья» происходит от валенсийского paella, означающего «сковорода»."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "According to the etymologist Joan Coromines, the Catalan word paella derives from the Old French word paelle for frying pan, which in turn comes from the Latin word patella for pan; he thinks that otherwise the word should be padella, as inter-vowel -d- dropping is not typical of Old Catalan.",
+                                    "According to the etymologist Joan Coromines, the Catalan word paella derives from the Old French word paelle for frying pan, which in turn comes from the Latin word patella for pan; he thinks that otherwise the word should be padella, as inter-vowel -d- dropping is not typical of Old Catalan.",
+                                    "Paila in Latin American Spanish refers to a variety of cookware resembling metal and clay pans, which are also used for both cooking and serving.",
+                                    "The Latin root patella from which paella derives is also akin to the modern French poêle, the Italian padella, and the Old Spanish padilla."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "название",
+                                    "translated": "Name"
+                                },
+                                "fact": {
+                                    "original": "Королевская испанская академия заявляет, что оба термина могут равнозначно применяться.",
+                                    "translated": "In Valencia, the word “paella” refers to all types of pans, including the specific one used to cook the dish, while in most of Spain and Latin America, “paellera” is more commonly used—though the Royal Spanish Academy considers both terms equally valid.",
+                                    "fact_aligned_sentence": "Валенсийцы используют слово «паэлья» для всех видов кастрюль, включая специализированную посуду для приготовления паэльи, однако в большей части Испании и в испаноговорящей Латинской Америке термин paellera используется в этом значении чаще, хотя, как заявлено Королевской испанской академией, организацией, ответственной за регулирование испанского языка, оба термина могут равнозначно применяться.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%8D%D0%BB%D1%8C%D1%8F"
+                                },
+                                "src_context": [
+                                    "Валенсийцы используют слово «паэлья» для всех видов кастрюль, включая специализированную посуду для приготовления паэльи.",
+                                    "В большей части Испании и в испаноговорящей Латинской Америке термин paellera используется в этом значении чаще.",
+                                    "Королевская испанская академия заявляет, что оба термина могут равнозначно применяться."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Both paella and paellera are correct terms for the pan.",
+                                    "According to the etymologist Joan Coromines, the Catalan word paella derives from the Old French word paelle for frying pan, which in turn comes from the Latin word patella for pan; he thinks that otherwise the word should be padella, as inter-vowel -d- dropping is not typical of Old Catalan.",
+                                    "According to the etymologist Joan Coromines, the Catalan word paella derives from the Old French word paelle for frying pan, which in turn comes from the Latin word patella for pan; he thinks that otherwise the word should be padella, as inter-vowel -d- dropping is not typical of Old Catalan.",
+                                    "According to the etymologist Joan Coromines, the Catalan word paella derives from the Old French word paelle for frying pan, which in turn comes from the Latin word patella for pan; he thinks that otherwise the word should be padella, as inter-vowel -d- dropping is not typical of Old Catalan."
                                 ]
                             }
                         ]
@@ -285,6 +266,37 @@
                                     "Muslims in Al-Andalus began rice cultivation around the 10th century.",
                                     "Consequently, eastern Iberian Peninsula locals often made casseroles of rice, fish, and spices for family gatherings and religious feasts, thus establishing the custom of eating rice in Spain."
                                 ]
+                            }
+                        ]
+                    },
+                    "préparation": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "préparation",
+                                    "translated": "preparation"
+                                },
+                                "fact": {
+                                    "original": "Ce supplément d’amidon favorise l’absorption du bouillon durant sa cuisson.",
+                                    "translated": "The starch in the rice promotes the absorption of the broth during cooking.'",
+                                    "fact_aligned_sentence": "La « perle » apporte un supplément d’amidon qui favorise l’absorption du bouillon durant sa cuisson, et donc, la transmission des saveurs du plat cuisiné.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Paella"
+                                },
+                                "src_context": [
+                                    "La taille des grains de riz sénia est comprise entre 5 et 6 millimètres.",
+                                    "La « perle » apporte un supplément d’amidon.",
+                                    "Ce supplément d’amidon favorise l’absorption du bouillon durant sa cuisson."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "According to tradition in Valencia, paella is cooked over an open fire, fueled by orange tree and pine branches and pine cones.",
+                                    "This produces an aromatic smoke which infuses the paella.",
+                                    "The dish became so popular that in 1840, a local Spanish newspaper first used the word paella to refer to the recipe rather than the pan, according to food historian Lynne Olver.",
+                                    "The dish became so popular that in 1840, a local Spanish newspaper first used the word paella to refer to the recipe rather than the pan, according to food historian Lynne Olver."
+                                ]
                             },
                             {
                                 "header_2": {
@@ -292,25 +304,79 @@
                                     "translated": null
                                 },
                                 "header_1": {
-                                    "original": "composition",
-                                    "translated": "composition"
+                                    "original": "préparation",
+                                    "translated": "preparation"
                                 },
                                 "fact": {
-                                    "original": "Le haricot vert plat a une forme aplatie.",
-                                    "translated": "The flat green bean has a flattened shape and it is high in fiber.",
-                                    "fact_aligned_sentence": "haricot vert plat ;",
+                                    "original": "La croûte formée au fond du plat de paella est le signe d'une paella réussie.",
+                                    "translated": "The crust formed at the bottom of the paella dish is a sign of a successful paella.",
+                                    "fact_aligned_sentence": "C'est le signe d'une paella réussie.",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Paella"
                                 },
                                 "src_context": [
-                                    "Le haricot vert plat est une variété de haricot.",
-                                    "Il est également connu sous le nom de haricot mange-tout.",
-                                    "Le haricot vert plat a une forme aplatie."
+                                    "La coloration jaune du riz peut provenir d'un colorant alimentaire à base de maïs.",
+                                    "En Espagne, la croûte formée au fond du plat de paella est nommée soccarat.",
+                                    "La croûte formée au fond du plat de paella est le signe d'une paella réussie."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Some recipes call for paella to be covered and left to settle for five to ten minutes after cooking.",
+                                    "After cooking paella, a layer of scorched rice may be at the bottom of the pan, called socarrat in Valencià.",
+                                    "Also, dining guests traditionally eat directly out of the pan instead of serving in plates.",
+                                    "Some recipes call for paella to be covered and left to settle for five to ten minutes after cooking."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "préparation",
+                                    "translated": "preparation"
+                                },
+                                "fact": {
+                                    "original": "En Espagne, la croûte formée au fond du plat de paella est nommée soccarat.",
+                                    "translated": "In Spain, the crust formed at the bottom of the paella dish is called soccarat.",
+                                    "fact_aligned_sentence": "En Espagne, la croûte formée au fond du plat de paella est nommée soccarat.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Paella"
+                                },
+                                "src_context": [
+                                    "La coloration jaune du riz provient du safran.",
+                                    "La coloration jaune du riz peut provenir d'un colorant alimentaire à base de maïs.",
+                                    "En Espagne, la croûte formée au fond du plat de paella est nommée soccarat."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Some recipes call for paella to be covered and left to settle for five to ten minutes after cooking.",
+                                    "After cooking paella, a layer of scorched rice may be at the bottom of the pan, called socarrat in Valencià.",
+                                    "After cooking paella, a layer of scorched rice may be at the bottom of the pan, called socarrat in Valencià.",
+                                    "After cooking paella, a layer of scorched rice may be at the bottom of the pan, called socarrat in Valencià."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "préparation",
+                                    "translated": "preparation"
+                                },
+                                "fact": {
+                                    "original": "La taille des grains de riz bahia est comprise entre 5 et 6 millimètres.",
+                                    "translated": "The size of bahia rice grains is between 5 and 6 millimeters.",
+                                    "fact_aligned_sentence": "Le bahia et le sénia sont des riz avec des grains demi-longs perlés ; leur taille est comprise entre 5 et 6 millimètres.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Paella"
+                                },
+                                "src_context": [
+                                    "Le bahia est un riz avec des grains demi-longs perlés.",
+                                    "Le sénia est un riz avec des grains demi-longs perlés.",
+                                    "La taille des grains de riz bahia est comprise entre 5 et 6 millimètres."
                                 ],
                                 "tgt_fact_aligned_sentences": [
                                     "Paella de marisco (seafood paella) replaces meat with seafood and omits beans and green vegetables, while paella mixta (mixed paella) combines meat from livestock, seafood, vegetables, and sometimes beans, with the traditional rice.",
                                     "Paella de marisco (seafood paella) replaces meat with seafood and omits beans and green vegetables, while paella mixta (mixed paella) combines meat from livestock, seafood, vegetables, and sometimes beans, with the traditional rice.",
-                                    "Arroz del Senyoret – A seafood paella typical from Alicante, in which the seafood comes all peeled, so it is easier to eat.",
-                                    "Arroz del Senyoret – A seafood paella typical from Alicante, in which the seafood comes all peeled, so it is easier to eat."
+                                    "Spanish food historian Lourdes March notes that the dish \"symbolizes the union and heritage of two important cultures, the Roman, which gives us the utensil and the Arab which brought us the basic food of humanity for centuries: rice.\"",
+                                    "Spanish food historian Lourdes March notes that the dish \"symbolizes the union and heritage of two important cultures, the Roman, which gives us the utensil and the Arab which brought us the basic food of humanity for centuries: rice.\""
                                 ]
                             },
                             {
@@ -319,76 +385,25 @@
                                     "translated": null
                                 },
                                 "header_1": {
-                                    "original": "composition",
-                                    "translated": "composition"
+                                    "original": "préparation",
+                                    "translated": "preparation"
                                 },
                                 "fact": {
-                                    "original": "Elle peut être utilisée pour hydrater la peau et les cheveux.",
-                                    "translated": "Olive oil is one of the key ingredients",
-                                    "fact_aligned_sentence": "huile d'olive ;",
+                                    "original": "Le riz doit rester ferme tout en absorbant le jus.",
+                                    "translated": "'The rice should remain firm while absorbing the juice.'",
+                                    "fact_aligned_sentence": "Le riz doit rester ferme tout en absorbant le jus.",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Paella"
                                 },
                                 "src_context": [
-                                    "Elle a une saveur plus prononcée que les autres types d'huile d'olive.",
-                                    "L'huile d'olive est également utilisée dans les produits de beauté.",
-                                    "Elle peut être utilisée pour hydrater la peau et les cheveux."
+                                    "La paella hétérodoxe peut intégrer d'autres fruits de mer.",
+                                    "La paella hétérodoxe peut être cuisinée uniquement avec des légumes (paella végétalienne).",
+                                    "Le riz doit rester ferme tout en absorbant le jus."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "The most widely used, complete ingredient list of this era was: short-grain white rice, chicken, rabbit, snails (optional), duck (optional), butter beans, great northern beans, runner beans, artichoke (a substitute for runner beans in the winter), tomatoes, fresh rosemary, sweet paprika, saffron, garlic (optional), salt, olive oil, and water."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "composition",
-                                    "translated": "composition"
-                                },
-                                "fact": {
-                                    "original": "Riz Arroz de Valencia DO",
-                                    "translated": "Valencia Rice PDO",
-                                    "fact_aligned_sentence": "riz Arroz de Valencia DO (types bomba, bahia, senia et albufera) ;",
-                                    "wiki_link": "https://fr.wikipedia.org/wiki/Paella"
-                                },
-                                "src_context": [
-                                    "Les ingrédients ci-dessus sont les seuls autorisés pour l’appellation Paella Valenciana.",
-                                    "L’ajout de tout autre ingrédient oblige à nommer la paella autrement.",
-                                    "Riz Arroz de Valencia DO"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "This is traditionally considered positive (as long as it is not burnt), and Valencia natives enjoy eating it.",
-                                    "This is traditionally considered positive (as long as it is not burnt), and Valencia natives enjoy eating it.",
-                                    "The name Senyoret translates as \"little lord\".",
-                                    "Arroz con costra (Crusted rice), so named because it is covered with an egg crust."
-                                ]
-                            },
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "composition",
-                                    "translated": "composition"
-                                },
-                                "fact": {
-                                    "original": "Ils sont connus pour leur cri caractéristique, le coin-coin.",
-                                    "translated": "Translation Error: 'NoneType' object has no attribute 'strip'",
-                                    "fact_aligned_sentence": "canard ;",
-                                    "wiki_link": "https://fr.wikipedia.org/wiki/Paella"
-                                },
-                                "src_context": [
-                                    "Leurs pattes sont palmées.",
-                                    "Les canards se nourrissent principalement de plantes aquatiques, d'insectes et de petits poissons.",
-                                    "Ils sont connus pour leur cri caractéristique, le coin-coin."
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "Arroz con gandules – Latin American (Caribbean) adaptation",
-                                    "Arroz con gandules – Latin American (Caribbean) adaptation",
+                                    "Originally, paella made in Valencia was a lunchtime meal for farmers and farm laborers.",
                                     "Workers would gather what was available to them around the rice fields.",
-                                    "This often included tomatoes, onions, and snails."
+                                    "Spanish food historian Lourdes March notes that the dish \"symbolizes the union and heritage of two important cultures, the Roman, which gives us the utensil and the Arab which brought us the basic food of humanity for centuries: rice.\"",
+                                    "Spanish food historian Lourdes March notes that the dish \"symbolizes the union and heritage of two important cultures, the Roman, which gives us the utensil and the Arab which brought us the basic food of humanity for centuries: rice.\""
                                 ]
                             },
                             {
@@ -397,25 +412,56 @@
                                     "translated": null
                                 },
                                 "header_1": {
-                                    "original": "composition",
-                                    "translated": "composition"
+                                    "original": "préparation",
+                                    "translated": "preparation"
                                 },
                                 "fact": {
-                                    "original": "Il est souvent utilisé dans la cuisine méditerranéenne.",
-                                    "translated": "It is often used in Mediterranean cuisine.",
-                                    "fact_aligned_sentence": "haricot vert plat ;",
+                                    "original": "L’absorption du bouillon permet la transmission des saveurs du plat cuisiné.",
+                                    "translated": "The absorption of the broth allows the flavors of the cooked dish to be transmitted.",
+                                    "fact_aligned_sentence": "La « perle » apporte un supplément d’amidon qui favorise l’absorption du bouillon durant sa cuisson, et donc, la transmission des saveurs du plat cuisiné.",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Paella"
                                 },
                                 "src_context": [
-                                    "Il est également connu sous le nom de haricot mange-tout.",
-                                    "Le haricot vert plat a une forme aplatie.",
-                                    "Il est souvent utilisé dans la cuisine méditerranéenne."
+                                    "La « perle » apporte un supplément d’amidon.",
+                                    "Ce supplément d’amidon favorise l’absorption du bouillon durant sa cuisson.",
+                                    "L’absorption du bouillon permet la transmission des saveurs du plat cuisiné."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Arroz con gandules – Latin American (Caribbean) adaptation",
-                                    "Arroz con gandules – Latin American (Caribbean) adaptation",
-                                    "Arroz con gandules – Latin American (Caribbean) adaptation",
-                                    "Arroz con gandules – Latin American (Caribbean) adaptation"
+                                    "According to tradition in Valencia, paella is cooked over an open fire, fueled by orange tree and pine branches and pine cones.",
+                                    "This produces an aromatic smoke which infuses the paella.",
+                                    "Some recipes call for paella to be covered and left to settle for five to ten minutes after cooking.",
+                                    "After cooking paella, a layer of scorched rice may be at the bottom of the pan, called socarrat in Valencià."
+                                ]
+                            }
+                        ]
+                    },
+                    "histoire": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "histoire",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "La paella se mangeait à même la poêle de cuisson.",
+                                    "translated": "The paella was eaten straight from the cooking pan.",
+                                    "fact_aligned_sentence": "Cuisinée dans un unique récipient faisant également office de plat communautaire, la paella se mangeait à même la poêle de cuisson.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Paella"
+                                },
+                                "src_context": [
+                                    "On ajoutait à la paella les aliments de base de la nourriture espagnole tirée de la basse-cour et du potager.",
+                                    "La paella était cuisinée dans un unique récipient faisant également office de plat communautaire.",
+                                    "La paella se mangeait à même la poêle de cuisson."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Fideuà is a Valencian pasta noodle dish variation cooked similarly in a paella.",
+                                    "Fideuà is a Valencian pasta noodle dish variation cooked similarly in a paella.",
+                                    "After cooking paella, a layer of scorched rice may be at the bottom of the pan, called socarrat in Valencià.",
+                                    "The layer develops on its own if the paella is cooked over a burner or open fire."
                                 ]
                             },
                             {
@@ -424,25 +470,114 @@
                                     "translated": null
                                 },
                                 "header_1": {
-                                    "original": "composition",
-                                    "translated": "composition"
+                                    "original": "histoire",
+                                    "translated": "history"
                                 },
                                 "fact": {
-                                    "original": "Elle est également utilisée pour assaisonner les salades.",
-                                    "translated": "It is also used to season salads.",
-                                    "fact_aligned_sentence": "huile d'olive ;",
+                                    "original": "La paella est un plat de paysans valenciens.",
+                                    "translated": "Paella is a dish from Valencian peasants.",
+                                    "fact_aligned_sentence": "La paella est un plat de paysans valenciens, plat populaire de fête familiale ou religieuse.",
                                     "wiki_link": "https://fr.wikipedia.org/wiki/Paella"
                                 },
                                 "src_context": [
-                                    "Elle est particulièrement populaire dans la cuisine méditerranéenne.",
-                                    "L'huile d'olive peut être utilisée pour la cuisson.",
-                                    "Elle est également utilisée pour assaisonner les salades."
+                                    "Les Valenciens préparent le riz seulement avec des légumes.",
+                                    "Le riz préparé par les Valenciens est toujours un plat savoureux.",
+                                    "La paella est un plat de paysans valenciens."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Paila in Latin American Spanish refers to a variety of cookware resembling metal and clay pans, which are also used for both cooking and serving.",
-                                    "Paila in Latin American Spanish refers to a variety of cookware resembling metal and clay pans, which are also used for both cooking and serving.",
+                                    "As a dish, it may have ancient roots, but in its modern form, it is traced back to the mid-19th century, in the rural area around the Albufera lagoon adjacent to the city of Valencia, on the Mediterranean coast of Spain.",
                                     "Paella valenciana is the traditional paella of the Valencia region, believed to be the original recipe, and consists of Valencian rice, olive oil, rabbit, chicken, saffron or a substitute, tomato, ferradura or flat green bean, lima beans, salt and water.",
-                                    "The dish is sometimes seasoned with whole rosemary branches."
+                                    "Originally, paella made in Valencia was a lunchtime meal for farmers and farm laborers.",
+                                    "Originally, paella made in Valencia was a lunchtime meal for farmers and farm laborers."
+                                ]
+                            }
+                        ]
+                    },
+                    "cuisinologie": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "cuisinologie",
+                                    "translated": "cook"
+                                },
+                                "fact": {
+                                    "original": "La paella valencienne telle que nous la connaissons aujourd'hui a commencé à être fabriquée en 1950.",
+                                    "translated": "The Valencian paella as we know it today began to be made in 1950.",
+                                    "fact_aligned_sentence": "La paella valencienne, telle que nous la connaissons aujourd'hui, a commencé à être fabriquée en 1950.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Paella"
+                                },
+                                "src_context": [
+                                    "Il faut beaucoup de temps pour réaliser une paella.",
+                                    "La paella est plus une façon de cuisiner qu'une recette spécifique.",
+                                    "La paella valencienne telle que nous la connaissons aujourd'hui a commencé à être fabriquée en 1950."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It has been said, however, that a problem with this etymology is that the word paella is not attested until six centuries after Moorish Valencia was conquered by James I.",
+                                    "Originally, paella made in Valencia was a lunchtime meal for farmers and farm laborers.",
+                                    "As a dish, it may have ancient roots, but in its modern form, it is traced back to the mid-19th century, in the rural area around the Albufera lagoon adjacent to the city of Valencia, on the Mediterranean coast of Spain.",
+                                    "Paella valenciana is the traditional paella of the Valencia region, believed to be the original recipe, and consists of Valencian rice, olive oil, rabbit, chicken, saffron or a substitute, tomato, ferradura or flat green bean, lima beans, salt and water."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "cuisinologie",
+                                    "translated": "cook"
+                                },
+                                "fact": {
+                                    "original": "Le chef Paco Caballer explique : « La paella est un ragoût du dimanche que l'on prépare à la maison, car il faut beaucoup de temps pour la réaliser. »",
+                                    "translated": "Chef Paco Caballer explains: “Paella is a Sunday stew that is made at home because it takes a lot of time to prepare.”",
+                                    "fact_aligned_sentence": "Le chef Paco Caballer explique : « La paella est un ragoût du dimanche que l'on prépare à la maison, car il faut beaucoup de temps pour la réaliser.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Paella"
+                                },
+                                "src_context": [
+                                    "En 2012, le département d'Agriculture du Conseil de la Généralité valencienne a établi que la liste des ingrédients de la paella serait désormais protégée par une « Denominación de Origen ».",
+                                    "La « Denominación de Origen » est l’équivalent de l'Appellation d'origine contrôlée française.",
+                                    "Le chef Paco Caballer explique : « La paella est un ragoût du dimanche que l'on prépare à la maison, car il faut beaucoup de temps pour la réaliser. »"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Chefs use gargantuan paelleras for these events.",
+                                    "Valencia restaurateur Juan Galbis claims to have made the world's largest paella with help from a team of workers on 2 October 2001.",
+                                    "Some recipes call for paella to be covered and left to settle for five to ten minutes after cooking.",
+                                    "Some recipes call for paella to be covered and left to settle for five to ten minutes after cooking."
+                                ]
+                            }
+                        ]
+                    },
+                    "variantes culinaires": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "variantes culinaires",
+                                    "translated": "Culinary variants"
+                                },
+                                "fact": {
+                                    "original": "La paella peut être préparée avec du quinoa au lieu du riz traditionnel.",
+                                    "translated": "'Paella can be made with quinoa instead of traditional rice.'",
+                                    "fact_aligned_sentence": "La paella au quinoa.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Paella"
+                                },
+                                "src_context": [
+                                    "La paella est un plat traditionnel espagnol.",
+                                    "Le quinoa est une graine riche en protéines.",
+                                    "La paella peut être préparée avec du quinoa au lieu du riz traditionnel."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Traditionally, the yellow color comes from saffron, but turmeric and Calendula can be used as substitutes.",
+                                    "Traditionally, the yellow color comes from saffron, but turmeric and Calendula can be used as substitutes.",
+                                    "Arroz con pollo – Latin American adaptation with chicken",
+                                    "Arroz con pollo – Latin American adaptation with chicken"
                                 ]
                             }
                         ]
@@ -519,8 +654,35 @@
                                     "translated": "Various iron pot rice"
                                 },
                                 "fact": {
+                                    "original": "傳統華倫西亞鐵鍋飯以兔肉烹製。",
+                                    "translated": "Traditional Valencia paella is made with rabbit meat.",
+                                    "fact_aligned_sentence": "傳統華倫西亞鐵鍋飯以兔肉烹製,其他常見版本有魚飯(paella de peix)或海鮮飯(paella de marisco),故有人錯譯成海鮮飯,而海鲜并非传统铁锅饭的必要食材。但至今已經產生各形各色的鐵鍋飯(可配以香腸、西班牙腸、雞、鴨、四季豆、小龍蝦、龍蝦、貽貝、洋蔥、豌豆、燈籠椒、蝦、魷魚、大蒜)。烹調時可以是在野外從鍋中取食,或者是将米飯用番紅花染上黃色。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%90%B5%E9%8D%8B%E9%A3%AF"
+                                },
+                                "src_context": [
+                                    "可以配以各種海鮮。",
+                                    "可以配以各種肉。",
+                                    "傳統華倫西亞鐵鍋飯以兔肉烹製。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Traditional Valencian cuisine offers recipes similar to paella valenciana and paella de marisco such as arròs negre, arròs al forn, arròs a banda and arròs amb fesols i naps since rice is the base of much of the local cuisine.",
+                                    "Traditional Valencian cuisine offers recipes similar to paella valenciana and paella de marisco such as arròs negre, arròs al forn, arròs a banda and arròs amb fesols i naps since rice is the base of much of the local cuisine.",
+                                    "Traditional Valencian cuisine offers recipes similar to paella valenciana and paella de marisco such as arròs negre, arròs al forn, arròs a banda and arròs amb fesols i naps since rice is the base of much of the local cuisine.",
+                                    "Traditional Valencian cuisine offers recipes similar to paella valenciana and paella de marisco such as arròs negre, arròs al forn, arròs a banda and arròs amb fesols i naps since rice is the base of much of the local cuisine."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "各種鐵鍋飯",
+                                    "translated": "Various iron pot rice"
+                                },
+                                "fact": {
                                     "original": "菲律賓的此菜包含鮑魚。",
-                                    "translated": "This dish from the Philippines includes abalone.",
+                                    "translated": "The dish was also introduced to the Philippines, a former colony, where it evolved to include local ingredients such as crab, abalone, soy sauce, clams, and annatto (a natural food coloring).",
                                     "fact_aligned_sentence": "此菜亦有傳入其前殖民地—菲律賓,並形成了包含當地特有的海鮮品種及物產,例如螃蟹、鮑魚、醬油、蛤及胭脂樹紅(一種天然食用色素)。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%90%B5%E9%8D%8B%E9%A3%AF"
                                 },
@@ -606,21 +768,21 @@
                                     "translated": "Related cultural traditions"
                                 },
                                 "fact": {
-                                    "original": "特別是法耶火節 fallas。",
-                                    "translated": "Especially the Fallas festival.",
-                                    "fact_aligned_sentence": "在華倫西亞地區,有大型聚會—不論是節日(特別是法耶火節 fallas)、選舉活動、抗議示威—都需要製作大量的飯,有時甚至是用以打破健力士世界紀錄。為此需要製作特大的鍋。",
+                                    "original": "郊游的食品由家中的成年男性负责烹调。",
+                                    "translated": "Around spring and summer in Spain, The food for the outing is prepared by the adult males at home.",
+                                    "fact_aligned_sentence": "在西班牙是春夏時節,郊遊的食品,負責烹調的通常是家中的成年男性。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%90%B5%E9%8D%8B%E9%A3%AF"
                                 },
                                 "src_context": [
-                                    "在華倫西亞地區有大型聚會。",
-                                    "這些大型聚會包括節日、選舉活動和抗議示威。",
-                                    "特別是法耶火節 fallas。"
+                                    "為此需要製作特大的鍋。",
+                                    "在西班牙是春夏时节。",
+                                    "郊游的食品由家中的成年男性负责烹调。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Arroz con gandules – Latin American (Caribbean) adaptation",
-                                    "Arroz con gandules – Latin American (Caribbean) adaptation",
-                                    "Other related dishes:",
-                                    "Other related dishes:"
+                                    "Living standards rose with the sociological changes of the late 19th century in Spain, giving rise to gatherings and outings in the countryside.",
+                                    "Living standards rose with the sociological changes of the late 19th century in Spain, giving rise to gatherings and outings in the countryside.",
+                                    "Some claim that the word paella comes from the Arabic بَقَايَا, pronounced baqaayya, meaning \"leftovers.\"",
+                                    "This claim is based on the 8th-century custom in which Moorish kings' servants would take home the rice, chicken, and vegetables their employers left at the end of the meal."
                                 ]
                             },
                             {
@@ -633,21 +795,21 @@
                                     "translated": "Related cultural traditions"
                                 },
                                 "fact": {
-                                    "original": "「bon profit」是「好好享用」的意思",
-                                    "translated": "'Bon profit' means 'enjoy your meal'.",
-                                    "fact_aligned_sentence": "製作完成時會說「bon profit」,是「好好享用」的意思,另外傳統上在食用時不可同時食用麵包。",
+                                    "original": "意大利人吃的意大利燉飯常为夹生饭。",
+                                    "translated": "The risotto that Italians eat is often undercooked.",
+                                    "fact_aligned_sentence": "與意大利人的意大利燉飯一樣,西班牙人吃的米饭常为夹生饭,这种口味很难让习惯熟烂米饭的亚洲人接受。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%90%B5%E9%8D%8B%E9%A3%AF"
                                 },
                                 "src_context": [
-                                    "用匙直接從鍋中取食。",
-                                    "製作完成時會說「bon profit」",
-                                    "「bon profit」是「好好享用」的意思"
+                                    "這些版本有時被華倫西亞人認為不正宗。",
+                                    "華倫西亞人謔稱這些版本為arroz con cosas(「有東西的飯」)。",
+                                    "意大利人吃的意大利燉飯常为夹生饭。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Arroz del Senyoret – A seafood paella typical from Alicante, in which the seafood comes all peeled, so it is easier to eat.",
-                                    "The name Senyoret translates as \"little lord\".",
                                     "Other related dishes:",
-                                    "Other related dishes:"
+                                    "Other related dishes:",
+                                    "Arroz con gandules – Latin American (Caribbean) adaptation",
+                                    "Arroz con pollo – Latin American adaptation with chicken"
                                 ]
                             },
                             {
@@ -679,37 +841,6 @@
                             }
                         ]
                     },
-                    "製作": {
-                        "entries": [
-                            {
-                                "header_2": {
-                                    "original": null,
-                                    "translated": null
-                                },
-                                "header_1": {
-                                    "original": "製作",
-                                    "translated": "Production"
-                                },
-                                "fact": {
-                                    "original": "調低爐火。",
-                                    "translated": "Traditional iron pot rice is prepared in a special shallow iron pot over an outdoor fire fueled by orange tree branches, starting with stir-frying meat in olive oil, then adding vegetables, rice, and boiling stock, before lowering the heat and finally allowing the finished rice to absorb any remaining juices off the heat for a few minutes before serving.",
-                                    "fact_aligned_sentence": "製作鐵鍋飯用的是專製的鐵鍋,鍋身淺而平。正宗的鐵鍋飯,要用橘樹樹枝生火在室外烹煮。先以橄欖油炒肉,再下蔬菜。然後下米使油滲入。再加入沸騰的上湯,調低爐火。飯熟時離火使飯吸收剩餘汁液。放涼數分鐘後即可食用。",
-                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%90%B5%E9%8D%8B%E9%A3%AF"
-                                },
-                                "src_context": [
-                                    "然後下米使油滲入。",
-                                    "再加入沸騰的上湯。",
-                                    "調低爐火。"
-                                ],
-                                "tgt_fact_aligned_sentences": [
-                                    "According to tradition in Valencia, paella is cooked over an open fire, fueled by orange tree and pine branches and pine cones.",
-                                    "According to tradition in Valencia, paella is cooked over an open fire, fueled by orange tree and pine branches and pine cones.",
-                                    "Arroz con gandules – Latin American (Caribbean) adaptation",
-                                    "Arroz con gandules – Latin American (Caribbean) adaptation"
-                                ]
-                            }
-                        ]
-                    },
                     "历史": {
                         "entries": [
                             {
@@ -722,21 +853,20 @@
                                     "translated": "history"
                                 },
                                 "fact": {
-                                    "original": "阿拉伯征服者在西西里島、伊比利亞半島等地大規模種植稻米。",
-                                    "translated": "Arab conquerors extensively cultivated rice in places such as Sicily and the Iberian Peninsula.",
+                                    "original": "此菜起源於中世紀時眾多基督教與伊斯蘭教小國割據的伊比利亞半島。",
+                                    "translated": "This dish originated in medieval Iberia, where Arab conquerors introduced rice from the East and cultivated it widely due to the region’s warm, humid climate.",
                                     "fact_aligned_sentence": "此菜起源於中世紀時眾多基督教與伊斯蘭教小國割據的伊比利亞半島。當時,雄踞半島南端的阿拉伯征服者將稻米由遙遠的東方傳入歐洲,並發現西西里島、伊比利亞半島等地溫暖濕潤的氣候非常適合其生長,於是在地大規模種植。稻米傳入的首個基督教國家為地理位置最接近阿拉伯國家的華倫西亞,人們開始將其造成燉菜並作為主食,於西班牙統一以後更傳遍整個半島,成為國家最典型的食物之一。",
                                     "wiki_link": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%90%B5%E9%8D%8B%E9%A3%AF"
                                 },
                                 "src_context": [
-                                    "當時,雄踞半島南端的阿拉伯征服者將稻米由遙遠的東方傳入歐洲。",
-                                    "阿拉伯征服者發現西西里島、伊比利亞半島等地溫暖濕潤的氣候非常適合稻米生長。",
-                                    "阿拉伯征服者在西西里島、伊比利亞半島等地大規模種植稻米。"
+                                    "此菜亦傳入鄰國葡萄牙",
+                                    "稱為華倫西亞飯(Arroz à Valenciana)",
+                                    "此菜起源於中世紀時眾多基督教與伊斯蘭教小國割據的伊比利亞半島。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Other related dishes:",
-                                    "Other related dishes:",
-                                    "In Spain, paella is traditionally included in restaurant menus on Thursdays.",
-                                    "Muslims in Al-Andalus began rice cultivation around the 10th century."
+                                    "a rice dish originally from the Valencian Community",
+                                    "Arroz con gandules – Latin American (Caribbean) adaptation",
+                                    "Arroz con gandules – Latin American (Caribbean) adaptation"
                                 ]
                             }
                         ]
