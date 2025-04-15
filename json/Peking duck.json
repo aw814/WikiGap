@@ -26,8 +26,7 @@
                                     "Этот рецепт происходит из провинции Шаньдун."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "A number of restaurants in Beijing specialise in Peking duck.",
-                                    "Examples include Quanjude, Bianyifang, Changan Yihao (長安一號), Dayali, Beijing Xiaowangfu (北京小王府) and Dadong Kaoyadian (大董烤鴨店)."
+                                    "A variation of roast duck was prepared for the emperor of China in the Yuan dynasty."
                                 ]
                             },
                             {
@@ -240,8 +239,6 @@
                                     "Суп из китайской капусты подаётся после мяса."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Duck skin is best enjoyed hot and crisp to the bite.",
-                                    "The meat is then served with steamed pancakes (simplified Chinese: 春饼; traditional Chinese: 春餅; pinyin: chūn bǐng) and an assortment of vegetable dishes, typically julienned cucumber and spring onion.",
                                     "Ducks bred especially for the dish are slaughtered after 65 days and seasoned before being roasted in a closed or hung oven.",
                                     "The meat is often eaten with spring onion, cucumber, and sweet bean sauce, with pancakes rolled around the fillings."
                                 ]
@@ -268,10 +265,7 @@
                                     "При подаче на стол тушку утки нарезают на 80-120 тонких ломтиков."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "The ducks can be reheated at home with an oven or stovetop.",
-                                    "When an oven is used, the duck is heated at a temperature of 150 °C (302 °F) for 20 minutes, and then at 160 °C (320 °F) for another 10 minutes.",
-                                    "The ducks are hung on hooks above the fire and roasted at a temperature of 270 °C (518 °F) for 30–40 minutes.",
-                                    "The ducks are hung on hooks above the fire and roasted at a temperature of 270 °C (518 °F) for 30–40 minutes."
+                                    "Peking duck is traditionally carved in front of the guests and served in three stages."
                                 ]
                             }
                         ]
@@ -387,10 +381,7 @@
                                     "Le canard laqué à la cantonaise est préparé avec des morceaux plus épais contenant chair et peau moelleuses."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Peking duck is a dish from Beijing that has been prepared since the Imperial era.",
-                                    "The meat is characterized by its thin, crispy skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook.",
-                                    "Controlling the fuel and the temperature is the main skill.",
-                                    "In closed-oven style, duck meat is combined well with the fat under the skin, and therefore is juicy and tender."
+                                    "The meat is characterized by its thin, crispy skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook."
                                 ]
                             },
                             {
@@ -501,7 +492,6 @@
                                     "la viande va servir à préparer une soupe"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Duck skin is best enjoyed hot and crisp to the bite.",
                                     "The meat is then served with steamed pancakes (simplified Chinese: 春饼; traditional Chinese: 春餅; pinyin: chūn bǐng) and an assortment of vegetable dishes, typically julienned cucumber and spring onion.",
                                     "The ducks are hung on hooks above the fire and roasted at a temperature of 270 °C (518 °F) for 30–40 minutes.",
                                     "While the ducks are roasting, the chef may use a pole to dangle each duck closer to the fire for 30-second intervals."
@@ -555,8 +545,6 @@
                                     "la soupe est préparée à partir d'un bouillon digestif de légumes"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Duck skin is best enjoyed hot and crisp to the bite.",
-                                    "The meat is then served with steamed pancakes (simplified Chinese: 春饼; traditional Chinese: 春餅; pinyin: chūn bǐng) and an assortment of vegetable dishes, typically julienned cucumber and spring onion.",
                                     "The duck is marinated with spices and deep-fried, served together with stir-fried vegetables (Wokgemüse) over fried noodles or with rice.",
                                     "The duck is marinated with spices and deep-fried, served together with stir-fried vegetables (Wokgemüse) over fried noodles or with rice."
                                 ]
@@ -617,9 +605,6 @@
                                     "香港大部分酒店/酒樓會推出「填鴨二食」。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "The duck is then rinsed several times with the oil.",
-                                    "A number of restaurants in Beijing specialise in Peking duck.",
-                                    "The meat has less fat and is drier and crispier compared to that of Peking duck.",
                                     "In Germany, some Asian fusion restaurants also serve crispy aromatic duck (Knusprige Ente), sometimes also labeled as Peking duck (Peking-Ente, also Pekingente)."
                                 ]
                             },
@@ -733,10 +718,7 @@
                                     "北京其他著名的烤鸭店还有大董、长安壹号、1949全鸭季、利群、四季民福和花家怡园等。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "A number of restaurants in Beijing specialise in Peking duck.",
-                                    "Examples include Quanjude, Bianyifang, Changan Yihao (長安一號), Dayali, Beijing Xiaowangfu (北京小王府) and Dadong Kaoyadian (大董烤鴨店).",
-                                    "Peking duck is traditionally roasted in a closed oven (Chinese: 焖炉).",
-                                    "Bianyifang, a restaurant in Beijing, China, is famous for keeping this tradition."
+                                    "A number of restaurants in Beijing specialise in Peking duck."
                                 ]
                             },
                             {
@@ -762,7 +744,6 @@
                                 "tgt_fact_aligned_sentences": [
                                     "Yang Quanren (楊全仁), the founder of Quanjude, developed the hung oven to roast ducks.",
                                     "Yang Quanren (楊全仁), the founder of Quanjude, developed the hung oven to roast ducks.",
-                                    "Besides two traditional methods to prepare Peking duck, recipes have been compiled by chefs all around the world to produce the dish at home.",
                                     "Peking duck is traditionally roasted in a closed oven (Chinese: 焖炉)."
                                 ]
                             }
@@ -818,7 +799,6 @@
                                     "北京烤鸭主要分为以挂炉烤鸭为代表的全聚德和以焖炉烤鸭为代表的便宜坊两大门派。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "Besides two traditional methods to prepare Peking duck, recipes have been compiled by chefs all around the world to produce the dish at home.",
                                     "Peking duck is traditionally roasted in a closed oven (Chinese: 焖炉).",
                                     "The meat is characterized by its thin, crispy skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook.",
                                     "The meat is characterized by its thin, crispy skin, with authentic versions of the dish serving mostly the skin and little meat, sliced in front of the diners by the cook."
@@ -849,10 +829,7 @@
                                     "舊時,一些食客挑中了要烤的鴨子,還會用高粱饴或者麦芽糖寫上字跡。"
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "The meat is then served with steamed pancakes (simplified Chinese: 春饼; traditional Chinese: 春餅; pinyin: chūn bǐng) and an assortment of vegetable dishes, typically julienned cucumber and spring onion.",
-                                    "Traditionally, diners dip slices of duck into the condiments and wrap into the pancake with cucumber and any other ingredients.",
-                                    "How to taste",
-                                    "The traditional way of eating is just to have the roasted duck carved into slices by the waiter on the spot, separate the duck skin and duck meat, and dip a little duck skin into each slice."
+                                    "Besides two traditional methods to prepare Peking duck, recipes have been compiled by chefs all around the world to produce the dish at home."
                                 ]
                             }
                         ]
