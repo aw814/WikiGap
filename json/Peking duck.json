@@ -344,7 +344,7 @@
                                     "original": "Le canard laqué devient un des plats favoris de l'impératrice Cixi au XVIIIe siècle.",
                                     "translated": "The lacquered duck became one of the favorite dishes of Empress Cixi in the 18th century.",
                                     "fact_aligned_sentence": "Il devient un des plats favoris de l’empereur Qianlong et de l'impératrice Cixi, au XVIIIe siècle, et se popularise et devient très en vogue sous la dynastie Qing (dernière dynastie impériale à régner sur la Chine, de 1644 à 1912),.",
-                                    "wiki_link": "https://fr.wikipedia.org/wiki/Canard_laqu%C3%A9_de_P%C3%A9kin"
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Canard_laqu%C3%A9_de_P%C3%A9kin#:~:text=Il%20devient%20un%20des%20plats%20favoris%20de%20l%E2%80%99empereur%20Qianlong%20et%20de%20l%27imp%C3%A9ratrice%20Cixi%2C%20au%20xviiie%C2%A0si%C3%A8cle%2C%20et%20se%20popularise%20et%20devient%20tr%C3%A8s%20en%20vogue%20sous%20la%20dynastie%20Qing"
                                 },
                                 "src_context": [
                                     "Le canard laqué était rôti dans un four à bois fermé.",
@@ -352,7 +352,8 @@
                                     "Le canard laqué devient un des plats favoris de l'impératrice Cixi au XVIIIe siècle."
                                 ],
                                 "tgt_fact_aligned_sentences": [
-                                    "The Peking roast duck that came to be associated with the term was fully developed during the later Ming dynasty, and by then, Peking duck was one of the main dishes on imperial court menus.",
+                                    "After a round of inconclusive talks in the morning, the delegation was served Peking duck for lunch, which became Kissinger's favourite.",
+                                    "The Peking roast duck that came to be associated with the term was fully developed during the later Ming dynasty",
                                     "The Peking roast duck that came to be associated with the term was fully developed during the later Ming dynasty, and by then, Peking duck was one of the main dishes on imperial court menus."
                                 ]
                             }
