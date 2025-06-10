@@ -3,14 +3,9 @@ import glob
 import os
 import openai
  
-URL_ENDPOINT = "https://ubcnlpgpt4.openai.azure.com/"
+URL_ENDPOINT = ""
 
-client = openai.AzureOpenAI(
-    api_key='5d830dce7597439091699136c45c675d',
-    api_version="2023-05-15",
-    azure_endpoint=URL_ENDPOINT
-)
-
+client = ""
 def extract_facts(filename, topic):
     with open(filename, 'r', encoding='utf-8') as file:
         data = json.load(file)
