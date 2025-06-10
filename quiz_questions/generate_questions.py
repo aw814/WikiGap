@@ -3,14 +3,9 @@ import glob
 import os
 import openai
  
-URL_ENDPOINT = "REDACTED_ENDPOINT"
+URL_ENDPOINT = ""
 
-client = openai.AzureOpenAI(
-    api_key='REDACTED_API_KEY',
-    api_version="2023-05-15",
-    azure_endpoint=URL_ENDPOINT
-)
-
+client = ""
 def extract_facts(filename, topic):
     with open(filename, 'r', encoding='utf-8') as file:
         data = json.load(file)
