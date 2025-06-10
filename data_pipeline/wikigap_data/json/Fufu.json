@@ -1,0 +1,616 @@
+{
+    "Fufu": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "в литературе": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "в литературе",
+                                    "translated": "In the literature"
+                                },
+                                "fact": {
+                                    "original": "Фуфу упоминается как повседневное блюдо.",
+                                    "translated": "Fufu is mentioned as a everyday dish.",
+                                    "fact_aligned_sentence": "В книге Ачебе Чинуа «И пришло разрушение» фуфу часто упоминается как повседневное блюдо.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%84%D1%83"
+                                },
+                                "src_context": [
+                                    "В национальных кухнях островных государств бассейна Карибского моря это блюдо появилось благодаря рабам-выходцам из Африки.",
+                                    "В книге Ачебе Чинуа «И пришло разрушение» фуфу часто упоминается.",
+                                    "Фуфу упоминается как повседневное блюдо."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Sierra Leone: foofoo, foofoo",
+                                    "Sierra Leone: foofoo, foofoo",
+                                    "Fufu (or fufuo, foofoo, foufou  foo-foo ) is a pounded meal found in West African cuisine."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "spécificités géographiques": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "spécificités géographiques",
+                                    "translated": "Geographical specificities"
+                                },
+                                "fact": {
+                                    "original": "Au Bénin et au Togo, le foufou désigne une pâte obtenue en pilant des morceaux d'igname bouillis dans un mortier.",
+                                    "translated": "In Benin and Togo, foufou refers to a paste made by pounding boiled pieces of yam in a mortar.",
+                                    "fact_aligned_sentence": "Au Bénin et au Togo, le foufou désigne une pâte obtenue en pilant des morceaux d'igname bouillis dans un mortier.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Foufou"
+                                },
+                                "src_context": [
+                                    "Le foutou manioc est particulièrement populaire dans l'Ouest de la Côte d'Ivoire.",
+                                    "Dans la capitale, le foufou constitue l'un des « invariants de la gastronomie populaire abidjanaise ».",
+                                    "Au Bénin et au Togo, le foufou désigne une pâte obtenue en pilant des morceaux d'igname bouillis dans un mortier."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "and is likely derived from the whitish colour of the cassava component in Ghanaian fufu.",
+                                    "In Ghana, it is made out of pieces of boiled cassava and/or other tubers such as plantain or cocoyam.",
+                                    "In Ghana, it is made out of pieces of boiled cassava and/or other tubers such as plantain or cocoyam.",
+                                    "It is mostly pounded together in a locally made wooden mortar (woduro) using a wooden pestle (woma)."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "spécificités géographiques",
+                                    "translated": "Geographical specificities"
+                                },
+                                "fact": {
+                                    "original": "Dans la capitale, le foufou constitue l'un des « invariants de la gastronomie populaire abidjanaise ».",
+                                    "translated": "'In the capital, foufou is one of the \"invariants of popular Ivorian cuisine.\"'",
+                                    "fact_aligned_sentence": "Dans la capitale, le foufou constitue l'un des « invariants de la gastronomie populaire abidjanaise ».",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Foufou"
+                                },
+                                "src_context": [
+                                    "Le foufou igname est particulièrement populaire dans l'Est et le Nord de la Côte d'Ivoire.",
+                                    "Le foutou manioc est particulièrement populaire dans l'Ouest de la Côte d'Ivoire.",
+                                    "Dans la capitale, le foufou constitue l'un des « invariants de la gastronomie populaire abidjanaise »."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Antigua, fufu is served as part of the national dish but is called fungi/fungee and is made using cornmeal and okra.",
+                                    "Similarly, in Barbados it serves as part of the national dish and is called cou-cou and uses cornmeal or, less commonly, split peas, green bananas, or breadfruit instead, like several other English Caribbean islands.",
+                                    "It is mentioned in Chinua Achebe's Things Fall Apart, for example, Fufu was a major cuisine of the Ashanti Empire.",
+                                    "It is mentioned in Chinua Achebe's Things Fall Apart, for example, Fufu was a major cuisine of the Ashanti Empire."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "spécificités géographiques",
+                                    "translated": "Geographical specificities"
+                                },
+                                "fact": {
+                                    "original": "Le foufou igname est particulièrement populaire dans l'Est et le Nord de la Côte d'Ivoire.",
+                                    "translated": "The foufou yam is particularly popular in the East and North of Ivory Coast.",
+                                    "fact_aligned_sentence": "D'après une enquête de 1989, le foufou banane est particulièrement populaire en Côte d'Ivoire à Abidjan et dans l'Est, le foufou igname dans l'Est et le Nord, et le foutou manioc dans l'Ouest.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Foufou"
+                                },
+                                "src_context": [
+                                    "Le foufou est un mets très apprécié en pays akan.",
+                                    "D'après une enquête de 1989, le foufou banane est particulièrement populaire en Côte d'Ivoire à Abidjan et dans l'Est.",
+                                    "Le foufou igname est particulièrement populaire dans l'Est et le Nord de la Côte d'Ivoire."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The paste is then pounded and molded into large balls and simmered for 30–60 seconds, after which it is thoroughly pounded to remove lumps, molded again into smaller balls, boiled for 15–20 minutes, and then pounded until smooth.",
+                                    "It is popular throughout Nigeria, particularly in the SouthEast and South-South.",
+                                    "While keeping a conspicuous African character, mofongo has borrowed from the island's Iberian culinary tradition, to create a dish made of fried green and yellow plantains, cassava or breadfruit.",
+                                    "Unlike the mushier Caribbean and West African fufús, mofongo is generally firmer and crustier."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "spécificités géographiques",
+                                    "translated": "Geographical specificities"
+                                },
+                                "fact": {
+                                    "original": "La farine de manioc est plus difficile à trouver dans la diaspora africaine.",
+                                    "translated": "Cassava flour is harder to find in the African diaspora.",
+                                    "fact_aligned_sentence": "Dans la diaspora africaine, la semoule de blé remplace la farine de manioc ou de maïs, plus difficile à trouver.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Foufou"
+                                },
+                                "src_context": [
+                                    "Dans la diaspora africaine, la semoule de blé remplace la farine de manioc.",
+                                    "Dans la diaspora africaine, la semoule de blé remplace la farine de maïs.",
+                                    "La farine de manioc est plus difficile à trouver dans la diaspora africaine."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "While keeping a conspicuous African character, mofongo has borrowed from the island's Iberian culinary tradition, to create a dish made of fried green and yellow plantains, cassava or breadfruit.",
+                                    "Unlike the mushier Caribbean and West African fufús, mofongo is generally firmer and crustier.",
+                                    "Because of its elaborate process of preparation and its sundry ingredients, poet and blogger Arose N Daghetto called the mofongo a type of \"fufú paella\" and branded it as \"the big daddy of fufús\".",
+                                    "Although mofongo is associated with being fried, boiled and roasting plantain mofongo predate fried mofongo and is still excited but a rare find in Puerto Rico."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "spécificités géographiques",
+                                    "translated": "Geographical specificities"
+                                },
+                                "fact": {
+                                    "original": "Il y existe en réalité deux variétés de pâtes appelées « foufou » : l'une est obtenue avec la farine de manioc, l'autre avec de la farine de maïs.",
+                                    "translated": "There are actually two varieties of pasta called \"foufou\": one is made with cassava flour, and the other with corn flour.",
+                                    "fact_aligned_sentence": "Il y existe en réalité deux variétés de pâtes appelées « foufou » : l'une est obtenue avec la farine de manioc, l'autre avec de la farine de maïs.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Foufou"
+                                },
+                                "src_context": [
+                                    "La boule de fufu est ensuite plongée dans la soupe avant d'être mangée.",
+                                    "Au Congo, le foufou est souvent servi accompagné de viande ou de poisson, de légumes cuits, et de divers condiments africains ou occidentaux.",
+                                    "Il y existe en réalité deux variétés de pâtes appelées « foufou » : l'une est obtenue avec la farine de manioc, l'autre avec de la farine de maïs."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Haiti, it is called tonm tonm and foofoo.",
+                                    "It is mostly made of breadfruit but can be made of plantain or yams and is usually served with an okra based stew or soup.",
+                                    "One serving (240g) of cooked fufu contains 3.6 g of protein, 7.2 g of fat and 81 g of carbohydrates, and 398 calories.",
+                                    "One serving (240g) of cooked fufu contains 3.6 g of protein, 7.2 g of fat and 81 g of carbohydrates, and 398 calories."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "spécificités géographiques",
+                                    "translated": "Geographical specificities"
+                                },
+                                "fact": {
+                                    "original": "D'après une enquête de 1989, le foufou banane est particulièrement populaire en Côte d'Ivoire à Abidjan et dans l'Est.",
+                                    "translated": "According to a 1989 survey, the banana fool is particularly popular in Côte d'Ivoire in Abidjan and the East.",
+                                    "fact_aligned_sentence": "D'après une enquête de 1989, le foufou banane est particulièrement populaire en Côte d'Ivoire à Abidjan et dans l'Est, le foufou igname dans l'Est et le Nord, et le foutou manioc dans l'Ouest.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Foufou"
+                                },
+                                "src_context": [
+                                    "Le foufou se prépare en mélangeant de la purée de bananes bouillies à de l'huile rouge.",
+                                    "Le foufou est un mets très apprécié en pays akan.",
+                                    "D'après une enquête de 1989, le foufou banane est particulièrement populaire en Côte d'Ivoire à Abidjan et dans l'Est."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The paste is then pounded and molded into large balls and simmered for 30–60 seconds, after which it is thoroughly pounded to remove lumps, molded again into smaller balls, boiled for 15–20 minutes, and then pounded until smooth.",
+                                    "It is popular throughout Nigeria, particularly in the SouthEast and South-South.",
+                                    "While keeping a conspicuous African character, mofongo has borrowed from the island's Iberian culinary tradition, to create a dish made of fried green and yellow plantains, cassava or breadfruit.",
+                                    "Unlike the mushier Caribbean and West African fufús, mofongo is generally firmer and crustier."
+                                ]
+                            }
+                        ]
+                    },
+                    "préparation et tradition": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "préparation et tradition",
+                                    "translated": "Preparation and tradition"
+                                },
+                                "fact": {
+                                    "original": "La préparation de plusieurs boules est nécessaire pour une famille.",
+                                    "translated": "The preparation of several balls is necessary for a family.",
+                                    "fact_aligned_sentence": "La préparation de plusieurs boules est nécessaire pour une famille.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Foufou"
+                                },
+                                "src_context": [
+                                    "C'est un travail harassant.",
+                                    "Ce travail demande coordination et précision dans les gestes.",
+                                    "La préparation de plusieurs boules est nécessaire pour une famille."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Akpu, properly punctuated as akpụ in Igbo, is the Igbo word for cassava.",
+                                    "Requiring several days to make, akpu is a wet paste often eaten with egusi soup.",
+                                    "Meat, traditionally chicharrón, is then stuffed into the chunky ball of fried green plantains.",
+                                    "Some recipes call for a meat or vegetable salsa criolla\" (related to American Creole sauce) poured atop the hot sphere."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "préparation et tradition",
+                                    "translated": "Preparation and tradition"
+                                },
+                                "fact": {
+                                    "original": "Le geste répétitif est souvent rythmé et même chanté.",
+                                    "translated": "The repetitive gesture is often rhythmic and even sung.",
+                                    "fact_aligned_sentence": "Le geste répétitif (souvent rythmé et même chanté) est précis, la boule est retournée et humectée d'eau tiède tandis que le pilon est relevé.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Foufou"
+                                },
+                                "src_context": [
+                                    "Le légume est pilé longuement dans un mortier.",
+                                    "Le pilon utilisé est généralement en bois d'acacia.",
+                                    "Le geste répétitif est souvent rythmé et même chanté."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "To prepare mofongo, green plantains are deep-fried once unlike twice fried tostones.",
+                                    "Next, they are mashed in a 'pilon' (mortar) with chopped garlic, salt, black pepper and olive oil.",
+                                    "Excess water is quickly drained by pouring the wet paste into a sack, upon which is placed a heavy and flat item (e.g., a plank and brick).",
+                                    "The paste is then pounded and molded into large balls and simmered for 30–60 seconds, after which it is thoroughly pounded to remove lumps, molded again into smaller balls, boiled for 15–20 minutes, and then pounded until smooth."
+                                ]
+                            }
+                        ]
+                    },
+                    "dégustation": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "dégustation",
+                                    "translated": "tasting"
+                                },
+                                "fact": {
+                                    "original": "Ce mets accompagne une viande en sauce à base d'arachides.",
+                                    "translated": "This dish accompanies a meat in a peanut-based sauce.",
+                                    "fact_aligned_sentence": "Ce mets accompagne une viande en sauce à base d'arachides, de feuilles de brousse, de gombo, d'aubergine ou de graines de palme, préparations appelées respectivement sauce arachide, sauce feuille, sauce gombo, sauce claire ou sauce graine.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Foufou"
+                                },
+                                "src_context": [
+                                    "Durant cette réunion, on parle, on pile et l'on cuisine.",
+                                    "La cuisine se fait sur un foyer à feu de bois.",
+                                    "Ce mets accompagne une viande en sauce à base d'arachides."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Haiti: tomtom",
+                                    "Haiti: tomtom",
+                                    "Cameroon: couscous, couscous de manioc",
+                                    "Cameroon: couscous, couscous de manioc"
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Le foufou est fabriqué à partir de manioc, de maïs, de banane plantain ou d'igname.",
+                                    "translated": "Foufou is made from cassava, corn, plantain, or yam.",
+                                    "fact_aligned_sentence": "Il est fabriqué à partir de manioc, de maïs, de banane plantain ou d'igname, et se mange avec une sauce en accompagnement.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Foufou"
+                                },
+                                "src_context": [
+                                    "Le foufou peut être solide ou molle selon le goût du consommateur.",
+                                    "Le foufou est réalisé à partir de farines ou de tubercules bouillis et pilés.",
+                                    "Le foufou est fabriqué à partir de manioc, de maïs, de banane plantain ou d'igname."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Haiti, it is called tonm tonm and foofoo.",
+                                    "It is mostly made of breadfruit but can be made of plantain or yams and is usually served with an okra based stew or soup.",
+                                    "While keeping a conspicuous African character, mofongo has borrowed from the island's Iberian culinary tradition, to create a dish made of fried green and yellow plantains, cassava or breadfruit.",
+                                    "While keeping a conspicuous African character, mofongo has borrowed from the island's Iberian culinary tradition, to create a dish made of fried green and yellow plantains, cassava or breadfruit."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "类似食品": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "类似食品",
+                                    "translated": "Similar food"
+                                },
+                                "fact": {
+                                    "original": "撒哈拉以南非洲一种与富富类似的食品是“乌咖哩”(Ugali)。",
+                                    "translated": "A food similar to fufu in sub-Saharan Africa is \"ugali.\"",
+                                    "fact_aligned_sentence": "撒哈拉以南非洲一种与富富类似的食品是“乌咖哩”(Ugali),通常用玉米麵制成,见于南部和东部非洲。“乌咖哩”这一名称用于肯尼亚和坦桑尼亚,与之相似的食品在各地名称不同:赞比亚称作“恩希玛”(nshima),马拉维称作(乌咖哩),津巴布韦称作“萨扎”(sadza),南非称作“帕普”(pap),乌干达称作“波绍”(posho),刚果(金)则称作“卢库”(luku)、“富富”(fufu)、“恩希马”(nshima)、“莫泰凯”(moteke)和“布加里”(bugari)。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%AF%8C%E5%AF%8C"
+                                },
+                                "src_context": [
+                                    "非洲富富和加勒比富富在外观和味道上有所不同。",
+                                    "加勒比富富相对较粘、稠。",
+                                    "撒哈拉以南非洲一种与富富类似的食品是“乌咖哩”(Ugali)。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Nigeria: fufu, santana, akpụ, ụtara, loi-loi, swallow, tuk rogo",
+                                    "Nigeria: fufu, santana, akpụ, ụtara, loi-loi, swallow, tuk rogo",
+                                    "Nigeria: fufu, santana, akpụ, ụtara, loi-loi, swallow, tuk rogo",
+                                    "Nigeria: fufu, santana, akpụ, ụtara, loi-loi, swallow, tuk rogo"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "类似食品",
+                                    "translated": "Similar food"
+                                },
+                                "fact": {
+                                    "original": "在马拉维，类似的食品称作“乌咖哩”。",
+                                    "translated": "In Malawi, a similar food is called \"u curry.\"",
+                                    "fact_aligned_sentence": "撒哈拉以南非洲一种与富富类似的食品是“乌咖哩”(Ugali),通常用玉米麵制成,见于南部和东部非洲。“乌咖哩”这一名称用于肯尼亚和坦桑尼亚,与之相似的食品在各地名称不同:赞比亚称作“恩希玛”(nshima),马拉维称作(乌咖哩),津巴布韦称作“萨扎”(sadza),南非称作“帕普”(pap),乌干达称作“波绍”(posho),刚果(金)则称作“卢库”(luku)、“富富”(fufu)、“恩希马”(nshima)、“莫泰凯”(moteke)和“布加里”(bugari)。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%AF%8C%E5%AF%8C"
+                                },
+                                "src_context": [
+                                    "乌咖哩这一名称用于肯尼亚和坦桑尼亚。",
+                                    "在赞比亚，类似的食品称作“恩希玛”(nshima)。",
+                                    "在马拉维，类似的食品称作“乌咖哩”。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Mozambique: sadja, sadza, xima",
+                                    "Mozambique: sadja, sadza, xima",
+                                    "In Cuba, the dish retains its original African stem name, termed simply as fufú or with added descriptive extensions like fufú de plátano or fufú de plátano pintón.",
+                                    "In the Dominican Republic, a beloved dish, mangú, is very similar to fufú."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "类似食品",
+                                    "translated": "Similar food"
+                                },
+                                "fact": {
+                                    "original": "在南非，类似的食品称作“帕普”(pap)。",
+                                    "translated": "In South Africa, a similar food is called \"pap.\"",
+                                    "fact_aligned_sentence": "撒哈拉以南非洲一种与富富类似的食品是“乌咖哩”(Ugali),通常用玉米麵制成,见于南部和东部非洲。“乌咖哩”这一名称用于肯尼亚和坦桑尼亚,与之相似的食品在各地名称不同:赞比亚称作“恩希玛”(nshima),马拉维称作(乌咖哩),津巴布韦称作“萨扎”(sadza),南非称作“帕普”(pap),乌干达称作“波绍”(posho),刚果(金)则称作“卢库”(luku)、“富富”(fufu)、“恩希马”(nshima)、“莫泰凯”(moteke)和“布加里”(bugari)。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%AF%8C%E5%AF%8C"
+                                },
+                                "src_context": [
+                                    "在马拉维，类似的食品称作“乌咖哩”。",
+                                    "在津巴布韦，类似的食品称作“萨扎”(sadza)。",
+                                    "在南非，类似的食品称作“帕普”(pap)。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Caribbean nations with substantial populations of West African origin (such as Cuba, Jamaica, the Dominican Republic, Haiti and Puerto Rico), plantains, cassava or yams are mashed with other ingredients.",
+                                    "In Cuba, the dish retains its original African stem name, termed simply as fufú or with added descriptive extensions like fufú de plátano or fufú de plátano pintón.",
+                                    "Although the original ingredients for fufu are boiled cassava, plantains, and cocoyam, it is also made in different ways in other West African countries.",
+                                    "Although the original ingredients for fufu are boiled cassava, plantains, and cocoyam, it is also made in different ways in other West African countries."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "类似食品",
+                                    "translated": "Similar food"
+                                },
+                                "fact": {
+                                    "original": "乌咖哩见于南部和东部非洲。",
+                                    "translated": "Black curry is found in southern and eastern Africa.",
+                                    "fact_aligned_sentence": "撒哈拉以南非洲一种与富富类似的食品是“乌咖哩”(Ugali),通常用玉米麵制成,见于南部和东部非洲。“乌咖哩”这一名称用于肯尼亚和坦桑尼亚,与之相似的食品在各地名称不同:赞比亚称作“恩希玛”(nshima),马拉维称作(乌咖哩),津巴布韦称作“萨扎”(sadza),南非称作“帕普”(pap),乌干达称作“波绍”(posho),刚果(金)则称作“卢库”(luku)、“富富”(fufu)、“恩希马”(nshima)、“莫泰凯”(moteke)和“布加里”(bugari)。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%AF%8C%E5%AF%8C"
+                                },
+                                "src_context": [
+                                    "撒哈拉以南非洲一种与富富类似的食品是“乌咖哩”(Ugali)。",
+                                    "乌咖哩通常用玉米麵制成。",
+                                    "乌咖哩见于南部和东部非洲。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "While keeping a conspicuous African character, mofongo has borrowed from the island's Iberian culinary tradition, to create a dish made of fried green and yellow plantains, cassava or breadfruit.",
+                                    "Unlike the mushier Caribbean and West African fufús, mofongo is generally firmer and crustier.",
+                                    "Sierra Leone: foofoo, foofoo",
+                                    "Togo: foufou"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "类似食品",
+                                    "translated": "Similar food"
+                                },
+                                "fact": {
+                                    "original": "在刚果(金)，类似的食品称作“富富”(fufu)。",
+                                    "translated": "In the Democratic Republic of the Congo, a similar food is called \"fufu.\"",
+                                    "fact_aligned_sentence": "撒哈拉以南非洲一种与富富类似的食品是“乌咖哩”(Ugali),通常用玉米麵制成,见于南部和东部非洲。“乌咖哩”这一名称用于肯尼亚和坦桑尼亚,与之相似的食品在各地名称不同:赞比亚称作“恩希玛”(nshima),马拉维称作(乌咖哩),津巴布韦称作“萨扎”(sadza),南非称作“帕普”(pap),乌干达称作“波绍”(posho),刚果(金)则称作“卢库”(luku)、“富富”(fufu)、“恩希马”(nshima)、“莫泰凯”(moteke)和“布加里”(bugari)。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%AF%8C%E5%AF%8C"
+                                },
+                                "src_context": [
+                                    "在乌干达，类似的食品称作“波绍”(posho)。",
+                                    "在刚果(金)，类似的食品称作“卢库”(luku)。",
+                                    "在刚果(金)，类似的食品称作“富富”(fufu)。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Ghana: fufu, fufuo, sakɔro",
+                                    "Ghana: fufu, fufuo, sakɔro",
+                                    "In Cuba, the dish retains its original African stem name, termed simply as fufú or with added descriptive extensions like fufú de plátano or fufú de plátano pintón.",
+                                    "In the Dominican Republic, a beloved dish, mangú, is very similar to fufú."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "类似食品",
+                                    "translated": "Similar food"
+                                },
+                                "fact": {
+                                    "original": "在赞比亚，类似的食品称作“恩希玛”(nshima)。",
+                                    "translated": "In Zambia, a similar food is called \"nshima.\"",
+                                    "fact_aligned_sentence": "撒哈拉以南非洲一种与富富类似的食品是“乌咖哩”(Ugali),通常用玉米麵制成,见于南部和东部非洲。“乌咖哩”这一名称用于肯尼亚和坦桑尼亚,与之相似的食品在各地名称不同:赞比亚称作“恩希玛”(nshima),马拉维称作(乌咖哩),津巴布韦称作“萨扎”(sadza),南非称作“帕普”(pap),乌干达称作“波绍”(posho),刚果(金)则称作“卢库”(luku)、“富富”(fufu)、“恩希马”(nshima)、“莫泰凯”(moteke)和“布加里”(bugari)。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%AF%8C%E5%AF%8C"
+                                },
+                                "src_context": [
+                                    "乌咖哩见于南部和东部非洲。",
+                                    "乌咖哩这一名称用于肯尼亚和坦桑尼亚。",
+                                    "在赞比亚，类似的食品称作“恩希玛”(nshima)。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Mozambique: sadja, sadza, xima",
+                                    "Mozambique: sadja, sadza, xima",
+                                    "Nigeria: fufu, santana, akpụ, ụtara, loi-loi, swallow, tuk rogo",
+                                    "Nigeria: fufu, santana, akpụ, ụtara, loi-loi, swallow, tuk rogo"
+                                ]
+                            }
+                        ]
+                    },
+                    "制作与食用": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "制作与食用",
+                                    "translated": "Made and eat"
+                                },
+                                "fact": {
+                                    "original": "在加纳和尼日利亚，富富挤成小球后不可咀嚼，而应直接咽下。",
+                                    "translated": "In Ghana and Nigeria, the rich food should not be chewed after being formed into small balls, but should be swallowed directly.",
+                                    "fact_aligned_sentence": "在西部和中部非洲,最为常见的食用方式是富富与秋葵、鱼(一般是鱼干)、番茄等同食。在加纳一般与淡番茄汤、棕榈坚果汤、花生汤或加有其他蔬菜(千年芋叶,nkontomire)的汤同食。汤一般由不同种类的肉和鱼制成,无论新鲜或烟熏。传统食用方法是先洗手,然后用叉子取下一小块,用右手团成球,在球上按出压痕,然后舀汤,最后只吃下富富。在加纳和尼日利亚,挤成小球后不可咀嚼,而应直接咽下;不过在其他国家则相反。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%AF%8C%E5%AF%8C"
+                                },
+                                "src_context": [
+                                    "用右手将富富团成球，在球上按出压痕，然后舀汤。",
+                                    "最后只吃下富富。",
+                                    "在加纳和尼日利亚，富富挤成小球后不可咀嚼，而应直接咽下。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Nigerian version of Fufu is different from Ghana's: it is however a staple food in both countries.",
+                                    "The Nigerian version of Fufu is different from Ghana's: it is however a staple food in both countries.",
+                                    "It is mentioned in Chinua Achebe's Things Fall Apart, for example, Fufu was a major cuisine of the Ashanti Empire.",
+                                    "In Ghana, fufu, also known as fufuo, is white and sticky (if plantain is not mixed with the cassava when pounding)."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "制作与食用",
+                                    "translated": "Made and eat"
+                                },
+                                "fact": {
+                                    "original": "在其他国家则相反，富富可以咀嚼。",
+                                    "translated": "In other countries, it is the opposite; the rich can chew.",
+                                    "fact_aligned_sentence": "在西部和中部非洲,最为常见的食用方式是富富与秋葵、鱼(一般是鱼干)、番茄等同食。在加纳一般与淡番茄汤、棕榈坚果汤、花生汤或加有其他蔬菜(千年芋叶,nkontomire)的汤同食。汤一般由不同种类的肉和鱼制成,无论新鲜或烟熏。传统食用方法是先洗手,然后用叉子取下一小块,用右手团成球,在球上按出压痕,然后舀汤,最后只吃下富富。在加纳和尼日利亚,挤成小球后不可咀嚼,而应直接咽下;不过在其他国家则相反。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%AF%8C%E5%AF%8C"
+                                },
+                                "src_context": [
+                                    "最后只吃下富富。",
+                                    "在加纳和尼日利亚，富富挤成小球后不可咀嚼，而应直接咽下。",
+                                    "在其他国家则相反，富富可以咀嚼。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Although the original ingredients for fufu are boiled cassava, plantains, and cocoyam, it is also made in different ways in other West African countries.",
+                                    "Although the original ingredients for fufu are boiled cassava, plantains, and cocoyam, it is also made in different ways in other West African countries.",
+                                    "In the Dominican Republic, a beloved dish, mangú, is very similar to fufú.",
+                                    "On other major islands, fufú goes by the names of funche in Puerto Rico."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "制作与食用",
+                                    "translated": "Made and eat"
+                                },
+                                "fact": {
+                                    "original": "在相对富裕或现代化设备较普及的地区, 亦有使用食品加工机者。",
+                                    "translated": "In relatively affluent areas or regions where modern equipment is more common, there are also users of food processors.",
+                                    "fact_aligned_sentence": "在西非,富富通常以木薯、薯蓣制成,有时混以千年芋(Xanthosoma)、大蕉(烹調蕉)或玉米。在加纳,富富大多以煮过的木薯加生大蕉,或者千年芋制成;在中部非洲则一般以木薯制成。如今,这些产品制成粉状,加入热水即可制成成品,而不需研捣。富富也可以用粗面粉、大米甚至速食馬鈴薯泥制成,不过制法通常还是传统的在研钵中用木勺击打的方式。在相对富裕或现代化设备较普及的地区亦有使用食品加工机者。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%AF%8C%E5%AF%8C"
+                                },
+                                "src_context": [
+                                    "富富也可以用粗面粉、大米甚至速食馬鈴薯泥制成。",
+                                    "富富的制法通常还是传统的在研钵中用木勺击打的方式。",
+                                    "在相对富裕或现代化设备较普及的地区, 亦有使用食品加工机者。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In recent years other flours, such as semolina, maize flour, or mashed plantains, may take the place of cassava flour.",
+                                    "This is common for those in the diaspora or families that live in urban cities.",
+                                    "This is common for those in the diaspora or families that live in urban cities.",
+                                    "Families in rural areas with access to farmland still maintain the original recipe of using cassava."
+                                ]
+                            }
+                        ]
+                    },
+                    "起源": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "起源",
+                                    "translated": "origin"
+                                },
+                                "fact": {
+                                    "original": "fufuo这个词有两层含义。",
+                                    "translated": "The word 'fufuo' has two meanings.",
+                                    "fact_aligned_sentence": "富富实际上起源于加纳的阿散特族群(Asante),来自尼日利亚、多哥和科特迪瓦的移民发现之并加以改变。尼日利亚人称之为fufuo,该词有两层含义:一是“白色”在这个部落语言中即为fufuo,二是制作方法(捣)被称为fu-fu。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%AF%8C%E5%AF%8C"
+                                },
+                                "src_context": [
+                                    "富富来自尼日利亚、多哥和科特迪瓦的移民发现之并加以改变。",
+                                    "尼日利亚人称之为fufuo。",
+                                    "fufuo这个词有两层含义。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Ghana: fufu, fufuo, sakɔro",
+                                    "Ghana: fufu, fufuo, sakɔro",
+                                    "Benin: santana, foufou",
+                                    "Benin: santana, foufou"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,1281 @@
+{
+    "Pelmeni": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "аналоги пельменей и похожие блюда": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "аналоги пельменей и похожие блюда",
+                                    "translated": "Analogs of dumplings and similar dishes"
+                                },
+                                "fact": {
+                                    "original": "В Италии есть равиоли и тортеллини.",
+                                    "translated": "'In Italy, there are ravioli and tortellini.'",
+                                    "fact_aligned_sentence": "В Италии есть равиоли и тортеллини, на юге Германии в швабской кухне готовят маульташены, в Белоруссии — колдуны, на Украине — вареники, в Швеции — кропкакор.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Аналогичным блюдом марийской кухни является подкогыльо.",
+                                    "В кухнях народов Кавказа — хинкали.",
+                                    "В Италии есть равиоли и тортеллини."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In European Russia,  ground beef is used and mushroom-filled pelmeni are also accepted.",
+                                    "The traditional Udmurt recipe requires a mixture of 45% beef, 35% mutton, and 20% pork.",
+                                    "Pelmeni are never served with a sweet filling, which distinguishes them from vareniki and Polish pierogi, which sometimes are.",
+                                    "Pelmeni are never served with a sweet filling, which distinguishes them from vareniki and Polish pierogi, which sometimes are."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "аналоги пельменей и похожие блюда",
+                                    "translated": "Analogs of dumplings and similar dishes"
+                                },
+                                "fact": {
+                                    "original": "В английском языке все блюда пельменного типа обозначаются одним общим словом — дамплинги.",
+                                    "translated": "In the English language, all types of dumpling dishes are referred to by one general word — dumplings.",
+                                    "fact_aligned_sentence": "В английском языке все блюда пельменного типа обозначаются одним общим словом — дамплинги.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Известно также старинное блюдо русской монастырской кухни — кундюмы.",
+                                    "Распространены подобного типа блюда и в Индии.",
+                                    "В английском языке все блюда пельменного типа обозначаются одним общим словом — дамплинги."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "One theory suggests pelmeni, or stuffed boiled dumplings in general, originated in Siberia, possibly a simplified adaptation of the Chinese jiaozi (in some dialects it is called Bāomiàn \"包麵/包面\").",
+                                    "One theory suggests pelmeni, or stuffed boiled dumplings in general, originated in Siberia, possibly a simplified adaptation of the Chinese jiaozi (in some dialects it is called Bāomiàn \"包麵/包面\").",
+                                    "Store-bought pelmeni are made on industrial machinery, much of which is made by Italian companies such as Arienti and Cattaneo, Ima, Ostoni, Zamboni, etc.",
+                                    "These pelmeni usually weigh around 15 grams (1⁄2 oz) each and look like a larger version of tortellini, which is why, for industrial production, Italian pasta machines are commonly used."
+                                ]
+                            }
+                        ]
+                    },
+                    "разновидности пельменей": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "рыбные пельмени",
+                                    "translated": "Fish dumplings"
+                                },
+                                "header_1": {
+                                    "original": "разновидности пельменей",
+                                    "translated": "varieties of dumplings"
+                                },
+                                "fact": {
+                                    "original": "Для приготовления рыбных пельменей используют охлаждённую рыбу почти всех семейств, кроме сельдевых и осетровых.",
+                                    "translated": "To prepare fish dumplings, chilled fish from almost all families is used, except for herring and sturgeons.",
+                                    "fact_aligned_sentence": "Для приготовления рыбных пельменей используют как свежую, охлаждённую и мороженую рыбу почти всех семейств, кроме сельдевых и осетровых, так и мороженый рыбный фарш, мороженого кальмара, варёно-мороженых мидий, мороженую белковую пасту «Океан», белковую массу из кильки или других рыб.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Рыбные пельмени — блюдо в виде изделий из пресного теста с начинкой из рыбы или морепродуктов.",
+                                    "Для приготовления рыбных пельменей используют свежую рыбу почти всех семейств, кроме сельдевых и осетровых.",
+                                    "Для приготовления рыбных пельменей используют охлаждённую рыбу почти всех семейств, кроме сельдевых и осетровых."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pelmeni can be served as a main dish for lunch or dinner, either smothered in butter or prepared Siberian-style, which involves sprinkling them with vinegar and adding freshly ground pepper for extra flavor.",
+                                    "The filling can be minced meat (pork, lamb, beef, fish or any other kind of meat, venison being particularly traditional for colder regions) or mushrooms, or a combination of the two.",
+                                    "The easiest (if somewhat laborious) way is simply to make them by hand; many cooks use specialized \"pelmeni makers\" (Russian: пельменница, pelmennitsa), which are essentially molds that resemble muffin pans or ravioli molds, allowing one to quickly make a few dozen pelmeni out of two sheets of dough and a quantity of ground meat.",
+                                    "The easiest (if somewhat laborious) way is simply to make them by hand; many cooks use specialized \"pelmeni makers\" (Russian: пельменница, pelmennitsa), which are essentially molds that resemble muffin pans or ravioli molds, allowing one to quickly make a few dozen pelmeni out of two sheets of dough and a quantity of ground meat."
+                                ]
+                            }
+                        ]
+                    },
+                    "происхождение и этимология": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "происхождение и этимология",
+                                    "translated": "origin and etymology"
+                                },
+                                "fact": {
+                                    "original": "В русских письменных документах уральских населённых пунктов XVII—XVIII веков (с 1679 года) встречаются фамилии, образованные от слова «пельмени»: Пельменев, Пелненев, Пельменников.",
+                                    "translated": "In Russian written documents of Ural settlements from the 17th to 18th centuries (since 1679), surnames derived from the word \"pelmeni\" can be found: Pelmenev, Pelnenyev, Pelmennikov.",
+                                    "fact_aligned_sentence": "В русских письменных документах уральских населённых пунктов XVII—XVIII веков (с 1679 года) встречаются фамилии, образованные от слова «пельмени»: Пельменев, Пелненев, Пельменников.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Пельмени стали особенно популярны среди русских охотников.",
+                                    "В. В. Похлёбкин считал, что пельмени пришли в русскую кухню с Урала и из Сибири, в конце XIV — начале XV веков.",
+                                    "В русских письменных документах уральских населённых пунктов XVII—XVIII веков (с 1679 года) встречаются фамилии, образованные от слова «пельмени»: Пельменев, Пелненев, Пельменников."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pelmeni (Russian: пельмени, pronounced [pjɪljˈmjenjɪ]; sg.",
+                                    "Store-bought frozen pelmeni, including those catered for the Russian émigré community, are therefore only remotely related and fail to capture the qualities of the original dish.",
+                                    "The word pelmeni is derived from pel'n'an' (пельнянь), literally \"ear bread\" in the Finno-Ugric Komi and Udmurt languages."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "происхождение и этимология",
+                                    "translated": "origin and etymology"
+                                },
+                                "fact": {
+                                    "original": "В. В. Похлёбкин считал, что пельмени пришли в русскую кухню с Урала и из Сибири, в конце XIV — начале XV веков.",
+                                    "translated": "V. V. Pokhlyobkin believed that dumplings came to Russian cuisine from the Urals and Siberia in the late 14th to early 15th centuries.",
+                                    "fact_aligned_sentence": "В. В. Похлёбкин считал, что пельмени пришли в русскую кухню с Урала и из Сибири, в конце XIV — начале XV веков.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Пельмени вошли в национальную кухню других соседних народов Китая: корейцев и народов Центральной Азии.",
+                                    "Пельмени стали особенно популярны среди русских охотников.",
+                                    "В. В. Похлёбкин считал, что пельмени пришли в русскую кухню с Урала и из Сибири, в конце XIV — начале XV веков."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pelmeni began to appear in restaurants in late 19th-century France at a time when Russian dishes had already made a considerable impact on haute cuisine.",
+                                    "Pelmeni began to appear in restaurants in late 19th-century France at a time when Russian dishes had already made a considerable impact on haute cuisine.",
+                                    "They are considered to be a national dish.",
+                                    "Pelmeni became a staple of Russian cuisine during the period of Russian expansion into the Ural Mountains and Siberia."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "происхождение и этимология",
+                                    "translated": "origin and etymology"
+                                },
+                                "fact": {
+                                    "original": "Некоторые устаревшие этимологические словари указывают в качестве источника мансийский язык.",
+                                    "translated": "Some outdated etymological dictionaries indicate the Mansi language as a source.",
+                                    "fact_aligned_sentence": "Некоторые популярные или устаревшие этимологические словари указывают в качестве источника «финно-угорские языки» в целом, мансийский и финский языки.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Некоторые устаревшие этимологические словари указывают в качестве источника «финно-угорские языки» в целом.",
+                                    "Некоторые популярные этимологические словари указывают в качестве источника мансийский язык.",
+                                    "Некоторые устаревшие этимологические словари указывают в качестве источника мансийский язык."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "One theory suggests pelmeni, or stuffed boiled dumplings in general, originated in Siberia, possibly a simplified adaptation of the Chinese jiaozi (in some dialects it is called Bāomiàn \"包麵/包面\").",
+                                    "One theory suggests pelmeni, or stuffed boiled dumplings in general, originated in Siberia, possibly a simplified adaptation of the Chinese jiaozi (in some dialects it is called Bāomiàn \"包麵/包面\").",
+                                    "Store-bought pelmeni are made on industrial machinery, much of which is made by Italian companies such as Arienti and Cattaneo, Ima, Ostoni, Zamboni, etc.",
+                                    "Store-bought pelmeni are made on industrial machinery, much of which is made by Italian companies such as Arienti and Cattaneo, Ima, Ostoni, Zamboni, etc."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "происхождение и этимология",
+                                    "translated": "origin and etymology"
+                                },
+                                "fact": {
+                                    "original": "Некоторые популярные этимологические словари указывают в качестве источника «финно-угорские языки» в целом.",
+                                    "translated": "Some popular etymological dictionaries indicate 'Finno-Ugric languages' as the source in general.",
+                                    "fact_aligned_sentence": "Некоторые популярные или устаревшие этимологические словари указывают в качестве источника «финно-угорские языки» в целом, мансийский и финский языки.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Через севернорусское наречие слово «пельмень» попало в литературный язык.",
+                                    "Уральские диалектные формы «пермяни» и «пермени» образовались в результате народно-этимологического сближения со словом Пермь.",
+                                    "Некоторые популярные этимологические словари указывают в качестве источника «финно-угорские языки» в целом."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Store-bought pelmeni are made on industrial machinery, much of which is made by Italian companies such as Arienti and Cattaneo, Ima, Ostoni, Zamboni, etc.",
+                                    "Store-bought pelmeni are made on industrial machinery, much of which is made by Italian companies such as Arienti and Cattaneo, Ima, Ostoni, Zamboni, etc.",
+                                    "One theory suggests pelmeni, or stuffed boiled dumplings in general, originated in Siberia, possibly a simplified adaptation of the Chinese jiaozi (in some dialects it is called Bāomiàn \"包麵/包面\").",
+                                    "One theory suggests pelmeni, or stuffed boiled dumplings in general, originated in Siberia, possibly a simplified adaptation of the Chinese jiaozi (in some dialects it is called Bāomiàn \"包麵/包面\")."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "происхождение и этимология",
+                                    "translated": "origin and etymology"
+                                },
+                                "fact": {
+                                    "original": "Форма «пельмень» образовалась под влиянием севернорусского наречия.",
+                                    "translated": "The form \"pelmeni\" was formed under the influence of the northern Russian dialect.",
+                                    "fact_aligned_sentence": "Форма «пельмень» образовалась под влиянием севернорусского наречия, через которое слово попало в литературный язык.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "В коми и удмуртском языках слово «пель» означает «ухо».",
+                                    "В коми и удмуртском языках слово «нянь» означает «хлеб».",
+                                    "Форма «пельмень» образовалась под влиянием севернорусского наречия."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The name itself was borrowed from the language of the Komi-Permyaks.",
+                                    "The name itself was borrowed from the language of the Komi-Permyaks.",
+                                    "Store-bought frozen pelmeni, including those catered for the Russian émigré community, are therefore only remotely related and fail to capture the qualities of the original dish.",
+                                    "The word pelmeni is derived from pel'n'an' (пельнянь), literally \"ear bread\" in the Finno-Ugric Komi and Udmurt languages."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "происхождение и этимология",
+                                    "translated": "origin and etymology"
+                                },
+                                "fact": {
+                                    "original": "Русское слово «пельмени» является заимствованием из пермских языков.",
+                                    "translated": "The Russian word \"pelmeni\" is borrowed from the Permic languages.",
+                                    "fact_aligned_sentence": "Русское слово «пельмени» является заимствованием из пермских языков: коми, удм.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Пельмени были заимствованы русскими жителями Прикамья, Урала и Сибири у финно-угорских народов.",
+                                    "Пельмени получили широкое распространение в русской и советской кухнях.",
+                                    "Русское слово «пельмени» является заимствованием из пермских языков."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pelmeni (Russian: пельмени, pronounced [pjɪljˈmjenjɪ]; sg.",
+                                    "Store-bought frozen pelmeni, including those catered for the Russian émigré community, are therefore only remotely related and fail to capture the qualities of the original dish.",
+                                    "The word pelmeni is derived from pel'n'an' (пельнянь), literally \"ear bread\" in the Finno-Ugric Komi and Udmurt languages."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "происхождение и этимология",
+                                    "translated": "origin and etymology"
+                                },
+                                "fact": {
+                                    "original": "Неясно, когда пельмени впервые появились в русской кухне.",
+                                    "translated": "It is unclear when dumplings first appeared in Russian cuisine.",
+                                    "fact_aligned_sentence": "Неясно, когда пельмени вошли в кухню коренных сибирских народов и когда они впервые появились в русской кухне.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Некоторые устаревшие этимологические словари указывают в качестве источника финский язык.",
+                                    "Неясно, когда пельмени вошли в кухню коренных сибирских народов.",
+                                    "Неясно, когда пельмени впервые появились в русской кухне."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pelmeni began to appear in restaurants in late 19th-century France at a time when Russian dishes had already made a considerable impact on haute cuisine.",
+                                    "Pelmeni began to appear in restaurants in late 19th-century France at a time when Russian dishes had already made a considerable impact on haute cuisine.",
+                                    "They are considered to be a national dish.",
+                                    "Pelmeni became a staple of Russian cuisine during the period of Russian expansion into the Ural Mountains and Siberia."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "происхождение и этимология",
+                                    "translated": "origin and etymology"
+                                },
+                                "fact": {
+                                    "original": "Некоторые популярные этимологические словари указывают в качестве источника мансийский язык.",
+                                    "translated": "Some popular etymological dictionaries indicate the Mansi language as a source.",
+                                    "fact_aligned_sentence": "Некоторые популярные или устаревшие этимологические словари указывают в качестве источника «финно-угорские языки» в целом, мансийский и финский языки.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Некоторые популярные этимологические словари указывают в качестве источника «финно-угорские языки» в целом.",
+                                    "Некоторые устаревшие этимологические словари указывают в качестве источника «финно-угорские языки» в целом.",
+                                    "Некоторые популярные этимологические словари указывают в качестве источника мансийский язык."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "One theory suggests pelmeni, or stuffed boiled dumplings in general, originated in Siberia, possibly a simplified adaptation of the Chinese jiaozi (in some dialects it is called Bāomiàn \"包麵/包面\").",
+                                    "One theory suggests pelmeni, or stuffed boiled dumplings in general, originated in Siberia, possibly a simplified adaptation of the Chinese jiaozi (in some dialects it is called Bāomiàn \"包麵/包面\").",
+                                    "Store-bought pelmeni are made on industrial machinery, much of which is made by Italian companies such as Arienti and Cattaneo, Ima, Ostoni, Zamboni, etc.",
+                                    "Store-bought pelmeni are made on industrial machinery, much of which is made by Italian companies such as Arienti and Cattaneo, Ima, Ostoni, Zamboni, etc."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "происхождение и этимология",
+                                    "translated": "origin and etymology"
+                                },
+                                "fact": {
+                                    "original": "Через севернорусское наречие слово «пельмень» попало в литературный язык.",
+                                    "translated": "Through the Northern Russian dialect, the word 'pelmeni' entered the literary language.",
+                                    "fact_aligned_sentence": "Форма «пельмень» образовалась под влиянием севернорусского наречия, через которое слово попало в литературный язык.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "В коми и удмуртском языках слово «нянь» означает «хлеб».",
+                                    "Форма «пельмень» образовалась под влиянием севернорусского наречия.",
+                                    "Через севернорусское наречие слово «пельмень» попало в литературный язык."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The name itself was borrowed from the language of the Komi-Permyaks.",
+                                    "The name itself was borrowed from the language of the Komi-Permyaks.",
+                                    "Store-bought frozen pelmeni, including those catered for the Russian émigré community, are therefore only remotely related and fail to capture the qualities of the original dish.",
+                                    "The word pelmeni is derived from pel'n'an' (пельнянь), literally \"ear bread\" in the Finno-Ugric Komi and Udmurt languages."
+                                ]
+                            }
+                        ]
+                    },
+                    "приготовление": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "приготовление",
+                                    "translated": "Cooking"
+                                },
+                                "fact": {
+                                    "original": "Реже тесто для пельменей готовится из муки, яиц и молока.",
+                                    "translated": "Dough for dumplings is rarely made from flour, eggs, and milk.",
+                                    "fact_aligned_sentence": "Тесто для пельменей готовится из муки, яиц и воды (реже — молока).",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "В английском языке все блюда пельменного типа обозначаются одним общим словом — дамплинги.",
+                                    "Тесто для пельменей готовится из муки, яиц и воды.",
+                                    "Реже тесто для пельменей готовится из муки, яиц и молока."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In European Russia,  ground beef is used and mushroom-filled pelmeni are also accepted.",
+                                    "The traditional Udmurt recipe requires a mixture of 45% beef, 35% mutton, and 20% pork.",
+                                    "The name itself was borrowed from the language of the Komi-Permyaks.",
+                                    "The dough is made from flour and water, sometimes adding a small portion of eggs."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "приготовление",
+                                    "translated": "Cooking"
+                                },
+                                "fact": {
+                                    "original": "Практикуется приготовление пельменей на пару.",
+                                    "translated": "Steamed dumplings are being prepared.",
+                                    "fact_aligned_sentence": "Практикуется также приготовление пельменей в керамической посуде в духовом шкафу, или на пару (в зависимости от размеров, 15—25 минут).",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Пельмени могут подаваться вместе с бульоном, в котором они готовились, в виде первого блюда.",
+                                    "Практикуется приготовление пельменей в керамической посуде в духовом шкафу.",
+                                    "Практикуется приготовление пельменей на пару."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The name itself was borrowed from the language of the Komi-Permyaks.",
+                                    "The dough is made from flour and water, sometimes adding a small portion of eggs.",
+                                    "The dough is made from flour and water, sometimes adding a small portion of eggs.",
+                                    "The dough is made from flour and water, sometimes adding a small portion of eggs."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "приготовление",
+                                    "translated": "Cooking"
+                                },
+                                "fact": {
+                                    "original": "Пельмени могут подаваться со сметаной.",
+                                    "translated": "Dumplings can be served with sour cream.",
+                                    "fact_aligned_sentence": "Пельмени могут подаваться с различными соусами, кетчупом, майонезом, сметаной, сливочным маслом, горчицей, уксусом, перцем.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Пельмени могут подаваться с кетчупом.",
+                                    "Пельмени могут подаваться с майонезом.",
+                                    "Пельмени могут подаваться со сметаной."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pelmeni can be served in several ways; for example, they can be cooked in stock, or they can be cooked consommé and served in a bowl with soup.",
+                                    "Pelmeni can be served in several ways; for example, they can be cooked in stock, or they can be cooked consommé and served in a bowl with soup.",
+                                    "Pelmeni can be served in several ways; for example, they can be cooked in stock, or they can be cooked consommé and served in a bowl with soup.",
+                                    "Pelmeni can be served in several ways; for example, they can be cooked in stock, or they can be cooked consommé and served in a bowl with soup."
+                                ]
+                            }
+                        ]
+                    },
+                    "стандарты производства": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "россия",
+                                    "translated": "Russia"
+                                },
+                                "header_1": {
+                                    "original": "стандарты производства",
+                                    "translated": "Production standards"
+                                },
+                                "fact": {
+                                    "original": "В начинке продукта категории «Б» содержится мясного фарша ≤80 %.",
+                                    "translated": "The filling of the product in category 'B' contains minced meat ≤80%.",
+                                    "fact_aligned_sentence": "В начинке продукта категории «А» содержится мясного фарша ≤100 %, «Б» — ≤80 %, «В» — ≤60 %, «Г» — ≤40 %, «Д» — ≤20 %.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "С 1 января 2010 года в России появилась категория производства мясных полуфабрикатов в оболочке из теста.",
+                                    "В начинке продукта категории «А» содержится мясного фарша ≤100 %.",
+                                    "В начинке продукта категории «Б» содержится мясного фарша ≤80 %."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In European Russia,  ground beef is used and mushroom-filled pelmeni are also accepted.",
+                                    "The traditional Udmurt recipe requires a mixture of 45% beef, 35% mutton, and 20% pork.",
+                                    "Pelmeni can be served as a main dish for lunch or dinner, either smothered in butter or prepared Siberian-style, which involves sprinkling them with vinegar and adding freshly ground pepper for extra flavor.",
+                                    "The filling can be minced meat (pork, lamb, beef, fish or any other kind of meat, venison being particularly traditional for colder regions) or mushrooms, or a combination of the two."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "россия",
+                                    "translated": "Russia"
+                                },
+                                "header_1": {
+                                    "original": "стандарты производства",
+                                    "translated": "Production standards"
+                                },
+                                "fact": {
+                                    "original": "Мясо в начинке — серое, а не розовое.",
+                                    "translated": "'The meat in the filling is gray, not pink.'",
+                                    "fact_aligned_sentence": "Толщина теста — не более 2 мм, мясо — серое, а не розовое.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Остальное в начинке могут составлять соя, вкусовые добавки и даже манная крупа.",
+                                    "Толщина теста — не более 2 мм.",
+                                    "Мясо в начинке — серое, а не розовое."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In European Russia,  ground beef is used and mushroom-filled pelmeni are also accepted.",
+                                    "The traditional Udmurt recipe requires a mixture of 45% beef, 35% mutton, and 20% pork.",
+                                    "The dough is made from flour and water, sometimes adding a small portion of eggs.",
+                                    "The dough is made from flour and water, sometimes adding a small portion of eggs."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "россия",
+                                    "translated": "Russia"
+                                },
+                                "header_1": {
+                                    "original": "стандарты производства",
+                                    "translated": "Production standards"
+                                },
+                                "fact": {
+                                    "original": "В начинке продукта категории «А» содержится мясного фарша ≤100 %.",
+                                    "translated": "'The filling of the product in category \"A\" contains meat minced meat ≤100 %.'",
+                                    "fact_aligned_sentence": "В начинке продукта категории «А» содержится мясного фарша ≤100 %, «Б» — ≤80 %, «В» — ≤60 %, «Г» — ≤40 %, «Д» — ≤20 %.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Для приготовления рыбных пельменей используют белковую массу из кильки или других рыб.",
+                                    "С 1 января 2010 года в России появилась категория производства мясных полуфабрикатов в оболочке из теста.",
+                                    "В начинке продукта категории «А» содержится мясного фарша ≤100 %."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In European Russia,  ground beef is used and mushroom-filled pelmeni are also accepted.",
+                                    "The traditional Udmurt recipe requires a mixture of 45% beef, 35% mutton, and 20% pork.",
+                                    "Pelmeni can be served as a main dish for lunch or dinner, either smothered in butter or prepared Siberian-style, which involves sprinkling them with vinegar and adding freshly ground pepper for extra flavor.",
+                                    "The filling can be minced meat (pork, lamb, beef, fish or any other kind of meat, venison being particularly traditional for colder regions) or mushrooms, or a combination of the two."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "россия",
+                                    "translated": "Russia"
+                                },
+                                "header_1": {
+                                    "original": "стандарты производства",
+                                    "translated": "Production standards"
+                                },
+                                "fact": {
+                                    "original": "С 1 января 2010 года в России появилась категория производства мясных полуфабрикатов в оболочке из теста.",
+                                    "translated": "Since January 1, 2010, a category of meat semi-finished products in dough casing has appeared in Russia.",
+                                    "fact_aligned_sentence": "С 1 января 2010 года в России появилась категория производства мясных полуфабрикатов в оболочке из теста.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "Для приготовления рыбных пельменей используют мороженую белковую пасту «Океан».",
+                                    "Для приготовления рыбных пельменей используют белковую массу из кильки или других рыб.",
+                                    "С 1 января 2010 года в России появилась категория производства мясных полуфабрикатов в оболочке из теста."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pelmeni can be served as a main dish for lunch or dinner, either smothered in butter or prepared Siberian-style, which involves sprinkling them with vinegar and adding freshly ground pepper for extra flavor.",
+                                    "The filling can be minced meat (pork, lamb, beef, fish or any other kind of meat, venison being particularly traditional for colder regions) or mushrooms, or a combination of the two.",
+                                    "The filling can be minced meat (pork, lamb, beef, fish or any other kind of meat, venison being particularly traditional for colder regions) or mushrooms, or a combination of the two.",
+                                    "The mixing together of different kinds of meat is also popular."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "украина",
+                                    "translated": "Ukraine"
+                                },
+                                "header_1": {
+                                    "original": "стандарты производства",
+                                    "translated": "Production standards"
+                                },
+                                "fact": {
+                                    "original": "Госстандарт требует, чтобы содержание мясного фарша в пельменях было не менее 50 %.",
+                                    "translated": "The state standard requires that the meat content in dumplings be no less than 50%.",
+                                    "fact_aligned_sentence": "Госстандарт требует, чтобы содержание мясного фарша в пельменях было не менее 50 % — в 2008 году этот показатель составлял 40 % на 60 % теста.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8"
+                                },
+                                "src_context": [
+                                    "С 1 ноября 2007 года вступил в действие новый украинский стандарт производства мясных полуфабрикатов в оболочке из теста.",
+                                    "В число таких продуктов входят вареники с мясом, чебуреки, манты, пельмени, равиоли и хинкали.",
+                                    "Госстандарт требует, чтобы содержание мясного фарша в пельменях было не менее 50 %."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In European Russia,  ground beef is used and mushroom-filled pelmeni are also accepted.",
+                                    "The traditional Udmurt recipe requires a mixture of 45% beef, 35% mutton, and 20% pork.",
+                                    "Pelmeni can be served as a main dish for lunch or dinner, either smothered in butter or prepared Siberian-style, which involves sprinkling them with vinegar and adding freshly ground pepper for extra flavor.",
+                                    "The filling can be minced meat (pork, lamb, beef, fish or any other kind of meat, venison being particularly traditional for colder regions) or mushrooms, or a combination of the two."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "recette": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "recette",
+                                    "translated": "recipe"
+                                },
+                                "fact": {
+                                    "original": "Un pelmen typique est en forme d'oreille.",
+                                    "translated": "A typical dumpling is shaped like an ear.",
+                                    "fact_aligned_sentence": "Un pelmen typique est à peu près sphérique, en forme d'oreille et mesure quelques centimètres.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Pelmeni"
+                                },
+                                "src_context": [
+                                    "Ils ne sont jamais servis avec une sauce sucrée.",
+                                    "Un pelmen typique est à peu près sphérique.",
+                                    "Un pelmen typique est en forme d'oreille."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The main difference between pelmeni and momos is their size—a typical pelmen is about two to three centimetres (3⁄4–1+1⁄4 in) in diameter, whereas momos are often at least twice that size.",
+                                    "The main difference between pelmeni and momos is their size—a typical pelmen is about two to three centimetres (3⁄4–1+1⁄4 in) in diameter, whereas momos are often at least twice that size.",
+                                    "In the Russian Far East, they generally add soy sauce.",
+                                    "There are many traditional recipes, some of them suggest frying pelmeni after boiling until they turn golden brown."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "recette",
+                                    "translated": "recipe"
+                                },
+                                "fact": {
+                                    "original": "Les pelmenis sont stockés congelés ou préparés immédiatement avant utilisation.",
+                                    "translated": "The pelmeni are stored frozen or prepared immediately before use.",
+                                    "fact_aligned_sentence": "Les pelmenis sont stockés congelés ou préparés immédiatement avant utilisation.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Pelmeni"
+                                },
+                                "src_context": [
+                                    "Il est possible d'utiliser du poisson pour la farce des pelmenis.",
+                                    "Il est possible d'utiliser des champignons pour la farce des pelmenis.",
+                                    "Les pelmenis sont stockés congelés ou préparés immédiatement avant utilisation."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In the Urals, they are boiled in plain water, while in Siberia they are boiled in salted water or sometimes meat or chicken broth.",
+                                    "The cooked pelmeni are served alone or topped with melted butter or smetana (sour cream), as well as condiments like mustard, horseradish, tomato sauce, and vinegar.",
+                                    "Hunters or explorers heading into the taiga would carry sacks of frozen pelmeni with their provisions since they can be stored frozen for a long time and are easily cooked.",
+                                    "Pelmeni are prepared immediately before eating by boiling in salted water until they float, and then two to five minutes more."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "recette",
+                                    "translated": "recipe"
+                                },
+                                "fact": {
+                                    "original": "Beaucoup de familles russes fabriquent des pelmeni de façon traditionnelle.",
+                                    "translated": "Many Russian families make pelmeni in a traditional way.",
+                                    "fact_aligned_sentence": "Beaucoup de familles russes fabriquent des pelmeni de façon traditionnelle.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Pelmeni"
+                                },
+                                "src_context": [
+                                    "Les pelmenis doivent cuire encore de 2 à 5 minutes après être remontés à la surface.",
+                                    "Il est possible de faire cuire les pelmenis dans un bouillon.",
+                                    "Beaucoup de familles russes fabriquent des pelmeni de façon traditionnelle."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The easiest (if somewhat laborious) way is simply to make them by hand; many cooks use specialized \"pelmeni makers\" (Russian: пельменница, pelmennitsa), which are essentially molds that resemble muffin pans or ravioli molds, allowing one to quickly make a few dozen pelmeni out of two sheets of dough and a quantity of ground meat.",
+                                    "The easiest (if somewhat laborious) way is simply to make them by hand; many cooks use specialized \"pelmeni makers\" (Russian: пельменница, pelmennitsa), which are essentially molds that resemble muffin pans or ravioli molds, allowing one to quickly make a few dozen pelmeni out of two sheets of dough and a quantity of ground meat.",
+                                    "In the Russian Far East, they generally add soy sauce.",
+                                    "There are many traditional recipes, some of them suggest frying pelmeni after boiling until they turn golden brown."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "recette",
+                                    "translated": "recipe"
+                                },
+                                "fact": {
+                                    "original": "Il est possible de faire cuire les pelmenis dans un bouillon.",
+                                    "translated": "It is possible to cook the pelmenis in a broth.",
+                                    "fact_aligned_sentence": "Il est possible de les faire cuire dans un bouillon.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Pelmeni"
+                                },
+                                "src_context": [
+                                    "Les pelmenis sont mis dans de l'eau bouillante jusqu'à ce qu'ils remontent à la surface.",
+                                    "Les pelmenis doivent cuire encore de 2 à 5 minutes après être remontés à la surface.",
+                                    "Il est possible de faire cuire les pelmenis dans un bouillon."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pelmeni can be served in several ways; for example, they can be cooked in stock, or they can be cooked consommé and served in a bowl with soup.",
+                                    "Pelmeni can be served in several ways; for example, they can be cooked in stock, or they can be cooked consommé and served in a bowl with soup.",
+                                    "Pelmeni can be served in several ways; for example, they can be cooked in stock, or they can be cooked consommé and served in a bowl with soup.",
+                                    "Pelmeni can be served in several ways; for example, they can be cooked in stock, or they can be cooked consommé and served in a bowl with soup."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "recette",
+                                    "translated": "recipe"
+                                },
+                                "fact": {
+                                    "original": "La recette se transmet de génération en génération.",
+                                    "translated": "The recipe is passed down from generation to generation.",
+                                    "fact_aligned_sentence": "La recette se transmet de génération en génération et ce sont les mères qui transmettent leur savoir-faire à leur(s) fille(s).",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Pelmeni"
+                                },
+                                "src_context": [
+                                    "Il est possible de faire cuire les pelmenis dans un bouillon.",
+                                    "Beaucoup de familles russes fabriquent des pelmeni de façon traditionnelle.",
+                                    "La recette se transmet de génération en génération."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The dough is made from flour and water, sometimes adding a small portion of eggs.",
+                                    "The dough is made from flour and water, sometimes adding a small portion of eggs.",
+                                    "In the Russian Far East, they generally add soy sauce.",
+                                    "There are many traditional recipes, some of them suggest frying pelmeni after boiling until they turn golden brown."
+                                ]
+                            }
+                        ]
+                    },
+                    "parenté": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "parenté",
+                                    "translated": "relationship"
+                                },
+                                "fact": {
+                                    "original": "Les pelmeni ont une pâte plus molle et moins épaisse que les vareniki.",
+                                    "translated": "'Pelmeni have a softer and thinner dough than vareniki.'",
+                                    "fact_aligned_sentence": "Les pelmeni ont une pâte plus molle et moins épaisse que les vareniki, la proportion de garniture par rapport à la pâte dans les pelmeni est généralement plus élevée et leur farce est toujours crue avant cuisson.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Pelmeni"
+                                },
+                                "src_context": [
+                                    "Selon les mêmes principes sont préparés les kreplach dans la cuisine juive.",
+                                    "Il ne faut pas confondre les pelmenis avec les vareniki que l'on retrouve aussi dans la cuisine russe.",
+                                    "Les pelmeni ont une pâte plus molle et moins épaisse que les vareniki."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The most important difference between pelmeni, varenyky, and pierogi is the thickness of the dough shell—in pelmeni and vareniki this is as thin as possible, and the proportion of filling to dough is usually higher.",
+                                    "The most important difference between pelmeni, varenyky, and pierogi is the thickness of the dough shell—in pelmeni and vareniki this is as thin as possible, and the proportion of filling to dough is usually higher.",
+                                    "Somewhat similar are the fried or baked empanadas encountered in Hispanic-influenced cultures.",
+                                    "The most important difference between pelmeni, varenyky, and pierogi is the thickness of the dough shell—in pelmeni and vareniki this is as thin as possible, and the proportion of filling to dough is usually higher."
+                                ]
+                            }
+                        ]
+                    },
+                    "histoire": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "histoire",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "Les pelmenis dans la culture traditionnelle ne sont pas un plat cérémoniel.",
+                                    "translated": "'Pelmeni in traditional culture are not a ceremonial dish.'",
+                                    "fact_aligned_sentence": "Les pelmenis dans la culture traditionnelle ne sont pas un plat cérémoniel mais sont préparés pendant les fêtes quand on reçoit des invités.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Pelmeni"
+                                },
+                                "src_context": [
+                                    "Dans les documents écrits en russe sur les colonies de l'Oural des XVIIe au XVIIIe siècles (à partir de 1679), il existe des noms de famille dérivés du mot pelmenis : Pelmenev, Pelnenev, Pelmennikov.",
+                                    "L'historien Pavel Kortchaguine note que dans la haute Prikamié en 1579, il n'y a toujours pas de gens qui fabriquent de pelmenis.",
+                                    "Les pelmenis dans la culture traditionnelle ne sont pas un plat cérémoniel."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pelmeni became a staple of Russian cuisine during the period of Russian expansion into the Ural Mountains and Siberia.",
+                                    "Pelmeni also have deep roots in the traditions and folklore of the Komi region of northwest Russia and figure prominently in Komi cuisine.",
+                                    "In the Russian Far East, they generally add soy sauce.",
+                                    "There are many traditional recipes, some of them suggest frying pelmeni after boiling until they turn golden brown."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "histoire",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "D'autres régions ont associé les pelmenis à leur culture.",
+                                    "translated": "Other regions have associated pelmenis with their culture.",
+                                    "fact_aligned_sentence": "Aujourd'hui les pelmenis sont populaires dans toute la Russie et d'autres régions ont associé les pelmenis à leur culture.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Pelmeni"
+                                },
+                                "src_context": [
+                                    "Les pelmenis sont préparés quand on reçoit des invités.",
+                                    "Aujourd'hui les pelmenis sont populaires dans toute la Russie.",
+                                    "D'autres régions ont associé les pelmenis à leur culture."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Therefore, pelmeni may have been carried by the Mongols from China to Siberia and the Urals.",
+                                    "Another theory is that they originated in the Urals and were then spread to Central Asia by Russian explorers and pioneers.",
+                                    "There are many traditional recipes, some of them suggest frying pelmeni after boiling until they turn golden brown.",
+                                    "There are many traditional recipes, some of them suggest frying pelmeni after boiling until they turn golden brown."
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Les pelmeni sont originaires de l'Oural.",
+                                    "translated": "Pelmeni originated in the Ural region.",
+                                    "fact_aligned_sentence": "Les pelmeni (au singulier pelmen - пельмень, pilmän(när)/пилмән(нәр) en tatar) est un plat russe (originaire de l'Oural) .",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Pelmeni"
+                                },
+                                "src_context": [
+                                    "Les pelmeni (au singulier pelmen - пельмень, pilmän(när)/пилмән(нәр) en tatar) est un plat russe.",
+                                    "Les pelmeni sont originaires de l'Oural."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pelmeni belong to the family of dumplings, and are related to Ukrainian and Polish uszka.",
+                                    "Pelmeni belong to the family of dumplings, and are related to Ukrainian and Polish uszka.",
+                                    "Temperature and humidity have considerable impact on dough consistency and stability.",
+                                    "Pelmeni belong to the family of dumplings, and are related to Ukrainian and Polish uszka."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "俄國餃子起源於西伯利亞。",
+                                    "translated": "Russian dumplings originated in Siberia.",
+                                    "fact_aligned_sentence": "俄國餃子,又稱西伯利亞餃子(俄语:пельмень,俄語發音:[pjɪljˈmjenj];複數:пельме́ни,俄語發音:[pjɪljˈmjenjɪ])是一種起源於西伯利亞(一說烏拉爾山脈)的餃子,流行於俄國以及前蘇聯加盟共和國。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E9%A4%83%E5%AD%90"
+                                },
+                                "src_context": [
+                                    "пельмень的複數形式是пельме́ни。",
+                                    "пельме́ни的俄語發音是[pjɪljˈmjenjɪ]。",
+                                    "俄國餃子起源於西伯利亞。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "They are commonly topped with sour cream, mayonnaise, dill, red onions or vinegar, all of which are traditional to the region and can be produced in the Siberian climate.",
+                                    "They are commonly topped with sour cream, mayonnaise, dill, red onions or vinegar, all of which are traditional to the region and can be produced in the Siberian climate.",
+                                    "Pelmeni can be served in several ways; for example, they can be cooked in stock, or they can be cooked consommé and served in a bowl with soup.",
+                                    "Pelmeni can be served as a main dish for lunch or dinner, either smothered in butter or prepared Siberian-style, which involves sprinkling them with vinegar and adding freshly ground pepper for extra flavor."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "俄國餃子流行於俄國。",
+                                    "translated": "Russian dumplings are popular in Russia.",
+                                    "fact_aligned_sentence": "俄國餃子,又稱西伯利亞餃子(俄语:пельмень,俄語發音:[pjɪljˈmjenj];複數:пельме́ни,俄語發音:[pjɪljˈmjenjɪ])是一種起源於西伯利亞(一說烏拉爾山脈)的餃子,流行於俄國以及前蘇聯加盟共和國。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E9%A4%83%E5%AD%90"
+                                },
+                                "src_context": [
+                                    "俄國餃子起源於西伯利亞。",
+                                    "有一種說法認為俄國餃子起源於烏拉爾山脈。",
+                                    "俄國餃子流行於俄國。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pelmeni (Russian: пельмени, pronounced [pjɪljˈmjenjɪ]; sg.",
+                                    "The mixing together of different kinds of meat is also popular.",
+                                    "In European Russia,  ground beef is used and mushroom-filled pelmeni are also accepted."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "пельмень的複數形式是пельме́ни。",
+                                    "translated": "The plural form of 'пельмень' is 'пельме́ни'.",
+                                    "fact_aligned_sentence": "俄國餃子,又稱西伯利亞餃子(俄语:пельмень,俄語發音:[pjɪljˈmjenj];複數:пельме́ни,俄語發音:[pjɪljˈmjenjɪ])是一種起源於西伯利亞(一說烏拉爾山脈)的餃子,流行於俄國以及前蘇聯加盟共和國。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E9%A4%83%E5%AD%90"
+                                },
+                                "src_context": [
+                                    "俄國餃子的俄语名称是пельмень。",
+                                    "пельмень的俄語發音是[pjɪljˈmjenj]。",
+                                    "пельмень的複數形式是пельме́ни。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In the Russian Far East, they generally add soy sauce.",
+                                    "There are many traditional recipes, some of them suggest frying pelmeni after boiling until they turn golden brown.",
+                                    "The easiest (if somewhat laborious) way is simply to make them by hand; many cooks use specialized \"pelmeni makers\" (Russian: пельменница, pelmennitsa), which are essentially molds that resemble muffin pans or ravioli molds, allowing one to quickly make a few dozen pelmeni out of two sheets of dough and a quantity of ground meat.",
+                                    "The easiest (if somewhat laborious) way is simply to make them by hand; many cooks use specialized \"pelmeni makers\" (Russian: пельменница, pelmennitsa), which are essentially molds that resemble muffin pans or ravioli molds, allowing one to quickly make a few dozen pelmeni out of two sheets of dough and a quantity of ground meat."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "俄國餃子也流行於前蘇聯加盟共和國。",
+                                    "translated": "Russian dumplings are also popular in the former Soviet republics.",
+                                    "fact_aligned_sentence": "俄國餃子,又稱西伯利亞餃子(俄语:пельмень,俄語發音:[pjɪljˈmjenj];複數:пельме́ни,俄語發音:[pjɪljˈmjenjɪ])是一種起源於西伯利亞(一說烏拉爾山脈)的餃子,流行於俄國以及前蘇聯加盟共和國。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E9%A4%83%E5%AD%90"
+                                },
+                                "src_context": [
+                                    "有一種說法認為俄國餃子起源於烏拉爾山脈。",
+                                    "俄國餃子流行於俄國。",
+                                    "俄國餃子也流行於前蘇聯加盟共和國。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The mixing together of different kinds of meat is also popular.",
+                                    "In European Russia,  ground beef is used and mushroom-filled pelmeni are also accepted.",
+                                    "Pelmeni began to appear in restaurants in late 19th-century France at a time when Russian dishes had already made a considerable impact on haute cuisine.",
+                                    "Pelmeni began to appear in restaurants in late 19th-century France at a time when Russian dishes had already made a considerable impact on haute cuisine."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "俄國餃子又稱西伯利亞餃子。",
+                                    "translated": "Russian dumplings are also known as Siberian dumplings.",
+                                    "fact_aligned_sentence": "俄國餃子,又稱西伯利亞餃子(俄语:пельмень,俄語發音:[pjɪljˈmjenj];複數:пельме́ни,俄語發音:[pjɪljˈmjenjɪ])是一種起源於西伯利亞(一說烏拉爾山脈)的餃子,流行於俄國以及前蘇聯加盟共和國。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E9%A4%83%E5%AD%90"
+                                },
+                                "src_context": [
+                                    "俄國餃子又稱西伯利亞餃子。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pelmeni (Russian: пельмени, pronounced [pjɪljˈmjenjɪ]; sg.",
+                                    "Pelmeni can be served in several ways; for example, they can be cooked in stock, or they can be cooked consommé and served in a bowl with soup.",
+                                    "Pelmeni can be served as a main dish for lunch or dinner, either smothered in butter or prepared Siberian-style, which involves sprinkling them with vinegar and adding freshly ground pepper for extra flavor."
+                                ]
+                            }
+                        ]
+                    },
+                    "成份": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "成份",
+                                    "translated": "Ingredients"
+                                },
+                                "fact": {
+                                    "original": "有時餃子佐湯食用。",
+                                    "translated": "Dumplings are sometimes eaten with soup.",
+                                    "fact_aligned_sentence": "餃子皮直徑約一英吋,是以麵粉、雞蛋和水製成的生麵團製成薄薄的未發酵麵皮;餡料是生的肉類、魚、蘑菇以及蔬菜。以水或湯加上酸奶油煮熟,或再煎成金黃色。有時佐湯食用。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E9%A4%83%E5%AD%90"
+                                },
+                                "src_context": [
+                                    "餃子可以以水或湯加上酸奶油煮熟。",
+                                    "餃子可以再煎成金黃色。",
+                                    "有時餃子佐湯食用。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The dough is made from flour and water, sometimes adding a small portion of eggs.",
+                                    "The dough is made from flour and water, sometimes adding a small portion of eggs.",
+                                    "Pelmeni are never served with a sweet filling, which distinguishes them from vareniki and Polish pierogi, which sometimes are.",
+                                    "Pelmeni are never served with a sweet filling, which distinguishes them from vareniki and Polish pierogi, which sometimes are."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "成份",
+                                    "translated": "Ingredients"
+                                },
+                                "fact": {
+                                    "original": "餃子皮直徑約一英吋。",
+                                    "translated": "The diameter of the dumpling wrappers is about one inch.",
+                                    "fact_aligned_sentence": "餃子皮直徑約一英吋,是以麵粉、雞蛋和水製成的生麵團製成薄薄的未發酵麵皮;餡料是生的肉類、魚、蘑菇以及蔬菜。以水或湯加上酸奶油煮熟,或再煎成金黃色。有時佐湯食用。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E9%A4%83%E5%AD%90"
+                                },
+                                "src_context": [
+                                    "俄國餃子流行於俄國。",
+                                    "俄國餃子也流行於前蘇聯加盟共和國。",
+                                    "餃子皮直徑約一英吋。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The main difference between pelmeni and momos is their size—a typical pelmen is about two to three centimetres (3⁄4–1+1⁄4 in) in diameter, whereas momos are often at least twice that size.",
+                                    "The main difference between pelmeni and momos is their size—a typical pelmen is about two to three centimetres (3⁄4–1+1⁄4 in) in diameter, whereas momos are often at least twice that size.",
+                                    "Store-bought pelmeni are made on industrial machinery, much of which is made by Italian companies such as Arienti and Cattaneo, Ima, Ostoni, Zamboni, etc.",
+                                    "These pelmeni usually weigh around 15 grams (1⁄2 oz) each and look like a larger version of tortellini, which is why, for industrial production, Italian pasta machines are commonly used."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "成份",
+                                    "translated": "Ingredients"
+                                },
+                                "fact": {
+                                    "original": "餃子可以以水或湯加上酸奶油煮熟。",
+                                    "translated": "Dumplings can be cooked in water or soup with sour cream.",
+                                    "fact_aligned_sentence": "餃子皮直徑約一英吋,是以麵粉、雞蛋和水製成的生麵團製成薄薄的未發酵麵皮;餡料是生的肉類、魚、蘑菇以及蔬菜。以水或湯加上酸奶油煮熟,或再煎成金黃色。有時佐湯食用。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E9%A4%83%E5%AD%90"
+                                },
+                                "src_context": [
+                                    "餃子皮是以麵粉、雞蛋和水製成的生麵團製成薄薄的未發酵麵皮。",
+                                    "餃子的餡料是生的肉類、魚、蘑菇以及蔬菜。",
+                                    "餃子可以以水或湯加上酸奶油煮熟。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The dough is made from flour and water, sometimes adding a small portion of eggs.",
+                                    "The dough is made from flour and water, sometimes adding a small portion of eggs.",
+                                    "Various spices, such as black pepper and diced onions as well as garlic, are mixed into the filling.",
+                                    "They are commonly topped with sour cream, mayonnaise, dill, red onions or vinegar, all of which are traditional to the region and can be produced in the Siberian climate."
+                                ]
+                            }
+                        ]
+                    },
+                    "外部連結": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "外部連結",
+                                    "translated": "External link"
+                                },
+                                "fact": {
+                                    "original": "Pelmeni can be served with sour cream.",
+                                    "translated": "Pelmeni can be served with sour cream.",
+                                    "fact_aligned_sentence": "Pelmeni (Meat Dumplings) English",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E9%A4%83%E5%AD%90"
+                                },
+                                "src_context": [
+                                    "Pelmeni are also known as meat dumplings.",
+                                    "Pelmeni are popular in Russian cuisine.",
+                                    "Pelmeni can be served with sour cream."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pelmeni can be served in several ways; for example, they can be cooked in stock, or they can be cooked consommé and served in a bowl with soup.",
+                                    "Pelmeni can be served in several ways; for example, they can be cooked in stock, or they can be cooked consommé and served in a bowl with soup.",
+                                    "There are many traditional recipes, some of them suggest frying pelmeni after boiling until they turn golden brown.",
+                                    "Pelmeni can also be served in a clear soup, although in Siberia this is considered in poor taste and pelmeni are carefully strained before serving."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "外部連結",
+                                    "translated": "External link"
+                                },
+                                "fact": {
+                                    "original": "Pelmeni are also known as meat dumplings.",
+                                    "translated": "Pelmeni are also known as meat dumplings.",
+                                    "fact_aligned_sentence": "Pelmeni (Meat Dumplings) English",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E9%A4%83%E5%AD%90"
+                                },
+                                "src_context": [
+                                    "Pelmeni are a type of dumpling.",
+                                    "Pelmeni are filled with meat.",
+                                    "Pelmeni are also known as meat dumplings."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Tatar cuisine, pilmän (the Tatar equivalent of pelmeni) are a traditional dish, where they have always been served with clear soup and added dill or other freshly cut herbs.",
+                                    "Pelmeni are also part of Polish cuisine.",
+                                    "The word pelmeni is derived from pel'n'an' (пельнянь), literally \"ear bread\" in the Finno-Ugric Komi and Udmurt languages.",
+                                    "Alternatively, it is literally translated as \"dough ears\"."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "外部連結",
+                                    "translated": "External link"
+                                },
+                                "fact": {
+                                    "original": "Pelmeni are filled with meat.",
+                                    "translated": "Pelmeni are filled with meat.",
+                                    "fact_aligned_sentence": "Pelmeni (Meat Dumplings) English",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E9%A4%83%E5%AD%90"
+                                },
+                                "src_context": [
+                                    "Pelmeni are of Russian origin.",
+                                    "Pelmeni are a type of dumpling.",
+                                    "Pelmeni are filled with meat."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pelmeni can be served in several ways; for example, they can be cooked in stock, or they can be cooked consommé and served in a bowl with soup.",
+                                    "Pelmeni can be served in several ways; for example, they can be cooked in stock, or they can be cooked consommé and served in a bowl with soup.",
+                                    "Pelmeni can be served in several ways; for example, they can be cooked in stock, or they can be cooked consommé and served in a bowl with soup.",
+                                    "Pelmeni can be served in several ways; for example, they can be cooked in stock, or they can be cooked consommé and served in a bowl with soup."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "外部連結",
+                                    "translated": "External link"
+                                },
+                                "fact": {
+                                    "original": "Pelmeni are of Russian origin.",
+                                    "translated": "Pelmeni are of Russian origin.",
+                                    "fact_aligned_sentence": "Pelmeni: Russian dumplings",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E9%A4%83%E5%AD%90"
+                                },
+                                "src_context": [
+                                    "俄罗斯菜式列表",
+                                    "Pelmeni are a type of dumpling.",
+                                    "Pelmeni are of Russian origin."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pelmeni belong to the family of dumplings, and are related to Ukrainian and Polish uszka.",
+                                    "Pelmeni belong to the family of dumplings, and are related to Ukrainian and Polish uszka.",
+                                    "Pelmeni belong to the family of dumplings, and are related to Ukrainian and Polish uszka.",
+                                    "Pelmeni belong to the family of dumplings, and are related to Ukrainian and Polish uszka."
+                                ]
+                            }
+                        ]
+                    },
+                    "參考資料": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "參考資料",
+                                    "translated": "References"
+                                },
+                                "fact": {
+                                    "original": "存于互联网档案馆",
+                                    "translated": "Stored in the Internet Archive",
+                                    "fact_aligned_sentence": "Authentic Pelmeni & Perogies(页面存档备份,存于互联网档案馆)",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E9%A4%83%E5%AD%90"
+                                },
+                                "src_context": [
+                                    "Authentic Pelmeni & Perogies",
+                                    "页面存档备份",
+                                    "存于互联网档案馆"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Hunters or explorers heading into the taiga would carry sacks of frozen pelmeni with their provisions since they can be stored frozen for a long time and are easily cooked.",
+                                    "Pelmeni are prepared immediately before eating by boiling in salted water until they float, and then two to five minutes more.",
+                                    "Various spices, such as black pepper and diced onions as well as garlic, are mixed into the filling.",
+                                    "They are commonly topped with sour cream, mayonnaise, dill, red onions or vinegar, all of which are traditional to the region and can be produced in the Siberian climate."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "參考資料",
+                                    "translated": "References"
+                                },
+                                "fact": {
+                                    "original": "Authentic Pelmeni & Perogies",
+                                    "translated": "Authentic Pelmeni & Perogies",
+                                    "fact_aligned_sentence": "Authentic Pelmeni & Perogies(页面存档备份,存于互联网档案馆)",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E9%A4%83%E5%AD%90"
+                                },
+                                "src_context": [
+                                    "餃子可以再煎成金黃色。",
+                                    "有時餃子佐湯食用。",
+                                    "Authentic Pelmeni & Perogies"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Hunters or explorers heading into the taiga would carry sacks of frozen pelmeni with their provisions since they can be stored frozen for a long time and are easily cooked.",
+                                    "Pelmeni are prepared immediately before eating by boiling in salted water until they float, and then two to five minutes more.",
+                                    "Also, the fillings in pelmeni are usually raw, while the fillings of vareniki and pierogi are typically precooked.",
+                                    "Also, the fillings in pelmeni are usually raw, while the fillings of vareniki and pierogi are typically precooked."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "參考資料",
+                                    "translated": "References"
+                                },
+                                "fact": {
+                                    "original": "页面存档备份",
+                                    "translated": "Page archived backup",
+                                    "fact_aligned_sentence": "Authentic Pelmeni & Perogies(页面存档备份,存于互联网档案馆)",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E9%A4%83%E5%AD%90"
+                                },
+                                "src_context": [
+                                    "有時餃子佐湯食用。",
+                                    "Authentic Pelmeni & Perogies",
+                                    "页面存档备份"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Hunters or explorers heading into the taiga would carry sacks of frozen pelmeni with their provisions since they can be stored frozen for a long time and are easily cooked.",
+                                    "Hunters or explorers heading into the taiga would carry sacks of frozen pelmeni with their provisions since they can be stored frozen for a long time and are easily cooked.",
+                                    "Hunters or explorers heading into the taiga would carry sacks of frozen pelmeni with their provisions since they can be stored frozen for a long time and are easily cooked.",
+                                    "Pelmeni are prepared immediately before eating by boiling in salted water until they float, and then two to five minutes more."
+                                ]
+                            }
+                        ]
+                    },
+                    "參看": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "參看",
+                                    "translated": "See"
+                                },
+                                "fact": {
+                                    "original": "俄罗斯菜式列表",
+                                    "translated": "List of Russian Dishes",
+                                    "fact_aligned_sentence": "俄罗斯菜式列表",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E9%A4%83%E5%AD%90"
+                                },
+                                "src_context": [
+                                    "页面存档备份",
+                                    "存于互联网档案馆",
+                                    "俄罗斯菜式列表"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Pelmeni (Russian: пельмени, pronounced [pjɪljˈmjenjɪ]; sg.",
+                                    "Auguste Escoffier included them as a hot hors d'oeuvre in Le Guide Culinaire, which was contrary to the Russian custom.",
+                                    "Auguste Escoffier included them as a hot hors d'oeuvre in Le Guide Culinaire, which was contrary to the Russian custom."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

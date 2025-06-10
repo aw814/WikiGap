@@ -1,0 +1,667 @@
+{
+    "Rendang": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "приготовление": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "основные продукты",
+                                    "translated": "Basic products"
+                                },
+                                "header_1": {
+                                    "original": "приготовление",
+                                    "translated": "Cooking"
+                                },
+                                "fact": {
+                                    "original": "Как правило, ренданг из смеси говяжьих субпродуктов готовят из лёгких, печени и селезёнки.",
+                                    "translated": "As a rule, rendang made from a mixture of beef offals is prepared using lungs, liver, and spleen.",
+                                    "fact_aligned_sentence": "Как на Суматре, так и в Малайзии ренданг иногда готовят из смеси нескольких различных говяжьих субпродуктов — как правило, из лёгких, печени и селезёнки.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B4%D0%B0%D0%BD%D0%B3_(%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE)"
+                                },
+                                "src_context": [
+                                    "Маниок может смешиваться с солёной рыбой.",
+                                    "Как на Суматре, так и в Малайзии ренданг иногда готовят из смеси нескольких различных говяжьих субпродуктов.",
+                                    "Как правило, ренданг из смеси говяжьих субпродуктов готовят из лёгких, печени и селезёнки."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Rendang ikan asap (rendang ikan salai): smoked fish rendang, usually made of smoked ikan pari or ray fish, specialty of Minangkabau.",
+                                    "Rendang ikan asap (rendang ikan salai): smoked fish rendang, usually made of smoked ikan pari or ray fish, specialty of Minangkabau.",
+                                    "Today, rendang is widely enjoyed beyond ceremonial settings and has become a popular souvenir in Padang.",
+                                    "While traditionally made with buffalo meat or beef, rendang now features a variety of ingredients."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "основные продукты",
+                                    "translated": "Basic products"
+                                },
+                                "header_1": {
+                                    "original": "приготовление",
+                                    "translated": "Cooking"
+                                },
+                                "fact": {
+                                    "original": "Особой популярностью у минангкабау издавна пользуются мясные варианты ренданга.",
+                                    "translated": "'Meat versions of rendang have long been especially popular among the Minangkabau.'",
+                                    "fact_aligned_sentence": "В силу того, что в хозяйственном укладе минангкабау традиционно высокую роль играет скотоводство, особой популярностью у них издавна пользуются мясные варианты ренданга, прежде всего приготовляемые из говядины и говяжьих субпродуктов.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B4%D0%B0%D0%BD%D0%B3_(%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE)"
+                                },
+                                "src_context": [
+                                    "Ренданг может готовиться из самого широкого спектра продуктов: из мяса, рыбы, птицы, яиц, и, реже, из некоторых видов овощей, зелени и даже фруктов.",
+                                    "В хозяйственном укладе минангкабау традиционно высокую роль играет скотоводство.",
+                                    "Особой популярностью у минангкабау издавна пользуются мясные варианты ренданга."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Today, rendang stands as the iconic menu item in Minangkabau restaurants, often accompanied by other meat-based dishes.",
+                                    "Today, rendang stands as the iconic menu item in Minangkabau restaurants, often accompanied by other meat-based dishes.",
+                                    "It even features on the menus of international restaurants, showcasing its enduring appeal and cultural significance.",
+                                    "Rendang, often regarded as an exclusive Malay-Minangkabau dish, is heavily influenced by Indian cuisine."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "основные продукты",
+                                    "translated": "Basic products"
+                                },
+                                "header_1": {
+                                    "original": "приготовление",
+                                    "translated": "Cooking"
+                                },
+                                "fact": {
+                                    "original": "Буйволятина могла служить важнейшим сырьем для рендангов столетия назад.",
+                                    "translated": "Buffalo meat could have served as the most important raw material for renders a century ago.",
+                                    "fact_aligned_sentence": "Буйволятина, по мнению специалистов, могла служить важнейшим сырьем для рендангов столетия назад — когда разведение мясных пород крупного рогатого скота ещё не получило столь широкого развития в соответствующих районах Суматры, однако сейчас в этом качестве она используется достаточно редко.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B4%D0%B0%D0%BD%D0%B3_(%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE)"
+                                },
+                                "src_context": [
+                                    "Чаще всего в качестве сырья для ренданга используются огузок, шея, лопаточная часть, рулька и голяшка.",
+                                    "Широко практикуется использование для этих блюд козлятины, баранины, курятины и утятины.",
+                                    "Буйволятина могла служить важнейшим сырьем для рендангов столетия назад."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Portuguese conquest of Malacca in 1511 introduced Portuguese culinary elements, with the arrival of chili peppers through the Columbian exchange also playing a key role in the evolution of rendang.",
+                                    "The Portuguese conquest of Malacca in 1511 introduced Portuguese culinary elements, with the arrival of chili peppers through the Columbian exchange also playing a key role in the evolution of rendang.",
+                                    "However, he believes that it had been familiar to the Minangkabau people long before this record.",
+                                    "However, to determine when rendang truly became part of the Minangkabau tradition, a review of historical sources is necessary."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "основные продукты",
+                                    "translated": "Basic products"
+                                },
+                                "header_1": {
+                                    "original": "приготовление",
+                                    "translated": "Cooking"
+                                },
+                                "fact": {
+                                    "original": "Существуют рецепты ренданга из улиток и змей.",
+                                    "translated": "There are rendang recipes made from snails and snakes.",
+                                    "fact_aligned_sentence": "Существуют рецепты ренданга из улиток и даже из змей, которые пользуются весьма ограниченной популярностью.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B4%D0%B0%D0%BD%D0%B3_(%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE)"
+                                },
+                                "src_context": [
+                                    "Достаточно часто ренданг готовят из морепродуктов — моллюсков, креветок и кальмаров.",
+                                    "Моллюски могут быть как морскими, так и речными.",
+                                    "Существуют рецепты ренданга из улиток и змей."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Betty Yew's cookbook \"Rasa Malaysia\", published in 1982, she takes readers on a culinary journey through the country, featuring 16 rendang recipes that highlight regional nuances.",
+                                    "In Betty Yew's cookbook \"Rasa Malaysia\", published in 1982, she takes readers on a culinary journey through the country, featuring 16 rendang recipes that highlight regional nuances.",
+                                    "These include chicken, which cooks faster and is more economical; duck, common in areas like Payakumbuh; goat meat, often enjoyed in Agam; and seafood options like shellfish and salted fish.",
+                                    "These include chicken, which cooks faster and is more economical; duck, common in areas like Payakumbuh; goat meat, often enjoyed in Agam; and seafood options like shellfish and salted fish."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "основные продукты",
+                                    "translated": "Basic products"
+                                },
+                                "header_1": {
+                                    "original": "приготовление",
+                                    "translated": "Cooking"
+                                },
+                                "fact": {
+                                    "original": "Субпродукты, моллюски и некоторые виды рыбы для ренданга часто предварительно отвариваются.",
+                                    "translated": "By-products, mollusks, and some types of fish for rendang are often pre-boiled.",
+                                    "fact_aligned_sentence": "При этом, если мясо и птица идут в ренданг в сыром виде, то субпродукты, моллюски и некоторые виды рыбы часто предварительно отвариваются.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B4%D0%B0%D0%BD%D0%B3_(%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE)"
+                                },
+                                "src_context": [
+                                    "Куриные и утиные тушки для ренданга разрезают на несколько частей.",
+                                    "Мясо и птица идут в ренданг в сыром виде.",
+                                    "Субпродукты, моллюски и некоторые виды рыбы для ренданга часто предварительно отвариваются."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "These include chicken, which cooks faster and is more economical; duck, common in areas like Payakumbuh; goat meat, often enjoyed in Agam; and seafood options like shellfish and salted fish.",
+                                    "These include chicken, which cooks faster and is more economical; duck, common in areas like Payakumbuh; goat meat, often enjoyed in Agam; and seafood options like shellfish and salted fish.",
+                                    "Rendang darek (‘land rendang’) is an umbrella term for dishes from old regions in mountainous areas of the Minangkabau Highlands such as Batusangkar, Agam, Lima Puluh Kota, Payakumbuh, Padang Panjang and Bukittinggi.",
+                                    "It mainly consists of beef, offal, poultry products, jackfruit, and many other vegetables and animal products that are found in these places."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "основные продукты",
+                                    "translated": "Basic products"
+                                },
+                                "header_1": {
+                                    "original": "приготовление",
+                                    "translated": "Cooking"
+                                },
+                                "fact": {
+                                    "original": "Лёгкие, требуха и почки для ренданга всегда нарезаются.",
+                                    "translated": "Lungs, offal, and kidneys are always diced for rendang.",
+                                    "fact_aligned_sentence": "Такие субпродукты, как лёгкие, требуха и почки, всегда нарезаются, а мозг, печень, сердце и язык могут готовить как целиком, так и кусочками.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B4%D0%B0%D0%BD%D0%B3_(%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE)"
+                                },
+                                "src_context": [
+                                    "Существуют рецепты ренданга из говяжьего фарша.",
+                                    "Существуют рецепты ренданга из говяжьих фрикаделек, которые популярны в Малайзии.",
+                                    "Лёгкие, требуха и почки для ренданга всегда нарезаются."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The preferred cut of beef for rendang is lean meat of the rear leg; i.e.",
+                                    "topside or round beef, which is considered perfect for slow cooking.",
+                                    "Rendang gadih, rendang tumbuk or rendang payakumbuh: Minced beef rendang, tumbuk or pounded beef shaped into balls mixed with coconut, specialty of Payakumbuh, West Sumatra.",
+                                    "Rendang gadih, rendang tumbuk or rendang payakumbuh: Minced beef rendang, tumbuk or pounded beef shaped into balls mixed with coconut, specialty of Payakumbuh, West Sumatra."
+                                ]
+                            }
+                        ]
+                    },
+                    "философское осмысление ренданга": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "философское осмысление ренданга",
+                                    "translated": "Philosophical understanding of the rending"
+                                },
+                                "fact": {
+                                    "original": "Представители исламского духовенства наряду с ниник-мамаками и чердик-пандэями по традиции принимают участие в общинных советах.",
+                                    "translated": "Representatives of the Islamic clergy, along with ninik-mamakas and cherdik-pandeis, traditionally participate in community councils.",
+                                    "fact_aligned_sentence": "Красный перец, важнейшая приправа ренданга, является символом исламского духовенства, которое издавна играет исключительно важную роль в жизни минангкабау, и представители которого — наряду с ниник-мамаками и чердик-пандэями — по традиции принимают участие в общинных советах.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B4%D0%B0%D0%BD%D0%B3_(%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE)"
+                                },
+                                "src_context": [
+                                    "Красный перец, важнейшая приправа ренданга, является символом исламского духовенства.",
+                                    "Исламское духовенство издавна играет исключительно важную роль в жизни минангкабау.",
+                                    "Представители исламского духовенства наряду с ниник-мамаками и чердик-пандэями по традиции принимают участие в общинных советах."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    ": 351",
+                                    "In Minangkabau culture, there are three types of food: makanan adat (traditional ceremonial food), samba adat (ceremonial dishes), and makan beradat (formal dining traditions).",
+                                    "Food historian Fadly Rahman traces the earliest reference to rendang to the early 16th-century Malay manuscript Hikayat Amir Hamzah associated with the Malacca Sultanate (1400–1528).",
+                                    "Food historian Fadly Rahman traces the earliest reference to rendang to the early 16th-century Malay manuscript Hikayat Amir Hamzah associated with the Malacca Sultanate (1400–1528)."
+                                ]
+                            }
+                        ]
+                    },
+                    "разновидности": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "разновидности",
+                                    "translated": "varieties"
+                                },
+                                "fact": {
+                                    "original": "У других народов Суматры ассортимент рендангов заметно меньше.",
+                                    "translated": "'In other peoples of Sumatra, the assortment of rendangs is noticeably smaller.'",
+                                    "fact_aligned_sentence": "У других народов Суматры их ассортимент уже заметно меньше, а на территории остальной Индонезии широкой популярностью пользуются главным образом достаточно однотипные говяжьи ренданги — остальные вариации этого блюда нечасто готовятся за пределами падангских ресторанов или семей выходцев с соответствующих суматранских территорий.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B4%D0%B0%D0%BD%D0%B3_(%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE)"
+                                },
+                                "src_context": [
+                                    "У близкородственных минангкабау малайцев в ходу многие десятки рецептов ренданга.",
+                                    "Минангкабау малайцы населяют сопредельные районы Суматры и Западную Малайзию.",
+                                    "У других народов Суматры ассортимент рендангов заметно меньше."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Rendang jawa: Javanese adoption of Minang rendang, which is more soft and moist suited to Javanese taste, usually rather sweet and less spicy compared to Sumatran rendang.",
+                                    "Rendang jawa: Javanese adoption of Minang rendang, which is more soft and moist suited to Javanese taste, usually rather sweet and less spicy compared to Sumatran rendang.",
+                                    "Rendang jariang (rendang jengkol): jengkol rendang, commonly popular in West Sumatran towns, especially Bukittinggi, Payakumbuh, Pasaman and Lubuk Basung.",
+                                    "Rendang jariang (rendang jengkol): jengkol rendang, commonly popular in West Sumatran towns, especially Bukittinggi, Payakumbuh, Pasaman and Lubuk Basung."
+                                ]
+                            }
+                        ]
+                    },
+                    "подача и употребление": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "подача и употребление",
+                                    "translated": "Putation and use"
+                                },
+                                "fact": {
+                                    "original": "Лонтонг и кетупат варятся в облатке из пальмовых листьев.",
+                                    "translated": "'Lontong and ketupat are boiled in a wrapping made of palm leaves.'",
+                                    "fact_aligned_sentence": "В роли гарнира чаще всего выступает либо обычный отварной рис, который обычно утрамбовывают в плотную горку, либо же лонтонг или кетупат — два традиционных для Малайского архипелага вида рисовых брикетов, которые варятся в облатке из пальмовых листьев.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B4%D0%B0%D0%BD%D0%B3_(%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE)"
+                                },
+                                "src_context": [
+                                    "В роли гарнира чаще всего выступает либо обычный отварной рис, который обычно утрамбовывают в плотную горку.",
+                                    "Гарниром к рендангу также может быть лонтонг или кетупат — два традиционных для Малайского архипелага вида рисовых брикетов.",
+                                    "Лонтонг и кетупат варятся в облатке из пальмовых листьев."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Terengganu and Kelantan, a dish called kerutuk is made from meat mixed with spices and cooked until thick, also said to resemble rendang.",
+                                    "In Terengganu and Kelantan, a dish called kerutuk is made from meat mixed with spices and cooked until thick, also said to resemble rendang.",
+                                    "Rendang daun ubi kayu: vegetable rendang made from cassava leaf.",
+                                    "Rendang daun ubi kayu: vegetable rendang made from cassava leaf."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "подача и употребление",
+                                    "translated": "Putation and use"
+                                },
+                                "fact": {
+                                    "original": "Ренданг могут есть и на завтрак, и на обед, и на ужин.",
+                                    "translated": "Rendang can be eaten for breakfast, lunch, and dinner.",
+                                    "fact_aligned_sentence": "В отличие от некоторых других блюд индонезийской кухни, употребление в пищу ренданга не имеет какой-либо традиционной привязки к какой-то одной из трапез в течение дня: его могут есть и на завтрак, и на обед, и на ужин.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B4%D0%B0%D0%BD%D0%B3_(%D0%B1%D0%BB%D1%8E%D0%B4%D0%BE)"
+                                },
+                                "src_context": [
+                                    "Коллективные трапезы макан-баджамба устраиваются как по поводу религиозных и светских праздников, так и по случаю различных общественных и корпоративных мероприятий.",
+                                    "Употребление в пищу ренданга не имеет какой-либо традиционной привязки к какой-то одной из трапез в течение дня.",
+                                    "Ренданг могут есть и на завтрак, и на обед, и на ужин."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "As a signature dish in Southeast Asian Muslim cuisines—Malay, Minangkabau (as samba randang), and Moro (as riyandang)—rendang is traditionally served at ceremonial occasions and festive gatherings, such as wedding feasts and Hari Raya (Eid al-Fitr and Eid al-Adha).",
+                                    "As a signature dish in Southeast Asian Muslim cuisines—Malay, Minangkabau (as samba randang), and Moro (as riyandang)—rendang is traditionally served at ceremonial occasions and festive gatherings, such as wedding feasts and Hari Raya (Eid al-Fitr and Eid al-Adha).",
+                                    "Another manuscript, Hikayat Awang Sulung Merah Muda, reflects 18th-century life and cooking traditions.",
+                                    "In the narration, a prince hunts and captures a pelanduk (mouse deer), which is then prepared in various styles — tumis, rendang, and gulai."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Ce plat est généralement servi avec du riz sauté (nasi goreng).",
+                                    "translated": "This dish is usually served with fried rice (nasi goreng).",
+                                    "fact_aligned_sentence": "Ce plat est généralement servi avec du riz sauté (nasi goreng) mais, en Malaisie, on peut le trouver accompagné de ketupat (gâteau de riz compressé) ou de lemang (riz gluant cuit sur du bambou).",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Rendang"
+                                },
+                                "src_context": [
+                                    "Le rendang sec est conservé entre trois et quatre mois pour les grandes occasions.",
+                                    "Le rendang humide est consommé dans le mois suivant sa préparation.",
+                                    "Ce plat est généralement servi avec du riz sauté (nasi goreng)."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Because of its generous use of numerous spices, rendang is known for having a complex and unique taste.",
+                                    "Rendang is often served with steamed rice, ketupat (a compressed rice cake) or lemang (glutinous rice cooked in bamboo tubes), accompanied with vegetable side dishes such as boiled cassava leaf, cubadak (young jackfruit gulai), cabbage gulai and lado (red or green chilli pepper sambal).",
+                                    "Rendang is often served with steamed rice, ketupat (a compressed rice cake) or lemang (glutinous rice cooked in bamboo tubes), accompanied with vegetable side dishes such as boiled cassava leaf, cubadak (young jackfruit gulai), cabbage gulai and lado (red or green chilli pepper sambal).",
+                                    "Rendang is often served with steamed rice, ketupat (a compressed rice cake) or lemang (glutinous rice cooked in bamboo tubes), accompanied with vegetable side dishes such as boiled cassava leaf, cubadak (young jackfruit gulai), cabbage gulai and lado (red or green chilli pepper sambal)."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Le rendang sec est conservé entre trois et quatre mois pour les grandes occasions.",
+                                    "translated": "'Dry rendang is kept for three to four months for special occasions.'",
+                                    "fact_aligned_sentence": "Le sec est conservé entre trois et quatre mois pour les grandes occasions.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Rendang"
+                                },
+                                "src_context": [
+                                    "Si la viande est du canard, on peut utiliser du tamarin.",
+                                    "Il y a deux sortes de rendang, le sec et le humide.",
+                                    "Le rendang sec est conservé entre trois et quatre mois pour les grandes occasions."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Rendang is most often described as meat slow-cooked in coconut milk and spices until it becomes tender.",
+                                    "If cooked properly, dry rendang can last for as long as four weeks.",
+                                    "Rendang holds a special place in Malay and Minangkabau society, celebrated for its deep cultural significance and often reserved for special occasions such as Eid, weddings, and important gatherings.",
+                                    "Rendang holds a special place in Malay and Minangkabau society, celebrated for its deep cultural significance and often reserved for special occasions such as Eid, weddings, and important gatherings."
+                                ]
+                            }
+                        ]
+                    },
+                    "notes et références": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "notes et références",
+                                    "translated": "Notes and references"
+                                },
+                                "fact": {
+                                    "original": "Alimentation et gastronomie",
+                                    "translated": "Food and gastronomy",
+                                    "fact_aligned_sentence": "Alimentation et gastronomie   Portail de l’Indonésie   Portail de la Malaisie",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Rendang"
+                                },
+                                "src_context": [
+                                    "En Malaisie, on peut le trouver accompagné de lemang (riz gluant cuit sur du bambou).",
+                                    "Il peut également être servi avec un gâteau de riz nommé apam johol.",
+                                    "Alimentation et gastronomie"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "According to the Kamus Dewan, rendang is defined as either frying in a pan with or without oil or a type of dish made from meat, among other ingredients, spiced and cooked with coconut milk until dry.",
+                                    "Food historian Khir Johari explains that Malay has two terms for frying: goreng and rendang.",
+                                    "In 2011, CNN International named Indonesian rendang the world's most delicious dish, ranking it first among 50 global dishes.",
+                                    "In 2011, CNN International named Indonesian rendang the world's most delicious dish, ranking it first among 50 global dishes."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "逸事": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "逸事",
+                                    "translated": "Anecdotes"
+                                },
+                                "fact": {
+                                    "original": "節目製作方說明評審的意思是吃不到那道菜的味道。",
+                                    "translated": "The program producers explained that the meaning of judging is that one cannot taste that dish.",
+                                    "fact_aligned_sentence": "2018年,在人氣料理比賽節目《廚神當道(英國版)》中,馬來裔的參賽者扎萊哈(Zaleha Kadir Olpin)以仁當雞參賽,卻被評審華萊士和托羅德批評「雞皮不脆」並因此遭到淘汰,此舉引發了馬來西亞與印尼網友的大力撻伐,因为仁当鸡的鸡皮本就不脆,連馬來西亞前首相马哈迪·莫哈末也發聲批評,而節目製作方稱被誤解,說明評審的意思是吃不到那道菜的味道,而被淘汰也是因為「不夠入味」、「雞皮沒熟」等原因,是針對參賽者的那道菜而不是仁當。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BB%81%E5%BD%93"
+                                },
+                                "src_context": [
+                                    "馬來西亞前首相马哈迪·莫哈末也發聲批評。",
+                                    "節目製作方稱被誤解。",
+                                    "節目製作方說明評審的意思是吃不到那道菜的味道。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "This passage suggests that merendang refers to a cooking technique, while rendang describes the resulting dish, highlighting its cultural and culinary significance during the Malacca Sultanate.",
+                                    "This passage suggests that merendang refers to a cooking technique, while rendang describes the resulting dish, highlighting its cultural and culinary significance during the Malacca Sultanate.",
+                                    "Notable Perak's rendang such as rendang tok, rendang ayam, and rendang udang, were thoughtfully prepared and arranged around the rice centerpiece, showcasing the dish's ceremonial importance.",
+                                    "Notable Perak's rendang such as rendang tok, rendang ayam, and rendang udang, were thoughtfully prepared and arranged around the rice centerpiece, showcasing the dish's ceremonial importance."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "逸事",
+                                    "translated": "Anecdotes"
+                                },
+                                "fact": {
+                                    "original": "評審華萊士和托羅德批評扎萊哈的仁當雞「雞皮不脆」。",
+                                    "translated": "The judges Wallace and Torode criticized Zaleha's rendang chicken for its \"skin not being crispy.\"",
+                                    "fact_aligned_sentence": "2018年,在人氣料理比賽節目《廚神當道(英國版)》中,馬來裔的參賽者扎萊哈(Zaleha Kadir Olpin)以仁當雞參賽,卻被評審華萊士和托羅德批評「雞皮不脆」並因此遭到淘汰,此舉引發了馬來西亞與印尼網友的大力撻伐,因为仁当鸡的鸡皮本就不脆,連馬來西亞前首相马哈迪·莫哈末也發聲批評,而節目製作方稱被誤解,說明評審的意思是吃不到那道菜的味道,而被淘汰也是因為「不夠入味」、「雞皮沒熟」等原因,是針對參賽者的那道菜而不是仁當。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BB%81%E5%BD%93"
+                                },
+                                "src_context": [
+                                    "扎萊哈(Zaleha Kadir Olpin)是馬來裔的參賽者。",
+                                    "扎萊哈以仁當雞參賽。",
+                                    "評審華萊士和托羅德批評扎萊哈的仁當雞「雞皮不脆」。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "According to Fadly Rahman, the author of the dictionary, attempted to translate rendang using a European dish, something that they would undoubtedly be familiar with — fricassee, a French cooking method that involves cutting meat into pieces and braising it.",
+                                    "Khir Johari notes that rendang tumis is mentioned in the Hikayat Hang Tuah, a classic Malay literary masterpiece from around the 1670s.",
+                                    "The name rendang comes from this frying process, as rendang is an older Malay term for frying and by the late 19th century, rendang was associated more specifically with a type of dry curry by British colonial officials in Malaya, where it is noted that Malays distinguished rendang as a dry curry and gulai as a wet curry.",
+                                    "The name rendang comes from this frying process, as rendang is an older Malay term for frying and by the late 19th century, rendang was associated more specifically with a type of dry curry by British colonial officials in Malaya, where it is noted that Malays distinguished rendang as a dry curry and gulai as a wet curry."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "逸事",
+                                    "translated": "Anecdotes"
+                                },
+                                "fact": {
+                                    "original": "扎萊哈感謝外界的支持。",
+                                    "translated": "Zahra thanked the outside world for their support.",
+                                    "fact_aligned_sentence": "而被淘汰的扎萊哈則在Instagram上表示雖然很失望,但將堅持自己傳統的烹調方式,並感謝外界的支持。時任馬來西亞外交部長阿尼法阿曼發文表示,她成功做到在最分裂的時候團結馬來西亞人這個許多政治人物都做不到的事情。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BB%81%E5%BD%93"
+                                },
+                                "src_context": [
+                                    "評審針對的是扎萊哈的那道菜而不是仁當。",
+                                    "扎萊哈在Instagram上表示雖然很失望,但將堅持自己傳統的烹調方式。",
+                                    "扎萊哈感謝外界的支持。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In 2010, Randang (the Minang spelling of Rendang), and gulai rendang (rendang served with more coconut-milk based liquid) were granted cultural heritage status, followed by Randang daging (meat rendang), randang kantang (potato rendang), and randang incek kacang (rendang with beans) in 2016, while rendang paku of Dharmasraya (rendang prepared with the leaves of a fern (Diplazium esculentum)) received the same status in 2018.",
+                                    "In 2011, an online poll of 35,000 people  by CNN International nominated beef rendang as the No.",
+                                    "By the 19th century, much of the Malay Peninsula was under British control.",
+                                    "However, Johor remained independent under Sultan Abu Bakar, who maintained the state's autonomy through strategic ties with European aristocrats."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "逸事",
+                                    "translated": "Anecdotes"
+                                },
+                                "fact": {
+                                    "original": "扎萊哈在Instagram上表示雖然很失望,但將堅持自己傳統的烹調方式。",
+                                    "translated": "Zalaika stated on Instagram that although she is very disappointed, she will stick to her traditional cooking methods.",
+                                    "fact_aligned_sentence": "而被淘汰的扎萊哈則在Instagram上表示雖然很失望,但將堅持自己傳統的烹調方式,並感謝外界的支持。時任馬來西亞外交部長阿尼法阿曼發文表示,她成功做到在最分裂的時候團結馬來西亞人這個許多政治人物都做不到的事情。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BB%81%E5%BD%93"
+                                },
+                                "src_context": [
+                                    "扎萊哈被淘汰是因為「不夠入味」、「雞皮沒熟」等原因。",
+                                    "評審針對的是扎萊哈的那道菜而不是仁當。",
+                                    "扎萊哈在Instagram上表示雖然很失望,但將堅持自己傳統的烹調方式。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Mem’s Own Cookery Book (1920) by Mrs. Kinsey, published in Singapore, included a recipe for “rundang” that used curry powder and could be served with spaghetti.",
+                                    "In 1936, R.A. Kardinah’s Cooking Guide for Ladies, published in Batavia, featured a chicken rendang recipe that emphasized slow cooking, though it adapted traditional ingredients.",
+                                    "According to the Kamus Dewan, rendang is defined as either frying in a pan with or without oil or a type of dish made from meat, among other ingredients, spiced and cooked with coconut milk until dry.",
+                                    "Food historian Khir Johari explains that Malay has two terms for frying: goreng and rendang."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "逸事",
+                                    "translated": "Anecdotes"
+                                },
+                                "fact": {
+                                    "original": "此舉引發了馬來西亞與印尼網友的大力撻伐。",
+                                    "translated": "This move has sparked strong criticism from netizens in Malaysia and Indonesia.",
+                                    "fact_aligned_sentence": "2018年,在人氣料理比賽節目《廚神當道(英國版)》中,馬來裔的參賽者扎萊哈(Zaleha Kadir Olpin)以仁當雞參賽,卻被評審華萊士和托羅德批評「雞皮不脆」並因此遭到淘汰,此舉引發了馬來西亞與印尼網友的大力撻伐,因为仁当鸡的鸡皮本就不脆,連馬來西亞前首相马哈迪·莫哈末也發聲批評,而節目製作方稱被誤解,說明評審的意思是吃不到那道菜的味道,而被淘汰也是因為「不夠入味」、「雞皮沒熟」等原因,是針對參賽者的那道菜而不是仁當。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BB%81%E5%BD%93"
+                                },
+                                "src_context": [
+                                    "評審華萊士和托羅德批評扎萊哈的仁當雞「雞皮不脆」。",
+                                    "扎萊哈因此遭到淘汰。",
+                                    "此舉引發了馬來西亞與印尼網友的大力撻伐。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Rendang is often described by Westerners as a rich \"curry\" made by stewing meat in coconut milk and spices until it becomes tender; but the dish is usually not considered as such in Indonesia and Malaysia since it is richer and contains less liquid than is normal for curries known in these countries.",
+                                    "Rendang is often described by Westerners as a rich \"curry\" made by stewing meat in coconut milk and spices until it becomes tender; but the dish is usually not considered as such in Indonesia and Malaysia since it is richer and contains less liquid than is normal for curries known in these countries.",
+                                    "Indian traders who traveled to West Sumatra brought their culinary traditions with them, possibly influencing the development of rendang.",
+                                    "Indian traders who traveled to West Sumatra brought their culinary traditions with them, possibly influencing the development of rendang."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "逸事",
+                                    "translated": "Anecdotes"
+                                },
+                                "fact": {
+                                    "original": "扎萊哈被淘汰是因為「不夠入味」、「雞皮沒熟」等原因。",
+                                    "translated": "Zhaleha was eliminated for reasons such as 'not flavorful enough' and 'the chicken skin wasn't cooked properly.'",
+                                    "fact_aligned_sentence": "2018年,在人氣料理比賽節目《廚神當道(英國版)》中,馬來裔的參賽者扎萊哈(Zaleha Kadir Olpin)以仁當雞參賽,卻被評審華萊士和托羅德批評「雞皮不脆」並因此遭到淘汰,此舉引發了馬來西亞與印尼網友的大力撻伐,因为仁当鸡的鸡皮本就不脆,連馬來西亞前首相马哈迪·莫哈末也發聲批評,而節目製作方稱被誤解,說明評審的意思是吃不到那道菜的味道,而被淘汰也是因為「不夠入味」、「雞皮沒熟」等原因,是針對參賽者的那道菜而不是仁當。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BB%81%E5%BD%93"
+                                },
+                                "src_context": [
+                                    "節目製作方稱被誤解。",
+                                    "節目製作方說明評審的意思是吃不到那道菜的味道。",
+                                    "扎萊哈被淘汰是因為「不夠入味」、「雞皮沒熟」等原因。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Variations included cattle liver rendang, pigeon rendang, eel rendang, shellfish rendang, jackfruit rendang (prized for its fibrous, meat-like texture), and banana blossom rendang.",
+                                    "Variations included cattle liver rendang, pigeon rendang, eel rendang, shellfish rendang, jackfruit rendang (prized for its fibrous, meat-like texture), and banana blossom rendang.",
+                                    "Rendang babi: pork rendang.",
+                                    "Non-halal rendang that is eaten only by the Chinese and Peranakan community in Malaysia."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "逸事",
+                                    "translated": "Anecdotes"
+                                },
+                                "fact": {
+                                    "original": "仁當鸡的鸡皮本就不脆。",
+                                    "translated": "The chicken skin of a benevolent chicken is not crispy at all.",
+                                    "fact_aligned_sentence": "2018年,在人氣料理比賽節目《廚神當道(英國版)》中,馬來裔的參賽者扎萊哈(Zaleha Kadir Olpin)以仁當雞參賽,卻被評審華萊士和托羅德批評「雞皮不脆」並因此遭到淘汰,此舉引發了馬來西亞與印尼網友的大力撻伐,因为仁当鸡的鸡皮本就不脆,連馬來西亞前首相马哈迪·莫哈末也發聲批評,而節目製作方稱被誤解,說明評審的意思是吃不到那道菜的味道,而被淘汰也是因為「不夠入味」、「雞皮沒熟」等原因,是針對參賽者的那道菜而不是仁當。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BB%81%E5%BD%93"
+                                },
+                                "src_context": [
+                                    "扎萊哈因此遭到淘汰。",
+                                    "此舉引發了馬來西亞與印尼網友的大力撻伐。",
+                                    "仁當鸡的鸡皮本就不脆。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Rendang babi: pork rendang.",
+                                    "Non-halal rendang that is eaten only by the Chinese and Peranakan community in Malaysia.",
+                                    "Rendang rawit: an extra hot and spicy dried rendang spices mixed with dried cabai rawit (bird's eye chili).",
+                                    "Not exactly a dish, but more a condiment akin to serundeng, bawang goreng or chili powder that sprinkled upon steamed rice or noodle."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "逸事",
+                                    "translated": "Anecdotes"
+                                },
+                                "fact": {
+                                    "original": "扎萊哈以仁當雞參賽。",
+                                    "translated": "Zalayha participates in the competition with kindness as her chicken.",
+                                    "fact_aligned_sentence": "2018年,在人氣料理比賽節目《廚神當道(英國版)》中,馬來裔的參賽者扎萊哈(Zaleha Kadir Olpin)以仁當雞參賽,卻被評審華萊士和托羅德批評「雞皮不脆」並因此遭到淘汰,此舉引發了馬來西亞與印尼網友的大力撻伐,因为仁当鸡的鸡皮本就不脆,連馬來西亞前首相马哈迪·莫哈末也發聲批評,而節目製作方稱被誤解,說明評審的意思是吃不到那道菜的味道,而被淘汰也是因為「不夠入味」、「雞皮沒熟」等原因,是針對參賽者的那道菜而不是仁當。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BB%81%E5%BD%93"
+                                },
+                                "src_context": [
+                                    "2018年，《廚神當道(英國版)》是一個人氣料理比賽節目。",
+                                    "扎萊哈(Zaleha Kadir Olpin)是馬來裔的參賽者。",
+                                    "扎萊哈以仁當雞參賽。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Rendang babi: pork rendang.",
+                                    "Non-halal rendang that is eaten only by the Chinese and Peranakan community in Malaysia.",
+                                    "The manuscript mentions both rendang (the dish) and merendang (the cooking process), as illustrated in this excerpt:",
+                                    "Khoja Buzurjumhur Hakim went to the stall where people were merendang goat meat and said,‘give me just a piece of this goat meat rendang.’"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "逸事",
+                                    "translated": "Anecdotes"
+                                },
+                                "fact": {
+                                    "original": "馬來西亞前首相马哈迪·莫哈末也發聲批評。",
+                                    "translated": "Former Malaysian Prime Minister Mahathir Mohamad also spoke out in criticism.",
+                                    "fact_aligned_sentence": "2018年,在人氣料理比賽節目《廚神當道(英國版)》中,馬來裔的參賽者扎萊哈(Zaleha Kadir Olpin)以仁當雞參賽,卻被評審華萊士和托羅德批評「雞皮不脆」並因此遭到淘汰,此舉引發了馬來西亞與印尼網友的大力撻伐,因为仁当鸡的鸡皮本就不脆,連馬來西亞前首相马哈迪·莫哈末也發聲批評,而節目製作方稱被誤解,說明評審的意思是吃不到那道菜的味道,而被淘汰也是因為「不夠入味」、「雞皮沒熟」等原因,是針對參賽者的那道菜而不是仁當。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BB%81%E5%BD%93"
+                                },
+                                "src_context": [
+                                    "此舉引發了馬來西亞與印尼網友的大力撻伐。",
+                                    "仁當鸡的鸡皮本就不脆。",
+                                    "馬來西亞前首相马哈迪·莫哈末也發聲批評。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Betty Yew's cookbook \"Rasa Malaysia\", published in 1982, she takes readers on a culinary journey through the country, featuring 16 rendang recipes that highlight regional nuances.",
+                                    "In Betty Yew's cookbook \"Rasa Malaysia\", published in 1982, she takes readers on a culinary journey through the country, featuring 16 rendang recipes that highlight regional nuances.",
+                                    "In modern times, rendang is often translated to English as \"fried meat\" or \"dry curry\".",
+                                    "Food historian Fadly Rahman traces the earliest reference to rendang to the early 16th-century Malay manuscript Hikayat Amir Hamzah associated with Malacca Sultanate (1400–1528)."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "逸事",
+                                    "translated": "Anecdotes"
+                                },
+                                "fact": {
+                                    "original": "扎萊哈(Zaleha Kadir Olpin)是馬來裔的參賽者。",
+                                    "translated": "Zaleha Kadir Olpin is a contestant of Malay descent.",
+                                    "fact_aligned_sentence": "2018年,在人氣料理比賽節目《廚神當道(英國版)》中,馬來裔的參賽者扎萊哈(Zaleha Kadir Olpin)以仁當雞參賽,卻被評審華萊士和托羅德批評「雞皮不脆」並因此遭到淘汰,此舉引發了馬來西亞與印尼網友的大力撻伐,因为仁当鸡的鸡皮本就不脆,連馬來西亞前首相马哈迪·莫哈末也發聲批評,而節目製作方稱被誤解,說明評審的意思是吃不到那道菜的味道,而被淘汰也是因為「不夠入味」、「雞皮沒熟」等原因,是針對參賽者的那道菜而不是仁當。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%BB%81%E5%BD%93"
+                                },
+                                "src_context": [
+                                    "這樣使醬料呈現糊狀。",
+                                    "2018年，《廚神當道(英國版)》是一個人氣料理比賽節目。",
+                                    "扎萊哈(Zaleha Kadir Olpin)是馬來裔的參賽者。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Written during the spread of Islam in the Malay world, this adaptation of the Persian Hamzanama was intended to inspire the Malacca's soldiers in their fight against the Portuguese in 1511.",
+                                    "Written during the spread of Islam in the Malay world, this adaptation of the Persian Hamzanama was intended to inspire the Malacca's soldiers in their fight against the Portuguese in 1511.",
+                                    "Rendang daging hitam: Kicap manis-based black-coloured beef rendang, a specialty of Sarawak.",
+                                    "Rendang daging hitam: Kicap manis-based black-coloured beef rendang, a specialty of Sarawak."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

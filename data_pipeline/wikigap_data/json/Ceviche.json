@@ -1,0 +1,1284 @@
+{
+    "Ceviche": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В 2013 году в столице Перу Лиме открылся памятник севиче.",
+                                    "translated": "In 2013, a ceviche monument was opened in the capital of Peru, Lima.",
+                                    "fact_aligned_sentence": "В 2013 году в столице Перу Лиме открылся памятник севиче.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B8%D1%87%D0%B5"
+                                },
+                                "src_context": [
+                                    "Как отдельное блюдо под названием «молоко тигра» также подается маринад из-под севиче.",
+                                    "Маринад из-под севиче якобы имеет свойства афродизиака.",
+                                    "В 2013 году в столице Перу Лиме открылся памятник севиче."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Another predecessor of ceviche originated among the Moche, a coastal civilization that began to flourish in present-day northern Peru nearly 2,000 years ago.",
+                                    "Another predecessor of ceviche originated among the Moche, a coastal civilization that began to flourish in present-day northern Peru nearly 2,000 years ago.",
+                                    "The first documented evidence of the term ceviche is from 1820, in the patriotic song \"La Chicha,\" considered the first Peruvian national anthem.",
+                                    "The first documented evidence of the term ceviche is from 1820, in the patriotic song \"La Chicha,\" considered the first Peruvian national anthem."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Блюдо возникло ещё до завоевания конкистадорами.",
+                                    "translated": "The dish originated even before the conquest by the conquistadors.",
+                                    "fact_aligned_sentence": "Блюдо возникло ещё до завоевания конкистадорами и позже получило распространение в кухнях многих латиноамериканских стран, хотя рецепты могут значительно разниться.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B8%D1%87%D0%B5"
+                                },
+                                "src_context": [
+                                    "Севи́че (себиче, исп. ceviche, cebiche, seviche или sebiche) — блюдо из рыбы или морепродуктов.",
+                                    "Родиной севи́че считается Перу.",
+                                    "Блюдо возникло ещё до завоевания конкистадорами."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Nevertheless, some historians believe that ceviche originated during colonial times in present-day Peru and Ecuador.",
+                                    "They propose that a predecessor to the dish was brought to the area by Andalusian women of Moorish background who accompanied the Conquistadors and that this dish eventually evolved into what is now considered ceviche.",
+                                    "According to some historic sources from Peru, the Caral civilization that developed in central Peru between 3500 BC to 1800 BC has left evidence of the use and consumption of raw Peruvian anchovy with chili and salt, according to the investigations of archaeologist Ruth Shady.",
+                                    "Another predecessor of ceviche originated among the Moche, a coastal civilization that began to flourish in present-day northern Peru nearly 2,000 years ago."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Другими ингредиентами являются стебли сельдерея, кинза, перец чили.",
+                                    "translated": "Other ingredients include celery stalks, cilantro, and chili pepper.",
+                                    "fact_aligned_sentence": "Другими ингредиентами являются стебли сельдерея, кинза, перец чили.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B8%D1%87%D0%B5"
+                                },
+                                "src_context": [
+                                    "Ceviche de ostras — севиче с устрицами.",
+                                    "Ceviche con camarones — севиче из креветок.",
+                                    "Другими ингредиентами являются стебли сельдерея, кинза, перец чили."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Well-cooked sea bass (corvina) or bicuda (picudo), octopus, and crab ceviches are also common in Ecuador.",
+                                    "In all ceviches, red onion, lemon juice, cilantro, salt, and oil are ubiquitous ingredients.",
+                                    "Shrimp, octopus, squid, tuna, and mackerel are also popular bases for Mexican ceviche.",
+                                    "The marinade ingredients include salt, lime, onion, chili peppers, avocado, and cilantro (coriander)."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Маринад из-под севиче якобы имеет свойства афродизиака.",
+                                    "translated": "The marinade from ceviche supposedly has aphrodisiac properties.",
+                                    "fact_aligned_sentence": "Как отдельное блюдо под названием «молоко тигра» также подается маринад из-под севиче, якобы имеющий свойства афродизиака.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B8%D1%87%D0%B5"
+                                },
+                                "src_context": [
+                                    "В Эквадоре в качестве гарнира к севиче возможны также рис или чипсы из бананов-плантанов или воздушная кукуруза.",
+                                    "Как отдельное блюдо под названием «молоко тигра» также подается маринад из-под севиче.",
+                                    "Маринад из-под севиче якобы имеет свойства афродизиака."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The fish is typically cured in lemon or sour lime juice, although sour orange was historically used.",
+                                    "The fish is typically cured in lemon or sour lime juice, although sour orange was historically used.",
+                                    "There are also other local variants of the name, including cerbiche and serviche.",
+                                    "Various explanations of the dish's origins exist, with Peruvian researchers favoring a pre-Hispanic origin."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В этом случае блюдо получает название «ассорти севиче» (исп. ceviche mixto).",
+                                    "translated": "In this case, the dish is called \"assorted ceviche\" (Spanish: ceviche mixto).",
+                                    "fact_aligned_sentence": "ceviche mixto).",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B8%D1%87%D0%B5"
+                                },
+                                "src_context": [
+                                    "Рецепт может варьироваться в зависимости от страны или региона.",
+                                    "К рыбе иногда добавляют различные морепродукты.",
+                                    "В этом случае блюдо получает название «ассорти севиче» (исп. ceviche mixto)."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In El Salvador and Nicaragua, one popular ceviche recipe is ceviche de concha negra (\"black conch ceviche\"), known in Mexico as pata de mula (\"mule's foot\").",
+                                    "In El Salvador and Nicaragua, one popular ceviche recipe is ceviche de concha negra (\"black conch ceviche\"), known in Mexico as pata de mula (\"mule's foot\").",
+                                    "The marinade usually also includes sliced or chopped onions and chopped cilantro, though in some regions such as Mexico, tomatoes, avocadoes, and tomato sauce may be included.",
+                                    "Ceviche is often eaten as an appetizer; if eaten as a main dish, it is usually accompanied by side dishes that complement its flavors, such as sweet potato, lettuce, maize, avocado, or fried plantains, among various other accompaniments."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В Колумбии при приготовлении севи́че используется томатная паста или кетчуп.",
+                                    "translated": "In Colombia, tomato paste or ketchup is used when making ceviche.",
+                                    "fact_aligned_sentence": "Например, в Колумбии при приготовлении блюда используется томатная паста или кетчуп.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B8%D1%87%D0%B5"
+                                },
+                                "src_context": [
+                                    "Позже севи́че получило распространение в кухнях многих латиноамериканских стран.",
+                                    "Рецепты севи́че могут значительно разниться.",
+                                    "В Колумбии при приготовлении севи́че используется томатная паста или кетчуп."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "On Easter Island, the preferred fish is tuna, marinated in lemon juice and coconut milk.",
+                                    "In Colombia, cebiches or shrimp cocktails, oysters, crabs, squid, chipi chipi, among others, and combinations of them are prepared.",
+                                    "Accompaniments to ceviche vary greatly by region: in Ecuador, ceviche is served with fried plantains, popcorn, or tostones; in Colombia, Panama, and Guatemala, it is served with saltine crackers, though in the north cookies or toast are used as a garnish; in Mexico, it is served with corn tostadas or crackers; in Panama, the spicy chombo chili pepper is sometimes added to taste; and in Peru, it is served with boiled root vegetables (such as sweet potatoes, cassava, or rarely potatoes), grains or seeds such as boiled or roasted corn, legumes, fried plantains, seaweed, or lettuce; sometimes it can also be accompanied by chilcano (broth made from fish heads).",
+                                    "Accompaniments to ceviche vary greatly by region: in Ecuador, ceviche is served with fried plantains, popcorn, or tostones; in Colombia, Panama, and Guatemala, it is served with saltine crackers, though in the north cookies or toast are used as a garnish; in Mexico, it is served with corn tostadas or crackers; in Panama, the spicy chombo chili pepper is sometimes added to taste; and in Peru, it is served with boiled root vegetables (such as sweet potatoes, cassava, or rarely potatoes), grains or seeds such as boiled or roasted corn, legumes, fried plantains, seaweed, or lettuce; sometimes it can also be accompanied by chilcano (broth made from fish heads)."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "étymologie": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "étymologie",
+                                    "translated": "etymology"
+                                },
+                                "fact": {
+                                    "original": "Selon cette hypothèse, le terme dejar escabechar était utilisé dans les livres de recettes péruviens au XIXe siècle pour désigner la période de cuisson du poisson dans du jus d'orange acidulé.",
+                                    "translated": "According to this hypothesis, the term dejar escabechar was used in Peruvian cookbooks in the 19th century to refer to the cooking period of fish in tangy orange juice.",
+                                    "fact_aligned_sentence": "Selon cette hypothèse, le terme dejar escabechar était utilisé dans les livres de recettes péruviens au XIXe siècle pour désigner la période de cuisson du poisson dans du jus d'orange acidulé.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "As-sukkabāǧ dérive de l'arabe classique sakbāǧ, qui signifie « cuit au vinaigre ».",
+                                    "Sakbāǧ vient du vieux persan sikbāǧ, où sik signifie « vinaigre » et bāǧ « soupe ».",
+                                    "Selon cette hypothèse, le terme dejar escabechar était utilisé dans les livres de recettes péruviens au XIXe siècle pour désigner la période de cuisson du poisson dans du jus d'orange acidulé."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Moche used the fermented juice from the local banana passionfruit.",
+                                    "Recent investigations further show that during the Inca Empire, fish was marinated with chicha, an Andean fermented beverage.",
+                                    "The first documented evidence of the term ceviche is from 1820, in the patriotic song \"La Chicha,\" considered the first Peruvian national anthem.",
+                                    "According to the Royal Spanish Academy, the word might have the same etymology as the Spanish term escabeche, which derives from Mozarabic izkebêch, in turn descending from Andalusian Arabic assukkabáǧ, which also derives from Classical Arabic sakbāj (سكباج, meaning meat cooked in vinegar)."
+                                ]
+                            }
+                        ]
+                    },
+                    "par pays": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "chili",
+                                    "translated": "Chile"
+                                },
+                                "header_1": {
+                                    "original": "par pays",
+                                    "translated": "by country"
+                                },
+                                "fact": {
+                                    "original": "L'influence des immigrants péruviens a augmenté la consommation de la variante péruvienne dans le centre du Chili.",
+                                    "translated": "'The influence of Peruvian immigrants has increased the consumption of the Peruvian variant in central Chile.'",
+                                    "fact_aligned_sentence": "L'influence des immigrants péruviens a augmenté la consommation de la variante péruvienne dans le centre du Chili, qui utilise de gros morceaux de poisson, de l'oignon violet émincé et mariné avec du citron pendant quelques minutes.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "Cette variante de ceviche au saumon est préparée avec de l'oignon blanc, du paprika rouge et vert et de la coriandre.",
+                                    "Sur l'Île de Pâques, le ceviche préparé avec du thon est courant.",
+                                    "L'influence des immigrants péruviens a augmenté la consommation de la variante péruvienne dans le centre du Chili."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "National Geographic and Taste Atlas recognize the origin of ceviche in Peru.",
+                                    "The Peruvian origin of the dish is supported by chefs including the Chilean Christopher Carpentier and the Spaniard Ferran Adrià, who in an interview stated, \"Cebiche was born in Peru, and so the authentic and genuine [cebiche] is Peruvian.\"",
+                                    "According to an Inter-American Development Bank (IDB) study of innovation in Peruvian cuisine and its connection with Peruvian cultural diversity (2022), the great variety of ceviches offered by Peruvian marine cuisine is an example of the gastronomic impact of cultural diversity throughout its territory, in which fishers, farmers, and chefs come together.",
+                                    "According to an Inter-American Development Bank (IDB) study of innovation in Peruvian cuisine and its connection with Peruvian cultural diversity (2022), the great variety of ceviches offered by Peruvian marine cuisine is an example of the gastronomic impact of cultural diversity throughout its territory, in which fishers, farmers, and chefs come together."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "chili",
+                                    "translated": "Chile"
+                                },
+                                "header_1": {
+                                    "original": "par pays",
+                                    "translated": "by country"
+                                },
+                                "fact": {
+                                    "original": "La variété de ceviche préférée au nord du Chili est semblable à celle préparée au Pérou.",
+                                    "translated": "'The favorite variety of ceviche in northern Chile is similar to that prepared in Peru.'",
+                                    "fact_aligned_sentence": "La variété consommée dans le sud diffère de celle préférée au nord, semblable à celle préparée au Pérou, mélangée à du piment.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "Le ceviche est un plat courant de la cuisine chilienne.",
+                                    "La variété de ceviche consommée dans le sud du Chili diffère de celle préférée au nord.",
+                                    "La variété de ceviche préférée au nord du Chili est semblable à celle préparée au Pérou."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The modern version of Peruvian ceviche, similar to the method used in making Japanese sashimi, consists of fish marinated for a few minutes and served promptly.",
+                                    "The modern version of Peruvian ceviche, similar to the method used in making Japanese sashimi, consists of fish marinated for a few minutes and served promptly.",
+                                    "Corvina or cebo (sea bass) was the fish traditionally used.",
+                                    "The mixture was traditionally marinated for several hours and served at room temperature, with chunks of corn on the cob and slices of cooked sweet potato."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "chili",
+                                    "translated": "Chile"
+                                },
+                                "header_1": {
+                                    "original": "par pays",
+                                    "translated": "by country"
+                                },
+                                "fact": {
+                                    "original": "Dans le sud du Chili, une variante du ceviche est élaborée avec de la chair de saumon comme base.",
+                                    "translated": "In southern Chile, a variant of ceviche is made using salmon flesh as a base.",
+                                    "fact_aligned_sentence": "Dans le sud du pays, une variante du cebiche a commencé à être élaborée avec de la chair de saumon comme base, préparée avec de l'oignon blanc, du paprika rouge et vert et de la coriandre.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "Le ceviche est généralement assaisonné avec des épices comme le cumin, le poivre noir et le merkén.",
+                                    "Le ceviche est généralement servi avec du pain, des crackers et/ou de la mayonnaise.",
+                                    "Dans le sud du Chili, une variante du ceviche est élaborée avec de la chair de saumon comme base."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Diced pequin pepper or Scotch bonnet pepper is often added for spice.",
+                                    "In south Florida, it is common to encounter a variation to which tomato juice has been added.",
+                                    "In all ceviches, red onion, lemon juice, cilantro, salt, and oil are ubiquitous ingredients.",
+                                    "In Chile, ceviche is often made with fillets of halibut or Patagonian toothfish and marinated in lime and grapefruit juices; finely minced garlic and red chili peppers and often fresh mint and cilantro are added."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "équateur",
+                                    "translated": "equator"
+                                },
+                                "header_1": {
+                                    "original": "par pays",
+                                    "translated": "by country"
+                                },
+                                "fact": {
+                                    "original": "Les poissons ou fruits de mer sont cuits avant d'être incorporés dans la marinade légèrement acidulée.",
+                                    "translated": "The fish or seafood are cooked before being incorporated into the slightly tangy marinade.",
+                                    "fact_aligned_sentence": "Ceux-ci sont cuits avant d'être incorporés dans la marinade légèrement acidulée, accompagnés d'oignons, de tomates et de coriandre.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "Les ceviches sont servis avec des crackers.",
+                                    "Le ceviche est préparé à base de poissons ou fruits de mer (coquillages, crustacés).",
+                                    "Les poissons ou fruits de mer sont cuits avant d'être incorporés dans la marinade légèrement acidulée."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The fish or shellfish in ceviche is served raw; the citric acid from the citrus marinade causes the proteins in the seafood to become denatured, resulting in the dish appearing to be \"cooked\" without the application of heat.",
+                                    "The fish is typically cured in lemon or sour lime juice, although sour orange was historically used.",
+                                    "Ceviche is considered the national dish of Peru and is recognized by UNESCO as an expression of Peruvian traditional cuisine and an Intangible Cultural Heritage of Humanity.",
+                                    "The fish or shellfish in ceviche is served raw; the citric acid from the citrus marinade causes the proteins in the seafood to become denatured, resulting in the dish appearing to be \"cooked\" without the application of heat."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "colombie",
+                                    "translated": "Colombia"
+                                },
+                                "header_1": {
+                                    "original": "par pays",
+                                    "translated": "by country"
+                                },
+                                "fact": {
+                                    "original": "Les ceviches sont préparés avec des huîtres.",
+                                    "translated": "Ceviches are prepared with oysters.",
+                                    "fact_aligned_sentence": "Les ceviches sont préparés avec des crevettes, des huîtres, du crabe, des calmars et des chipi chipi, entre autres, et des combinaisons de ceux-ci.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "L'oignon violet est mariné avec du citron pendant quelques minutes.",
+                                    "Les ceviches sont préparés avec des crevettes.",
+                                    "Les ceviches sont préparés avec des huîtres."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is dark, nearly black, with a distinct look and flavor.",
+                                    "It is prepared with lime juice, onion, yerba buena, salt, pepper, tomato, Worcestershire sauce, and sometimes picante (any hot sauce or any kind of hot pepper) as desired.",
+                                    "The fish is typically tilapia or corvina, although mahi-mahi, shark, and marlin are also popular.",
+                                    "In Panama, ceviche is prepared with lemon juice, chopped onion, celery, cilantro, assorted peppers, and sea salt."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "amérique centrale",
+                                    "translated": "Central America"
+                                },
+                                "header_1": {
+                                    "original": "par pays",
+                                    "translated": "by country"
+                                },
+                                "fact": {
+                                    "original": "Au Salvador, au Honduras et au Guatemala, le plat comprend du poisson mariné dans du jus de citron vert, du sel, du poivre noir, des oignons, de la coriandre, des piments finement hachés et de l'ail.",
+                                    "translated": "In El Salvador, Honduras, and Guatemala, the dish includes fish marinated in lime juice, salt, black pepper, onions, cilantro, finely chopped peppers, and garlic.",
+                                    "fact_aligned_sentence": "Au Salvador, au Honduras et au Guatemala, le plat comprend du poisson mariné dans du jus de citron vert, du sel, du poivre noir, des oignons, de la coriandre, des piments finement hachés et de l'ail.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "Il existe une autre origine en Polynésie dans le Pacifique Sud.",
+                                    "L'origine de ce plat fait l'objet de nombreuses frictions nationalistes.",
+                                    "Au Salvador, au Honduras et au Guatemala, le plat comprend du poisson mariné dans du jus de citron vert, du sel, du poivre noir, des oignons, de la coriandre, des piments finement hachés et de l'ail."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is prepared with lime juice, onion, yerba buena, salt, pepper, tomato, Worcestershire sauce, and sometimes picante (any hot sauce or any kind of hot pepper) as desired.",
+                                    "The dish includes marinated fish, lime juice, salt, ground black pepper, finely minced onions, cilantro, and finely minced peppers in Nicaragua and Costa Rica.",
+                                    "In Ecuador, the classic ceviche is made up of pieces of fish pickled in lemon juice and cooked or shrimp cooked using the tomato juice or water along with the shrimp shells, with sliced red onions, sliced tomatoes, salt, pepper, cilantro, and oil.",
+                                    "In Ecuador, the classic ceviche is made up of pieces of fish pickled in lemon juice and cooked or shrimp cooked using the tomato juice or water along with the shrimp shells, with sliced red onions, sliced tomatoes, salt, pepper, cilantro, and oil."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "chili",
+                                    "translated": "Chile"
+                                },
+                                "header_1": {
+                                    "original": "par pays",
+                                    "translated": "by country"
+                                },
+                                "fact": {
+                                    "original": "Le ceviche consommé au Chili est généralement une préparation de poissons déchiquetés ou en très petits morceaux.",
+                                    "translated": "'Ceviche consumed in Chile is generally a preparation of shredded or very small pieces of fish.'",
+                                    "fact_aligned_sentence": "Le ceviche consommé au Chili est généralement une préparation de poissons déchiquetés ou en très petits morceaux, comme la corvina, la reineta, le chinchard, des crustacés comme les crevettes et le concholepas concholepas, qui sont macérés pendant des heures dans un acide, principalement du citron, mélangés à des oignons blancs coupés en dés, de la coriandre et parfois du paprika, généralement avec des épices comme le cumin, le poivre noir et le merkén, généralement servis avec du pain, des crackers et/ou de la mayonnaise.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "La variété de ceviche préférée au nord du Chili est semblable à celle préparée au Pérou.",
+                                    "La variété de ceviche préférée au nord du Chili est mélangée à du piment.",
+                                    "Le ceviche consommé au Chili est généralement une préparation de poissons déchiquetés ou en très petits morceaux."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In all ceviches, red onion, lemon juice, cilantro, salt, and oil are ubiquitous ingredients.",
+                                    "In Chile, ceviche is often made with fillets of halibut or Patagonian toothfish and marinated in lime and grapefruit juices; finely minced garlic and red chili peppers and often fresh mint and cilantro are added.",
+                                    "In Chile, ceviche is often made with fillets of halibut or Patagonian toothfish and marinated in lime and grapefruit juices; finely minced garlic and red chili peppers and often fresh mint and cilantro are added.",
+                                    "In Chile, ceviche is often made with fillets of halibut or Patagonian toothfish and marinated in lime and grapefruit juices; finely minced garlic and red chili peppers and often fresh mint and cilantro are added."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "amérique centrale",
+                                    "translated": "Central America"
+                                },
+                                "header_1": {
+                                    "original": "par pays",
+                                    "translated": "by country"
+                                },
+                                "fact": {
+                                    "original": "Le mélange de tous les fruits de mer mentionnés plus des crevettes est appelé vuelve a la vida (« revient à la vie »).",
+                                    "translated": "The mixture of all the mentioned seafood plus shrimp is called vuelve a la vida (\"returns to life\").",
+                                    "fact_aligned_sentence": "Ainsi que les préparations de poulpe, d'huîtres, de moules, de coquilles noires, de crevettes ou de chuchecas (en), entre autres fruits de mer, ou le mélange de tous les fruits de mer mentionnés plus des crevettes, qui est appelé vuelve a la vida (« revient à la vie »).",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "Le mérou est également populaire.",
+                                    "Les préparations de poulpe, d'huîtres, de moules, de coquilles noires, de crevettes ou de chuchecas sont courantes.",
+                                    "Le mélange de tous les fruits de mer mentionnés plus des crevettes est appelé vuelve a la vida (« revient à la vie »)."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The fish or shellfish in ceviche is served raw; the citric acid from the citrus marinade causes the proteins in the seafood to become denatured, resulting in the dish appearing to be \"cooked\" without the application of heat.",
+                                    "The fish or shellfish in ceviche is served raw; the citric acid from the citrus marinade causes the proteins in the seafood to become denatured, resulting in the dish appearing to be \"cooked\" without the application of heat.",
+                                    "Ceviche is marinated in a citrus-based mixture, with lemons and limes most commonly used.",
+                                    "In addition to adding flavor, the citric acid causes the proteins in the seafood to become denatured, resulting in the dish appearing to be cooked without the application of heat."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "mexique",
+                                    "translated": "Mexico"
+                                },
+                                "header_1": {
+                                    "original": "par pays",
+                                    "translated": "by country"
+                                },
+                                "fact": {
+                                    "original": "Parfois, le ceviche peut être servi sans l’ajout de poisson ou fruits de mer.",
+                                    "translated": "Sometimes, ceviche can be served without the addition of fish or seafood.",
+                                    "fact_aligned_sentence": "Parfois, le ceviche peut même être servi sans l’ajout de poisson ou fruits de mer, on parle alors de ceviche vierge[réf.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "De l’avocat est ajouté à la fin.",
+                                    "Des tomates sont ajoutées à la fin.",
+                                    "Parfois, le ceviche peut être servi sans l’ajout de poisson ou fruits de mer."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "style, made with lemon juice, salt, and the juice provided by the cooked shrimp itself, and sometimes topped with peanut butter, is very popular.",
+                                    "Occasionally, ceviche is made with various types of local shellfish, such as black clam (cooked or raw), oysters (cooked or raw), spondylus (raw), barnacles (cooked percebes), among others mostly cooked.",
+                                    "style, made with lemon juice, salt, and the juice provided by the cooked shrimp itself, and sometimes topped with peanut butter, is very popular.",
+                                    "style, made with lemon juice, salt, and the juice provided by the cooked shrimp itself, and sometimes topped with peanut butter, is very popular."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "chili",
+                                    "translated": "Chile"
+                                },
+                                "header_1": {
+                                    "original": "par pays",
+                                    "translated": "by country"
+                                },
+                                "fact": {
+                                    "original": "Cette variante de ceviche au saumon est préparée avec de l'oignon blanc, du paprika rouge et vert et de la coriandre.",
+                                    "translated": "This salmon ceviche variant is prepared with white onion, red and green paprika, and cilantro.",
+                                    "fact_aligned_sentence": "Dans le sud du pays, une variante du cebiche a commencé à être élaborée avec de la chair de saumon comme base, préparée avec de l'oignon blanc, du paprika rouge et vert et de la coriandre.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "Le ceviche est généralement servi avec du pain, des crackers et/ou de la mayonnaise.",
+                                    "Dans le sud du Chili, une variante du ceviche est élaborée avec de la chair de saumon comme base.",
+                                    "Cette variante de ceviche au saumon est préparée avec de l'oignon blanc, du paprika rouge et vert et de la coriandre."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is dark, nearly black, with a distinct look and flavor.",
+                                    "It is prepared with lime juice, onion, yerba buena, salt, pepper, tomato, Worcestershire sauce, and sometimes picante (any hot sauce or any kind of hot pepper) as desired.",
+                                    "In the Bahamas and south Florida, a conch ceviche known as conch salad is very popular.",
+                                    "It is prepared by marinating diced fresh conch in lime, chopped onions, and bell pepper."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "mexique",
+                                    "translated": "Mexico"
+                                },
+                                "header_1": {
+                                    "original": "par pays",
+                                    "translated": "by country"
+                                },
+                                "fact": {
+                                    "original": "La marinade dure pendant 2 à 4 heures.",
+                                    "translated": "The marinade lasts for 2 to 4 hours.",
+                                    "fact_aligned_sentence": "Du poisson cru ou des fruits de mer (crevettes, thon, poisson) sont marinés (le citron vert est souvent utilisé) pendant 2 à 4 heures ; du piment frais, de l’oignon blanc et de la coriandre, de l’avocat et des tomates sont ajoutés à la fin.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "Du poisson cru ou des fruits de mer (crevettes, thon, poisson) sont marinés.",
+                                    "Le citron vert est souvent utilisé pour mariner le poisson cru ou les fruits de mer.",
+                                    "La marinade dure pendant 2 à 4 heures."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Ecuador, it may have had its origins in coastal civilizations, as Ecuador shares cultural heritages (such as the Inca Empire) and a wide variety of fish and shellfish with Peru.",
+                                    "The Ecuadorian position traces the origin of ceviche to the harvest of the Spondylus shell in the years 3500 BC to 1500 BC in the Valdivia culture, whose diet used marine products that were later used in ceviche.",
+                                    "Corvina or cebo (sea bass) was the fish traditionally used.",
+                                    "The mixture was traditionally marinated for several hours and served at room temperature, with chunks of corn on the cob and slices of cooked sweet potato."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "équateur",
+                                    "translated": "equator"
+                                },
+                                "header_1": {
+                                    "original": "par pays",
+                                    "translated": "by country"
+                                },
+                                "fact": {
+                                    "original": "Le ceviche est vendu dans les restaurants populaires et gastronomiques de tout l'Équateur.",
+                                    "translated": "'Ceviche is sold in popular and gourmet restaurants throughout Ecuador.'",
+                                    "fact_aligned_sentence": "C'est l'un des plats les plus consommés du pays ; il est vendu sur les plages par les artisans cuisiniers et dans les restaurants populaires et gastronomiques de tout l'Équateur,,,,.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "Le ceviche est l'un des plats les plus consommés du pays.",
+                                    "Le ceviche est vendu sur les plages par les artisans cuisiniers.",
+                                    "Le ceviche est vendu dans les restaurants populaires et gastronomiques de tout l'Équateur."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Well-cooked sea bass (corvina) or bicuda (picudo), octopus, and crab ceviches are also common in Ecuador.",
+                                    "Well-cooked sea bass (corvina) or bicuda (picudo), octopus, and crab ceviches are also common in Ecuador.",
+                                    "Cut olives and tomatoes are often added to the preparation.",
+                                    "In El Salvador and Nicaragua, one popular ceviche recipe is ceviche de concha negra (\"black conch ceviche\"), known in Mexico as pata de mula (\"mule's foot\")."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "colombie",
+                                    "translated": "Colombia"
+                                },
+                                "header_1": {
+                                    "original": "par pays",
+                                    "translated": "by country"
+                                },
+                                "fact": {
+                                    "original": "Les ceviches sont préparés avec des crevettes.",
+                                    "translated": "Ceviches are prepared with shrimp.",
+                                    "fact_aligned_sentence": "Les ceviches sont préparés avec des crevettes, des huîtres, du crabe, des calmars et des chipi chipi, entre autres, et des combinaisons de ceux-ci.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "La variante péruvienne utilise de l'oignon violet émincé.",
+                                    "L'oignon violet est mariné avec du citron pendant quelques minutes.",
+                                    "Les ceviches sont préparés avec des crevettes."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is dark, nearly black, with a distinct look and flavor.",
+                                    "It is prepared with lime juice, onion, yerba buena, salt, pepper, tomato, Worcestershire sauce, and sometimes picante (any hot sauce or any kind of hot pepper) as desired.",
+                                    "style, made with lemon juice, salt, and the juice provided by the cooked shrimp itself, and sometimes topped with peanut butter, is very popular.",
+                                    "Occasionally, ceviche is made with various types of local shellfish, such as black clam (cooked or raw), oysters (cooked or raw), spondylus (raw), barnacles (cooked percebes), among others mostly cooked."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "chili",
+                                    "translated": "Chile"
+                                },
+                                "header_1": {
+                                    "original": "par pays",
+                                    "translated": "by country"
+                                },
+                                "fact": {
+                                    "original": "Le ceviche est un plat courant de la cuisine chilienne.",
+                                    "translated": "Ceviche is a common dish in Chilean cuisine.",
+                                    "fact_aligned_sentence": "Le ceviche est un plat courant de la cuisine chilienne.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "Les préparations de poulpe, d'huîtres, de moules, de coquilles noires, de crevettes ou de chuchecas sont courantes.",
+                                    "Le mélange de tous les fruits de mer mentionnés plus des crevettes est appelé vuelve a la vida (« revient à la vie »).",
+                                    "Le ceviche est un plat courant de la cuisine chilienne."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The marinade usually also includes sliced or chopped onions and chopped cilantro, though in some regions such as Mexico, tomatoes, avocadoes, and tomato sauce may be included.",
+                                    "Ceviche is often eaten as an appetizer; if eaten as a main dish, it is usually accompanied by side dishes that complement its flavors, such as sweet potato, lettuce, maize, avocado, or fried plantains, among various other accompaniments.",
+                                    "Different versions of ceviche are part of the culinary cultures of various Latin American countries along the Pacific Ocean where each one is native, including Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, and Peru.",
+                                    "Ceviche is considered the national dish of Peru and is recognized by UNESCO as an expression of Peruvian traditional cuisine and an Intangible Cultural Heritage of Humanity."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "équateur",
+                                    "translated": "equator"
+                                },
+                                "header_1": {
+                                    "original": "par pays",
+                                    "translated": "by country"
+                                },
+                                "fact": {
+                                    "original": "Le ceviche est accompagné d'oignons, de tomates et de coriandre.",
+                                    "translated": "The ceviche is accompanied by onions, tomatoes, and cilantro.",
+                                    "fact_aligned_sentence": "Ceux-ci sont cuits avant d'être incorporés dans la marinade légèrement acidulée, accompagnés d'oignons, de tomates et de coriandre.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "Le ceviche est préparé à base de poissons ou fruits de mer (coquillages, crustacés).",
+                                    "Les poissons ou fruits de mer sont cuits avant d'être incorporés dans la marinade légèrement acidulée.",
+                                    "Le ceviche est accompagné d'oignons, de tomates et de coriandre."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Ceviches in Ecuador are seasoned with tomato sauce, mustard, and oil.",
+                                    "The Manabí",
+                                    "In the Bahamas and south Florida, a conch ceviche known as conch salad is very popular.",
+                                    "It is prepared by marinating diced fresh conch in lime, chopped onions, and bell pepper."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "mexique",
+                                    "translated": "Mexico"
+                                },
+                                "header_1": {
+                                    "original": "par pays",
+                                    "translated": "by country"
+                                },
+                                "fact": {
+                                    "original": "Quand le ceviche est servi sans poisson ou fruits de mer, on parle de ceviche vierge.",
+                                    "translated": "When ceviche is served without fish or seafood, it is called ceviche virgin.",
+                                    "fact_aligned_sentence": "souhaitée].",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "Des tomates sont ajoutées à la fin.",
+                                    "Parfois, le ceviche peut être servi sans l’ajout de poisson ou fruits de mer.",
+                                    "Quand le ceviche est servi sans poisson ou fruits de mer, on parle de ceviche vierge."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Ceviche is considered the national dish of Peru and is recognized by UNESCO as an expression of Peruvian traditional cuisine and an Intangible Cultural Heritage of Humanity.",
+                                    "The fish or shellfish in ceviche is served raw; the citric acid from the citrus marinade causes the proteins in the seafood to become denatured, resulting in the dish appearing to be \"cooked\" without the application of heat.",
+                                    "Ceviche is often eaten as an appetizer; if eaten as a main dish, it is usually accompanied by side dishes that complement its flavors, such as sweet potato, lettuce, maize, avocado, or fried plantains, among various other accompaniments.",
+                                    "Ceviche is often eaten as an appetizer; if eaten as a main dish, it is usually accompanied by side dishes that complement its flavors, such as sweet potato, lettuce, maize, avocado, or fried plantains, among various other accompaniments."
+                                ]
+                            }
+                        ]
+                    },
+                    "origine": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "origine",
+                                    "translated": "origin"
+                                },
+                                "fact": {
+                                    "original": "On trouve des plats approchants dans la cuisine de Málaga.",
+                                    "translated": "Similar dishes can be found in the cuisine of Málaga.",
+                                    "fact_aligned_sentence": "Ce lien étymologique suggère une autre origine possible du plat en Espagne où l'on trouve en effet des plats approchants dans la cuisine de Málaga.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "En persan ancien, sik signifie « vinaigre » et bāǧ signifie « soupe ».",
+                                    "Ce lien étymologique suggère une autre origine possible du plat en Espagne.",
+                                    "On trouve des plats approchants dans la cuisine de Málaga."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "There are also other local variants of the name, including cerbiche and serviche.",
+                                    "Various explanations of the dish's origins exist, with Peruvian researchers favoring a pre-Hispanic origin.",
+                                    "The Spanish, who brought citrus fruits such as the lime from Europe, may have originated the dish in Spain with roots in Moorish cuisine.",
+                                    "The Spanish, who brought citrus fruits such as the lime from Europe, may have originated the dish in Spain with roots in Moorish cuisine."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "origine",
+                                    "translated": "origin"
+                                },
+                                "fact": {
+                                    "original": "Pedro Pablo Kuczynski mentionne que le ceviche est d'origine japonaise ou quelque chose comme ça.",
+                                    "translated": "Pedro Pablo Kuczynski mentions that ceviche is of Japanese origin or something like that.",
+                                    "fact_aligned_sentence": "Et le ceviche d'origine japonaise ou quelque chose comme ça », explique Pedro Pablo Kuczynski, président de la république du Pérou,.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "Pedro Pablo Kuczynski explique : « Ici, tout a été réuni dans une cuisine unique qui, soudain, n'existait pas il y a quelques années. »",
+                                    "Pedro Pablo Kuczynski donne l'exemple de la pachamanca qui est d'origine arabe.",
+                                    "Pedro Pablo Kuczynski mentionne que le ceviche est d'origine japonaise ou quelque chose comme ça."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Peruvian origin of the dish is supported by chefs including the Chilean Christopher Carpentier and the Spaniard Ferran Adrià, who in an interview stated, \"Cebiche was born in Peru, and so the authentic and genuine [cebiche] is Peruvian.\"",
+                                    "The Peruvian origin of the dish is supported by chefs including the Chilean Christopher Carpentier and the Spaniard Ferran Adrià, who in an interview stated, \"Cebiche was born in Peru, and so the authentic and genuine [cebiche] is Peruvian.\"",
+                                    "National Geographic and Taste Atlas recognize the origin of ceviche in Peru.",
+                                    "The Peruvian origin of the dish is supported by chefs including the Chilean Christopher Carpentier and the Spaniard Ferran Adrià, who in an interview stated, \"Cebiche was born in Peru, and so the authentic and genuine [cebiche] is Peruvian.\""
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "origine",
+                                    "translated": "origin"
+                                },
+                                "fact": {
+                                    "original": "L'hypothèse la plus consensuelle est qu'il s'agit d'un plat importé au Pérou avec l'immigration asiatique, peut-être japonaise.",
+                                    "translated": "The most widely agreed hypothesis is that it is a dish imported to Peru with Asian immigration, possibly Japanese.",
+                                    "fact_aligned_sentence": "L'hypothèse la plus consensuelle est qu'il s'agit d'un plat importé au Pérou avec l'immigration asiatique, peut-être japonaise, et créé sur la base du poke : « Ici, tout a été réuni dans une cuisine unique qui, soudain, n'existait pas il y a quelques années.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Ceviche"
+                                },
+                                "src_context": [
+                                    "Selon cette hypothèse, le terme dejar escabechar était utilisé dans les livres de recettes péruviens au XIXe siècle pour désigner la période de cuisson du poisson dans du jus d'orange acidulé.",
+                                    "Dans le livre de recettes La Cocina ecléctica (1890), de l'Argentine Juana Manuela Gorriti, le terme déjeseles escabechar est mentionné dans ce sens.",
+                                    "L'hypothèse la plus consensuelle est qu'il s'agit d'un plat importé au Pérou avec l'immigration asiatique, peut-être japonaise."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Spanish, who brought citrus fruits such as the lime from Europe, may have originated the dish in Spain with roots in Moorish cuisine.",
+                                    "The Spanish, who brought citrus fruits such as the lime from Europe, may have originated the dish in Spain with roots in Moorish cuisine.",
+                                    "The first recipe for this dish was published by Manual Atanasio Fuentes in \"The Guide of Lima.\"",
+                                    "Its origin is also attributed to places ranging from Central America to Polynesia."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "延伸閱讀": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "The information was accessed on 2016-01-23.",
+                                    "translated": "The information was accessed on 2016-01-23.",
+                                    "fact_aligned_sentence": "2012: 479  [2016-01-23].",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "The publication year is 2012.",
+                                    "The book has 479 pages.",
+                                    "The information was accessed on 2016-01-23."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Peruvian origin of the dish is supported by chefs including the Chilean Christopher Carpentier and the Spaniard Ferran Adrià, who in an interview stated, \"Cebiche was born in Peru, and so the authentic and genuine [cebiche] is Peruvian.\"",
+                                    "The first recipe for this dish was published by Manual Atanasio Fuentes in \"The Guide of Lima.\"",
+                                    "According to some historic sources from Peru, the Caral civilization that developed in central Peru between 3500 BC to 1800 BC has left evidence of the use and consumption of raw Peruvian anchovy with chili and salt, according to the investigations of archaeologist Ruth Shady.",
+                                    "According to some historic sources from Peru, the Caral civilization that developed in central Peru between 3500 BC to 1800 BC has left evidence of the use and consumption of raw Peruvian anchovy with chili and salt, according to the investigations of archaeologist Ruth Shady."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "Wlodarski, Rafael is one of the authors of the book 'Peru'.",
+                                    "translated": "Wlodarski, Rafael is one of the authors of the book 'Peru'.",
+                                    "fact_aligned_sentence": "Benson, Sara; Hellander, Paul; Wlodarski, Rafael.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "Benson, Sara is one of the authors of the book 'Peru'.",
+                                    "Hellander, Paul is one of the authors of the book 'Peru'.",
+                                    "Wlodarski, Rafael is one of the authors of the book 'Peru'."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Peruvian origin of the dish is supported by chefs including the Chilean Christopher Carpentier and the Spaniard Ferran Adrià, who in an interview stated, \"Cebiche was born in Peru, and so the authentic and genuine [cebiche] is Peruvian.\"",
+                                    "The Peruvian origin of the dish is supported by chefs including the Chilean Christopher Carpentier and the Spaniard Ferran Adrià, who in an interview stated, \"Cebiche was born in Peru, and so the authentic and genuine [cebiche] is Peruvian.\"",
+                                    "The first recipe for this dish was published by Manual Atanasio Fuentes in \"The Guide of Lima.\"",
+                                    "The first recipe for this dish was published by Manual Atanasio Fuentes in \"The Guide of Lima.\""
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "书名是 Cocina Peruana。",
+                                    "translated": "The book title is Peruvian Cuisine.",
+                                    "fact_aligned_sentence": "Cocina Peruana.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "The ISBN of the book is 0-471-41102-7.",
+                                    "Peschiera, Emilio 是作者。",
+                                    "书名是 Cocina Peruana。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "The Spanish, who brought citrus fruits such as the lime from Europe, may have originated the dish in Spain with roots in Moorish cuisine.",
+                                    "Peruvian historian Juan José Vega supports the theory put forward by Fernando Rueda García, historian of Málaga and a member of the Andalusian Ethnology Commission, who suggests that it was Moorish slaves who created ceviche by mixing local and foreign ingredients that were arriving on the Iberian Peninsula."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "作者是 Butler, Cleora。",
+                                    "translated": "The author is Butler, Cleora.",
+                                    "fact_aligned_sentence": "Butler, Cleora.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "The book was published in the year 2007.",
+                                    "The ISBN of the book is 1-74059-749-4.",
+                                    "作者是 Butler, Cleora。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "National Geographic and Taste Atlas recognize the origin of ceviche in Peru.",
+                                    "The Peruvian origin of the dish is supported by chefs including the Chilean Christopher Carpentier and the Spaniard Ferran Adrià, who in an interview stated, \"Cebiche was born in Peru, and so the authentic and genuine [cebiche] is Peruvian.\"",
+                                    "Bad sanitary conditions in its preparation may lead to illness.",
+                                    "Aside from contaminants, raw seafood can also be the vector for various pathogens, viral and bacterial, as well as larger parasitic creatures."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "ISBN: 1-58008-107-X",
+                                    "translated": "ISBN: 1-58008-107-X",
+                                    "fact_aligned_sentence": "ISBN 1-58008-107-X.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "Publication Date: 2010-06-08",
+                                    "Edition: 3",
+                                    "ISBN: 1-58008-107-X"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "Aside from contaminants, raw seafood can also be the vector for various pathogens, viral and bacterial, as well as larger parasitic creatures.",
+                                    "According to the Food and Drug Administration and studies since 2009, specific microbial hazards in ceviche include Anisakis simplex, Diphyllobothrium spp., Pseudoterranova decipiens and Pseudoterranova cattani, and Vibrio parahaemolyticus."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "Title: Mexico One Plate At A Time",
+                                    "translated": "Title: Mexico One Plate At A Time",
+                                    "fact_aligned_sentence": "Mexico One Plate At A Time.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "酸橘汁醃魚的食譜包括羅馬番茄、洋蔥、香菜、酸橙汁、鹽和胡椒。",
+                                    "Author: Rick Bayless",
+                                    "Title: Mexico One Plate At A Time"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "They are accompanied with salty soda cracker.",
+                                    "In Mexico, the U.S., and some parts of Central America, it is served either in cocktail cups with tostadas or as a tostada topping and taco filling."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "The publisher is W. W. Norton & Company.",
+                                    "translated": "The publisher is W. W. Norton & Company.",
+                                    "fact_aligned_sentence": "W. W. Norton & Company.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "Presilla, Maricel is the author.",
+                                    "The book title is Gran Cocina Latina.",
+                                    "The publisher is W. W. Norton & Company."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Peruvian origin of the dish is supported by chefs including the Chilean Christopher Carpentier and the Spaniard Ferran Adrià, who in an interview stated, \"Cebiche was born in Peru, and so the authentic and genuine [cebiche] is Peruvian.\"",
+                                    "The first recipe for this dish was published by Manual Atanasio Fuentes in \"The Guide of Lima.\"",
+                                    "Aside from contaminants, raw seafood can also be the vector for various pathogens, viral and bacterial, as well as larger parasitic creatures.",
+                                    "According to the Food and Drug Administration and studies since 2009, specific microbial hazards in ceviche include Anisakis simplex, Diphyllobothrium spp., Pseudoterranova decipiens and Pseudoterranova cattani, and Vibrio parahaemolyticus."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "Presilla, Maricel is the author.",
+                                    "translated": "Presilla, Maricel is the author.",
+                                    "fact_aligned_sentence": "Presilla, Maricel.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "出版年份是 2005。",
+                                    "ISBN 是 956-8077-30-8。",
+                                    "Presilla, Maricel is the author."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Peruvian origin of the dish is supported by chefs including the Chilean Christopher Carpentier and the Spaniard Ferran Adrià, who in an interview stated, \"Cebiche was born in Peru, and so the authentic and genuine [cebiche] is Peruvian.\"",
+                                    "The first recipe for this dish was published by Manual Atanasio Fuentes in \"The Guide of Lima.\"",
+                                    "According to an Inter-American Development Bank (IDB) study of innovation in Peruvian cuisine and its connection with Peruvian cultural diversity (2022), the great variety of ceviches offered by Peruvian marine cuisine is an example of the gastronomic impact of cultural diversity throughout its territory, in which fishers, farmers, and chefs come together.",
+                                    "According to an Inter-American Development Bank (IDB) study of innovation in Peruvian cuisine and its connection with Peruvian cultural diversity (2022), the great variety of ceviches offered by Peruvian marine cuisine is an example of the gastronomic impact of cultural diversity throughout its territory, in which fishers, farmers, and chefs come together."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "The book was published by John Wiley and Sons.",
+                                    "translated": "The book was published by John Wiley and Sons.",
+                                    "fact_aligned_sentence": "John Wiley and Sons.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "Vann, Jon M. is an author.",
+                                    "The title of the book is 'The Appetizer Atlas: A World of Small Bites'.",
+                                    "The book was published by John Wiley and Sons."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The first recipe for this dish was published by Manual Atanasio Fuentes in \"The Guide of Lima.\"",
+                                    "The first recipe for this dish was published by Manual Atanasio Fuentes in \"The Guide of Lima.\"",
+                                    "In south Florida, it is common to encounter a variation to which tomato juice has been added.",
+                                    "Bad sanitary conditions in its preparation may lead to illness."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "Author: Rick Bayless",
+                                    "translated": "Author: Rick Bayless",
+                                    "fact_aligned_sentence": "Bayless, Rick.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "酸橘汁醃魚的食譜非常簡單。",
+                                    "酸橘汁醃魚的食譜包括羅馬番茄、洋蔥、香菜、酸橙汁、鹽和胡椒。",
+                                    "Author: Rick Bayless"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "The first recipe for this dish was published by Manual Atanasio Fuentes in \"The Guide of Lima.\"",
+                                    "The first recipe for this dish was published by Manual Atanasio Fuentes in \"The Guide of Lima.\""
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "Vann, Jon M. is an author.",
+                                    "translated": "Vann, Jon M. is an author.",
+                                    "fact_aligned_sentence": "Meyer, Arthur L.; Vann, Jon M. The Appetizer Atlas: A World of Small Bites.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "The ISBN of the book is 0-684-87062-2.",
+                                    "Meyer, Arthur L. is an author.",
+                                    "Vann, Jon M. is an author."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In south Florida, it is common to encounter a variation to which tomato juice has been added.",
+                                    "Bad sanitary conditions in its preparation may lead to illness.",
+                                    "The Spanish, who brought citrus fruits such as the lime from Europe, may have originated the dish in Spain with roots in Moorish cuisine.",
+                                    "Peruvian historian Juan José Vega supports the theory put forward by Fernando Rueda García, historian of Málaga and a member of the Andalusian Ethnology Commission, who suggests that it was Moorish slaves who created ceviche by mixing local and foreign ingredients that were arriving on the Iberian Peninsula."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "Edition: 3",
+                                    "translated": "Edition: 3",
+                                    "fact_aligned_sentence": "2010-06-08: 3.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "Publisher: Ten Speed Press",
+                                    "Publication Date: 2010-06-08",
+                                    "Edition: 3"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "Aside from contaminants, raw seafood can also be the vector for various pathogens, viral and bacterial, as well as larger parasitic creatures.",
+                                    "According to the Food and Drug Administration and studies since 2009, specific microbial hazards in ceviche include Anisakis simplex, Diphyllobothrium spp., Pseudoterranova decipiens and Pseudoterranova cattani, and Vibrio parahaemolyticus."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "ISBN: 0-684-84186-X",
+                                    "translated": "ISBN: 0-684-84186-X",
+                                    "fact_aligned_sentence": "ISBN 0-684-84186-X.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "Publisher: Simon & Schuster",
+                                    "Publication Year: 2000",
+                                    "ISBN: 0-684-84186-X"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "According to some historic sources from Peru, the Caral civilization that developed in central Peru between 3500 BC to 1800 BC has left evidence of the use and consumption of raw Peruvian anchovy with chili and salt, according to the investigations of archaeologist Ruth Shady.",
+                                    "According to some historic sources from Peru, the Caral civilization that developed in central Peru between 3500 BC to 1800 BC has left evidence of the use and consumption of raw Peruvian anchovy with chili and salt, according to the investigations of archaeologist Ruth Shady."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "Publisher: Simon & Schuster",
+                                    "translated": "Publisher: Simon & Schuster",
+                                    "fact_aligned_sentence": "Simon & Schuster.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "Author: Rick Bayless",
+                                    "Title: Mexico One Plate At A Time",
+                                    "Publisher: Simon & Schuster"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The first recipe for this dish was published by Manual Atanasio Fuentes in \"The Guide of Lima.\"",
+                                    "The first recipe for this dish was published by Manual Atanasio Fuentes in \"The Guide of Lima.\"",
+                                    "According to some historic sources from Peru, the Caral civilization that developed in central Peru between 3500 BC to 1800 BC has left evidence of the use and consumption of raw Peruvian anchovy with chili and salt, according to the investigations of archaeologist Ruth Shady.",
+                                    "According to some historic sources from Peru, the Caral civilization that developed in central Peru between 3500 BC to 1800 BC has left evidence of the use and consumption of raw Peruvian anchovy with chili and salt, according to the investigations of archaeologist Ruth Shady."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "The book has 479 pages.",
+                                    "translated": "The book has 479 pages.",
+                                    "fact_aligned_sentence": "2012: 479  [2016-01-23].",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "The publisher is W. W. Norton & Company.",
+                                    "The publication year is 2012.",
+                                    "The book has 479 pages."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "Aside from contaminants, raw seafood can also be the vector for various pathogens, viral and bacterial, as well as larger parasitic creatures.",
+                                    "According to the Food and Drug Administration and studies since 2009, specific microbial hazards in ceviche include Anisakis simplex, Diphyllobothrium spp., Pseudoterranova decipiens and Pseudoterranova cattani, and Vibrio parahaemolyticus."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "Publisher: Ten Speed Press",
+                                    "translated": "Publisher: Ten Speed Press",
+                                    "fact_aligned_sentence": "Ten Speed Press.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "Author: Rodriguez, Douglas",
+                                    "Title: The Great Ceviche Book",
+                                    "Publisher: Ten Speed Press"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "According to an Inter-American Development Bank (IDB) study of innovation in Peruvian cuisine and its connection with Peruvian cultural diversity (2022), the great variety of ceviches offered by Peruvian marine cuisine is an example of the gastronomic impact of cultural diversity throughout its territory, in which fishers, farmers, and chefs come together.",
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "Author: Rodriguez, Douglas",
+                                    "translated": "Author: Rodriguez, Douglas",
+                                    "fact_aligned_sentence": "Rodriguez, Douglas.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "The ISBN is 978-0-393-05069-1.",
+                                    "The original content was archived on 2017-09-23.",
+                                    "Author: Rodriguez, Douglas"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Peruvian historian Juan José Vega supports the theory put forward by Fernando Rueda García, historian of Málaga and a member of the Andalusian Ethnology Commission, who suggests that it was Moorish slaves who created ceviche by mixing local and foreign ingredients that were arriving on the Iberian Peninsula.",
+                                    "Peruvian historian Juan José Vega supports the theory put forward by Fernando Rueda García, historian of Málaga and a member of the Andalusian Ethnology Commission, who suggests that it was Moorish slaves who created ceviche by mixing local and foreign ingredients that were arriving on the Iberian Peninsula.",
+                                    "According to some historic sources from Peru, the Caral civilization that developed in central Peru between 3500 BC to 1800 BC has left evidence of the use and consumption of raw Peruvian anchovy with chili and salt, according to the investigations of archaeologist Ruth Shady.",
+                                    "According to some historic sources from Peru, the Caral civilization that developed in central Peru between 3500 BC to 1800 BC has left evidence of the use and consumption of raw Peruvian anchovy with chili and salt, according to the investigations of archaeologist Ruth Shady."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "出版社是 Council Oak Books, LLC。",
+                                    "translated": "The publisher is Council Oak Books, LLC.",
+                                    "fact_aligned_sentence": "Council Oak Books, LLC.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "作者是 Butler, Cleora。",
+                                    "书名是 Cleora's Kitchens: The Memoir of a Cook and Eight Decades of Great American Food。",
+                                    "出版社是 Council Oak Books, LLC。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "The first recipe for this dish was published by Manual Atanasio Fuentes in \"The Guide of Lima.\"",
+                                    "The first recipe for this dish was published by Manual Atanasio Fuentes in \"The Guide of Lima.\""
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "延伸閱讀",
+                                    "translated": "Further reading"
+                                },
+                                "fact": {
+                                    "original": "The book was published in 2003.",
+                                    "translated": "The book was published in 2003.",
+                                    "fact_aligned_sentence": "2003.",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "The title of the book is 'The Appetizer Atlas: A World of Small Bites'.",
+                                    "The book was published by John Wiley and Sons.",
+                                    "The book was published in 2003."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "In his 2015 book Ceviche Power, Gaston Acurio  documents the different nuances through a tour of the ceviche route through Tumbes, Piura, Lambayeque, La Libertad, Ancash, the Lima coast, Lima, Ica, Arequipa, Moquegua and Tacna.",
+                                    "The first recipe for this dish was published by Manual Atanasio Fuentes in \"The Guide of Lima.\"",
+                                    "The first recipe for this dish was published by Manual Atanasio Fuentes in \"The Guide of Lima.\""
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "這道菜主要食用方式為生食。",
+                                    "translated": "This dish is primarily eaten raw.",
+                                    "fact_aligned_sentence": "因為這道菜主要食用方式為生食,而不是加熱煮熟,所以必須新鮮準備並立即食用,以盡量減少食物中毒的風險。塞比切經常作為開胃菜食用;如果作為主菜食用,通常會配上與其風味相得益彰的配菜,例如番薯、生菜、玉米、鱷梨或菜蕉 。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%AF%94%E5%88%87"
+                                },
+                                "src_context": [
+                                    "塞比切的其他調味配料還有切碎的洋蔥、鹽或芫荽。",
+                                    "塞比切有時會加入其他調味配料。",
+                                    "這道菜主要食用方式為生食。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The marinade usually also includes sliced or chopped onions and chopped cilantro, though in some regions such as Mexico, tomatoes, avocadoes, and tomato sauce may be included.",
+                                    "Ceviche is often eaten as an appetizer; if eaten as a main dish, it is usually accompanied by side dishes that complement its flavors, such as sweet potato, lettuce, maize, avocado, or fried plantains, among various other accompaniments.",
+                                    "Occasionally, ceviche is made with various types of local shellfish, such as black clam (cooked or raw), oysters (cooked or raw), spondylus (raw), barnacles (cooked percebes), among others mostly cooked.",
+                                    "Occasionally, ceviche is made with various types of local shellfish, such as black clam (cooked or raw), oysters (cooked or raw), spondylus (raw), barnacles (cooked percebes), among others mostly cooked."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

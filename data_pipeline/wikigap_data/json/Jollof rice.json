@@ -1,0 +1,555 @@
+{
+    "Jollof rice": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "происхождение и распространение": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "происхождение и распространение",
+                                    "translated": "origin and distribution"
+                                },
+                                "fact": {
+                                    "original": "И те, и другие утверждают, что именно их народу принадлежит авторство блюда.",
+                                    "translated": "'Both sides claim that it is their people who are the original creators of the dish.'",
+                                    "fact_aligned_sentence": "Нигерийцы и ганцы спорят о происхождении джолофа: и те, и другие утверждают, что именно их народу принадлежит авторство блюда.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BB%D0%BE%D1%84"
+                                },
+                                "src_context": [
+                                    "Ряд исследователей считает джолоф самым известным африканским блюдом за пределами материка.",
+                                    "Нигерийцы и ганцы спорят о происхождении джолофа.",
+                                    "И те, и другие утверждают, что именно их народу принадлежит авторство блюда."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The fishing communities of Saint-Louis are considered the birthplace of thieboudienne.",
+                                    "Food and agriculture historian James C. McCann argued that it was unlikely that the dish could have naturally spread from Senegal to its current range since a similar cultural diffusion is not seen in \"linguistic, historical or political patterns\".",
+                                    "Marc Dufumier, an emeritus professor of agronomy, proposes a more recent origin for the dish, which may only have appeared as a consequence of the colonial promotion of intensive peanut cropping in central Senegal for the French oil industry, and where commensurate reduction in the planted area of traditional millet and sorghum staples was compensated for by imports of broken rice from Southeast Asia.",
+                                    "Marc Dufumier, an emeritus professor of agronomy, proposes a more recent origin for the dish, which may only have appeared as a consequence of the colonial promotion of intensive peanut cropping in central Senegal for the French oil industry, and where commensurate reduction in the planted area of traditional millet and sorghum staples was compensated for by imports of broken rice from Southeast Asia."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "происхождение и распространение",
+                                    "translated": "origin and distribution"
+                                },
+                                "fact": {
+                                    "original": "Историк еды и сельского хозяйства Джеймс Маккен соглашается с этим утверждением.",
+                                    "translated": "Food and agricultural historian James McCann agrees with this statement.",
+                                    "fact_aligned_sentence": "Историк еды и сельского хозяйства Джеймс Маккен соглашается с этим утверждением, указывая при этом на возможность распространения джолофа торговцами империи Мали, перемещавшихся в крупных центрах и привозивших с собой знания о кузнечном деле и сельском хозяйстве.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BB%D0%BE%D1%84"
+                                },
+                                "src_context": [
+                                    "Первые истоки блюда обнаруживаются в Сенегале.",
+                                    "Территория Сенегала в древности входила в состав государства Волоф.",
+                                    "Историк еды и сельского хозяйства Джеймс Маккен соглашается с этим утверждением."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The fishing communities of Saint-Louis are considered the birthplace of thieboudienne.",
+                                    "Food and agriculture historian James C. McCann argued that it was unlikely that the dish could have naturally spread from Senegal to its current range since a similar cultural diffusion is not seen in \"linguistic, historical or political patterns\".",
+                                    "Food and agriculture historian James C. McCann argued that it was unlikely that the dish could have naturally spread from Senegal to its current range since a similar cultural diffusion is not seen in \"linguistic, historical or political patterns\".",
+                                    "Food and agriculture historian James C. McCann argued that it was unlikely that the dish could have naturally spread from Senegal to its current range since a similar cultural diffusion is not seen in \"linguistic, historical or political patterns\"."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "происхождение и распространение",
+                                    "translated": "origin and distribution"
+                                },
+                                "fact": {
+                                    "original": "Нигерийцы и ганцы спорят о происхождении джолофа.",
+                                    "translated": "Nigerians and Ghanaians are arguing about the origin of jollof.",
+                                    "fact_aligned_sentence": "Нигерийцы и ганцы спорят о происхождении джолофа: и те, и другие утверждают, что именно их народу принадлежит авторство блюда.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BB%D0%BE%D1%84"
+                                },
+                                "src_context": [
+                                    "В франкоговорящих регионах называется riz au gras.",
+                                    "Ряд исследователей считает джолоф самым известным африканским блюдом за пределами материка.",
+                                    "Нигерийцы и ганцы спорят о происхождении джолофа."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "and very often with fried plantains, moi-moi (bean pudding), steamed vegetables, coleslaw, salad, etc.",
+                                    "Several variations of prototypal Nigerian jollof rice exist, including coconut-jollof rice.",
+                                    "In 2016, Sister Deborah released the song \"Ghana Jollof\", which denigrated the Nigerian version and Nigerians for being proud of their version.",
+                                    "In 2016, Sister Deborah released the song \"Ghana Jollof\", which denigrated the Nigerian version and Nigerians for being proud of their version."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "происхождение и распространение",
+                                    "translated": "origin and distribution"
+                                },
+                                "fact": {
+                                    "original": "Этот вопрос является довольно важным и деликатным для обоих народов.",
+                                    "translated": "This question is quite important and delicate for both nations.",
+                                    "fact_aligned_sentence": "Этот вопрос является довольно важным и деликатным для обоих народов.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BB%D0%BE%D1%84"
+                                },
+                                "src_context": [
+                                    "Нигерийцы и ганцы спорят о происхождении джолофа.",
+                                    "И те, и другие утверждают, что именно их народу принадлежит авторство блюда.",
+                                    "Этот вопрос является довольно важным и деликатным для обоих народов."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Food and agriculture historian James C. McCann argued that it was unlikely that the dish could have naturally spread from Senegal to its current range since a similar cultural diffusion is not seen in \"linguistic, historical or political patterns\".",
+                                    "Food and agriculture historian James C. McCann argued that it was unlikely that the dish could have naturally spread from Senegal to its current range since a similar cultural diffusion is not seen in \"linguistic, historical or political patterns\".",
+                                    "The fishing communities of Saint-Louis are considered the birthplace of thieboudienne.",
+                                    "Food and agriculture historian James C. McCann argued that it was unlikely that the dish could have naturally spread from Senegal to its current range since a similar cultural diffusion is not seen in \"linguistic, historical or political patterns\"."
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В Сенегале существует свой собственный вариант джолофа.",
+                                    "translated": "'Senegal has its own version of jollof.'",
+                                    "fact_aligned_sentence": "В Мали, Гане, Сенегале, Сьерра-Леоне и Либерии существуют свои собственные варианты джолофа.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BB%D0%BE%D1%84"
+                                },
+                                "src_context": [
+                                    "В Мали существует свой собственный вариант джолофа.",
+                                    "В Гане существует свой собственный вариант джолофа.",
+                                    "В Сенегале существует свой собственный вариант джолофа."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "and very often with fried plantains, moi-moi (bean pudding), steamed vegetables, coleslaw, salad, etc.",
+                                    "Several variations of prototypal Nigerian jollof rice exist, including coconut-jollof rice.",
+                                    "In French-speaking West Africa, a variation of the dish is known as riz au gras.",
+                                    "The Senegalese version, thieboudienne, has been recognized by UNESCO as an intangible cultural heritage dish."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В Сьерра-Леоне существует свой собственный вариант джолофа.",
+                                    "translated": "In Sierra Leone, there is its own version of jollof.",
+                                    "fact_aligned_sentence": "В Мали, Гане, Сенегале, Сьерра-Леоне и Либерии существуют свои собственные варианты джолофа.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BB%D0%BE%D1%84"
+                                },
+                                "src_context": [
+                                    "В Гане существует свой собственный вариант джолофа.",
+                                    "В Сенегале существует свой собственный вариант джолофа.",
+                                    "В Сьерра-Леоне существует свой собственный вариант джолофа."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "and very often with fried plantains, moi-moi (bean pudding), steamed vegetables, coleslaw, salad, etc.",
+                                    "Several variations of prototypal Nigerian jollof rice exist, including coconut-jollof rice.",
+                                    "Smoked snails are a traditional ingredient.",
+                                    "The dish is known in Sierra Leone, where it may not call for red palm oil but instead tomato paste."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "В Мали существует свой собственный вариант джолофа.",
+                                    "translated": "In Mali, there is its own version of jollof.",
+                                    "fact_aligned_sentence": "В Мали, Гане, Сенегале, Сьерра-Леоне и Либерии существуют свои собственные варианты джолофа.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BB%D0%BE%D1%84"
+                                },
+                                "src_context": [
+                                    "Джолоф — блюдо из риса.",
+                                    "Джолоф популярен среди жителей многих государств Западной Африки.",
+                                    "В Мали существует свой собственный вариант джолофа."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "and very often with fried plantains, moi-moi (bean pudding), steamed vegetables, coleslaw, salad, etc.",
+                                    "Several variations of prototypal Nigerian jollof rice exist, including coconut-jollof rice.",
+                                    "Liberian jollof seldom includes seafood.",
+                                    "Although considerable variation exists, the basic profile for Nigerian jollof rice includes long-grain rice (including golden sella basmati rice), tomatoes puree and/or tomato paste, onions, pepper (scotch bonnets and/or habanero peppers; poblanos and/or bell peppers), vegetable oil, meat broth/stock and a various mixture of additional ingredients, including thyme, bay leaves, curry powder, white pepper, (small amounts of) nutmeg and stock cubes."
+                                ]
+                            }
+                        ]
+                    },
+                    "основные ингредиенты": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "основные ингредиенты",
+                                    "translated": "The main ingredients"
+                                },
+                                "fact": {
+                                    "original": "Цвет джолофа обычно красный.",
+                                    "translated": "The color of jollof is usually red.",
+                                    "fact_aligned_sentence": "Из-за того, что при приготовлении используется пальмовое масло и томатная паста, цвет джолофа обычно красный.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BB%D0%BE%D1%84"
+                                },
+                                "src_context": [
+                                    "Среди ингредиентов могут быть различные овощи: картофель, капуста.",
+                                    "При приготовлении используется пальмовое масло и томатная паста.",
+                                    "Цвет джолофа обычно красный."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Cameroonian version, sometimes called fried rice, often includes red peppers, carrots, green beans and smoked paprika.",
+                                    "The Cameroonian version, sometimes called fried rice, often includes red peppers, carrots, green beans and smoked paprika.",
+                                    "The dish is then served with the protein of choice (which in theory may be any meat but often beef, turkey, chicken or croaker-fish; much less commonly lamb, pork, etc.)",
+                                    "The dish is then served with the protein of choice (which in theory may be any meat but often beef, turkey, chicken or croaker-fish; much less commonly lamb, pork, etc.)"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "descriptions": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "descriptions",
+                                    "translated": "descriptions"
+                                },
+                                "fact": {
+                                    "original": "Le mot ceeb signifie « riz » en wolof.",
+                                    "translated": "The word ceeb means \"rice\" in Wolof.",
+                                    "fact_aligned_sentence": "Le mot ceeb signifiant « riz » en wolof, ce mot a été altéré dans les autres pays francophones où ce plat s'est exporté pour désigner spécifiquement le riz gras wolof.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Riz_wolof"
+                                },
+                                "src_context": [
+                                    "Les autres been cin principaux sont les daxin.",
+                                    "Les autres been cin principaux sont les mbaxal.",
+                                    "Le mot ceeb signifie « riz » en wolof."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In French-speaking West Africa, including Beninese, Burkinabé, Guinean, Guinea-Bissauan, Ivorian, Nigerien, and Togolese cuisines, there is a variant called riz gras or riz au gras, which translates to \"fat rice\", a reference to the short-grain rice usually used in the dish.",
+                                    "In French-speaking West Africa, including Beninese, Burkinabé, Guinean, Guinea-Bissauan, Ivorian, Nigerien, and Togolese cuisines, there is a variant called riz gras or riz au gras, which translates to \"fat rice\", a reference to the short-grain rice usually used in the dish.",
+                                    "In French-speaking West Africa, including Beninese, Burkinabé, Guinean, Guinea-Bissauan, Ivorian, Nigerien, and Togolese cuisines, there is a variant called riz gras or riz au gras, which translates to \"fat rice\", a reference to the short-grain rice usually used in the dish.",
+                                    "In French-speaking West Africa, including Beninese, Burkinabé, Guinean, Guinea-Bissauan, Ivorian, Nigerien, and Togolese cuisines, there is a variant called riz gras or riz au gras, which translates to \"fat rice\", a reference to the short-grain rice usually used in the dish."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "descriptions",
+                                    "translated": "descriptions"
+                                },
+                                "fact": {
+                                    "original": "Ce mot a été altéré dans les autres pays francophones où ce plat s'est exporté pour désigner spécifiquement le riz gras wolof.",
+                                    "translated": "'This word has been altered in other French-speaking countries where this dish has been exported to specifically refer to Wolof oily rice.'",
+                                    "fact_aligned_sentence": "Le mot ceeb signifiant « riz » en wolof, ce mot a été altéré dans les autres pays francophones où ce plat s'est exporté pour désigner spécifiquement le riz gras wolof.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Riz_wolof"
+                                },
+                                "src_context": [
+                                    "Les autres been cin principaux sont les mbaxal.",
+                                    "Le mot ceeb signifie « riz » en wolof.",
+                                    "Ce mot a été altéré dans les autres pays francophones où ce plat s'est exporté pour désigner spécifiquement le riz gras wolof."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Regional variations are a source of competition among the countries of West Africa, and in particular between Nigeria and Ghana, over whose version is the best; in the 2010s this developed into a friendly rivalry known as the \"Jollof Wars\".",
+                                    "In French-speaking West Africa, a variation of the dish is known as riz au gras.",
+                                    "In French-speaking West Africa, including Beninese, Burkinabé, Guinean, Guinea-Bissauan, Ivorian, Nigerien, and Togolese cuisines, there is a variant called riz gras or riz au gras, which translates to \"fat rice\", a reference to the short-grain rice usually used in the dish.",
+                                    "In French-speaking West Africa, including Beninese, Burkinabé, Guinean, Guinea-Bissauan, Ivorian, Nigerien, and Togolese cuisines, there is a variant called riz gras or riz au gras, which translates to \"fat rice\", a reference to the short-grain rice usually used in the dish."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "descriptions",
+                                    "translated": "descriptions"
+                                },
+                                "fact": {
+                                    "original": "Les différents ingrédients sont ajoutés successivement.",
+                                    "translated": "The different ingredients are added successively.",
+                                    "fact_aligned_sentence": "Il s'agit d'un plat à base de riz, où les différents ingrédients sont ajoutés successivement, s'apparentant à un risotto.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Riz_wolof"
+                                },
+                                "src_context": [
+                                    "Niari cin désigne les plats sénégalais dont la cuisson nécessite l'usage de deux marmites.",
+                                    "Il s'agit d'un plat à base de riz.",
+                                    "Les différents ingrédients sont ajoutés successivement."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Sella basmati rice, however, is considered more aesthetically pleasing to some.",
+                                    "Most of the ingredients are cooked in one pot, of which a rich meat stock or broth and a fried tomato and pepper puree characteristically forms the base.",
+                                    "Of particular sensitivity in jollof-making communities is the inclusion of non-traditional ingredients, which are defined country to country and are seen as making the jollof inauthentic.",
+                                    "Of particular sensitivity in jollof-making communities is the inclusion of non-traditional ingredients, which are defined country to country and are seen as making the jollof inauthentic."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "descriptions",
+                                    "translated": "descriptions"
+                                },
+                                "fact": {
+                                    "original": "Le riz Wolof est une appellation qui regroupe plusieurs catégories de plats.",
+                                    "translated": "Wolof rice is a term that encompasses several categories of dishes.",
+                                    "fact_aligned_sentence": "Le riz Wolof est une appellation qui regroupe plusieurs catégories de plats avec en commun le fait d'être préparés avec du riz gras et en une seule marmite.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Riz_wolof"
+                                },
+                                "src_context": [
+                                    "Les Wolofs se sont installés dans différentes parties de l'Afrique de l'Ouest.",
+                                    "Les Wolofs ont emporté avec eux leur plat de riz.",
+                                    "Le riz Wolof est une appellation qui regroupe plusieurs catégories de plats."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Although considerable variation exists, the basic profile for Nigerian jollof rice includes long-grain rice (including golden sella basmati rice), tomatoes puree and/or tomato paste, onions, pepper (scotch bonnets and/or habanero peppers; poblanos and/or bell peppers), vegetable oil, meat broth/stock and a various mixture of additional ingredients, including thyme, bay leaves, curry powder, white pepper, (small amounts of) nutmeg and stock cubes.",
+                                    "Although considerable variation exists, the basic profile for Nigerian jollof rice includes long-grain rice (including golden sella basmati rice), tomatoes puree and/or tomato paste, onions, pepper (scotch bonnets and/or habanero peppers; poblanos and/or bell peppers), vegetable oil, meat broth/stock and a various mixture of additional ingredients, including thyme, bay leaves, curry powder, white pepper, (small amounts of) nutmeg and stock cubes.",
+                                    "In French-speaking West Africa, including Beninese, Burkinabé, Guinean, Guinea-Bissauan, Ivorian, Nigerien, and Togolese cuisines, there is a variant called riz gras or riz au gras, which translates to \"fat rice\", a reference to the short-grain rice usually used in the dish.",
+                                    "In French-speaking West Africa, including Beninese, Burkinabé, Guinean, Guinea-Bissauan, Ivorian, Nigerien, and Togolese cuisines, there is a variant called riz gras or riz au gras, which translates to \"fat rice\", a reference to the short-grain rice usually used in the dish."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "descriptions",
+                                    "translated": "descriptions"
+                                },
+                                "fact": {
+                                    "original": "Il s'agit d'un plat à base de riz.",
+                                    "translated": "It is a rice-based dish.",
+                                    "fact_aligned_sentence": "Il s'agit d'un plat à base de riz, où les différents ingrédients sont ajoutés successivement, s'apparentant à un risotto.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Riz_wolof"
+                                },
+                                "src_context": [
+                                    "Les plats de riz Wolof sont préparés en une seule marmite.",
+                                    "Niari cin désigne les plats sénégalais dont la cuisson nécessite l'usage de deux marmites.",
+                                    "Il s'agit d'un plat à base de riz."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In French-speaking West Africa, including Beninese, Burkinabé, Guinean, Guinea-Bissauan, Ivorian, Nigerien, and Togolese cuisines, there is a variant called riz gras or riz au gras, which translates to \"fat rice\", a reference to the short-grain rice usually used in the dish.",
+                                    "In French-speaking West Africa, including Beninese, Burkinabé, Guinean, Guinea-Bissauan, Ivorian, Nigerien, and Togolese cuisines, there is a variant called riz gras or riz au gras, which translates to \"fat rice\", a reference to the short-grain rice usually used in the dish.",
+                                    "In French-speaking West Africa, including Beninese, Burkinabé, Guinean, Guinea-Bissauan, Ivorian, Nigerien, and Togolese cuisines, there is a variant called riz gras or riz au gras, which translates to \"fat rice\", a reference to the short-grain rice usually used in the dish.",
+                                    "In French-speaking West Africa, including Beninese, Burkinabé, Guinean, Guinea-Bissauan, Ivorian, Nigerien, and Togolese cuisines, there is a variant called riz gras or riz au gras, which translates to \"fat rice\", a reference to the short-grain rice usually used in the dish."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "descriptions",
+                                    "translated": "descriptions"
+                                },
+                                "fact": {
+                                    "original": "La sauce est récupérée au préalable avant la cuisson du riz.",
+                                    "translated": "The sauce is prepared beforehand before cooking the rice.",
+                                    "fact_aligned_sentence": "Le riz est ensuite servi avec un peu de sauce récupérée au préalable avant sa cuisson avec les légumes et la viande ou le poisson.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Riz_wolof"
+                                },
+                                "src_context": [
+                                    "La couleur du riz dépend du type de tomate utilisée (concentrée et/ou fraîche).",
+                                    "Le riz est servi avec un peu de sauce.",
+                                    "La sauce est récupérée au préalable avant la cuisson du riz."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Typically the tomato puree, tomato paste, onions, salt and chillies are sauteed in oil and simmered into a sauce in which the rice is then cooked.",
+                                    "Typically the tomato puree, tomato paste, onions, salt and chillies are sauteed in oil and simmered into a sauce in which the rice is then cooked.",
+                                    "The rest of the ingredients are then fried all together, starting from onions, pepper, tomato paste, tomatoes and spices in that order.",
+                                    "After all the ingredients have been fried, rice is then added and cooked until the meal is prepared."
+                                ]
+                            }
+                        ]
+                    },
+                    "historique": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "historique",
+                                    "translated": "historical"
+                                },
+                                "fact": {
+                                    "original": "Les origines du riz Jollof remontent aux années 1300",
+                                    "translated": "The origins of Jollof rice date back to the 1300s.",
+                                    "fact_aligned_sentence": "Créé par Mame Penda Mbaye, originaire de Saint-louis, les origines du riz Jollof remontent aux années 1300 dans l'ancien empire Wolof, qui s'étendait sur des parties du Sénégal, de la Gambie et de la Mauritanie actuels.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Riz_wolof"
+                                },
+                                "src_context": [
+                                    "Créé par Mame Penda Mbaye",
+                                    "Mame Penda Mbaye est originaire de Saint-Louis",
+                                    "Les origines du riz Jollof remontent aux années 1300"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The dish is typically made with long-grain rice, tomatoes, chilis, onions, spices, and sometimes other vegetables and/or meat in a single pot, although its ingredients and preparation methods vary across different regions.",
+                                    "The dish's origins are traced to Senegal.",
+                                    "The Jolof or Wolof Empire was a confederacy state that ruled parts of West Africa situated in modern-day Senegal, Mali, The Gambia and Mauritania from around the 12th century and was later known as the Jolof Kingdom.",
+                                    "The Jolof or Wolof Empire was a confederacy state that ruled parts of West Africa situated in modern-day Senegal, Mali, The Gambia and Mauritania from around the 12th century and was later known as the Jolof Kingdom."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "historique",
+                                    "translated": "historical"
+                                },
+                                "fact": {
+                                    "original": "Ces régions florissaient en plaines rizicoles",
+                                    "translated": "'These regions thrived in rice-growing plains.'",
+                                    "fact_aligned_sentence": "Ces régions florissaient en plaines rizicoles et le riz Jollof aussi appelé thiéboudiène, était préparé avec du riz, du poisson, des crustacés et des légumes.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Riz_wolof"
+                                },
+                                "src_context": [
+                                    "Le riz Jollof trouve ses origines dans l'ancien empire Wolof",
+                                    "L'ancien empire Wolof s'étendait sur des parties du Sénégal, de la Gambie et de la Mauritanie actuels",
+                                    "Ces régions florissaient en plaines rizicoles"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The gastronationalism rivalry is especially prominent between Nigeria and Ghana, and has led to various events, including cooking competitions and social media campaigns, fostering cultural pride.",
+                                    "The gastronationalism rivalry is especially prominent between Nigeria and Ghana, and has led to various events, including cooking competitions and social media campaigns, fostering cultural pride.",
+                                    "Regional variations are a source of competition among the countries of West Africa, and in particular between Nigeria and Ghana, over whose version is the best; in the 2010s this developed into a friendly rivalry known as the \"Jollof Wars\".",
+                                    "Regional variations are a source of competition among the countries of West Africa, and in particular between Nigeria and Ghana, over whose version is the best; in the 2010s this developed into a friendly rivalry known as the \"Jollof Wars\"."
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Le riz wolof est aussi appelé Tcheb en Wolof.",
+                                    "translated": "Wolof rice is also called Tcheb in Wolof.",
+                                    "fact_aligned_sentence": "Le riz wolof (Tcheb  en Wolof), aussi appelé bènn tchin ou been cin ([bɛ:n cin] « cuisiné en une seule marmite » en wolof), riz gras, riz-au-gras, riz-o-gras (au Burkina Faso, Bénin, Togo, Guinée) en, ou encore jollof rice (Ghana et Nigeria), est un plat populaire en Afrique de l'Ouest.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Riz_wolof"
+                                },
+                                "src_context": [
+                                    "Le riz wolof est aussi appelé Tcheb en Wolof."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Party jollof or party rice is traditionally cooked outdoors over a wood fire, which gives it a smoky flavor and a crusty \"bottom pot\" similar to tahdig or socarrat, it is prepared with fresh tomato and pepper mix, tomato paste, onions, vegetable oil, spices like thyme, rosemary, curry, meat stock, etc.",
+                                    "Native rice, also called concoction rice, uses red palm oil and smoked, dried fish and is seasoned with locust beans (also known as iru or dawa-dawa), uziza seeds and/or scent leaf, (respectively known as nchuanwu, arimu and ahuji in Igbo; ntong in Efik-Ibibio; efirin in Yoruba, añyeba in Igala, aramogbo in Edo; etc.",
+                                    "The dish's most common name of Jollof derives from the name of the Wolof people, though in Senegal, Mauritania and The Gambia the dish is referred to in Wolof as ceebu jën or benachin.",
+                                    "In French-speaking areas, it is called riz au gras."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "Le riz wolof est aussi appelé riz-au-gras.",
+                                    "translated": "Wolof rice is also called rice with sauce.",
+                                    "fact_aligned_sentence": "Le riz wolof (Tcheb  en Wolof), aussi appelé bènn tchin ou been cin ([bɛ:n cin] « cuisiné en une seule marmite » en wolof), riz gras, riz-au-gras, riz-o-gras (au Burkina Faso, Bénin, Togo, Guinée) en, ou encore jollof rice (Ghana et Nigeria), est un plat populaire en Afrique de l'Ouest.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Riz_wolof"
+                                },
+                                "src_context": [
+                                    "Bènn tchin ou been cin signifie 'cuisiné en une seule marmite' en Wolof.",
+                                    "Le riz wolof est aussi appelé riz gras.",
+                                    "Le riz wolof est aussi appelé riz-au-gras."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Party jollof or party rice is traditionally cooked outdoors over a wood fire, which gives it a smoky flavor and a crusty \"bottom pot\" similar to tahdig or socarrat, it is prepared with fresh tomato and pepper mix, tomato paste, onions, vegetable oil, spices like thyme, rosemary, curry, meat stock, etc.",
+                                    "Native rice, also called concoction rice, uses red palm oil and smoked, dried fish and is seasoned with locust beans (also known as iru or dawa-dawa), uziza seeds and/or scent leaf, (respectively known as nchuanwu, arimu and ahuji in Igbo; ntong in Efik-Ibibio; efirin in Yoruba, añyeba in Igala, aramogbo in Edo; etc.",
+                                    "Some areas also have versions of two related dishes:",
+                                    "Party jollof or party rice is traditionally cooked outdoors over a wood fire, which gives it a smoky flavor and a crusty \"bottom pot\" similar to tahdig or socarrat, it is prepared with fresh tomato and pepper mix, tomato paste, onions, vegetable oil, spices like thyme, rosemary, curry, meat stock, etc."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "加羅夫飯是沃洛夫人的一种主食。",
+                                    "translated": "'Galof rice is a staple food of the Wolof people.'",
+                                    "fact_aligned_sentence": "加羅夫飯是沃洛夫人的一种主食,流行于西非地区,用稻米和番茄或番茄酱制成,通常还需要加入辣椒。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E5%8A%A0%E7%BE%85%E5%A4%AB%E9%A3%AF"
+                                },
+                                "src_context": [
+                                    "加羅夫飯是沃洛夫人的一种主食。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In French-speaking West Africa, including Beninese, Burkinabé, Guinean, Guinea-Bissauan, Ivorian, Nigerien, and Togolese cuisines, there is a variant called riz gras or riz au gras, which translates to \"fat rice\", a reference to the short-grain rice usually used in the dish.",
+                                    "In French-speaking West Africa, including Beninese, Burkinabé, Guinean, Guinea-Bissauan, Ivorian, Nigerien, and Togolese cuisines, there is a variant called riz gras or riz au gras, which translates to \"fat rice\", a reference to the short-grain rice usually used in the dish.",
+                                    "In Senegal, oral histories credit Penda Mbaye, a cook at the residence of one of the colonial rulers in Saint-Louis, Senegal, as having created the dish when she ran out of barley and substituted rice.",
+                                    "Jollof rice is one of the most common dishes in West Africa."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

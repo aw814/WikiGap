@@ -1,0 +1,842 @@
+{
+    "Oolong": {
+        "languages": {
+            "ru": {
+                "headers": {
+                    "органолептическая характеристика": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "органолептическая характеристика",
+                                    "translated": "Organoleptic characteristic"
+                                },
+                                "fact": {
+                                    "original": "Слабоферментированные улуны: самая слабая степень ферментации у тайваньского Вэнь Шань Бао Чжуна.",
+                                    "translated": "Lightly fermented oolongs: the weakest degree of fermentation is found in Taiwanese Wen Shan Bao Zhong.",
+                                    "fact_aligned_sentence": "Слабоферментированные улуны: самая слабая степень ферментации у тайваньского Вэнь Шань Бао Чжуна.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D1%83%D0%BD"
+                                },
+                                "src_context": [
+                                    "Богатое содержание витаминов в чае Улун способствует укреплению волокнистых тканей стенок кровеносных сосудов.",
+                                    "Богатое содержание витаминов в чае Улун предотвращает тромбофлебит.",
+                                    "Слабоферментированные улуны: самая слабая степень ферментации у тайваньского Вэнь Шань Бао Чжуна."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Oolong contains caffeine, although the caffeine content in tea will vary based on terroir, when the leaf is plucked, and the production processes.",
+                                    "Some semi-oxidized oolong teas contain acylated flavonoid tetraglycosides, named teaghrelins due to their ability to bind to ghrelin receptors.",
+                                    "It is grown at an elevation above 1,600 m (5,200 ft), with Dayuling, and Fushou being the well known regions and teas along Lishan.",
+                                    "Baozhong: the least oxidized of the oolong teas from Taiwan, with unrolled leaves of a light green to brown color."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "органолептическая характеристика",
+                                    "translated": "Organoleptic characteristic"
+                                },
+                                "fact": {
+                                    "original": "В некоторых сортах чая есть черенок — Те Гуань Инь.",
+                                    "translated": "Some varieties of tea have a stem — Tie Guan Yin.",
+                                    "fact_aligned_sentence": "Листья цельные, в некоторых сортах есть черенок — Те Гуань Инь; видно прожилки.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D1%83%D0%BD"
+                                },
+                                "src_context": [
+                                    "Такой чай обычно занимает весь объём посуды.",
+                                    "Листья чая цельные.",
+                                    "В некоторых сортах чая есть черенок — Те Гуань Инь."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The Chinese term wulong (oolong) was first used to describe a tea in the 1857 text Miscellaneous Notes on Fujian by Shi Hongbao.",
+                                    "In Taiwan, oolong teas are also known as qingcha (Chinese: 青茶; pinyin: qīngchá; Pe̍h-ōe-jī: chhen-tê) or \"dark green teas\" since early 2000.",
+                                    "The most famous and expensive oolong teas are made here, and the production is still usually accredited as being organic.",
+                                    "Some of the better known cliff teas are:"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "органолептическая характеристика",
+                                    "translated": "Organoleptic characteristic"
+                                },
+                                "fact": {
+                                    "original": "Аромат Дун Фан Мэй Женя яркий медовый, с оттенками розы и ягод.",
+                                    "translated": "The aroma of Dun Fang Mei Ren is bright honeyed, with hints of rose and berries.",
+                                    "fact_aligned_sentence": "Аромат — яркий медовый, оттенки розы, ягод, по вкусу очень напоминает красный чай.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D1%83%D0%BD"
+                                },
+                                "src_context": [
+                                    "В листьях Дун Фан Мэй Женя встречаются почки, покрытые белым ворсом.",
+                                    "Сырьё Дун Фан Мэй Женя неоднородное.",
+                                    "Аромат Дун Фан Мэй Женя яркий медовый, с оттенками розы и ягод."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "This is a tightly rolled tea with a light, distinctive fragrance.",
+                                    "This is a tightly rolled tea with a light, distinctive fragrance.",
+                                    "Different styles of oolong tea can vary widely in flavor.",
+                                    "Different styles of oolong tea can vary widely in flavor."
+                                ]
+                            }
+                        ]
+                    },
+                    "описание": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "описание",
+                                    "translated": "description"
+                                },
+                                "fact": {
+                                    "original": "Слабоферментированные улуны делаются из полностью развившихся мясистых листьев.",
+                                    "translated": "Lightly fermented oolongs are made from fully developed fleshy leaves.",
+                                    "fact_aligned_sentence": "Делаются из полностью развившихся мясистых листьев.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D1%83%D0%BD"
+                                },
+                                "src_context": [
+                                    "Лучшие представители слабоферментированных улунов: Те Гуань Инь — самый популярный и известный сорт, южная Фуцзянь.",
+                                    "Другие лучшие представители слабоферментированных улунов: Дун Дин, Цуй Юй, Алишань, Шань Линь Си — Тайвань.",
+                                    "Слабоферментированные улуны делаются из полностью развившихся мясистых листьев."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Some semi-oxidized oolong teas contain acylated flavonoid tetraglycosides, named teaghrelins due to their ability to bind to ghrelin receptors.",
+                                    "Some semi-oxidized oolong teas contain acylated flavonoid tetraglycosides, named teaghrelins due to their ability to bind to ghrelin receptors.",
+                                    "Some are rolled into long curly leaves, while others are \"wrap-curled\" into small beads, each with a tail.",
+                                    "Some are rolled into long curly leaves, while others are \"wrap-curled\" into small beads, each with a tail."
+                                ]
+                            }
+                        ]
+                    },
+                    "заваривание": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "заваривание",
+                                    "translated": "brewing"
+                                },
+                                "fact": {
+                                    "original": "Более ферментированные улуны требуют немного большего времени заваривания.",
+                                    "translated": "More fermented oolongs require a little more brewing time.",
+                                    "fact_aligned_sentence": "Более ферментированные требуют немного большего времени заваривания, и могут завариваться при температуре до 90 °C.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D1%83%D0%BD"
+                                },
+                                "src_context": [
+                                    "Менее ферментированные улуны заваривают не слишком горячей водой 60—80 °C.",
+                                    "Время заваривания менее ферментированных улунов до 3 минут.",
+                                    "Более ферментированные улуны требуют немного большего времени заваривания."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "There is only a short period during the growing season when the sun is strong, which results in a sweeter and less astringent brew.",
+                                    "There is only a short period during the growing season when the sun is strong, which results in a sweeter and less astringent brew.",
+                                    "It is grown at an elevation of 1,000 to 1,400 m (3,300 to 4,600 ft).",
+                                    "There is only a short period during the growing season when the sun is strong, which results in a sweeter and less astringent brew."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "заваривание",
+                                    "translated": "brewing"
+                                },
+                                "fact": {
+                                    "original": "Время заваривания менее ферментированных улунов до 3 минут.",
+                                    "translated": "Brewing time for less fermented oolongs is up to 3 minutes.",
+                                    "fact_aligned_sentence": "Менее ферментированные улуны заваривают не слишком горячей водой 60—80 °C, время заваривания до 3 минут.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D1%83%D0%BD"
+                                },
+                                "src_context": [
+                                    "Улуны заваривают по-разному, в зависимости от степени ферментации.",
+                                    "Менее ферментированные улуны заваривают не слишком горячей водой 60—80 °C.",
+                                    "Время заваривания менее ферментированных улунов до 3 минут."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Such vessels are used in the gongfu method of tea preparation, which involves multiple short steepings.",
+                                    "For a single infusion, 1- to 5-minute steepings are recommended, depending on personal preference.",
+                                    "There is only a short period during the growing season when the sun is strong, which results in a sweeter and less astringent brew.",
+                                    "There is only a short period during the growing season when the sun is strong, which results in a sweeter and less astringent brew."
+                                ]
+                            }
+                        ]
+                    },
+                    "известные сорта": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "известные сорта",
+                                    "translated": "Famous varieties"
+                                },
+                                "fact": {
+                                    "original": "Вкус Да Хун Пао полный, насыщенный, бодрящий, с яркими обертонами вкусовых оттенков.",
+                                    "translated": "The taste of Da Hong Pao is full, rich, invigorating, with bright overtones of flavor nuances.",
+                                    "fact_aligned_sentence": "Вкус полный, насыщенный, бодрящий, с яркими обертонами вкусовых оттенков.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D1%83%D0%BD"
+                                },
+                                "src_context": [
+                                    "Цвет настоя Да Хун Пао золотисто-коричневатый.",
+                                    "Аромат сухого листа Да Хун Пао пряный, сладко-древесный, шоколадный.",
+                                    "Вкус Да Хун Пао полный, насыщенный, бодрящий, с яркими обертонами вкусовых оттенков."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Dongfang meiren (\"Oriental Beauty\"): This type of tea exhibits very potent aromatics because of increased levels of terpenes.",
+                                    "Dongfang meiren (\"Oriental Beauty\"): This type of tea exhibits very potent aromatics because of increased levels of terpenes.",
+                                    "Oolong teas share some characteristics with both green and black teas – they have light flavour notes but are often more complex in taste than green teas, and not as strong as black teas.",
+                                    "Oolong teas share some characteristics with both green and black teas – they have light flavour notes but are often more complex in taste than green teas, and not as strong as black teas."
+                                ]
+                            }
+                        ]
+                    },
+                    "General description": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "История таких чаёв насчитывает около 300—400 лет.",
+                                    "translated": "The history of such teas spans about 300-400 years.",
+                                    "fact_aligned_sentence": "История таких чаёв насчитывает около 300—400 лет.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D1%83%D0%BD"
+                                },
+                                "src_context": [
+                                    "Поэтому считается, что «улун» сочетает в себе свойства как зелёного — яркий аромат, так и красного — насыщенный вкус.",
+                                    "Различают два подвида — ближе к зелёным (степень ферментации меньше) и ближе к красным чаям (степень ферментации больше).",
+                                    "История таких чаёв насчитывает около 300—400 лет."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Alishan oolong: Grown in the Alishan area of Chiayi County, this tea has large rolled leaves that have a purple-green appearance when dry.",
+                                    "It is grown at an elevation of 1,000 to 1,400 m (3,300 to 4,600 ft).",
+                                    "Dongfang meiren (\"Oriental Beauty\"): This type of tea exhibits very potent aromatics because of increased levels of terpenes.",
+                                    "Dongfang meiren (\"Oriental Beauty\"): This type of tea exhibits very potent aromatics because of increased levels of terpenes."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "General description",
+                                    "translated": null
+                                },
+                                "fact": {
+                                    "original": "При его обработке ферментацию не доводят до конца: ей подвергается не весь лист, а лишь его края и часть поверхности.",
+                                    "translated": "During its processing, fermentation is not carried to completion: only the edges and part of the surface of the leaf are subjected to it.",
+                                    "fact_aligned_sentence": "При его обработке ферментацию не доводят до конца: ей подвергается не весь лист, а лишь его края и часть поверхности.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D1%83%D0%BD"
+                                },
+                                "src_context": [
+                                    "По китайской классификации улун занимает промежуточное положение между жёлтым и красным чаем.",
+                                    "По классификации по степени ферментации ферментируется на 50 % (в лучшем случае).",
+                                    "При его обработке ферментацию не доводят до конца: ей подвергается не весь лист, а лишь его края и часть поверхности."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "For a single infusion, 1- to 5-minute steepings are recommended, depending on personal preference.",
+                                    "The recommended water temperature ranges from 80–95 °C (180–205 °F).",
+                                    "Such vessels are used in the gongfu method of tea preparation, which involves multiple short steepings.",
+                                    "For a single infusion, 1- to 5-minute steepings are recommended, depending on personal preference."
+                                ]
+                            }
+                        ]
+                    },
+                    "технология изготовления": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "технология изготовления",
+                                    "translated": "manufacturing technology"
+                                },
+                                "fact": {
+                                    "original": "Листовые прожилки и некоторые части листа в середине настоящего улуна зелёные.",
+                                    "translated": "The leaf veins and some parts of the leaf in the middle of this oolong are green.",
+                                    "fact_aligned_sentence": "Характерные особенности технологии обработки улунов дают возможность достаточно легко определять подлинность чая — настоящий улун цельнолистовой, в нём нет ломаных листьев, крошки, пыли, а его листья, разворачивающиеся в процессе заваривания, имеют характерный вид: края тёмные, как у листа чёрного чая, а листовые прожилки и некоторые части листа в середине зелёные, сохранившие свою структуру и прочность.",
+                                    "wiki_link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D1%83%D0%BD"
+                                },
+                                "src_context": [
+                                    "Листья настоящего улуна, разворачивающиеся в процессе заваривания, имеют характерный вид.",
+                                    "Края листьев настоящего улуна тёмные, как у листа чёрного чая.",
+                                    "Листовые прожилки и некоторые части листа в середине настоящего улуна зелёные."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Different varieties of oolong are processed differently, but the leaves are usually formed into one of two distinct styles.",
+                                    "Some are rolled into long curly leaves, while others are \"wrap-curled\" into small beads, each with a tail.",
+                                    "Some are rolled into long curly leaves, while others are \"wrap-curled\" into small beads, each with a tail.",
+                                    "Some are rolled into long curly leaves, while others are \"wrap-curled\" into small beads, each with a tail."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "fr": {
+                "headers": {
+                    "types de thés oolong": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "chine",
+                                    "translated": "China"
+                                },
+                                "header_1": {
+                                    "original": "types de thés oolong",
+                                    "translated": "Types of Oolong teas"
+                                },
+                                "fact": {
+                                    "original": "Le thé Tieguanyin peut être infusé plusieurs fois, chaque infusion révélant des saveurs différentes.",
+                                    "translated": "Tieguanyin tea can be steeped multiple times, with each infusion revealing different flavors.",
+                                    "fact_aligned_sentence": "Tieguanyin (铁观音).",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Th%C3%A9_Oolong"
+                                },
+                                "src_context": [
+                                    "Le Tieguanyin est connu pour son goût floral et son arôme complexe.",
+                                    "Il existe plusieurs variétés de Tieguanyin, certaines plus oxydées que d'autres.",
+                                    "Le thé Tieguanyin peut être infusé plusieurs fois, chaque infusion révélant des saveurs différentes."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Tieguanyin: Muzha Tea Co. brought the tea from Anxi County and developed Taiwan's own variation of the popular tea on the hills of Muzha area near Taipei.",
+                                    "Tieguanyin: Muzha Tea Co. brought the tea from Anxi County and developed Taiwan's own variation of the popular tea on the hills of Muzha area near Taipei."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "taïwan",
+                                    "translated": "Taiwan"
+                                },
+                                "header_1": {
+                                    "original": "types de thés oolong",
+                                    "translated": "Types of Oolong teas"
+                                },
+                                "fact": {
+                                    "original": "AliShan (阿里山) est une chaîne de montagnes située à Taïwan.",
+                                    "translated": "AliShan (阿里山) is a mountain range located in Taiwan.",
+                                    "fact_aligned_sentence": "AliShan (阿里山)",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Th%C3%A9_Oolong"
+                                },
+                                "src_context": [
+                                    "Dongding (凍頂) est cultivé notamment à Lugu (鹿谷).",
+                                    "Baihao (白毫) est aussi appelé Oriental Beauty (東方美人).",
+                                    "AliShan (阿里山) est une chaîne de montagnes située à Taïwan."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Alishan oolong: Grown in the Alishan area of Chiayi County, this tea has large rolled leaves that have a purple-green appearance when dry."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "chine",
+                                    "translated": "China"
+                                },
+                                "header_1": {
+                                    "original": "types de thés oolong",
+                                    "translated": "Types of Oolong teas"
+                                },
+                                "fact": {
+                                    "original": "Fenghuang Dancong peut avoir des notes florales, fruitées ou miellées.",
+                                    "translated": "Fenghuang Dancong can have floral, fruity, or honeyed notes.",
+                                    "fact_aligned_sentence": "Fenghuang Dancong (风凰单枞).",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Th%C3%A9_Oolong"
+                                },
+                                "src_context": [
+                                    "Fenghuang Dancong est produit à partir de feuilles de théier semi-sauvages.",
+                                    "Fenghuang Dancong est souvent récolté à la main.",
+                                    "Fenghuang Dancong peut avoir des notes florales, fruitées ou miellées."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "They are noted for their ability to naturally imitate the flavors and fragrances of various flowers and fruits, such as orange blossom, orchid, grapefruit, almond, ginger flower, etc.",
+                                    "They are noted for their ability to naturally imitate the flavors and fragrances of various flowers and fruits, such as orange blossom, orchid, grapefruit, almond, ginger flower, etc.",
+                                    "They are noted for their ability to naturally imitate the flavors and fragrances of various flowers and fruits, such as orange blossom, orchid, grapefruit, almond, ginger flower, etc.",
+                                    "They are noted for their ability to naturally imitate the flavors and fragrances of various flowers and fruits, such as orange blossom, orchid, grapefruit, almond, ginger flower, etc."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "taïwan",
+                                    "translated": "Taiwan"
+                                },
+                                "header_1": {
+                                    "original": "types de thés oolong",
+                                    "translated": "Types of Oolong teas"
+                                },
+                                "fact": {
+                                    "original": "Lishan (梨山) est cultivé à une altitude supérieure à 2 200 mètres.",
+                                    "translated": "Lishan (梨山) is cultivated at an altitude of over 2,200 meters.",
+                                    "fact_aligned_sentence": "Lishan (梨山) : cultivé à une altitude supérieure à 2 200 mètres",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Th%C3%A9_Oolong"
+                                },
+                                "src_context": [
+                                    "AliShan est traversée par une ligne de chemin de fer historique.",
+                                    "AliShan est un lieu sacré pour les peuples indigènes Tsou.",
+                                    "Lishan (梨山) est cultivé à une altitude supérieure à 2 200 mètres."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Grown near Lishan mountain in the north-central region of Taiwan, this tea is very similar in appearance to Alishan teas."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "faiblement oxydés",
+                                    "translated": "weakly oxidized"
+                                },
+                                "header_1": {
+                                    "original": "types de thés oolong",
+                                    "translated": "Types of Oolong teas"
+                                },
+                                "fact": {
+                                    "original": "Thés faiblement oxydés, entre 10 et 30 %",
+                                    "translated": "Lightly oxidized teas, between 10 and 30%",
+                                    "fact_aligned_sentence": "Thés faiblement oxydés , entre 10 et 30 %, fabriqués à partir de la méthode dite chinoise.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Th%C3%A9_Oolong"
+                                },
+                                "src_context": [
+                                    "Le passage du thé noir au Oolong assure une plus forte rentabilité.",
+                                    "On peut classer les thés Oolong en quatre familles.",
+                                    "Thés faiblement oxydés, entre 10 et 30 %"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The degree of oxidation, which is controlled by the length of time between picking and final drying, can range from 8% to 85% depending on the variety and production style."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "vieux oolong torréfiés à de multiples reprises",
+                                    "translated": "old oolong roasted on multiple times"
+                                },
+                                "header_1": {
+                                    "original": "types de thés oolong",
+                                    "translated": "Types of Oolong teas"
+                                },
+                                "fact": {
+                                    "original": "Cette famille de thés risque de disparaître dans les années à venir.",
+                                    "translated": "This family of teas is at risk of disappearing in the coming years.",
+                                    "fact_aligned_sentence": "Cette famille de thés risque de disparaître dans les années à venir, car la demande à Taïwan en thés Oolong augmente, réduisant les stocks de surplus, et les prix de vieux Oolong étant relativement bas, les producteurs ont peu d'intérêt à conserver et traiter de nombreuses années ces thés[réf.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Th%C3%A9_Oolong"
+                                },
+                                "src_context": [
+                                    "Après 20 à 25 ans de vieillissement, des notes minérales apparaissent.",
+                                    "Les notes minérales des thés vieux de 20 à 25 ans sont similaires à celles des vieux pu-erh.",
+                                    "Cette famille de thés risque de disparaître dans les années à venir."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "For a single infusion, 1- to 5-minute steepings are recommended, depending on personal preference.",
+                                    "The recommended water temperature ranges from 80–95 °C (180–205 °F).",
+                                    "Oolong contains caffeine, although the caffeine content in tea will vary based on terroir, when the leaf is plucked, and the production processes.",
+                                    "Oolong contains caffeine, although the caffeine content in tea will vary based on terroir, when the leaf is plucked, and the production processes."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "taïwan",
+                                    "translated": "Taiwan"
+                                },
+                                "header_1": {
+                                    "original": "types de thés oolong",
+                                    "translated": "Types of Oolong teas"
+                                },
+                                "fact": {
+                                    "original": "Dayuling (大禹嶺) est cultivé à une altitude supérieure à 2 500 mètres.",
+                                    "translated": "Dayuling is grown at an altitude of over 2,500 meters.",
+                                    "fact_aligned_sentence": "Dayuling (大禹嶺) : cultivé à une altitude supérieure à 2 500 mètres",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Th%C3%A9_Oolong"
+                                },
+                                "src_context": [
+                                    "AliShan est un lieu sacré pour les peuples indigènes Tsou.",
+                                    "Lishan (梨山) est cultivé à une altitude supérieure à 2 200 mètres.",
+                                    "Dayuling (大禹嶺) est cultivé à une altitude supérieure à 2 500 mètres."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is grown at an elevation above 1,600 m (5,200 ft), with Dayuling, and Fushou being the well known regions and teas along Lishan."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": "taïwan",
+                                    "translated": "Taiwan"
+                                },
+                                "header_1": {
+                                    "original": "types de thés oolong",
+                                    "translated": "Types of Oolong teas"
+                                },
+                                "fact": {
+                                    "original": "Il est souvent utilisé pour produire du thé Oolong.",
+                                    "translated": "It is often used to produce Oolong tea.",
+                                    "fact_aligned_sentence": "Jin Xuan (金萱)",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Th%C3%A9_Oolong"
+                                },
+                                "src_context": [
+                                    "Il a été créé par le Tea Research and Extension Station (TRES).",
+                                    "Jin Xuan est apprécié pour son goût crémeux et doux.",
+                                    "Il est souvent utilisé pour produire du thé Oolong."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "In Taiwan, oolong teas are also known as qingcha (Chinese: 青茶; pinyin: qīngchá; Pe̍h-ōe-jī: chhen-tê) or \"dark green teas\" since early 2000.",
+                                    "The term \"blue tea\" (French: thé bleu) in French is used to refer to oolong tea.",
+                                    "Oolong (UK: , US: ; simplified Chinese: 乌龙茶; traditional Chinese: 烏龍茶; pinyin: wūlóngchá; Pe̍h-ōe-jī: o͘-liông tê, \"black dragon\" tea) is a traditional semi-oxidized Chinese tea (Camellia sinensis) produced through a process that includes withering the leaves under strong sun and allowing some oxidation to occur before curling and twisting."
+                                ]
+                            }
+                        ]
+                    },
+                    "histoire": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "exportation du oolong",
+                                    "translated": "exportation of Oolong"
+                                },
+                                "header_1": {
+                                    "original": "histoire",
+                                    "translated": "history"
+                                },
+                                "fact": {
+                                    "original": "Le thé Oolong fut introduit en Europe au XVIIIe siècle par des marchands britanniques.",
+                                    "translated": "Oolong tea was introduced to Europe by British merchants in the 18th century.",
+                                    "fact_aligned_sentence": "La première exportation de Oolong en Europe se fait au XVIIIe siècle, où des marchands britanniques en offrent à la reine Charlotte[5].",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Th%C3%A9_Oolong"
+                                },
+                                "src_context": [
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                   "The term \"blue tea\" (French: thé bleu) in French is used to refer to oolong tea."
+                                ]
+                            }
+                        ]
+                    },
+                    "fabrication": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "fabrication",
+                                    "translated": "manufacturing"
+                                },
+                                "fact": {
+                                    "original": "Une fois roulées, les feuilles sont séchées à 100 °C pendant une vingtaine de minutes dans un dessiccateur ou des paniers à bambou.",
+                                    "translated": "Once rolled, the leaves are dried at 100 °C for about twenty minutes in a desiccator or bamboo baskets.",
+                                    "fact_aligned_sentence": "Une fois roulées, les feuilles sont séchées à 100 °C pendant une vingtaine de minutes dans un dessiccateur ou des paniers à bambou.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Th%C3%A9_Oolong"
+                                },
+                                "src_context": [
+                                    "Le sac de toile subit plus de quarante fois une pression entre deux plateaux.",
+                                    "Diverses méthodes de roulage de feuille.",
+                                    "Une fois roulées, les feuilles sont séchées à 100 °C pendant une vingtaine de minutes dans un dessiccateur ou des paniers à bambou."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "For a single infusion, 1- to 5-minute steepings are recommended, depending on personal preference.",
+                                    "The recommended water temperature ranges from 80–95 °C (180–205 °F).",
+                                    "Such vessels are used in the gongfu method of tea preparation, which involves multiple short steepings.",
+                                    "For a single infusion, 1- to 5-minute steepings are recommended, depending on personal preference."
+                                ]
+                            }
+                        ]
+                    },
+                    "régions productrices": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "régions productrices",
+                                    "translated": "Producing regions"
+                                },
+                                "fact": {
+                                    "original": "À Taïwan, la quasi-totalité de la production de thé est sous forme de Oolong.",
+                                    "translated": "In Taiwan, almost all of the tea production is in the form of Oolong.",
+                                    "fact_aligned_sentence": "À Taïwan, la quasi-totalité de la production de thé est sous forme de Oolong.",
+                                    "wiki_link": "https://fr.wikipedia.org/wiki/Th%C3%A9_Oolong"
+                                },
+                                "src_context": [
+                                    "Les monts Wuyi, situés dans le Fujian, produisent aussi des thés fumés.",
+                                    "Le district de Anxi, situé dans le Fujian, est spécialisé dans les Tieguanyin.",
+                                    "À Taïwan, la quasi-totalité de la production de thé est sous forme de Oolong."
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "It is grown at an elevation above 1,600 m (5,200 ft), with Dayuling, and Fushou being the well known regions and teas along Lishan.",
+                                    "Baozhong: the least oxidized of the oolong teas from Taiwan, with unrolled leaves of a light green to brown color."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "zh": {
+                "headers": {
+                    "品種": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "品種",
+                                    "translated": "variety"
+                                },
+                                "fact": {
+                                    "original": "这株茶树于是被单株采收、单株制作。",
+                                    "translated": "This tea tree was therefore harvested and processed individually.",
+                                    "fact_aligned_sentence": "凤凰单丛:又称凤凰单枞或凤凰茶,凤凰山位于广东省潮安县北部山区的凤凰镇,风凰茶因山而得名。一株茶树,经过茶农几代人的培育之后,被确认为有独特优异香味,这株茶树于是被单株采收、单株制作,那么,这株茶树就称为单丛茶树,所采制的茶叶就称为单丛茶,而凤凰单丛则是这众多优异单丛的总称。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%B9%8C%E9%BE%99%E8%8C%B6"
+                                },
+                                "src_context": [
+                                    "凤凰茶因山而得名。",
+                                    "一株茶树经过茶农几代人的培育之后，被确认为有独特优异香味。",
+                                    "这株茶树于是被单株采收、单株制作。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Teaghrelins were isolated from Chin-shin oolong tea and Shy‐jih‐chuen oolong tea and recently from other oolong tea varieties.",
+                                    "Teaghrelins were isolated from Chin-shin oolong tea and Shy‐jih‐chuen oolong tea and recently from other oolong tea varieties.",
+                                    "Teaghrelins were isolated from Chin-shin oolong tea and Shy‐jih‐chuen oolong tea and recently from other oolong tea varieties."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "品種",
+                                    "translated": "variety"
+                                },
+                                "fact": {
+                                    "original": "凍頂烏龍茶是一种茶。",
+                                    "translated": "Dong Ding Oolong tea is a type of tea.",
+                                    "fact_aligned_sentence": "按茶种可分为大红袍、铁观音、凍頂烏龍茶、东方美人、水仙茶、本山、肉桂等:",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%B9%8C%E9%BE%99%E8%8C%B6"
+                                },
+                                "src_context": [
+                                    "大红袍是一种茶。",
+                                    "铁观音是一种茶。",
+                                    "凍頂烏龍茶是一种茶。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Named after the mountain in Nantou County, Central Taiwan, where it is grown."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "品種",
+                                    "translated": "variety"
+                                },
+                                "fact": {
+                                    "original": "乌龙茶按产地不同，可分为闽北乌龙茶。",
+                                    "translated": "Oolong tea can be classified into different types based on its origin, including Minbei Oolong tea.",
+                                    "fact_aligned_sentence": "乌龙茶按产地不同,可分为闽南乌龙茶、闽北乌龙茶、潮州乌龙茶和台湾乌龙茶。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%B9%8C%E9%BE%99%E8%8C%B6"
+                                },
+                                "src_context": [
+                                    "烏龍茶還有經常在廣告中出現的白毫烏龍茶。",
+                                    "乌龙茶按产地不同，可分为闽南乌龙茶。",
+                                    "乌龙茶按产地不同，可分为闽北乌龙茶。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Some semi-oxidized oolong teas contain acylated flavonoid tetraglycosides, named teaghrelins due to their ability to bind to ghrelin receptors."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "品種",
+                                    "translated": "variety"
+                                },
+                                "fact": {
+                                    "original": "東方美人的獨特風味來自於茶樹嫩芽經茶小綠葉蟬吸食後長成的茶芽",
+                                    "translated": "The unique flavor of Oriental Beauty comes from the tea buds that develop after being fed on by the small green leafhopper.",
+                                    "fact_aligned_sentence": "東方美人:又稱香檳烏龍、椪風茶。產於台灣新竹縣,19世紀時,英國大使獻給英國的維多利亞女王,女王為其獨特茶香驚嘆不已,又覺得其外觀鮮豔可愛,宛如絕色佳人,且產地又在東方的福爾摩莎,故稱它為“oriental beauty”。特徵是茶葉帶有花般的色彩,發酵度70%,有著紅茶般的風味及甜甜的蜂蜜味道。獨特的風味是來自於茶樹嫩芽經茶小綠葉蟬(浮塵子)吸食後長成之茶芽,經手工採摘一心二葉後再精製成。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%B9%8C%E9%BE%99%E8%8C%B6"
+                                },
+                                "src_context": [
+                                    "東方美人的發酵度為70%",
+                                    "東方美人有著紅茶般的風味及甜甜的蜂蜜味道",
+                                    "東方美人的獨特風味來自於茶樹嫩芽經茶小綠葉蟬吸食後長成的茶芽"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Tieguanyin: Muzha Tea Co. brought the tea from Anxi County and developed Taiwan's own variation of the popular tea on the hills of Muzha area near Taipei.",
+                                    "Tieguanyin: Muzha Tea Co. brought the tea from Anxi County and developed Taiwan's own variation of the popular tea on the hills of Muzha area near Taipei.",
+                                    "Includes varieties such as Alishan, Wu She, Li Shan and Yu Shan.",
+                                    "Tieguanyin: Muzha Tea Co. brought the tea from Anxi County and developed Taiwan's own variation of the popular tea on the hills of Muzha area near Taipei."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "品種",
+                                    "translated": "variety"
+                                },
+                                "fact": {
+                                    "original": "因此這種茶被稱為凍頂烏龍。",
+                                    "translated": "Dong Ding Oolong, made from Fujian tea cultivars transplanted to Taiwan’s Dong Ding Mountain, is a representative Taiwanese oolong that resembles Tie Guan Yin in semi-spherical form but with lower fermentation, yielding a bright amber liquor, a gentle taste, and a floral fragrance.",
+                                    "fact_aligned_sentence": "凍頂烏龍茶:福建的茶樹種移種到台灣的凍頂山上,故稱為凍頂烏龍,為台灣青茶的代表。外觀類似鐵觀音,呈半球狀,但發酵度較低,有著琥珀般明亮的茶色,溫和的味道及如花般的清香。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%B9%8C%E9%BE%99%E8%8C%B6"
+                                },
+                                "src_context": [
+                                    "凍頂烏龍茶的茶樹種源自福建。",
+                                    "這些茶樹種被移種到台灣的凍頂山上。",
+                                    "因此這種茶被稱為凍頂烏龍。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Dong Ding"
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "品種",
+                                    "translated": "variety"
+                                },
+                                "fact": {
+                                    "original": "安溪鐵觀音的味道因季節不同而有差異",
+                                    "translated": "The taste of Anxi Tieguanyin varies with the seasons.",
+                                    "fact_aligned_sentence": "安溪鐵觀音:產於福建省南部的安溪縣,由被稱為鐵觀音種的茶樹製成,又因外觀形狀如鐵觀音像般的渾厚美麗,故以之命名。有強烈的甘香氣味及淡淡的味道,茶色如杏仁般的優雅。年可產4次,味道因季節不同而有差異,其中秋茶最佳,春,夏,暑茶次之。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%B9%8C%E9%BE%99%E8%8C%B6"
+                                },
+                                "src_context": [
+                                    "安溪鐵觀音的茶色如杏仁般的優雅",
+                                    "安溪鐵觀音一年可產4次",
+                                    "安溪鐵觀音的味道因季節不同而有差異"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Tieguanyin (\"Iron Goddess of Mercy\"): one of the Ten Famous Chinese Teas."
+                                ]
+                            },
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "品種",
+                                    "translated": "variety"
+                                },
+                                "fact": {
+                                    "original": "龍鬚茶的茶束直立。",
+                                    "translated": "The tea bundle of dragon beard tea stands upright.",
+                                    "fact_aligned_sentence": "龍鬚茶:同產於福建省北部的武夷山,又稱“束茶”。是用彩色絲線將條形茶葉捆紮成一束的茶束,因其像神話中的“龍鬚”而得名。早於清朝初年既有龍鬚茶之名,其品質表現為輕發酵茶。條形壯直墨綠,茶束直立,上好的龍鬚茶帶有花香。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%B9%8C%E9%BE%99%E8%8C%B6"
+                                },
+                                "src_context": [
+                                    "龍鬚茶的品質表現為輕發酵茶。",
+                                    "龍鬚茶的條形壯直墨綠。",
+                                    "龍鬚茶的茶束直立。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Some semi-oxidized oolong teas contain acylated flavonoid tetraglycosides, named teaghrelins due to their ability to bind to ghrelin receptors.",
+                                    "Teaghrelins were isolated from Chin-shin oolong tea and Shy‐jih‐chuen oolong tea and recently from other oolong tea varieties.",
+                                    "Teaghrelins were isolated from Chin-shin oolong tea and Shy‐jih‐chuen oolong tea and recently from other oolong tea varieties.",
+                                    "Teaghrelins were isolated from Chin-shin oolong tea and Shy‐jih‐chuen oolong tea and recently from other oolong tea varieties."
+                                ]
+                            }
+                        ]
+                    },
+                    "概述": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": "台灣",
+                                    "translated": "Taiwan"
+                                },
+                                "header_1": {
+                                    "original": "概述",
+                                    "translated": "Overview"
+                                },
+                                "fact": {
+                                    "original": "台灣青茶類包括包種、鐵觀音及烏龍茶。",
+                                    "translated": "Taiwan's green tea varieties include Baozhong, Tieguanyin, and Oolong tea.",
+                                    "fact_aligned_sentence": "在台灣青茶類,包括:包種、鐵觀音及烏龍茶,其實都屬青茶製法,但按發酵程度及揉捻成型方式有所不同。台灣青茶的產地在台北、桃園、新竹、苗粟、宜蘭等地區,主要分為包種茶和烏龍茶,包種茶的發酵程度比較輕,有凍頂烏龍茶以及文山包種茶,而烏龍茶的發酵比較重,其中就包含了常見的鐵觀音,還有經常在廣告中出現的白毫烏龍茶。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%B9%8C%E9%BE%99%E8%8C%B6"
+                                },
+                                "src_context": [
+                                    "烏龍茶的製茶方法十分多元化。",
+                                    "烏龍茶除灌木外，甚至有部份使用小喬木種。",
+                                    "台灣青茶類包括包種、鐵觀音及烏龍茶。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "Tieguanyin (\"Iron Goddess of Mercy\"): one of the Ten Famous Chinese Teas.",
+                                    "Tieguanyin (\"Iron Goddess of Mercy\"): one of the Ten Famous Chinese Teas."
+                                ]
+                            }
+                        ]
+                    },
+                    "名称来源": {
+                        "entries": [
+                            {
+                                "header_2": {
+                                    "original": null,
+                                    "translated": null
+                                },
+                                "header_1": {
+                                    "original": "名称来源",
+                                    "translated": "Name source"
+                                },
+                                "fact": {
+                                    "original": "因人长得黑，人称乌龙。",
+                                    "translated": "Because the person is dark-skinned, they are called Wulong.",
+                                    "fact_aligned_sentence": "也有说最先发明乌龙茶制法之人名字叫苏龙(因人长得黑,人称乌龙),所以茶因此人而得名。",
+                                    "wiki_link": "https://zh.wikipedia.org/wiki/%E4%B9%8C%E9%BE%99%E8%8C%B6"
+                                },
+                                "src_context": [
+                                    "主人从此叫它乌龙茶。",
+                                    "有说最先发明乌龙茶制法之人名字叫苏龙。",
+                                    "因人长得黑，人称乌龙。"
+                                ],
+                                "tgt_fact_aligned_sentences": [
+                                    "The name oolong tea replaced the old title when loose tea came into fashion.",
+                                    "Since it was dark, long, and curly, it was called \"Black Dragon\" tea, leading to the Oolong name.",
+                                    "Since it was dark, long, and curly, it was called \"Black Dragon\" tea, leading to the Oolong name.",
+                                    "Since it was dark, long, and curly, it was called \"Black Dragon\" tea, leading to the Oolong name."
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
