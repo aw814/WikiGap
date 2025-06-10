@@ -19,7 +19,7 @@ logger = loguru.logger
 # 1) GLOBALS & CONFIG
 # ---------------------------
 BIO_SAVE_DIR = "/Users/anniewang/Desktop/WikiGap/data_pipeline/wiki_food"
-URL_ENDPOINT = "https://ubcnlpgpt4.openai.azure.com/"
+URL_ENDPOINT = ""
 LANG_CODE_MAPPING_HEADER = {
     "en": "en",
     "fr": "fr",
@@ -38,11 +38,7 @@ class BioFilenotFoundError(Exception):
     pass
 
 # Configure your Azure OpenAI client
-client = openai.AzureOpenAI(
-    api_key='5d830dce7597439091699136c45c675d',
-    api_version="2023-05-15",
-    azure_endpoint=URL_ENDPOINT
-)
+client = ""
 
 SRC_LANGUAGE_FILTER = 'en'  # The primary language to skip in final JSON if desired
 
