@@ -27,7 +27,19 @@ The system integrates:
 
 ## 🚀 Getting Started
 
-To run the full pipeline or use the extension locally, see [SETUP.md](./SETUP.md) for installation and usage instructions.
+### 🔍 How to Test the WikiGap Extension
+
+To test the extension, as our user study participants did:
+
+1. git clone https://github.com/aw814/WikiGap.git
+2. Zip the contents of the cloned directory (zip the files inside, not the folder itself).
+3. Load the extension in Chrome
+    - Open chrome://extensions/
+    - Toggle Developer mode (top-right corner)
+	- Click Load unpacked and select the unzipped directory
+	- Visit any of these English Wikipedia articles to see WikiGap in action: Peking Duck, Philippine Adobo, Paell, Injera, Wiener Schnitzel
+(These pages are backed by the sample dataset included with the repo.)
+
 
 ## 📄 Paper
 
