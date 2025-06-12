@@ -39,7 +39,7 @@ To test the extension, as our user study participants did:
 	- Visit any of these English Wikipedia articles to see WikiGap in action: Peking Duck, Philippine Adobo, Paell, Injera, Wiener Schnitzel
 (These pages are backed by the sample dataset included with the repo.)
 
-Certainly! Here’s the continuation in Markdown format, directly following the previous section, and answering the second question in a clear and structured way:
+
 
 ### How to Apply WikiGap to More Articles
 

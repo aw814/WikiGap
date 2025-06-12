@@ -56,7 +56,7 @@ def generate_quiz_questions(topic, facts_by_language):
     return response.choices[0].message.content.strip()
 
 def main():
-    folder_path = '/Users/anniewang/Desktop/infogap/scratch/ethics_annotation_save/wikigap_data/json/'
+    folder_path = 'data_pipeline/wikigap_data/json/'
     json_files = glob.glob(os.path.join(folder_path, 'Paella.json'))
 
     all_topics_facts = {}

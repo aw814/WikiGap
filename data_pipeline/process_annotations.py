@@ -18,7 +18,7 @@ logger = loguru.logger
 # ---------------------------
 # 1) GLOBALS & CONFIG
 # ---------------------------
-BIO_SAVE_DIR = "/Users/anniewang/Desktop/WikiGap/data_pipeline/wiki_food"
+BIO_SAVE_DIR = "data_pipeline/wiki_food"
 URL_ENDPOINT = ""
 LANG_CODE_MAPPING_HEADER = {
     "en": "en",
@@ -499,7 +499,7 @@ def main():
     """
     # Example placeholders
     TARGET_LANGUAGES = ['ru', 'fr', 'zh']
-    json_directory = "/Users/anniewang/Desktop/infogap/scratch/ethics_annotation_save/wikigap_data"
+    json_directory = "data_pipeline/wikigap_data"
     output_csv = "wikigap_data_temp.csv"
     target_names = {
         'fact',
@@ -587,7 +587,7 @@ def main():
         nested_json = df_to_nested_json(df_merged)
 
         # Save final JSON
-        output_json = f"/Users/anniewang/Desktop/WikiGap/json/{topic}.json"
+        output_json = f"json/{topic}.json"
         with open(output_json, "w", encoding="utf-8") as f:
             json.dump(nested_json, f, indent=4, ensure_ascii=False)
         print(f"JSON file saved successfully: {output_json}")
