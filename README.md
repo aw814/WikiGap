@@ -14,7 +14,7 @@ WikiGap is a browser extension that reveals factual asymmetries between English 
 - Increase cross‑lingual awareness and access  
 - Support multilingual knowledge equity  
 
-All fact‑extraction and comparison logic lives in the separate **InfoGap pipeline (WikiGap branch)**: <https://github.com/smfsamir/infogap>
+All fact‑extraction and comparison logic lives in the separate **InfoGap pipeline (WikiGap branch)**: <[https://github.com/smfsamir/infogap](https://github.com/smfsamir/infogap/tree/WikiGap)>
 
 This repo focuses exclusively on the **UI layer**—loading the pre‑computed JSON files and presenting knowledge gaps directly in the page.
 
