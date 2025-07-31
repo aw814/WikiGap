@@ -73,10 +73,8 @@ Place each final `{topic}.json` under:
 
 ```
 WikiGap/
-└─ data_pipeline/
-   └─ wikigap_data/
-      └─ json/
-         └─ {topic}.json
+└─ json/
+   └─ {topic}.json
 ```
 
 ### 3. Refresh the extension
